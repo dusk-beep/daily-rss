@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hacker News Yesterday</title>
+    <link>https://news.ycombinator.com/</link>
+    <description>Top Hacker News stories from yesterday (sorted by points)</description>
+    <item>
+      <title>Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s</title>
+      <link>https://news.ycombinator.com/item?id=48968606</link>
+      <description>2693 points • 306 comments • by section33&#xA;https://news.ycombinator.com/item?id=48968606</description>
+      <pubDate>Sun, 19 Jul 2026 14:41:16 +0000</pubDate>
+      <guid>48968606</guid>
+    </item>
+    <item>
+      <title>Qwen 3.8</title>
+      <link>https://twitter.com/Alibaba_Qwen/status/2078759124914098291</link>
+      <description>925 points • 655 comments • by nh43215rgb&#xA;https://news.ycombinator.com/item?id=48966120</description>
+      <pubDate>Sun, 19 Jul 2026 08:44:57 +0000</pubDate>
+      <guid>48966120</guid>
+    </item>
+    <item>
+      <title>Transcribe.cpp</title>
+      <link>https://workshop.cjpais.com/projects/transcribe-cpp</link>
+      <description>752 points • 158 comments • by sebjones&#xA;https://news.ycombinator.com/item?id=48963879</description>
+      <pubDate>Sun, 19 Jul 2026 00:38:26 +0000</pubDate>
+      <guid>48963879</guid>
+    </item>
+    <item>
+      <title>Claude Code uses Bun written in Rust now</title>
+      <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</link>
+      <description>584 points • 783 comments • by tosh&#xA;https://news.ycombinator.com/item?id=48966569</description>
+      <pubDate>Sun, 19 Jul 2026 10:03:23 +0000</pubDate>
+      <guid>48966569</guid>
+    </item>
+    <item>
+      <title>What I learned selling 2,500 MIDI recorders: Hardware is not so hard</title>
+      <link>https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</link>
+      <description>536 points • 243 comments • by chipweinberger&#xA;https://news.ycombinator.com/item?id=48966713</description>
+      <pubDate>Sun, 19 Jul 2026 10:34:58 +0000</pubDate>
+      <guid>48966713</guid>
+    </item>
+    <item>
+      <title>AI Mania Is Eviscerating Global Decision-Making</title>
+      <link>https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</link>
+      <description>421 points • 261 comments • by subset&#xA;https://news.ycombinator.com/item?id=48964185</description>
+      <pubDate>Sun, 19 Jul 2026 01:29:19 +0000</pubDate>
+      <guid>48964185</guid>
+    </item>
+    <item>
+      <title>OpenAI reduces Codex Model Context Size from 372k to 272k</title>
+      <link>https://github.com/openai/codex/pull/33972/files</link>
+      <description>360 points • 161 comments • by AmazingTurtle&#xA;https://news.ycombinator.com/item?id=48965850</description>
+      <pubDate>Sun, 19 Jul 2026 07:54:39 +0000</pubDate>
+      <guid>48965850</guid>
+    </item>
+    <item>
+      <title>AI advice made people less accurate but more confident – sudy</title>
+      <link>https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study</link>
+      <description>350 points • 202 comments • by rbanffy&#xA;https://news.ycombinator.com/item?id=48971738</description>
+      <pubDate>Sun, 19 Jul 2026 21:18:10 +0000</pubDate>
+      <guid>48971738</guid>
+    </item>
+    <item>
+      <title>Minecraft: Java Edition now uses SDL3</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</link>
+      <description>343 points • 240 comments • by ObviouslyFlamer&#xA;https://news.ycombinator.com/item?id=48967256</description>
+      <pubDate>Sun, 19 Jul 2026 11:48:18 +0000</pubDate>
+      <guid>48967256</guid>
+    </item>
+    <item>
+      <title>Better and Cheaper Than IPTV</title>
+      <link>https://github.com/stupside/castor</link>
+      <description>342 points • 104 comments • by xonery&#xA;https://news.ycombinator.com/item?id=48964015</description>
+      <pubDate>Sun, 19 Jul 2026 00:59:55 +0000</pubDate>
+      <guid>48964015</guid>
+    </item>
+  </channel>
+</rss>
