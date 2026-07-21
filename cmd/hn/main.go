@@ -140,6 +140,5 @@ func main() {
 	}
 
 	output := buf.String()
-
 	fmt.Print(output)
 }
