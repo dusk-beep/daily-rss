@@ -259,17 +259,6 @@
       <category>distributed</category>
     </item>
     <item>
-      <title>Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing</title>
-      <link>https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/</link>
-      <guid>https://lobste.rs/s/agkcmz</guid>
-      <author>ghacks.net via raymii</author>
-      <pubDate>Wed, 15 Jul 2026 10:36:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>windows</category>
-    </item>
-    <item>
       <title>I wrote an API client for my water-cooled bed</title>
       <link>https://tinkering.xyz/bedctl/</link>
       <guid>https://lobste.rs/s/op1k28</guid>
@@ -279,6 +268,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
       <category>zig</category>
+    </item>
+    <item>
+      <title>Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing</title>
+      <link>https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/</link>
+      <guid>https://lobste.rs/s/agkcmz</guid>
+      <author>ghacks.net via raymii</author>
+      <pubDate>Wed, 15 Jul 2026 10:36:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>windows</category>
     </item>
   </channel>
 </rss>
