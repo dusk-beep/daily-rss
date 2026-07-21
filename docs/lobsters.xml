@@ -5,60 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Mon, 13 Jul 2026 15:03:24 -0500</pubDate>
+    <pubDate>Thu, 16 Jul 2026 06:31:41 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>lobste.rs is now running on SQLite</title>
-      <link>https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite</link>
-      <guid>https://lobste.rs/s/ko1ji1</guid>
-      <author> by thomas0</author>
-      <pubDate>Mon, 13 Jul 2026 15:03:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite</comments>
-      <description>&lt;p&gt;This past Saturday, &lt;a href="https://lobste.rs/~pushcx" rel="ugc"&gt;@pushcx&lt;/a&gt; and I deployed the &lt;a href="https://github.com/lobsters/lobsters/pull/1927" rel="ugc"&gt;SQLite pull request&lt;/a&gt; to production.
-We were waiting till this morning to see how it would react to the Monday traffic spike before making this post.
-Needless to say, SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down, and finally &lt;a href="https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc?permalink_comment_id=6251610#gistcomment-6251610" rel="ugc"&gt;"We're having a quiet Monday."&lt;/a&gt;.
-Finally &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588" rel="ugc"&gt;#539 Migrate to SQLite&lt;/a&gt; was closed this morning.&lt;/p&gt;
-&lt;p&gt;Let us know if you have any questions about the migration.&lt;/p&gt;
-&lt;p&gt;Background Story:&lt;/p&gt;
-&lt;p&gt;I got involved with this migration because back in 2019 I stumbled upon &lt;a href="https://github.com/lobsters/lobsters/issues/539" rel="ugc"&gt;#539&lt;/a&gt; and because I had lots of experience working with, managing and migrating largish databases, I left a &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment-509041532" rel="ugc"&gt;comment&lt;/a&gt; suggesting MySQL as an alternative, because of the compatibility between MariaDB and MySQL. At that time I wasn't planning on getting involved since there were already conversations in place to migrate to PostgreSQL.&lt;/p&gt;
-&lt;p&gt;Fast forward to 2025, &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment-2604683262" rel="ugc"&gt;Rahul left a comment&lt;/a&gt; mentioning K1's acquisition of MariaDB. A discussion around the details of migrating to postgresql proceeded. Then in February, &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment-2640076884" rel="ugc"&gt;Rahul asked "Can lobsters run on sqlite?&lt;/a&gt; which included a very detailed post around SQLite.&lt;/p&gt;
-&lt;p&gt;I officially showed interest in taking on this project in &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment-2956952922" rel="ugc"&gt;June 2025&lt;/a&gt;. I think this somehow got mentioned in &lt;a href="https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours" rel="ugc"&gt;lobsters office hours&lt;/a&gt; but it has been so long since then that I don't rememeber for certain.&lt;/p&gt;
-&lt;p&gt;In &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment-3198784051" rel="ugc"&gt;August 2025&lt;/a&gt; I opened my &lt;a href="https://github.com/lobsters/lobsters/pull/1705" rel="ugc"&gt;first pull request attempt&lt;/a&gt; when I got busy and couldn't attend to the PR. Github closed it as stale and I couldn't reopen it so I opened another PR. The &lt;a href="https://github.com/lobsters/lobsters/pull/1871" rel="ugc"&gt;second PR attempt&lt;/a&gt; included some performance testing, a &lt;a href="https://github.com/lobsters/lobsters/blob/main/lib/tasks/migrate.rake" rel="ugc"&gt;database x to database y script&lt;/a&gt; (since none of the existing mariadb/mysql to sqlite scripts satisfied me), debugging and thinking around data integrity.&lt;/p&gt;
-&lt;p&gt;Then came the first deploy on Feb 21st. &lt;a href="https://lobste.rs/~pushcx" rel="ugc"&gt;@pushcx&lt;/a&gt; and I got on a call, came up with a &lt;a href="https://gist.github.com/pushcx/eb7cdf2dc9707dc3ab9e7173d197ddfc/a11e6d5865776f3bb4e1adbc56582a3b1f99878c" rel="ugc"&gt;checklist&lt;/a&gt; for the deployment. Everything went right up until the deployment of the PR. Once deployed the site was in readonly mode, but just the readonly traffic was spiking all the cpus to 100%. We couldn't figure out what the problem was so we decided to &lt;a href="https://github.com/lobsters/lobsters/pull/1924" rel="ugc"&gt;revert&lt;/a&gt;. I didn't feel great after that first failed deploy since I knew that performance could be a problem due to not having access to the production database.&lt;/p&gt;
-&lt;p&gt;Two days after the failed deploy I opened the &lt;a href="https://github.com/lobsters/lobsters/pull/1927" rel="ugc"&gt;3rd and final pr attempt&lt;/a&gt;. I fixed some &lt;a href="https://github.com/lobsters/lobsters/pull/1927/changes/e7630ffe5c0df9fc0a388db5b6b6e11eb4a4c407" rel="ugc"&gt;minor issues with search&lt;/a&gt; that were discovered during the failed deploy, created a &lt;a href="https://github.com/lobsters/lobsters/pull/1927/changes/c3c12e6f134c9d67c37c57a0390f9d3a2c9f26d8" rel="ugc"&gt;bulk data creation script&lt;/a&gt; which took a week to get half of lobsters' data set size created locally, and committed the three changes that fixed the performance issues during the first deploy: &lt;a href="https://github.com/lobsters/lobsters/pull/1927/changes/14a8c5f412cc23c887a5b809453596c02d8df6d1" rel="ugc"&gt;1&lt;/a&gt;, &lt;a href="https://github.com/lobsters/lobsters/pull/1927/changes/4dc58fc1d98ed393c4b447c71568bc0cb700896b" rel="ugc"&gt;2&lt;/a&gt;, &lt;a href="https://github.com/lobsters/lobsters/pull/1927/changes/4476ae3e50602b5e0d7805fef40fc94a81daaa39" rel="ugc"&gt;3&lt;/a&gt;. The performance issues boiled down to SQLite doing full table scans on the largest tables in the database for 2 of queries and the 3rd one solved an n+1 issue. During the morning of the second deployment, I also added a &lt;a href="https://github.com/lobsters/lobsters/pull/1927/changes/a62fc572c068f7df45ade8a5fad117dafc68cc00" rel="ugc"&gt;slow query log&lt;/a&gt; just in case there were more performance issues during the deployment.&lt;/p&gt;
-&lt;p&gt;Then came the second deploy on July 11th. &lt;a href="https://lobste.rs/~pushcx" rel="ugc"&gt;@pushcx&lt;/a&gt; and I got on a morning call and came up with a deployment and revert checklist. Everything was going smoothly and then &lt;a href="https://lobste.rs/~pushcx" rel="ugc"&gt;@pushcx&lt;/a&gt; merged and deployed the PR. Once deployed the site was still live and the cpu/memory usage was still good. This was a big relief for me. We monitored site metrics and irc for people mentioning issues, which a couple did and those were promptly fixed: &lt;a href="https://github.com/lobsters/lobsters/commit/1dd9d5e4d7ecc7f924a88c8792ec44f7c90d4691" rel="ugc"&gt;1&lt;/a&gt;, &lt;a href="https://github.com/lobsters/lobsters/commit/e88a07e1f121cbae772340c29e482399b1e92b75" rel="ugc"&gt;2&lt;/a&gt;. Overall the site seemed to work so we wrapped up the call and waited till Monday when the traffic spikes.&lt;/p&gt;
-&lt;p&gt;Monday came and the site is stil happy so we're calling this a win and moving on.&lt;/p&gt;
-&lt;p&gt;SQLite lessons:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The SQLite gem supports user defined functions (udfs) and we used it to implement some missing functions in SQLite like &lt;a href="https://github.com/lobsters/lobsters/blob/main/config/initializers/sqlite_functions.rb" rel="ugc"&gt;regexp, if and stddev&lt;/a&gt; so that we wouldn't have to deal with too many sql migration workarounds.&lt;/li&gt;
-&lt;li&gt;SQLite doesn't support unsigned bigints. Previously, the mariadb was using unsigned bigints for certain ids, so we had to switch those to bigints for the migration.&lt;/li&gt;
-&lt;li&gt;Collation in SQLite is rather weak compared to MariaDB. Lobste.rs used utf8mb4_general_ci in MariaDB, but used &lt;a href="https://www.sqlite.org/datatype3.html#collating_sequences" rel="ugc"&gt;NOCASE&lt;/a&gt; in SQLite. The downside of NOCASE is that it only supports ASCII characters, not the full UTF case folding.&lt;/li&gt;
-&lt;li&gt;Use the preferred &lt;a href="https://www.sqlite.org/fts5.html#contentless_delete_tables" rel="ugc"&gt;Contentless-Delete Tables in SQLite&lt;/a&gt; for your full text search tables. These are not the default. I'm constantly surprised by the default choices of SQLite.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Rails lessons:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The &lt;a href="https://github.com/rails/rails/blob/v8.0.5/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb#L84-L91" rel="ugc"&gt;default PRAGMAs in Rails&lt;/a&gt; seem to be working for lobsters.&lt;/li&gt;
-&lt;li&gt;You typically don't think about it but database migrations are database specific. I had to move the old migrations out to an &lt;a href="https://github.com/lobsters/lobsters/tree/main/db/old_migrations" rel="ugc"&gt;old migrations&lt;/a&gt; directory so that db:migrate would continue to work.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Lobsters codebase lessons:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;There is a &lt;a href="https://github.com/lobsters/lobsters/blob/main/app/models/search_parser.rb" rel="ugc"&gt;search parser&lt;/a&gt; in the lobsters codebase.&lt;/li&gt;
-&lt;li&gt;I learned about &lt;a href="https://github.com/lobsters/lobsters/blob/main/config/initializers/heinous_inline_partial.rb" rel="ugc"&gt;heinous_inline_partials&lt;/a&gt; which is a hack to speed up rendering.&lt;/li&gt;
-&lt;li&gt;The lobsters testsuite was essential in making sure I could migrate to SQLite without a ton of manual testing.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Overall lessons:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;I think a key ingredient in making this work was good communication from everyone that participated. I don't think this would have been possible otherwise.&lt;/li&gt;
-&lt;li&gt;Migrating the underlying database without having access to the production database is really hard to get right. This was my first underlying database migration without having access to production. One lesson I'll take away from this is that I'll make sure to have realistic dataset sizes before doing another underlying database migration in the future.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Wishes:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;I wish we could say in a test, "Fail if you encounter any full table scans". Which would have caught the perf issues we experienced during the first deploy.&lt;/li&gt;
-&lt;li&gt;I wish creating a production like dataset would be much easier than having to manually write something and waiting a week.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-      <category>meta</category>
-    </item>
     <item>
       <title>How Our Rust-to-Zig Rewrite is Going</title>
       <link>https://rtfeldman.com/rust-to-zig</link>
@@ -83,18 +31,6 @@ Finally &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Just Let Me Write Digits</title>
-      <link>https://gendignoux.com/blog/2026/07/13/input-digits.html</link>
-      <guid>https://lobste.rs/s/yf6vbc</guid>
-      <author>gendignoux.com by gendx</author>
-      <pubDate>Mon, 13 Jul 2026 11:01:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/yf6vbc/just_let_me_write_digits</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yf6vbc/just_let_me_write_digits"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>javascript</category>
-      <category>web</category>
-      <category>a11y</category>
-    </item>
-    <item>
       <title>SQLite should have (Rust-style) editions</title>
       <link>https://mort.coffee/home/sqlite-editions/</link>
       <guid>https://lobste.rs/s/2nry82</guid>
@@ -116,27 +52,6 @@ Finally &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment
       <category>graphics</category>
     </item>
     <item>
-      <title>Jurassic Park computers in excruciating detail</title>
-      <link>https://fabiensanglard.net/jurrasic_park_computers/index.html</link>
-      <guid>https://lobste.rs/s/xv8dix</guid>
-      <author>fabiensanglard.net via jbauer</author>
-      <pubDate>Tue, 14 Jul 2026 04:24:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>historical</category>
-    </item>
-    <item>
-      <title>Human Emacs</title>
-      <link>https://human-emacs.org/</link>
-      <guid>https://lobste.rs/s/t0aqzy</guid>
-      <author>human-emacs.org via tusharhero</author>
-      <pubDate>Mon, 13 Jul 2026 11:18:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/t0aqzy/human_emacs</comments>
-      <description>&lt;p&gt;LLM-generated contributions free (possible) fork of GNU Emacs.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/t0aqzy/human_emacs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>emacs</category>
-    </item>
-    <item>
       <title>What is your favorite blog to read recently?</title>
       <link>https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently</link>
       <guid>https://lobste.rs/s/69mche</guid>
@@ -147,6 +62,16 @@ Finally &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment
 </description>
       <category>programming</category>
       <category>ask</category>
+    </item>
+    <item>
+      <title>Jurassic Park computers in excruciating detail</title>
+      <link>https://fabiensanglard.net/jurrasic_park_computers/index.html</link>
+      <guid>https://lobste.rs/s/xv8dix</guid>
+      <author>fabiensanglard.net via jbauer</author>
+      <pubDate>Tue, 14 Jul 2026 04:24:36 -0500</pubDate>
+      <comments>https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>historical</category>
     </item>
     <item>
       <title>Forgejo v16.0 is available</title>
@@ -234,6 +159,16 @@ Finally &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment
       <category>vcs</category>
     </item>
     <item>
+      <title>Enterprise Haskell at H-E-B</title>
+      <link>https://blog.haskell.org/enterprise-haskell-at-h-e-b/</link>
+      <guid>https://lobste.rs/s/zar7fc</guid>
+      <author>blog.haskell.org via Hecate</author>
+      <pubDate>Fri, 17 Jul 2026 16:51:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>haskell</category>
+    </item>
+    <item>
       <title>We're Going to Make Out Like Bandits</title>
       <link>https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/</link>
       <guid>https://lobste.rs/s/idavhk</guid>
@@ -244,16 +179,6 @@ Finally &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment
       <category>practices</category>
       <category>culture</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Enterprise Haskell at H-E-B</title>
-      <link>https://blog.haskell.org/enterprise-haskell-at-h-e-b/</link>
-      <guid>https://lobste.rs/s/zar7fc</guid>
-      <author>blog.haskell.org via Hecate</author>
-      <pubDate>Fri, 17 Jul 2026 16:51:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>haskell</category>
     </item>
     <item>
       <title>Microsoft Comic Chat is now open source</title>
@@ -321,6 +246,39 @@ Finally &lt;a href="https://github.com/lobsters/lobsters/issues/539#issuecomment
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/latr8d/tower_keeps_rising"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Too many words about DIDs</title>
+      <link>https://steveklabnik.com/writing/too-many-words-about-dids/</link>
+      <guid>https://lobste.rs/s/86lwsv</guid>
+      <author>steveklabnik.com via icy</author>
+      <pubDate>Tue, 14 Jul 2026 11:35:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/86lwsv/too_many_words_about_dids</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/86lwsv/too_many_words_about_dids"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>distributed</category>
+    </item>
+    <item>
+      <title>Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing</title>
+      <link>https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/</link>
+      <guid>https://lobste.rs/s/agkcmz</guid>
+      <author>ghacks.net via raymii</author>
+      <pubDate>Wed, 15 Jul 2026 10:36:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>windows</category>
+    </item>
+    <item>
+      <title>I wrote an API client for my water-cooled bed</title>
+      <link>https://tinkering.xyz/bedctl/</link>
+      <guid>https://lobste.rs/s/op1k28</guid>
+      <author>tinkering.xyz by zmitchell</author>
+      <pubDate>Mon, 20 Jul 2026 02:04:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+      <category>zig</category>
     </item>
   </channel>
 </rss>
