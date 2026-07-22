@@ -64,16 +64,6 @@
       <category>ask</category>
     </item>
     <item>
-      <title>Jurassic Park computers in excruciating detail</title>
-      <link>https://fabiensanglard.net/jurrasic_park_computers/index.html</link>
-      <guid>https://lobste.rs/s/xv8dix</guid>
-      <author>fabiensanglard.net via jbauer</author>
-      <pubDate>Tue, 14 Jul 2026 04:24:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xv8dix/jurassic_park_computers_excruciating"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>historical</category>
-    </item>
-    <item>
       <title>Forgejo v16.0 is available</title>
       <link>https://forgejo.org/2026-07-release-v16-0/</link>
       <guid>https://lobste.rs/s/giyb8x</guid>
@@ -82,27 +72,6 @@
       <comments>https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
-      <category>vcs</category>
-    </item>
-    <item>
-      <title>You should probably check on your smart appliances</title>
-      <link>https://xeiaso.net/notes/2026/check-your-smart-tv/</link>
-      <guid>https://lobste.rs/s/slrak5</guid>
-      <author>xeiaso.net by cadey</author>
-      <pubDate>Tue, 14 Jul 2026 17:02:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>The git history command deserves more attention</title>
-      <link>https://lalitm.com/post/git-history/</link>
-      <guid>https://lobste.rs/s/tb3el5</guid>
-      <author>lalitm.com via gnyeki</author>
-      <pubDate>Mon, 13 Jul 2026 22:21:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/tb3el5/git_history_command_deserves_more</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tb3el5/git_history_command_deserves_more"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
     </item>
     <item>
@@ -126,27 +95,14 @@
       <category>freebsd</category>
     </item>
     <item>
-      <title>whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do</title>
-      <link>https://github.com/darrylmorley/whatcable</link>
-      <guid>https://lobste.rs/s/tzzarv</guid>
-      <author>github.com via fanf</author>
-      <pubDate>Tue, 14 Jul 2026 12:00:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tzzarv/whatcable_macos_menu_bar_app_tells_you"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-      <category>mac</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Hating AI in 2026</title>
-      <link>https://www.eamoncaddigan.net/posts/ai-in-2026/</link>
-      <guid>https://lobste.rs/s/el8ocy</guid>
-      <author>eamoncaddigan.net via mtset</author>
-      <pubDate>Tue, 14 Jul 2026 06:34:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/el8ocy/hating_ai_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/el8ocy/hating_ai_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>vibecoding</category>
+      <title>Human mathematicians are being outcounterexampled</title>
+      <link>https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</link>
+      <guid>https://lobste.rs/s/wfmpqr</guid>
+      <author>xenaproject.wordpress.com via sanxiyn</author>
+      <pubDate>Mon, 20 Jul 2026 17:16:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/wfmpqr/human_mathematicians_are_being</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfmpqr/human_mathematicians_are_being"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>math</category>
     </item>
     <item>
       <title>GitRoot</title>
@@ -181,6 +137,39 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>InvisiCaps: The Fil-C Capability Model</title>
+      <link>https://fil-c.org/invisicaps</link>
+      <guid>https://lobste.rs/s/kdflhr</guid>
+      <author>fil-c.org via kwas</author>
+      <pubDate>Mon, 20 Jul 2026 10:21:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>compilers</category>
+    </item>
+    <item>
+      <title>I wrote an API client for my water-cooled bed</title>
+      <link>https://tinkering.xyz/bedctl/</link>
+      <guid>https://lobste.rs/s/op1k28</guid>
+      <author>tinkering.xyz by zmitchell</author>
+      <pubDate>Mon, 20 Jul 2026 02:04:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+      <category>zig</category>
+    </item>
+    <item>
+      <title>95 reasons for having your own website</title>
+      <link>https://bellkiosk.website/blog/reasons-to-website.html</link>
+      <guid>https://lobste.rs/s/v3xuxn</guid>
+      <author>bellkiosk.website via thang</author>
+      <pubDate>Mon, 20 Jul 2026 22:02:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>philosophy</category>
+    </item>
+    <item>
       <title>Microsoft Comic Chat is now open source</title>
       <link>https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/</link>
       <guid>https://lobste.rs/s/qbvfll</guid>
@@ -192,26 +181,37 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>How I use HTMX with Go</title>
-      <link>https://www.alexedwards.net/blog/how-i-use-htmx-with-go</link>
-      <guid>https://lobste.rs/s/rg1wee</guid>
-      <author>alexedwards.net via cgrinds</author>
-      <pubDate>Tue, 14 Jul 2026 13:34:27 -0500</pubDate>
-      <comments>https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
-      <category>web</category>
+      <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
+      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
+      <guid>https://lobste.rs/s/twqtlo</guid>
+      <author>thorsell.io by GLaDER</author>
+      <pubDate>Tue, 21 Jul 2026 05:11:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>devops</category>
+      <category>vcs</category>
     </item>
     <item>
-      <title>The Memory Heist</title>
-      <link>https://ayush.digital/blog/the-memory-heist</link>
-      <guid>https://lobste.rs/s/lelroo</guid>
-      <author>ayush.digital via videah</author>
-      <pubDate>Tue, 14 Jul 2026 19:11:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/lelroo/memory_heist</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lelroo/memory_heist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>vibecoding</category>
+      <title>Goodbye, and thanks for all the Bikesheds</title>
+      <link>https://queue.acm.org/detail.cfm?id=3818307</link>
+      <guid>https://lobste.rs/s/hvuumu</guid>
+      <author>queue.acm.org via alethkit</author>
+      <pubDate>Sat, 18 Jul 2026 07:59:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Gitolite</title>
+      <link>https://gitolite.com/gitolite/index.html</link>
+      <guid>https://lobste.rs/s/21lrrw</guid>
+      <author>gitolite.com via matklad</author>
+      <pubDate>Mon, 20 Jul 2026 07:10:14 -0500</pubDate>
+      <comments>https://lobste.rs/s/21lrrw/gitolite</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/21lrrw/gitolite"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>vcs</category>
     </item>
     <item>
       <title>Reviewing AI Code Is Not A Viable Argument (2025)</title>
@@ -226,15 +226,15 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Goodbye, and thanks for all the Bikesheds</title>
-      <link>https://queue.acm.org/detail.cfm?id=3818307</link>
-      <guid>https://lobste.rs/s/hvuumu</guid>
-      <author>queue.acm.org via alethkit</author>
-      <pubDate>Sat, 18 Jul 2026 07:59:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>culture</category>
+      <title>Meta Garbage Collection: Using OCaml's GC to GC Rust</title>
+      <link>https://soteria-tools.com/blog/meta-garbage-collection</link>
+      <guid>https://lobste.rs/s/p3z0zw</guid>
+      <author>soteria-tools.com via annieversary</author>
+      <pubDate>Mon, 20 Jul 2026 08:58:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>ml</category>
     </item>
     <item>
       <title>The Tower Keeps Rising</title>
@@ -248,28 +248,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Too many words about DIDs</title>
-      <link>https://steveklabnik.com/writing/too-many-words-about-dids/</link>
-      <guid>https://lobste.rs/s/86lwsv</guid>
-      <author>steveklabnik.com via icy</author>
-      <pubDate>Tue, 14 Jul 2026 11:35:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/86lwsv/too_many_words_about_dids</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/86lwsv/too_many_words_about_dids"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>distributed</category>
-    </item>
-    <item>
-      <title>I wrote an API client for my water-cooled bed</title>
-      <link>https://tinkering.xyz/bedctl/</link>
-      <guid>https://lobste.rs/s/op1k28</guid>
-      <author>tinkering.xyz by zmitchell</author>
-      <pubDate>Mon, 20 Jul 2026 02:04:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-      <category>zig</category>
-    </item>
-    <item>
       <title>Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing</title>
       <link>https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/</link>
       <guid>https://lobste.rs/s/agkcmz</guid>
@@ -279,6 +257,31 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>windows</category>
+    </item>
+    <item>
+      <title>git --end-of-options</title>
+      <link>https://nesbitt.io/2026/07/21/end-of-options.html</link>
+      <guid>https://lobste.rs/s/cxz7vd</guid>
+      <author>nesbitt.io via robalex</author>
+      <pubDate>Tue, 21 Jul 2026 07:31:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/cxz7vd/git_end_options</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxz7vd/git_end_options"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>vcs</category>
+    </item>
+    <item>
+      <title>Linux kernel will support $ORIGIN, sort of</title>
+      <link>https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</link>
+      <guid>https://lobste.rs/s/msg39b</guid>
+      <author>fzakaria.com via ysun</author>
+      <pubDate>Tue, 21 Jul 2026 05:02:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort</comments>
+      <description>&lt;p&gt;HN discussions: &lt;a href="https://news.ycombinator.com/item?id=48988793" rel="ugc"&gt;https://news.ycombinator.com/item?id=48988793&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>linux</category>
+      <category>osdev</category>
+      <category>nix</category>
     </item>
   </channel>
 </rss>
