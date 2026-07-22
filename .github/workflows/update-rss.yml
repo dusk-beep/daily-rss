@@ -19,11 +19,11 @@ jobs:
         with:
           go-version: "1.26"
 
-      - run: mkdir -p docs
-
-      - run: go run cmd/lobster/main.go > docs/lobsters.xml
-
-      - run: go run cmd/hn/main.go > docs/hn.xml
+      - name: Generate RSS feeds
+        run: |
+          mkdir -p docs
+          go run ./cmd/lobster > docs/lobsters.xml
+          go run ./cmd/hn > docs/hn.xml
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
