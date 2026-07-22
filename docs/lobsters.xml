@@ -109,6 +109,16 @@
       <category>nix</category>
     </item>
     <item>
+      <title>GitRoot</title>
+      <link>https://gitroot.dev/</link>
+      <guid>https://lobste.rs/s/z01edy</guid>
+      <author>gitroot.dev via Hasnep</author>
+      <pubDate>Sat, 18 Jul 2026 02:52:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/z01edy/gitroot</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z01edy/gitroot"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
+    </item>
+    <item>
       <title>git --end-of-options</title>
       <link>https://nesbitt.io/2026/07/21/end-of-options.html</link>
       <guid>https://lobste.rs/s/cxz7vd</guid>
@@ -117,16 +127,6 @@
       <comments>https://lobste.rs/s/cxz7vd/git_end_options</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxz7vd/git_end_options"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-      <category>vcs</category>
-    </item>
-    <item>
-      <title>GitRoot</title>
-      <link>https://gitroot.dev/</link>
-      <guid>https://lobste.rs/s/z01edy</guid>
-      <author>gitroot.dev via Hasnep</author>
-      <pubDate>Sat, 18 Jul 2026 02:52:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/z01edy/gitroot</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z01edy/gitroot"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
     </item>
     <item>
@@ -141,14 +141,26 @@
       <category>philosophy</category>
     </item>
     <item>
-      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
-      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
-      <guid>https://lobste.rs/s/ny0yzm</guid>
-      <author>krebsonsecurity.com via raymii</author>
-      <pubDate>Wed, 22 Jul 2026 00:56:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>We're Going to Make Out Like Bandits</title>
+      <link>https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/</link>
+      <guid>https://lobste.rs/s/idavhk</guid>
+      <author>rocketpoweredjetpants.com via stig</author>
+      <pubDate>Thu, 16 Jul 2026 13:38:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>culture</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Enterprise Haskell at H-E-B</title>
+      <link>https://blog.haskell.org/enterprise-haskell-at-h-e-b/</link>
+      <guid>https://lobste.rs/s/zar7fc</guid>
+      <author>blog.haskell.org via Hecate</author>
+      <pubDate>Fri, 17 Jul 2026 16:51:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>haskell</category>
     </item>
     <item>
       <title>InvisiCaps: The Fil-C Capability Model</title>
@@ -162,37 +174,14 @@
       <category>compilers</category>
     </item>
     <item>
-      <title>Enterprise Haskell at H-E-B</title>
-      <link>https://blog.haskell.org/enterprise-haskell-at-h-e-b/</link>
-      <guid>https://lobste.rs/s/zar7fc</guid>
-      <author>blog.haskell.org via Hecate</author>
-      <pubDate>Fri, 17 Jul 2026 16:51:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>haskell</category>
-    </item>
-    <item>
-      <title>We're Going to Make Out Like Bandits</title>
-      <link>https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/</link>
-      <guid>https://lobste.rs/s/idavhk</guid>
-      <author>rocketpoweredjetpants.com via stig</author>
-      <pubDate>Thu, 16 Jul 2026 13:38:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>culture</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
-      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
-      <guid>https://lobste.rs/s/twqtlo</guid>
-      <author>thorsell.io by GLaDER</author>
-      <pubDate>Tue, 21 Jul 2026 05:11:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>devops</category>
-      <category>vcs</category>
+      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
+      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
+      <guid>https://lobste.rs/s/ny0yzm</guid>
+      <author>krebsonsecurity.com via raymii</author>
+      <pubDate>Wed, 22 Jul 2026 00:56:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>I wrote an API client for my water-cooled bed</title>
@@ -204,6 +193,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
       <category>zig</category>
+    </item>
+    <item>
+      <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
+      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
+      <guid>https://lobste.rs/s/twqtlo</guid>
+      <author>thorsell.io by GLaDER</author>
+      <pubDate>Tue, 21 Jul 2026 05:11:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>devops</category>
+      <category>vcs</category>
     </item>
     <item>
       <title>So Reddit has decided that plain HTML is unsafe</title>
@@ -228,6 +228,17 @@
       <category>retrocomputing</category>
     </item>
     <item>
+      <title>Goodbye, and thanks for all the Bikesheds</title>
+      <link>https://queue.acm.org/detail.cfm?id=3818307</link>
+      <guid>https://lobste.rs/s/hvuumu</guid>
+      <author>queue.acm.org via alethkit</author>
+      <pubDate>Sat, 18 Jul 2026 07:59:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>culture</category>
+    </item>
+    <item>
       <title>Reviewing AI Code Is Not A Viable Argument (2025)</title>
       <link>https://softwaremaxims.com/blog/reviewing-ai-code</link>
       <guid>https://lobste.rs/s/5kgenk</guid>
@@ -238,17 +249,6 @@
       <category>practices</category>
       <category>programming</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Goodbye, and thanks for all the Bikesheds</title>
-      <link>https://queue.acm.org/detail.cfm?id=3818307</link>
-      <guid>https://lobste.rs/s/hvuumu</guid>
-      <author>queue.acm.org via alethkit</author>
-      <pubDate>Sat, 18 Jul 2026 07:59:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>culture</category>
     </item>
     <item>
       <title>Gitolite</title>
@@ -262,16 +262,6 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>Free Ink · An open ecosystem for e-readers</title>
-      <link>https://freeink.org/</link>
-      <guid>https://lobste.rs/s/rwdmjn</guid>
-      <author>freeink.org via Yogthos</author>
-      <pubDate>Tue, 21 Jul 2026 15:39:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-    </item>
-    <item>
       <title>Meta Garbage Collection: Using OCaml's GC to GC Rust</title>
       <link>https://soteria-tools.com/blog/meta-garbage-collection</link>
       <guid>https://lobste.rs/s/p3z0zw</guid>
@@ -281,6 +271,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
       <category>ml</category>
+    </item>
+    <item>
+      <title>Free Ink · An open ecosystem for e-readers</title>
+      <link>https://freeink.org/</link>
+      <guid>https://lobste.rs/s/rwdmjn</guid>
+      <author>freeink.org via Yogthos</author>
+      <pubDate>Tue, 21 Jul 2026 15:39:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
   </channel>
 </rss>
