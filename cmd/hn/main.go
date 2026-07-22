@@ -96,13 +96,14 @@ func main() {
 
 	var items []RSSItem
 
-	for _, h := range r.Hits {
+	for i, h := range r.Hits {
 		link := h.URL
 		if link == "" {
 			link = "https://news.ycombinator.com/item?id=" + h.ObjectID
 		}
 
-		t, _ := time.Parse(time.RFC3339, h.CreatedAt)
+		base := time.Now()
+		t := base.Add(-time.Duration(i) * time.Minute)
 
 		items = append(items, RSSItem{
 			Title:   h.Title,
