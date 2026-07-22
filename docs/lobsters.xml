@@ -85,16 +85,6 @@
       <category>databases</category>
     </item>
     <item>
-      <title>FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System</title>
-      <link>https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free</link>
-      <guid>https://lobste.rs/s/n1cwdh</guid>
-      <author>phoronix.com via thomas0</author>
-      <pubDate>Wed, 15 Jul 2026 07:33:58 -0500</pubDate>
-      <comments>https://lobste.rs/s/n1cwdh/freebsd_16_retires_last_its_gpl_code_from</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n1cwdh/freebsd_16_retires_last_its_gpl_code_from"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>freebsd</category>
-    </item>
-    <item>
       <title>Human mathematicians are being outcounterexampled</title>
       <link>https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</link>
       <guid>https://lobste.rs/s/wfmpqr</guid>
@@ -105,6 +95,31 @@
       <category>math</category>
     </item>
     <item>
+      <title>Linux kernel will support $ORIGIN, sort of</title>
+      <link>https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</link>
+      <guid>https://lobste.rs/s/msg39b</guid>
+      <author>fzakaria.com via ysun</author>
+      <pubDate>Tue, 21 Jul 2026 05:02:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort</comments>
+      <description>&lt;p&gt;HN discussions: &lt;a href="https://news.ycombinator.com/item?id=48988793" rel="ugc"&gt;https://news.ycombinator.com/item?id=48988793&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>linux</category>
+      <category>osdev</category>
+      <category>nix</category>
+    </item>
+    <item>
+      <title>git --end-of-options</title>
+      <link>https://nesbitt.io/2026/07/21/end-of-options.html</link>
+      <guid>https://lobste.rs/s/cxz7vd</guid>
+      <author>nesbitt.io via robalex</author>
+      <pubDate>Tue, 21 Jul 2026 07:31:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/cxz7vd/git_end_options</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxz7vd/git_end_options"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>vcs</category>
+    </item>
+    <item>
       <title>GitRoot</title>
       <link>https://gitroot.dev/</link>
       <guid>https://lobste.rs/s/z01edy</guid>
@@ -113,6 +128,38 @@
       <comments>https://lobste.rs/s/z01edy/gitroot</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z01edy/gitroot"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
+    </item>
+    <item>
+      <title>95 reasons for having your own website</title>
+      <link>https://bellkiosk.website/blog/reasons-to-website.html</link>
+      <guid>https://lobste.rs/s/v3xuxn</guid>
+      <author>bellkiosk.website via thang</author>
+      <pubDate>Mon, 20 Jul 2026 22:02:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>philosophy</category>
+    </item>
+    <item>
+      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
+      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
+      <guid>https://lobste.rs/s/ny0yzm</guid>
+      <author>krebsonsecurity.com via raymii</author>
+      <pubDate>Wed, 22 Jul 2026 00:56:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>InvisiCaps: The Fil-C Capability Model</title>
+      <link>https://fil-c.org/invisicaps</link>
+      <guid>https://lobste.rs/s/kdflhr</guid>
+      <author>fil-c.org via kwas</author>
+      <pubDate>Mon, 20 Jul 2026 10:21:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>compilers</category>
     </item>
     <item>
       <title>Enterprise Haskell at H-E-B</title>
@@ -137,15 +184,15 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>InvisiCaps: The Fil-C Capability Model</title>
-      <link>https://fil-c.org/invisicaps</link>
-      <guid>https://lobste.rs/s/kdflhr</guid>
-      <author>fil-c.org via kwas</author>
-      <pubDate>Mon, 20 Jul 2026 10:21:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>compilers</category>
+      <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
+      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
+      <guid>https://lobste.rs/s/twqtlo</guid>
+      <author>thorsell.io by GLaDER</author>
+      <pubDate>Tue, 21 Jul 2026 05:11:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>devops</category>
+      <category>vcs</category>
     </item>
     <item>
       <title>I wrote an API client for my water-cooled bed</title>
@@ -159,15 +206,15 @@
       <category>zig</category>
     </item>
     <item>
-      <title>95 reasons for having your own website</title>
-      <link>https://bellkiosk.website/blog/reasons-to-website.html</link>
-      <guid>https://lobste.rs/s/v3xuxn</guid>
-      <author>bellkiosk.website via thang</author>
-      <pubDate>Mon, 20 Jul 2026 22:02:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>So Reddit has decided that plain HTML is unsafe</title>
+      <link>https://www.cole-k.com/2026/07/21/reddit/</link>
+      <guid>https://lobste.rs/s/gqdvdt</guid>
+      <author>cole-k.com by cole-k</author>
+      <pubDate>Wed, 22 Jul 2026 03:48:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
-      <category>philosophy</category>
+      <category>rant</category>
     </item>
     <item>
       <title>Microsoft Comic Chat is now open source</title>
@@ -181,15 +228,16 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
-      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
-      <guid>https://lobste.rs/s/twqtlo</guid>
-      <author>thorsell.io by GLaDER</author>
-      <pubDate>Tue, 21 Jul 2026 05:11:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>devops</category>
-      <category>vcs</category>
+      <title>Reviewing AI Code Is Not A Viable Argument (2025)</title>
+      <link>https://softwaremaxims.com/blog/reviewing-ai-code</link>
+      <guid>https://lobste.rs/s/5kgenk</guid>
+      <author>softwaremaxims.com by Diana</author>
+      <pubDate>Sat, 18 Jul 2026 11:25:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>programming</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Goodbye, and thanks for all the Bikesheds</title>
@@ -214,16 +262,14 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>Reviewing AI Code Is Not A Viable Argument (2025)</title>
-      <link>https://softwaremaxims.com/blog/reviewing-ai-code</link>
-      <guid>https://lobste.rs/s/5kgenk</guid>
-      <author>softwaremaxims.com by Diana</author>
-      <pubDate>Sat, 18 Jul 2026 11:25:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>programming</category>
-      <category>vibecoding</category>
+      <title>Free Ink · An open ecosystem for e-readers</title>
+      <link>https://freeink.org/</link>
+      <guid>https://lobste.rs/s/rwdmjn</guid>
+      <author>freeink.org via Yogthos</author>
+      <pubDate>Tue, 21 Jul 2026 15:39:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
     <item>
       <title>Meta Garbage Collection: Using OCaml's GC to GC Rust</title>
@@ -235,53 +281,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
       <category>ml</category>
-    </item>
-    <item>
-      <title>The Tower Keeps Rising</title>
-      <link>https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</link>
-      <guid>https://lobste.rs/s/latr8d</guid>
-      <author>lucumr.pocoo.org via facundoolano</author>
-      <pubDate>Wed, 15 Jul 2026 07:21:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/latr8d/tower_keeps_rising</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/latr8d/tower_keeps_rising"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing</title>
-      <link>https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/</link>
-      <guid>https://lobste.rs/s/agkcmz</guid>
-      <author>ghacks.net via raymii</author>
-      <pubDate>Wed, 15 Jul 2026 10:36:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/agkcmz/microsoft_confirms_windows_gdid_device"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>windows</category>
-    </item>
-    <item>
-      <title>git --end-of-options</title>
-      <link>https://nesbitt.io/2026/07/21/end-of-options.html</link>
-      <guid>https://lobste.rs/s/cxz7vd</guid>
-      <author>nesbitt.io via robalex</author>
-      <pubDate>Tue, 21 Jul 2026 07:31:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/cxz7vd/git_end_options</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxz7vd/git_end_options"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>vcs</category>
-    </item>
-    <item>
-      <title>Linux kernel will support $ORIGIN, sort of</title>
-      <link>https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</link>
-      <guid>https://lobste.rs/s/msg39b</guid>
-      <author>fzakaria.com via ysun</author>
-      <pubDate>Tue, 21 Jul 2026 05:02:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort</comments>
-      <description>&lt;p&gt;HN discussions: &lt;a href="https://news.ycombinator.com/item?id=48988793" rel="ugc"&gt;https://news.ycombinator.com/item?id=48988793&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>linux</category>
-      <category>osdev</category>
-      <category>nix</category>
     </item>
   </channel>
 </rss>
