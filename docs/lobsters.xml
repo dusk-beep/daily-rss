@@ -5,41 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Thu, 16 Jul 2026 06:31:41 -0500</pubDate>
+    <pubDate>Fri, 17 Jul 2026 23:31:13 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>How Our Rust-to-Zig Rewrite is Going</title>
-      <link>https://rtfeldman.com/rust-to-zig</link>
-      <guid>https://lobste.rs/s/axdfjx</guid>
-      <author>rtfeldman.com via rrampage</author>
-      <pubDate>Thu, 16 Jul 2026 06:31:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>compilers</category>
-      <category>zig</category>
-    </item>
-    <item>
-      <title>Linus Torvalds on LLM usage in kernel development</title>
-      <link>https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/</link>
-      <guid>https://lobste.rs/s/pb6d8m</guid>
-      <author>lore.kernel.org via thang</author>
-      <pubDate>Wed, 15 Jul 2026 22:19:34 -0500</pubDate>
-      <comments>https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pb6d8m/linus_torvalds_on_llm_usage_kernel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>SQLite should have (Rust-style) editions</title>
-      <link>https://mort.coffee/home/sqlite-editions/</link>
-      <guid>https://lobste.rs/s/2nry82</guid>
-      <author>mort.coffee by mort</author>
-      <pubDate>Wed, 15 Jul 2026 14:34:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2nry82/sqlite_should_have_rust_style_editions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
-    </item>
     <item>
       <title>Regressive JPEGs</title>
       <link>https://maurycyz.com/projects/bad_jpeg/</link>
@@ -50,6 +17,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ihel7n/regressive_jpegs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
       <category>graphics</category>
+    </item>
+    <item>
+      <title>Protecting our FLOSS commons from LLMs</title>
+      <link>https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html</link>
+      <guid>https://lobste.rs/s/ax914v</guid>
+      <author>blog.codeberg.org via FedericoSchonborn</author>
+      <pubDate>Wed, 22 Jul 2026 20:04:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>What is your favorite blog to read recently?</title>
@@ -64,15 +41,45 @@
       <category>ask</category>
     </item>
     <item>
-      <title>Forgejo v16.0 is available</title>
-      <link>https://forgejo.org/2026-07-release-v16-0/</link>
-      <guid>https://lobste.rs/s/giyb8x</guid>
-      <author>forgejo.org via hugoarnal</author>
-      <pubDate>Thu, 16 Jul 2026 05:01:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/giyb8x/forgejo_v16_0_is_available"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>vcs</category>
+      <title>So Reddit has decided that plain HTML is unsafe</title>
+      <link>https://www.cole-k.com/2026/07/21/reddit/</link>
+      <guid>https://lobste.rs/s/gqdvdt</guid>
+      <author>cole-k.com by cole-k</author>
+      <pubDate>Wed, 22 Jul 2026 03:48:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>rant</category>
+    </item>
+    <item>
+      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
+      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
+      <guid>https://lobste.rs/s/ny0yzm</guid>
+      <author>krebsonsecurity.com via raymii</author>
+      <pubDate>Wed, 22 Jul 2026 00:56:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>Calm technologies that excite me</title>
+      <link>https://abhi.now/blog/calm-technologies/</link>
+      <guid>https://lobste.rs/s/fmyrgy</guid>
+      <author>abhi.now via abhin4v</author>
+      <pubDate>Wed, 22 Jul 2026 21:26:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/fmyrgy/calm_technologies_excite_me</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fmyrgy/calm_technologies_excite_me"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+    </item>
+    <item>
+      <title>I Inspected My Take-Home Interview Project. It Was a Whole Operation</title>
+      <link>https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/</link>
+      <guid>https://lobste.rs/s/5nhto6</guid>
+      <author>citizendot.github.io via trousers</author>
+      <pubDate>Wed, 22 Jul 2026 20:54:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/5nhto6/i_inspected_my_take_home_interview</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5nhto6/i_inspected_my_take_home_interview"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Learning a few things about running SQLite</title>
@@ -85,14 +92,17 @@
       <category>databases</category>
     </item>
     <item>
-      <title>Human mathematicians are being outcounterexampled</title>
-      <link>https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</link>
-      <guid>https://lobste.rs/s/wfmpqr</guid>
-      <author>xenaproject.wordpress.com via sanxiyn</author>
-      <pubDate>Mon, 20 Jul 2026 17:16:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/wfmpqr/human_mathematicians_are_being</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfmpqr/human_mathematicians_are_being"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>math</category>
+      <title>Justif: Knuth-Plass justification and microtypography for the web</title>
+      <link>https://justif.lyall.co/</link>
+      <guid>https://lobste.rs/s/p1jpv1</guid>
+      <author>justif.lyall.co by lyall</author>
+      <pubDate>Thu, 23 Jul 2026 04:30:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p1jpv1/justif_knuth_plass_justification"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>web</category>
+      <category>show</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Linux kernel will support $ORIGIN, sort of</title>
@@ -109,14 +119,25 @@
       <category>nix</category>
     </item>
     <item>
-      <title>GitRoot</title>
-      <link>https://gitroot.dev/</link>
-      <guid>https://lobste.rs/s/z01edy</guid>
-      <author>gitroot.dev via Hasnep</author>
-      <pubDate>Sat, 18 Jul 2026 02:52:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/z01edy/gitroot</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z01edy/gitroot"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
+      <title>Human mathematicians are being outcounterexampled</title>
+      <link>https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</link>
+      <guid>https://lobste.rs/s/wfmpqr</guid>
+      <author>xenaproject.wordpress.com via sanxiyn</author>
+      <pubDate>Mon, 20 Jul 2026 17:16:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/wfmpqr/human_mathematicians_are_being</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfmpqr/human_mathematicians_are_being"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>math</category>
+    </item>
+    <item>
+      <title>Everyone Should Know SIMD</title>
+      <link>https://mitchellh.com/writing/everyone-should-know-simd</link>
+      <guid>https://lobste.rs/s/gpqa52</guid>
+      <author>mitchellh.com via seg6</author>
+      <pubDate>Thu, 23 Jul 2026 10:33:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/gpqa52/everyone_should_know_simd</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gpqa52/everyone_should_know_simd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>performance</category>
+      <category>zig</category>
     </item>
     <item>
       <title>git --end-of-options</title>
@@ -130,6 +151,16 @@
       <category>vcs</category>
     </item>
     <item>
+      <title>Free Ink · An open ecosystem for e-readers</title>
+      <link>https://freeink.org/</link>
+      <guid>https://lobste.rs/s/rwdmjn</guid>
+      <author>freeink.org via Yogthos</author>
+      <pubDate>Tue, 21 Jul 2026 15:39:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+    </item>
+    <item>
       <title>95 reasons for having your own website</title>
       <link>https://bellkiosk.website/blog/reasons-to-website.html</link>
       <guid>https://lobste.rs/s/v3xuxn</guid>
@@ -141,16 +172,25 @@
       <category>philosophy</category>
     </item>
     <item>
-      <title>We're Going to Make Out Like Bandits</title>
-      <link>https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/</link>
-      <guid>https://lobste.rs/s/idavhk</guid>
-      <author>rocketpoweredjetpants.com via stig</author>
-      <pubDate>Thu, 16 Jul 2026 13:38:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/idavhk/we_re_going_make_out_like_bandits"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>culture</category>
-      <category>vibecoding</category>
+      <title>GitRoot</title>
+      <link>https://gitroot.dev/</link>
+      <guid>https://lobste.rs/s/z01edy</guid>
+      <author>gitroot.dev via Hasnep</author>
+      <pubDate>Sat, 18 Jul 2026 02:52:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/z01edy/gitroot</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z01edy/gitroot"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
+    </item>
+    <item>
+      <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
+      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
+      <guid>https://lobste.rs/s/twqtlo</guid>
+      <author>thorsell.io by GLaDER</author>
+      <pubDate>Tue, 21 Jul 2026 05:11:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>devops</category>
+      <category>vcs</category>
     </item>
     <item>
       <title>Enterprise Haskell at H-E-B</title>
@@ -174,16 +214,6 @@
       <category>compilers</category>
     </item>
     <item>
-      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
-      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
-      <guid>https://lobste.rs/s/ny0yzm</guid>
-      <author>krebsonsecurity.com via raymii</author>
-      <pubDate>Wed, 22 Jul 2026 00:56:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>I wrote an API client for my water-cooled bed</title>
       <link>https://tinkering.xyz/bedctl/</link>
       <guid>https://lobste.rs/s/op1k28</guid>
@@ -195,37 +225,34 @@
       <category>zig</category>
     </item>
     <item>
-      <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
-      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
-      <guid>https://lobste.rs/s/twqtlo</guid>
-      <author>thorsell.io by GLaDER</author>
-      <pubDate>Tue, 21 Jul 2026 05:11:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>devops</category>
-      <category>vcs</category>
+      <title>John C. Dvorak has died</title>
+      <link>http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
+      <guid>https://lobste.rs/s/ap3z0l</guid>
+      <author>oldvcr.blogspot.com via raymii</author>
+      <pubDate>Wed, 22 Jul 2026 21:09:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
     </item>
     <item>
-      <title>So Reddit has decided that plain HTML is unsafe</title>
-      <link>https://www.cole-k.com/2026/07/21/reddit/</link>
-      <guid>https://lobste.rs/s/gqdvdt</guid>
-      <author>cole-k.com by cole-k</author>
-      <pubDate>Wed, 22 Jul 2026 03:48:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>rant</category>
+      <title>OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test</title>
+      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident/</link>
+      <guid>https://lobste.rs/s/7nrek3</guid>
+      <author>openai.com via dustyweb</author>
+      <pubDate>Tue, 21 Jul 2026 15:38:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
-      <title>Microsoft Comic Chat is now open source</title>
-      <link>https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/</link>
-      <guid>https://lobste.rs/s/qbvfll</guid>
-      <author>opensource.microsoft.com via calvin</author>
-      <pubDate>Thu, 16 Jul 2026 11:43:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>retrocomputing</category>
+      <title>SIMD for Collision</title>
+      <link>https://box2d.org/posts/2026/07/simd-for-collision/</link>
+      <guid>https://lobste.rs/s/gkcjic</guid>
+      <author>box2d.org via mikejsavage</author>
+      <pubDate>Wed, 22 Jul 2026 05:00:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/gkcjic/simd_for_collision</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gkcjic/simd_for_collision"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>performance</category>
     </item>
     <item>
       <title>Goodbye, and thanks for all the Bikesheds</title>
@@ -249,38 +276,6 @@
       <category>practices</category>
       <category>programming</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Gitolite</title>
-      <link>https://gitolite.com/gitolite/index.html</link>
-      <guid>https://lobste.rs/s/21lrrw</guid>
-      <author>gitolite.com via matklad</author>
-      <pubDate>Mon, 20 Jul 2026 07:10:14 -0500</pubDate>
-      <comments>https://lobste.rs/s/21lrrw/gitolite</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/21lrrw/gitolite"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vcs</category>
-    </item>
-    <item>
-      <title>Meta Garbage Collection: Using OCaml's GC to GC Rust</title>
-      <link>https://soteria-tools.com/blog/meta-garbage-collection</link>
-      <guid>https://lobste.rs/s/p3z0zw</guid>
-      <author>soteria-tools.com via annieversary</author>
-      <pubDate>Mon, 20 Jul 2026 08:58:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>ml</category>
-    </item>
-    <item>
-      <title>Free Ink · An open ecosystem for e-readers</title>
-      <link>https://freeink.org/</link>
-      <guid>https://lobste.rs/s/rwdmjn</guid>
-      <author>freeink.org via Yogthos</author>
-      <pubDate>Tue, 21 Jul 2026 15:39:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
     </item>
   </channel>
 </rss>
