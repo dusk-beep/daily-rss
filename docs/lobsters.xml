@@ -5,8 +5,18 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Fri, 17 Jul 2026 23:31:13 -0500</pubDate>
+    <pubDate>Wed, 22 Jul 2026 20:04:08 -0500</pubDate>
     <ttl>120</ttl>
+    <item>
+      <title>Protecting our FLOSS commons from LLMs</title>
+      <link>https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html</link>
+      <guid>https://lobste.rs/s/ax914v</guid>
+      <author>blog.codeberg.org via FedericoSchonborn</author>
+      <pubDate>Wed, 22 Jul 2026 20:04:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
     <item>
       <title>Regressive JPEGs</title>
       <link>https://maurycyz.com/projects/bad_jpeg/</link>
@@ -19,14 +29,15 @@
       <category>graphics</category>
     </item>
     <item>
-      <title>Protecting our FLOSS commons from LLMs</title>
-      <link>https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html</link>
-      <guid>https://lobste.rs/s/ax914v</guid>
-      <author>blog.codeberg.org via FedericoSchonborn</author>
-      <pubDate>Wed, 22 Jul 2026 20:04:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
+      <title>Everyone Should Know SIMD</title>
+      <link>https://mitchellh.com/writing/everyone-should-know-simd</link>
+      <guid>https://lobste.rs/s/gpqa52</guid>
+      <author>mitchellh.com via seg6</author>
+      <pubDate>Thu, 23 Jul 2026 10:33:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/gpqa52/everyone_should_know_simd</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gpqa52/everyone_should_know_simd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>performance</category>
+      <category>zig</category>
     </item>
     <item>
       <title>What is your favorite blog to read recently?</title>
@@ -52,16 +63,6 @@
       <category>rant</category>
     </item>
     <item>
-      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
-      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
-      <guid>https://lobste.rs/s/ny0yzm</guid>
-      <author>krebsonsecurity.com via raymii</author>
-      <pubDate>Wed, 22 Jul 2026 00:56:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>Calm technologies that excite me</title>
       <link>https://abhi.now/blog/calm-technologies/</link>
       <guid>https://lobste.rs/s/fmyrgy</guid>
@@ -72,6 +73,27 @@
       <category>hardware</category>
     </item>
     <item>
+      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
+      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
+      <guid>https://lobste.rs/s/ny0yzm</guid>
+      <author>krebsonsecurity.com via raymii</author>
+      <pubDate>Wed, 22 Jul 2026 00:56:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>Don't take the black pill</title>
+      <link>https://www.youtube.com/watch?v=zLZwpH5lCD4</link>
+      <guid>https://lobste.rs/s/td8rne</guid>
+      <author>youtube.com via Malp</author>
+      <pubDate>Fri, 24 Jul 2026 09:24:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/td8rne/don_t_take_black_pill</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/td8rne/don_t_take_black_pill"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>culture</category>
+    </item>
+    <item>
       <title>I Inspected My Take-Home Interview Project. It Was a Whole Operation</title>
       <link>https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/</link>
       <guid>https://lobste.rs/s/5nhto6</guid>
@@ -80,16 +102,6 @@
       <comments>https://lobste.rs/s/5nhto6/i_inspected_my_take_home_interview</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5nhto6/i_inspected_my_take_home_interview"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-    </item>
-    <item>
-      <title>Learning a few things about running SQLite</title>
-      <link>https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/</link>
-      <guid>https://lobste.rs/s/ryksor</guid>
-      <author>jvns.ca via tumdum</author>
-      <pubDate>Fri, 17 Jul 2026 14:54:44 -0500</pubDate>
-      <comments>https://lobste.rs/s/ryksor/learning_few_things_about_running_sqlite</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ryksor/learning_few_things_about_running_sqlite"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
     </item>
     <item>
       <title>Justif: Knuth-Plass justification and microtypography for the web</title>
@@ -129,17 +141,6 @@
       <category>math</category>
     </item>
     <item>
-      <title>Everyone Should Know SIMD</title>
-      <link>https://mitchellh.com/writing/everyone-should-know-simd</link>
-      <guid>https://lobste.rs/s/gpqa52</guid>
-      <author>mitchellh.com via seg6</author>
-      <pubDate>Thu, 23 Jul 2026 10:33:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/gpqa52/everyone_should_know_simd</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gpqa52/everyone_should_know_simd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>performance</category>
-      <category>zig</category>
-    </item>
-    <item>
       <title>git --end-of-options</title>
       <link>https://nesbitt.io/2026/07/21/end-of-options.html</link>
       <guid>https://lobste.rs/s/cxz7vd</guid>
@@ -172,6 +173,16 @@
       <category>philosophy</category>
     </item>
     <item>
+      <title>John C. Dvorak has died</title>
+      <link>http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
+      <guid>https://lobste.rs/s/ap3z0l</guid>
+      <author>oldvcr.blogspot.com via raymii</author>
+      <pubDate>Wed, 22 Jul 2026 21:09:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+    </item>
+    <item>
       <title>GitRoot</title>
       <link>https://gitroot.dev/</link>
       <guid>https://lobste.rs/s/z01edy</guid>
@@ -191,16 +202,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>devops</category>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>Enterprise Haskell at H-E-B</title>
-      <link>https://blog.haskell.org/enterprise-haskell-at-h-e-b/</link>
-      <guid>https://lobste.rs/s/zar7fc</guid>
-      <author>blog.haskell.org via Hecate</author>
-      <pubDate>Fri, 17 Jul 2026 16:51:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>haskell</category>
     </item>
     <item>
       <title>InvisiCaps: The Fil-C Capability Model</title>
@@ -225,23 +226,23 @@
       <category>zig</category>
     </item>
     <item>
-      <title>John C. Dvorak has died</title>
-      <link>http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
-      <guid>https://lobste.rs/s/ap3z0l</guid>
-      <author>oldvcr.blogspot.com via raymii</author>
-      <pubDate>Wed, 22 Jul 2026 21:09:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
+      <title>Making GIFs from 35mm film photography</title>
+      <link>https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html</link>
+      <guid>https://lobste.rs/s/ewh4v6</guid>
+      <author>blog.willgrant.org by wgx</author>
+      <pubDate>Fri, 24 Jul 2026 00:29:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>art</category>
     </item>
     <item>
-      <title>OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test</title>
+      <title>OpenAI and Hugging Face partner to address security incident during model evaluation</title>
       <link>https://openai.com/index/hugging-face-model-evaluation-security-incident/</link>
       <guid>https://lobste.rs/s/7nrek3</guid>
       <author>openai.com via dustyweb</author>
       <pubDate>Tue, 21 Jul 2026 15:38:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <comments>https://lobste.rs/s/7nrek3/openai_hugging_face_partner_address</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7nrek3/openai_hugging_face_partner_address"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
     </item>
     <item>
@@ -255,6 +256,16 @@
       <category>performance</category>
     </item>
     <item>
+      <title>You should selfhost your mail (in 2026)</title>
+      <link>https://blog.haschek.at/2026/you-should-selfhost-your-mail.html</link>
+      <guid>https://lobste.rs/s/x3x2aw</guid>
+      <author>blog.haschek.at via cinemast</author>
+      <pubDate>Thu, 23 Jul 2026 16:10:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>email</category>
+    </item>
+    <item>
       <title>Goodbye, and thanks for all the Bikesheds</title>
       <link>https://queue.acm.org/detail.cfm?id=3818307</link>
       <guid>https://lobste.rs/s/hvuumu</guid>
@@ -264,18 +275,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
       <category>culture</category>
-    </item>
-    <item>
-      <title>Reviewing AI Code Is Not A Viable Argument (2025)</title>
-      <link>https://softwaremaxims.com/blog/reviewing-ai-code</link>
-      <guid>https://lobste.rs/s/5kgenk</guid>
-      <author>softwaremaxims.com by Diana</author>
-      <pubDate>Sat, 18 Jul 2026 11:25:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>programming</category>
-      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
