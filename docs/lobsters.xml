@@ -18,15 +18,15 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Regressive JPEGs</title>
-      <link>https://maurycyz.com/projects/bad_jpeg/</link>
-      <guid>https://lobste.rs/s/ihel7n</guid>
-      <author>maurycyz.com via lcamtuf</author>
-      <pubDate>Fri, 17 Jul 2026 23:31:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/ihel7n/regressive_jpegs</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ihel7n/regressive_jpegs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>graphics</category>
+      <title>Don't take the black pill</title>
+      <link>https://www.youtube.com/watch?v=zLZwpH5lCD4</link>
+      <guid>https://lobste.rs/s/td8rne</guid>
+      <author>youtube.com via Malp</author>
+      <pubDate>Fri, 24 Jul 2026 09:24:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/td8rne/don_t_take_black_pill</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/td8rne/don_t_take_black_pill"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>culture</category>
     </item>
     <item>
       <title>Everyone Should Know SIMD</title>
@@ -40,6 +40,17 @@
       <category>zig</category>
     </item>
     <item>
+      <title>So Reddit has decided that plain HTML is unsafe</title>
+      <link>https://www.cole-k.com/2026/07/21/reddit/</link>
+      <guid>https://lobste.rs/s/gqdvdt</guid>
+      <author>cole-k.com by cole-k</author>
+      <pubDate>Wed, 22 Jul 2026 03:48:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>rant</category>
+    </item>
+    <item>
       <title>What is your favorite blog to read recently?</title>
       <link>https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently</link>
       <guid>https://lobste.rs/s/69mche</guid>
@@ -50,17 +61,6 @@
 </description>
       <category>programming</category>
       <category>ask</category>
-    </item>
-    <item>
-      <title>So Reddit has decided that plain HTML is unsafe</title>
-      <link>https://www.cole-k.com/2026/07/21/reddit/</link>
-      <guid>https://lobste.rs/s/gqdvdt</guid>
-      <author>cole-k.com by cole-k</author>
-      <pubDate>Wed, 22 Jul 2026 03:48:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqdvdt/so_reddit_has_decided_plain_html_is_unsafe"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>rant</category>
     </item>
     <item>
       <title>Calm technologies that excite me</title>
@@ -81,17 +81,6 @@
       <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-    </item>
-    <item>
-      <title>Don't take the black pill</title>
-      <link>https://www.youtube.com/watch?v=zLZwpH5lCD4</link>
-      <guid>https://lobste.rs/s/td8rne</guid>
-      <author>youtube.com via Malp</author>
-      <pubDate>Fri, 24 Jul 2026 09:24:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/td8rne/don_t_take_black_pill</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/td8rne/don_t_take_black_pill"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>video</category>
-      <category>culture</category>
     </item>
     <item>
       <title>I Inspected My Take-Home Interview Project. It Was a Whole Operation</title>
@@ -115,6 +104,28 @@
       <category>web</category>
       <category>show</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Chrome registers a global shortcut for Gemini popup window</title>
+      <link>https://unsung.aresluna.org/chromes-breaking-and-entering/</link>
+      <guid>https://lobste.rs/s/c76s0r</guid>
+      <author>unsung.aresluna.org via skycam</author>
+      <pubDate>Fri, 24 Jul 2026 18:04:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>mac</category>
+      <category>windows</category>
+    </item>
+    <item>
+      <title>A shell colon does nothing. Use it anyway</title>
+      <link>https://refp.se/articles/your-shell-and-the-magic-colon</link>
+      <guid>https://lobste.rs/s/eidh3u</guid>
+      <author>refp.se by refp</author>
+      <pubDate>Sat, 25 Jul 2026 06:33:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>Linux kernel will support $ORIGIN, sort of</title>
@@ -141,6 +152,17 @@
       <category>math</category>
     </item>
     <item>
+      <title>95 reasons for having your own website</title>
+      <link>https://bellkiosk.website/blog/reasons-to-website.html</link>
+      <guid>https://lobste.rs/s/v3xuxn</guid>
+      <author>bellkiosk.website via thang</author>
+      <pubDate>Mon, 20 Jul 2026 22:02:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>philosophy</category>
+    </item>
+    <item>
       <title>git --end-of-options</title>
       <link>https://nesbitt.io/2026/07/21/end-of-options.html</link>
       <guid>https://lobste.rs/s/cxz7vd</guid>
@@ -162,17 +184,6 @@
       <category>hardware</category>
     </item>
     <item>
-      <title>95 reasons for having your own website</title>
-      <link>https://bellkiosk.website/blog/reasons-to-website.html</link>
-      <guid>https://lobste.rs/s/v3xuxn</guid>
-      <author>bellkiosk.website via thang</author>
-      <pubDate>Mon, 20 Jul 2026 22:02:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>philosophy</category>
-    </item>
-    <item>
       <title>John C. Dvorak has died</title>
       <link>http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
       <guid>https://lobste.rs/s/ap3z0l</guid>
@@ -183,14 +194,24 @@
       <category>person</category>
     </item>
     <item>
-      <title>GitRoot</title>
-      <link>https://gitroot.dev/</link>
-      <guid>https://lobste.rs/s/z01edy</guid>
-      <author>gitroot.dev via Hasnep</author>
-      <pubDate>Sat, 18 Jul 2026 02:52:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/z01edy/gitroot</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z01edy/gitroot"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
+      <title>Making GIFs from 35mm film photography</title>
+      <link>https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html</link>
+      <guid>https://lobste.rs/s/ewh4v6</guid>
+      <author>blog.willgrant.org by wgx</author>
+      <pubDate>Fri, 24 Jul 2026 00:29:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>art</category>
+    </item>
+    <item>
+      <title>You should selfhost your mail (in 2026)</title>
+      <link>https://blog.haschek.at/2026/you-should-selfhost-your-mail.html</link>
+      <guid>https://lobste.rs/s/x3x2aw</guid>
+      <author>blog.haschek.at via cinemast</author>
+      <pubDate>Thu, 23 Jul 2026 16:10:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>email</category>
     </item>
     <item>
       <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
@@ -215,6 +236,18 @@
       <category>compilers</category>
     </item>
     <item>
+      <title>Fil-C: Garbage In, Memory Safety Out</title>
+      <link>https://www.youtube.com/watch?v=5F-2Y1LPRek</link>
+      <guid>https://lobste.rs/s/badu44</guid>
+      <author>youtube.com via kristoff</author>
+      <pubDate>Thu, 23 Jul 2026 16:20:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>c</category>
+      <category>c++</category>
+    </item>
+    <item>
       <title>I wrote an API client for my water-cooled bed</title>
       <link>https://tinkering.xyz/bedctl/</link>
       <guid>https://lobste.rs/s/op1k28</guid>
@@ -224,26 +257,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
       <category>zig</category>
-    </item>
-    <item>
-      <title>Making GIFs from 35mm film photography</title>
-      <link>https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html</link>
-      <guid>https://lobste.rs/s/ewh4v6</guid>
-      <author>blog.willgrant.org by wgx</author>
-      <pubDate>Fri, 24 Jul 2026 00:29:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>art</category>
-    </item>
-    <item>
-      <title>OpenAI and Hugging Face partner to address security incident during model evaluation</title>
-      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident/</link>
-      <guid>https://lobste.rs/s/7nrek3</guid>
-      <author>openai.com via dustyweb</author>
-      <pubDate>Tue, 21 Jul 2026 15:38:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/7nrek3/openai_hugging_face_partner_address</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7nrek3/openai_hugging_face_partner_address"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>SIMD for Collision</title>
@@ -256,25 +269,14 @@
       <category>performance</category>
     </item>
     <item>
-      <title>You should selfhost your mail (in 2026)</title>
-      <link>https://blog.haschek.at/2026/you-should-selfhost-your-mail.html</link>
-      <guid>https://lobste.rs/s/x3x2aw</guid>
-      <author>blog.haschek.at via cinemast</author>
-      <pubDate>Thu, 23 Jul 2026 16:10:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>email</category>
-    </item>
-    <item>
-      <title>Goodbye, and thanks for all the Bikesheds</title>
-      <link>https://queue.acm.org/detail.cfm?id=3818307</link>
-      <guid>https://lobste.rs/s/hvuumu</guid>
-      <author>queue.acm.org via alethkit</author>
-      <pubDate>Sat, 18 Jul 2026 07:59:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvuumu/goodbye_thanks_for_all_bikesheds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>culture</category>
+      <title>OpenAI and Hugging Face partner to address security incident during model evaluation</title>
+      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident/</link>
+      <guid>https://lobste.rs/s/7nrek3</guid>
+      <author>openai.com via dustyweb</author>
+      <pubDate>Tue, 21 Jul 2026 15:38:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/7nrek3/openai_hugging_face_partner_address</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7nrek3/openai_hugging_face_partner_address"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
   </channel>
 </rss>
