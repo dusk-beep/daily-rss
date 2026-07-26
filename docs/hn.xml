@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Android May Soon Restrict On-Device ADB</title>
+      <title>Android may soon restrict on-device ADB</title>
       <link>https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/</link>
-      <description>874 points • 415 comments • by shscs911&#xA;https://news.ycombinator.com/item?id=49045159</description>
-      <pubDate>Sun, 26 Jul 2026 01:22:39 +0000</pubDate>
+      <description>970 points • 482 comments • by shscs911&#xA;https://news.ycombinator.com/item?id=49045159</description>
+      <pubDate>Sun, 26 Jul 2026 23:30:19 +0000</pubDate>
       <guid>49045159</guid>
     </item>
     <item>
       <title>Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach</title>
       <link>https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize</link>
-      <description>565 points • 102 comments • by agnishom&#xA;https://news.ycombinator.com/item?id=49043724</description>
-      <pubDate>Sun, 26 Jul 2026 01:21:39 +0000</pubDate>
+      <description>591 points • 110 comments • by agnishom&#xA;https://news.ycombinator.com/item?id=49043724</description>
+      <pubDate>Sun, 26 Jul 2026 23:29:19 +0000</pubDate>
       <guid>49043724</guid>
     </item>
     <item>
-      <title>Taylor Farms Called White House to Try to Delay Cyclospora Recall</title>
-      <link>https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc</link>
-      <description>314 points • 207 comments • by JumpCrisscross&#xA;https://news.ycombinator.com/item?id=49044074</description>
-      <pubDate>Sun, 26 Jul 2026 01:20:39 +0000</pubDate>
-      <guid>49044074</guid>
+      <title>Did they ghost you?</title>
+      <link>https://didtheyghostyou.com/</link>
+      <description>457 points • 201 comments • by mooreds&#xA;https://news.ycombinator.com/item?id=49051120</description>
+      <pubDate>Sun, 26 Jul 2026 23:28:19 +0000</pubDate>
+      <guid>49051120</guid>
+    </item>
+    <item>
+      <title>The new rules of context engineering for Claude 5 generation models</title>
+      <link>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</link>
+      <description>438 points • 351 comments • by mellosouls&#xA;https://news.ycombinator.com/item?id=49051361</description>
+      <pubDate>Sun, 26 Jul 2026 23:27:19 +0000</pubDate>
+      <guid>49051361</guid>
     </item>
     <item>
       <title>Open-weight AI is having its Kubernetes moment</title>
       <link>https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</link>
-      <description>305 points • 249 comments • by tknaup&#xA;https://news.ycombinator.com/item?id=49048034</description>
-      <pubDate>Sun, 26 Jul 2026 01:19:39 +0000</pubDate>
+      <description>397 points • 312 comments • by tknaup&#xA;https://news.ycombinator.com/item?id=49048034</description>
+      <pubDate>Sun, 26 Jul 2026 23:26:19 +0000</pubDate>
       <guid>49048034</guid>
     </item>
     <item>
-      <title>Did They Ghost You?</title>
-      <link>https://didtheyghostyou.com/</link>
-      <description>287 points • 119 comments • by mooreds&#xA;https://news.ycombinator.com/item?id=49051120</description>
-      <pubDate>Sun, 26 Jul 2026 01:18:39 +0000</pubDate>
-      <guid>49051120</guid>
+      <title>A shell colon does nothing. Use it anyway</title>
+      <link>https://refp.se/articles/your-shell-and-the-magic-colon</link>
+      <description>377 points • 158 comments • by olexsmir&#xA;https://news.ycombinator.com/item?id=49047453</description>
+      <pubDate>Sun, 26 Jul 2026 23:25:19 +0000</pubDate>
+      <guid>49047453</guid>
     </item>
     <item>
-      <title>Bitchat is now on Radicle</title>
-      <link>https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6</link>
-      <description>207 points • 124 comments • by h1watt&#xA;https://news.ycombinator.com/item?id=49047365</description>
-      <pubDate>Sun, 26 Jul 2026 01:17:39 +0000</pubDate>
-      <guid>49047365</guid>
+      <title>Taylor Farms Called White House to Try to Delay Cyclospora Recall</title>
+      <link>https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc</link>
+      <description>328 points • 222 comments • by JumpCrisscross&#xA;https://news.ycombinator.com/item?id=49044074</description>
+      <pubDate>Sun, 26 Jul 2026 23:24:19 +0000</pubDate>
+      <guid>49044074</guid>
+    </item>
+    <item>
+      <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
+      <link>https://github.com/slvDev/esp32-ai</link>
+      <description>269 points • 68 comments • by boveyking&#xA;https://news.ycombinator.com/item?id=49050512</description>
+      <pubDate>Sun, 26 Jul 2026 23:23:19 +0000</pubDate>
+      <guid>49050512</guid>
     </item>
     <item>
       <title>The growing vigilante movement to knock out Flock surveillance cameras</title>
       <link>https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras</link>
-      <description>192 points • 102 comments • by bookofjoe&#xA;https://news.ycombinator.com/item?id=49050538</description>
-      <pubDate>Sun, 26 Jul 2026 01:16:39 +0000</pubDate>
+      <description>268 points • 166 comments • by bookofjoe&#xA;https://news.ycombinator.com/item?id=49050538</description>
+      <pubDate>Sun, 26 Jul 2026 23:22:19 +0000</pubDate>
       <guid>49050538</guid>
     </item>
     <item>
-      <title>The Dark Night of Mathematics</title>
-      <link>https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics</link>
-      <description>169 points • 200 comments • by rmdmphilosopher&#xA;https://news.ycombinator.com/item?id=49048681</description>
-      <pubDate>Sun, 26 Jul 2026 01:15:39 +0000</pubDate>
-      <guid>49048681</guid>
-    </item>
-    <item>
-      <title>ARC-AGI Leaderboard</title>
-      <link>https://arcprize.org/leaderboard</link>
-      <description>167 points • 139 comments • by rzk&#xA;https://news.ycombinator.com/item?id=49045040</description>
-      <pubDate>Sun, 26 Jul 2026 01:14:39 +0000</pubDate>
-      <guid>49045040</guid>
-    </item>
-    <item>
-      <title>MouthPad: A Tongue-Controlled Touchpad</title>
-      <link>https://www.augmental.tech/</link>
-      <description>164 points • 34 comments • by ZaninAndrea&#xA;https://news.ycombinator.com/item?id=49045446</description>
-      <pubDate>Sun, 26 Jul 2026 01:13:39 +0000</pubDate>
-      <guid>49045446</guid>
+      <title>Bitchat is now on Radicle</title>
+      <link>https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6</link>
+      <description>252 points • 142 comments • by h1watt&#xA;https://news.ycombinator.com/item?id=49047365</description>
+      <pubDate>Sun, 26 Jul 2026 23:21:19 +0000</pubDate>
+      <guid>49047365</guid>
     </item>
   </channel>
 </rss>

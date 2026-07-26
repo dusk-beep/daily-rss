@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Wed, 22 Jul 2026 20:04:08 -0500</pubDate>
+    <pubDate>Fri, 24 Jul 2026 09:24:29 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Protecting our FLOSS commons from LLMs</title>
-      <link>https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html</link>
-      <guid>https://lobste.rs/s/ax914v</guid>
-      <author>blog.codeberg.org via FedericoSchonborn</author>
-      <pubDate>Wed, 22 Jul 2026 20:04:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
     <item>
       <title>Don't take the black pill</title>
       <link>https://www.youtube.com/watch?v=zLZwpH5lCD4</link>
@@ -27,6 +17,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/td8rne/don_t_take_black_pill"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>video</category>
       <category>culture</category>
+    </item>
+    <item>
+      <title>Protecting our FLOSS commons from LLMs</title>
+      <link>https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html</link>
+      <guid>https://lobste.rs/s/ax914v</guid>
+      <author>blog.codeberg.org via FedericoSchonborn</author>
+      <pubDate>Wed, 22 Jul 2026 20:04:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Everyone Should Know SIMD</title>
@@ -51,18 +51,6 @@
       <category>rant</category>
     </item>
     <item>
-      <title>What is your favorite blog to read recently?</title>
-      <link>https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently</link>
-      <guid>https://lobste.rs/s/69mche</guid>
-      <author> by oceanhaiyang</author>
-      <pubDate>Sun, 19 Jul 2026 08:14:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently</comments>
-      <description>&lt;p&gt;Especially interesting what it adds beyond an academic paper would.&lt;/p&gt;
-</description>
-      <category>programming</category>
-      <category>ask</category>
-    </item>
-    <item>
       <title>Calm technologies that excite me</title>
       <link>https://abhi.now/blog/calm-technologies/</link>
       <guid>https://lobste.rs/s/fmyrgy</guid>
@@ -71,6 +59,16 @@
       <comments>https://lobste.rs/s/fmyrgy/calm_technologies_excite_me</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fmyrgy/calm_technologies_excite_me"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
+    </item>
+    <item>
+      <title>A shell colon does nothing. Use it anyway</title>
+      <link>https://refp.se/articles/your-shell-and-the-magic-colon</link>
+      <guid>https://lobste.rs/s/eidh3u</guid>
+      <author>refp.se by refp</author>
+      <pubDate>Sat, 25 Jul 2026 06:33:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>LG to Ban Residential Proxies from Smart TV Apps</title>
@@ -116,16 +114,6 @@
       <category>browsers</category>
       <category>mac</category>
       <category>windows</category>
-    </item>
-    <item>
-      <title>A shell colon does nothing. Use it anyway</title>
-      <link>https://refp.se/articles/your-shell-and-the-magic-colon</link>
-      <guid>https://lobste.rs/s/eidh3u</guid>
-      <author>refp.se by refp</author>
-      <pubDate>Sat, 25 Jul 2026 06:33:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
     </item>
     <item>
       <title>Linux kernel will support $ORIGIN, sort of</title>
@@ -257,6 +245,18 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
       <category>zig</category>
+    </item>
+    <item>
+      <title>Your harddrive is probably full</title>
+      <link>https://www.marginalia.nu/log/a_139_hdd/</link>
+      <guid>https://lobste.rs/s/wee5yh</guid>
+      <author>marginalia.nu via gonz</author>
+      <pubDate>Sat, 25 Jul 2026 13:19:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>culture</category>
+      <category>performance</category>
     </item>
     <item>
       <title>SIMD for Collision</title>
