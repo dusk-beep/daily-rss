@@ -61,6 +61,28 @@
       <category>hardware</category>
     </item>
     <item>
+      <title>On AI</title>
+      <link>https://jcs.org/2026/07/23/ai</link>
+      <guid>https://lobste.rs/s/zljfgp</guid>
+      <author>jcs.org via thang</author>
+      <pubDate>Mon, 27 Jul 2026 03:52:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/zljfgp/on_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zljfgp/on_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Inside Zig's Incremental Compilation</title>
+      <link>https://mlugg.co.uk/posts/incremental-compilation-internals/</link>
+      <guid>https://lobste.rs/s/rmzzdb</guid>
+      <author>mlugg.co.uk by mlugg</author>
+      <pubDate>Tue, 28 Jul 2026 09:14:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compilers</category>
+      <category>performance</category>
+      <category>zig</category>
+    </item>
+    <item>
       <title>A shell colon does nothing. Use it anyway</title>
       <link>https://refp.se/articles/your-shell-and-the-magic-colon</link>
       <guid>https://lobste.rs/s/eidh3u</guid>
@@ -71,14 +93,14 @@
       <category>programming</category>
     </item>
     <item>
-      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
-      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
-      <guid>https://lobste.rs/s/ny0yzm</guid>
-      <author>krebsonsecurity.com via raymii</author>
-      <pubDate>Wed, 22 Jul 2026 00:56:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>Blogging Can Just Be Stating The Obvious</title>
+      <link>https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</link>
+      <guid>https://lobste.rs/s/yijxwe</guid>
+      <author>blog.jim-nielsen.com via rmoff</author>
+      <pubDate>Mon, 27 Jul 2026 08:34:39 -0500</pubDate>
+      <comments>https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>education</category>
     </item>
     <item>
       <title>I Inspected My Take-Home Interview Project. It Was a Whole Operation</title>
@@ -116,72 +138,6 @@
       <category>windows</category>
     </item>
     <item>
-      <title>Linux kernel will support $ORIGIN, sort of</title>
-      <link>https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</link>
-      <guid>https://lobste.rs/s/msg39b</guid>
-      <author>fzakaria.com via ysun</author>
-      <pubDate>Tue, 21 Jul 2026 05:02:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort</comments>
-      <description>&lt;p&gt;HN discussions: &lt;a href="https://news.ycombinator.com/item?id=48988793" rel="ugc"&gt;https://news.ycombinator.com/item?id=48988793&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/msg39b/linux_kernel_will_support_origin_sort"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>linux</category>
-      <category>osdev</category>
-      <category>nix</category>
-    </item>
-    <item>
-      <title>Human mathematicians are being outcounterexampled</title>
-      <link>https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</link>
-      <guid>https://lobste.rs/s/wfmpqr</guid>
-      <author>xenaproject.wordpress.com via sanxiyn</author>
-      <pubDate>Mon, 20 Jul 2026 17:16:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/wfmpqr/human_mathematicians_are_being</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfmpqr/human_mathematicians_are_being"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>math</category>
-    </item>
-    <item>
-      <title>95 reasons for having your own website</title>
-      <link>https://bellkiosk.website/blog/reasons-to-website.html</link>
-      <guid>https://lobste.rs/s/v3xuxn</guid>
-      <author>bellkiosk.website via thang</author>
-      <pubDate>Mon, 20 Jul 2026 22:02:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>philosophy</category>
-    </item>
-    <item>
-      <title>git --end-of-options</title>
-      <link>https://nesbitt.io/2026/07/21/end-of-options.html</link>
-      <guid>https://lobste.rs/s/cxz7vd</guid>
-      <author>nesbitt.io via robalex</author>
-      <pubDate>Tue, 21 Jul 2026 07:31:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/cxz7vd/git_end_options</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxz7vd/git_end_options"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>vcs</category>
-    </item>
-    <item>
-      <title>Free Ink · An open ecosystem for e-readers</title>
-      <link>https://freeink.org/</link>
-      <guid>https://lobste.rs/s/rwdmjn</guid>
-      <author>freeink.org via Yogthos</author>
-      <pubDate>Tue, 21 Jul 2026 15:39:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-    </item>
-    <item>
-      <title>John C. Dvorak has died</title>
-      <link>http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
-      <guid>https://lobste.rs/s/ap3z0l</guid>
-      <author>oldvcr.blogspot.com via raymii</author>
-      <pubDate>Wed, 22 Jul 2026 21:09:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-    </item>
-    <item>
       <title>Making GIFs from 35mm film photography</title>
       <link>https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html</link>
       <guid>https://lobste.rs/s/ewh4v6</guid>
@@ -190,61 +146,6 @@
       <comments>https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>art</category>
-    </item>
-    <item>
-      <title>You should selfhost your mail (in 2026)</title>
-      <link>https://blog.haschek.at/2026/you-should-selfhost-your-mail.html</link>
-      <guid>https://lobste.rs/s/x3x2aw</guid>
-      <author>blog.haschek.at via cinemast</author>
-      <pubDate>Thu, 23 Jul 2026 16:10:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>email</category>
-    </item>
-    <item>
-      <title>GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
-      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
-      <guid>https://lobste.rs/s/twqtlo</guid>
-      <author>thorsell.io by GLaDER</author>
-      <pubDate>Tue, 21 Jul 2026 05:11:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>devops</category>
-      <category>vcs</category>
-    </item>
-    <item>
-      <title>InvisiCaps: The Fil-C Capability Model</title>
-      <link>https://fil-c.org/invisicaps</link>
-      <guid>https://lobste.rs/s/kdflhr</guid>
-      <author>fil-c.org via kwas</author>
-      <pubDate>Mon, 20 Jul 2026 10:21:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>compilers</category>
-    </item>
-    <item>
-      <title>Fil-C: Garbage In, Memory Safety Out</title>
-      <link>https://www.youtube.com/watch?v=5F-2Y1LPRek</link>
-      <guid>https://lobste.rs/s/badu44</guid>
-      <author>youtube.com via kristoff</author>
-      <pubDate>Thu, 23 Jul 2026 16:20:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>video</category>
-      <category>c</category>
-      <category>c++</category>
-    </item>
-    <item>
-      <title>I wrote an API client for my water-cooled bed</title>
-      <link>https://tinkering.xyz/bedctl/</link>
-      <guid>https://lobste.rs/s/op1k28</guid>
-      <author>tinkering.xyz by zmitchell</author>
-      <pubDate>Mon, 20 Jul 2026 02:04:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-      <category>zig</category>
     </item>
     <item>
       <title>Your harddrive is probably full</title>
@@ -259,6 +160,61 @@
       <category>performance</category>
     </item>
     <item>
+      <title>John C. Dvorak has died</title>
+      <link>http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
+      <guid>https://lobste.rs/s/ap3z0l</guid>
+      <author>oldvcr.blogspot.com via raymii</author>
+      <pubDate>Wed, 22 Jul 2026 21:09:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+    </item>
+    <item>
+      <title>You should selfhost your mail (in 2026)</title>
+      <link>https://blog.haschek.at/2026/you-should-selfhost-your-mail.html</link>
+      <guid>https://lobste.rs/s/x3x2aw</guid>
+      <author>blog.haschek.at via cinemast</author>
+      <pubDate>Thu, 23 Jul 2026 16:10:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>email</category>
+    </item>
+    <item>
+      <title>Fil-C: Garbage In, Memory Safety Out</title>
+      <link>https://www.youtube.com/watch?v=5F-2Y1LPRek</link>
+      <guid>https://lobste.rs/s/badu44</guid>
+      <author>youtube.com via kristoff</author>
+      <pubDate>Thu, 23 Jul 2026 16:20:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/badu44/fil_c_garbage_memory_safety_out"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>c</category>
+      <category>c++</category>
+    </item>
+    <item>
+      <title>The Productivity Mirage</title>
+      <link>https://frantic.im/mirage</link>
+      <guid>https://lobste.rs/s/gicomw</guid>
+      <author>frantic.im via carlana</author>
+      <pubDate>Mon, 27 Jul 2026 05:54:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/gicomw/productivity_mirage</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gicomw/productivity_mirage"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>programming</category>
+    </item>
+    <item>
+      <title>Memory Safety Absolutists</title>
+      <link>https://itsallaboutthebit.com/memory-safety-absolutists/</link>
+      <guid>https://lobste.rs/s/x7jtkt</guid>
+      <author>itsallaboutthebit.com via ekuber</author>
+      <pubDate>Sat, 25 Jul 2026 16:38:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/x7jtkt/memory_safety_absolutists</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x7jtkt/memory_safety_absolutists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>rust</category>
+      <category>zig</category>
+    </item>
+    <item>
       <title>SIMD for Collision</title>
       <link>https://box2d.org/posts/2026/07/simd-for-collision/</link>
       <guid>https://lobste.rs/s/gkcjic</guid>
@@ -269,14 +225,57 @@
       <category>performance</category>
     </item>
     <item>
-      <title>OpenAI and Hugging Face partner to address security incident during model evaluation</title>
-      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident/</link>
-      <guid>https://lobste.rs/s/7nrek3</guid>
-      <author>openai.com via dustyweb</author>
-      <pubDate>Tue, 21 Jul 2026 15:38:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/7nrek3/openai_hugging_face_partner_address</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7nrek3/openai_hugging_face_partner_address"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>Develop Cross-Platform CLI and GUI Tools With Tcl/Tk</title>
+      <link>https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</link>
+      <guid>https://lobste.rs/s/jrq2d9</guid>
+      <author>cgicoffee.com via hwj</author>
+      <pubDate>Tue, 28 Jul 2026 05:32:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>graphics</category>
+    </item>
+    <item>
+      <title>Maybe we should revisit microkernels</title>
+      <link>https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html</link>
+      <guid>https://lobste.rs/s/krsvrp</guid>
+      <author>notes.hella.cheap by bobpoekert</author>
+      <pubDate>Sat, 25 Jul 2026 17:13:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>osdev</category>
+    </item>
+    <item>
+      <title>Open Source Must Be Fun (Or It Will Die)</title>
+      <link>https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/</link>
+      <guid>https://lobste.rs/s/vjwhqn</guid>
+      <author>mikemcquaid.com via hugoarnal</author>
+      <pubDate>Mon, 27 Jul 2026 10:33:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Framework 13 Pro review: Much better battery, much worse price</title>
+      <link>https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/</link>
+      <guid>https://lobste.rs/s/yo5wxp</guid>
+      <author>arstechnica.com via white-star</author>
+      <pubDate>Mon, 27 Jul 2026 22:15:40 -0500</pubDate>
+      <comments>https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+    </item>
+    <item>
+      <title>Watching Go's new garbage collector move through the heap</title>
+      <link>https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html</link>
+      <guid>https://lobste.rs/s/u60zv9</guid>
+      <author>theconsensus.dev by eatonphil</author>
+      <pubDate>Fri, 24 Jul 2026 15:34:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+      <category>dotnet</category>
+      <category>performance</category>
     </item>
   </channel>
 </rss>
