@@ -53,6 +53,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Don't Take the Black Pill (Text Adaptation)</title>
+      <link>https://andrewkelley.me/post/dont-take-black-pill.html</link>
+      <guid>https://lobste.rs/s/tqcwbi</guid>
+      <author>andrewkelley.me via dominicm</author>
+      <pubDate>Mon, 03 Aug 2026 05:20:27 -0500</pubDate>
+      <comments>https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
       <title>NetBSD 11.0 released</title>
       <link>https://blog.netbsd.org/tnf/entry/netbsd_11_0_released</link>
       <guid>https://lobste.rs/s/pvrnor</guid>
@@ -62,6 +72,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pvrnor/netbsd_11_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>netbsd</category>
+    </item>
+    <item>
+      <title>Kill the Cookie Banner</title>
+      <link>https://killthecookiebanner.eu/</link>
+      <guid>https://lobste.rs/s/aftrcr</guid>
+      <author>killthecookiebanner.eu via loige</author>
+      <pubDate>Mon, 03 Aug 2026 08:31:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/aftrcr/kill_cookie_banner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aftrcr/kill_cookie_banner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>law</category>
     </item>
     <item>
       <title>How to speed up the Rust compiler in July 2026</title>
@@ -76,16 +97,6 @@
       <category>performance</category>
     </item>
     <item>
-      <title>Don't Take the Black Pill (Text Adaptation)</title>
-      <link>https://andrewkelley.me/post/dont-take-black-pill.html</link>
-      <guid>https://lobste.rs/s/tqcwbi</guid>
-      <author>andrewkelley.me via dominicm</author>
-      <pubDate>Mon, 03 Aug 2026 05:20:27 -0500</pubDate>
-      <comments>https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Ruby Central's Destructive Legacy</title>
       <link>https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</link>
       <guid>https://lobste.rs/s/qvbkpa</guid>
@@ -97,27 +108,6 @@
       <category>rant</category>
     </item>
     <item>
-      <title>Atom is better than RSS, in ways that matter</title>
-      <link>https://chrismorgan.info/atom%3Erss</link>
-      <guid>https://lobste.rs/s/80cn4r</guid>
-      <author>chrismorgan.info via bitshift</author>
-      <pubDate>Sat, 01 Aug 2026 23:40:17 -0500</pubDate>
-      <comments>https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Kill the Cookie Banner</title>
-      <link>https://killthecookiebanner.eu/</link>
-      <guid>https://lobste.rs/s/aftrcr</guid>
-      <author>killthecookiebanner.eu via loige</author>
-      <pubDate>Mon, 03 Aug 2026 08:31:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/aftrcr/kill_cookie_banner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aftrcr/kill_cookie_banner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>law</category>
-    </item>
-    <item>
       <title>Don't be a meat proxy</title>
       <link>https://gruhn.me/blog/2026-08-03/</link>
       <guid>https://lobste.rs/s/hfbqr3</guid>
@@ -127,6 +117,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Atom is better than RSS, in ways that matter</title>
+      <link>https://chrismorgan.info/atom%3Erss</link>
+      <guid>https://lobste.rs/s/80cn4r</guid>
+      <author>chrismorgan.info via bitshift</author>
+      <pubDate>Sat, 01 Aug 2026 23:40:17 -0500</pubDate>
+      <comments>https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>State of multi-player Wayland</title>
@@ -271,13 +271,13 @@
       <category>gleam</category>
     </item>
     <item>
-      <title>Framework 13 Pro review: Much better battery, much worse price</title>
-      <link>https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/</link>
-      <guid>https://lobste.rs/s/yo5wxp</guid>
-      <author>arstechnica.com via white-star</author>
-      <pubDate>Mon, 27 Jul 2026 22:15:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>First CHERIoT Silicon</title>
+      <link>https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html</link>
+      <guid>https://lobste.rs/s/l3sj7g</guid>
+      <author>cheriot.org via kaycebasques</author>
+      <pubDate>Wed, 29 Jul 2026 13:11:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/l3sj7g/first_cheriot_silicon</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l3sj7g/first_cheriot_silicon"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
     </item>
   </channel>
