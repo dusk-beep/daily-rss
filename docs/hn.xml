@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Karpathy’s Pelican</title>
-      <link>https://twitter.com/karpathy/status/2083749667410727319</link>
-      <description>427 points • 335 comments • by delichon&#xA;https://news.ycombinator.com/item?id=49140998</description>
-      <pubDate>Mon, 03 Aug 2026 01:26:36 +0000</pubDate>
-      <guid>49140998</guid>
+      <title>Don&#39;t be a meat proxy</title>
+      <link>https://gruhn.me/blog/2026-08-03/</link>
+      <description>1694 points • 689 comments • by ngruhn&#xA;https://news.ycombinator.com/item?id=49151933</description>
+      <pubDate>Tue, 04 Aug 2026 01:16:31 +0000</pubDate>
+      <guid>49151933</guid>
     </item>
     <item>
-      <title>Go 1.27 Interactive Tour</title>
-      <link>https://victoriametrics.com/blog/go-1-27/index.html</link>
-      <description>344 points • 176 comments • by Hixon10&#xA;https://news.ycombinator.com/item?id=49140218</description>
-      <pubDate>Mon, 03 Aug 2026 01:25:36 +0000</pubDate>
-      <guid>49140218</guid>
+      <title>Qwen3.8-Max: A New Bar for Coding and Cowork</title>
+      <link>https://qwen.ai/blog?id=qwen3.8</link>
+      <description>1051 points • 565 comments • by ai2027&#xA;https://news.ycombinator.com/item?id=49150470</description>
+      <pubDate>Tue, 04 Aug 2026 01:15:31 +0000</pubDate>
+      <guid>49150470</guid>
     </item>
     <item>
-      <title>Wikimedia Foundation refuses union recognition, hires union-busting law firm</title>
-      <link>https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes</link>
-      <description>321 points • 308 comments • by akolbe&#xA;https://news.ycombinator.com/item?id=49143414</description>
-      <pubDate>Mon, 03 Aug 2026 01:24:36 +0000</pubDate>
-      <guid>49143414</guid>
+      <title>SQLite Critical CVEs or LLM Slop?</title>
+      <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
+      <description>697 points • 347 comments • by ymir_e&#xA;https://news.ycombinator.com/item?id=49154332</description>
+      <pubDate>Tue, 04 Aug 2026 01:14:31 +0000</pubDate>
+      <guid>49154332</guid>
     </item>
     <item>
-      <title>Show HN: I&#39;m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built</title>
-      <link>https://github.com/tom-ilan/cycloidal_gearbox</link>
-      <description>318 points • 102 comments • by tomilan&#xA;https://news.ycombinator.com/item?id=49140396</description>
-      <pubDate>Mon, 03 Aug 2026 01:23:36 +0000</pubDate>
-      <guid>49140396</guid>
+      <title>Devtools must be open source</title>
+      <link>https://blog.exe.dev/devtools-must-be-open-source</link>
+      <description>493 points • 177 comments • by bryanmikaelian&#xA;https://news.ycombinator.com/item?id=49156111</description>
+      <pubDate>Tue, 04 Aug 2026 01:13:31 +0000</pubDate>
+      <guid>49156111</guid>
     </item>
     <item>
-      <title>Running Kimi K3 on MI355X at Better Performance per Dollar Than B300</title>
-      <link>https://www.wafer.ai/blog/kimi-k3-mi355x</link>
-      <description>203 points • 97 comments • by ilreb&#xA;https://news.ycombinator.com/item?id=49141073</description>
-      <pubDate>Mon, 03 Aug 2026 01:22:36 +0000</pubDate>
-      <guid>49141073</guid>
+      <title>Ten advances in mathematics and theoretical computer science</title>
+      <link>https://openai.com/index/ten-advances-in-mathematics/</link>
+      <description>418 points • 697 comments • by milkshakes&#xA;https://news.ycombinator.com/item?id=49157930</description>
+      <pubDate>Tue, 04 Aug 2026 01:12:31 +0000</pubDate>
+      <guid>49157930</guid>
     </item>
     <item>
-      <title>US Treasury undertakes historic intervention in yen market</title>
-      <link>https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8</link>
-      <description>189 points • 165 comments • by 23pointsNorth&#xA;https://news.ycombinator.com/item?id=49143188</description>
-      <pubDate>Mon, 03 Aug 2026 01:21:36 +0000</pubDate>
-      <guid>49143188</guid>
+      <title>More German than many Germans</title>
+      <link>https://mertbulan.com/more-german-than-many-germans/</link>
+      <description>396 points • 307 comments • by mertbio&#xA;https://news.ycombinator.com/item?id=49151734</description>
+      <pubDate>Tue, 04 Aug 2026 01:11:31 +0000</pubDate>
+      <guid>49151734</guid>
     </item>
     <item>
-      <title>How the words we teach English language learners changed</title>
-      <link>https://pudding.cool/2026/07/essential-words/</link>
-      <description>189 points • 130 comments • by c-oreills&#xA;https://news.ycombinator.com/item?id=49145590</description>
-      <pubDate>Mon, 03 Aug 2026 01:20:36 +0000</pubDate>
-      <guid>49145590</guid>
+      <title>LLMs reward expertise</title>
+      <link>https://www.seangoedecke.com/llms-reward-expertise/</link>
+      <description>394 points • 181 comments • by MaxMussio&#xA;https://news.ycombinator.com/item?id=49161518</description>
+      <pubDate>Tue, 04 Aug 2026 01:10:31 +0000</pubDate>
+      <guid>49161518</guid>
     </item>
     <item>
-      <title>Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM</title>
-      <link>https://github.com/wie-project/kakehashi</link>
-      <description>177 points • 36 comments • by vlad_kalinkin&#xA;https://news.ycombinator.com/item?id=49145937</description>
-      <pubDate>Mon, 03 Aug 2026 01:19:36 +0000</pubDate>
-      <guid>49145937</guid>
+      <title>Prevent cognitive debt by manually retyping LLM-generated code</title>
+      <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
+      <description>379 points • 319 comments • by mpweiher&#xA;https://news.ycombinator.com/item?id=49153374</description>
+      <pubDate>Tue, 04 Aug 2026 01:09:31 +0000</pubDate>
+      <guid>49153374</guid>
     </item>
     <item>
-      <title>&#39;Crush this lady&#39;: how eBay harassment campaign led to $56M payout</title>
-      <link>https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2</link>
-      <description>176 points • 82 comments • by JumpCrisscross&#xA;https://news.ycombinator.com/item?id=49147435</description>
-      <pubDate>Mon, 03 Aug 2026 01:18:36 +0000</pubDate>
-      <guid>49147435</guid>
+      <title>Wind and solar overtake fossil fuels in Germany for the first time</title>
+      <link>https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/</link>
+      <description>338 points • 264 comments • by just_some_user&#xA;https://news.ycombinator.com/item?id=49155359</description>
+      <pubDate>Tue, 04 Aug 2026 01:08:31 +0000</pubDate>
+      <guid>49155359</guid>
     </item>
     <item>
-      <title>Meshdiff – visually compare two STL versions in the browser, client-side</title>
-      <link>https://meshdiff.com/</link>
-      <description>176 points • 19 comments • by projscope&#xA;https://news.ycombinator.com/item?id=49143479</description>
-      <pubDate>Mon, 03 Aug 2026 01:17:36 +0000</pubDate>
-      <guid>49143479</guid>
+      <title>Show HN: Isopolis – Isometric pixel map of SF</title>
+      <link>https://sf.isopolis.city/</link>
+      <description>333 points • 75 comments • by nuwandavek&#xA;https://news.ycombinator.com/item?id=49149966</description>
+      <pubDate>Tue, 04 Aug 2026 01:07:31 +0000</pubDate>
+      <guid>49149966</guid>
     </item>
   </channel>
 </rss>

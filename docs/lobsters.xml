@@ -19,17 +19,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Don't take the black pill</title>
-      <link>https://www.youtube.com/watch?v=zLZwpH5lCD4</link>
-      <guid>https://lobste.rs/s/td8rne</guid>
-      <author>youtube.com via Malp</author>
-      <pubDate>Fri, 24 Jul 2026 09:24:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/td8rne/don_t_take_black_pill</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/td8rne/don_t_take_black_pill"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>video</category>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Inside Zig's Incremental Compilation</title>
       <link>https://mlugg.co.uk/posts/incremental-compilation-internals/</link>
       <guid>https://lobste.rs/s/rmzzdb</guid>
@@ -52,34 +41,92 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>On AI</title>
-      <link>https://jcs.org/2026/07/23/ai</link>
-      <guid>https://lobste.rs/s/zljfgp</guid>
-      <author>jcs.org via thang</author>
-      <pubDate>Mon, 27 Jul 2026 03:52:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/zljfgp/on_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zljfgp/on_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>help wanted</title>
+      <link>https://lake.computer/blog/help-wanted/</link>
+      <guid>https://lobste.rs/s/a355zh</guid>
+      <author>lake.computer by lake</author>
+      <pubDate>Mon, 03 Aug 2026 09:20:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/a355zh/help_wanted</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a355zh/help_wanted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>satire</category>
       <category>vibecoding</category>
     </item>
     <item>
-      <title>A shell colon does nothing. Use it anyway</title>
-      <link>https://refp.se/articles/your-shell-and-the-magic-colon</link>
-      <guid>https://lobste.rs/s/eidh3u</guid>
-      <author>refp.se by refp</author>
-      <pubDate>Sat, 25 Jul 2026 06:33:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
+      <title>NetBSD 11.0 released</title>
+      <link>https://blog.netbsd.org/tnf/entry/netbsd_11_0_released</link>
+      <guid>https://lobste.rs/s/pvrnor</guid>
+      <author>blog.netbsd.org via jaypatelani</author>
+      <pubDate>Sat, 01 Aug 2026 12:57:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/pvrnor/netbsd_11_0_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pvrnor/netbsd_11_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>netbsd</category>
     </item>
     <item>
-      <title>Blogging Can Just Be Stating The Obvious</title>
-      <link>https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</link>
-      <guid>https://lobste.rs/s/yijxwe</guid>
-      <author>blog.jim-nielsen.com via rmoff</author>
-      <pubDate>Mon, 27 Jul 2026 08:34:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>education</category>
+      <title>How to speed up the Rust compiler in July 2026</title>
+      <link>https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html</link>
+      <guid>https://lobste.rs/s/ycsivx</guid>
+      <author>nnethercote.github.io via asb</author>
+      <pubDate>Fri, 31 Jul 2026 00:46:14 -0500</pubDate>
+      <comments>https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>compilers</category>
+      <category>performance</category>
+    </item>
+    <item>
+      <title>Don't Take the Black Pill (Text Adaptation)</title>
+      <link>https://andrewkelley.me/post/dont-take-black-pill.html</link>
+      <guid>https://lobste.rs/s/tqcwbi</guid>
+      <author>andrewkelley.me via dominicm</author>
+      <pubDate>Mon, 03 Aug 2026 05:20:27 -0500</pubDate>
+      <comments>https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Ruby Central's Destructive Legacy</title>
+      <link>https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</link>
+      <guid>https://lobste.rs/s/qvbkpa</guid>
+      <author>andre.arko.net via soulcutter</author>
+      <pubDate>Fri, 31 Jul 2026 09:47:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
+      <category>rant</category>
+    </item>
+    <item>
+      <title>Atom is better than RSS, in ways that matter</title>
+      <link>https://chrismorgan.info/atom%3Erss</link>
+      <guid>https://lobste.rs/s/80cn4r</guid>
+      <author>chrismorgan.info via bitshift</author>
+      <pubDate>Sat, 01 Aug 2026 23:40:17 -0500</pubDate>
+      <comments>https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Kill the Cookie Banner</title>
+      <link>https://killthecookiebanner.eu/</link>
+      <guid>https://lobste.rs/s/aftrcr</guid>
+      <author>killthecookiebanner.eu via loige</author>
+      <pubDate>Mon, 03 Aug 2026 08:31:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/aftrcr/kill_cookie_banner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aftrcr/kill_cookie_banner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>law</category>
+    </item>
+    <item>
+      <title>Don't be a meat proxy</title>
+      <link>https://gruhn.me/blog/2026-08-03/</link>
+      <guid>https://lobste.rs/s/hfbqr3</guid>
+      <author>gruhn.me via antonmedv</author>
+      <pubDate>Mon, 03 Aug 2026 02:10:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>State of multi-player Wayland</title>
@@ -92,38 +139,68 @@
       <category>linux</category>
     </item>
     <item>
-      <title>Chrome registers a global shortcut for Gemini popup window</title>
-      <link>https://unsung.aresluna.org/chromes-breaking-and-entering/</link>
-      <guid>https://lobste.rs/s/c76s0r</guid>
-      <author>unsung.aresluna.org via skycam</author>
-      <pubDate>Fri, 24 Jul 2026 18:04:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>mac</category>
-      <category>windows</category>
+      <title>deskhop: Fast Desktop Switching Device</title>
+      <link>https://github.com/hrvach/deskhop</link>
+      <guid>https://lobste.rs/s/zk0qqe</guid>
+      <author>github.com via dominicm</author>
+      <pubDate>Thu, 30 Jul 2026 02:52:39 -0500</pubDate>
+      <comments>https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
     <item>
-      <title>Making GIFs from 35mm film photography</title>
-      <link>https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html</link>
-      <guid>https://lobste.rs/s/ewh4v6</guid>
-      <author>blog.willgrant.org by wgx</author>
-      <pubDate>Fri, 24 Jul 2026 00:29:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>art</category>
+      <title>C++ float-to-int conversion can be undefined behavior</title>
+      <link>https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/</link>
+      <guid>https://lobste.rs/s/ba2yfy</guid>
+      <author>kttnr.net via classichasclass</author>
+      <pubDate>Wed, 29 Jul 2026 22:47:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c++</category>
     </item>
     <item>
-      <title>Your harddrive is probably full</title>
-      <link>https://www.marginalia.nu/log/a_139_hdd/</link>
-      <guid>https://lobste.rs/s/wee5yh</guid>
-      <author>marginalia.nu via gonz</author>
-      <pubDate>Sat, 25 Jul 2026 13:19:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wee5yh/your_harddrive_is_probably_full"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>culture</category>
+      <title>The AI Aesthetic</title>
+      <link>https://blog.jim-nielsen.com/2026/ai-aesthetic/</link>
+      <guid>https://lobste.rs/s/wxmi0v</guid>
+      <author>blog.jim-nielsen.com via carlana</author>
+      <pubDate>Thu, 30 Jul 2026 08:57:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/wxmi0v/ai_aesthetic</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wxmi0v/ai_aesthetic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Elevators</title>
+      <link>https://john.fun/elevators</link>
+      <guid>https://lobste.rs/s/jxqf1w</guid>
+      <author>john.fun via markerz</author>
+      <pubDate>Sat, 01 Aug 2026 00:49:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/jxqf1w/elevators</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jxqf1w/elevators"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compsci</category>
+      <category>math</category>
+      <category>visualization</category>
       <category>performance</category>
+    </item>
+    <item>
+      <title>Go 1.27 interactive tour</title>
+      <link>https://victoriametrics.com/blog/go-1-27/</link>
+      <guid>https://lobste.rs/s/7ibjyl</guid>
+      <author>victoriametrics.com via cgrinds</author>
+      <pubDate>Fri, 31 Jul 2026 06:15:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+    </item>
+    <item>
+      <title>Why I forked rand</title>
+      <link>https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html</link>
+      <guid>https://lobste.rs/s/kvxee3</guid>
+      <author>casualhacks.net via ollien</author>
+      <pubDate>Fri, 31 Jul 2026 10:02:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/kvxee3/why_i_forked_rand</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kvxee3/why_i_forked_rand"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
     </item>
     <item>
       <title>User Interfaces of the Demo Scene</title>
@@ -137,14 +214,16 @@
       <category>art</category>
     </item>
     <item>
-      <title>C++ float-to-int conversion can be undefined behavior</title>
-      <link>https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/</link>
-      <guid>https://lobste.rs/s/ba2yfy</guid>
-      <author>kttnr.net via classichasclass</author>
-      <pubDate>Wed, 29 Jul 2026 22:47:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c++</category>
+      <title>What side projects have you enjoyed the most?</title>
+      <link>https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most</link>
+      <guid>https://lobste.rs/s/mbk56v</guid>
+      <author> by nick4</author>
+      <pubDate>Wed, 29 Jul 2026 20:40:31 -0500</pubDate>
+      <comments>https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most</comments>
+      <description>&lt;p&gt;In the spirit of &lt;a href="https://blog.jsbarretto.com/post/software-is-joy" rel="ugc"&gt;https://blog.jsbarretto.com/post/software-is-joy&lt;/a&gt;, what side projects have you enjoyed working on the most?&lt;/p&gt;
+</description>
+      <category>programming</category>
+      <category>ask</category>
     </item>
     <item>
       <title>Develop Cross-Platform CLI and GUI Tools With Tcl/Tk</title>
@@ -155,49 +234,6 @@
       <comments>https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>graphics</category>
-    </item>
-    <item>
-      <title>The Productivity Mirage</title>
-      <link>https://frantic.im/mirage</link>
-      <guid>https://lobste.rs/s/gicomw</guid>
-      <author>frantic.im via carlana</author>
-      <pubDate>Mon, 27 Jul 2026 05:54:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/gicomw/productivity_mirage</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gicomw/productivity_mirage"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>programming</category>
-    </item>
-    <item>
-      <title>Framework 13 Pro review: Much better battery, much worse price</title>
-      <link>https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/</link>
-      <guid>https://lobste.rs/s/yo5wxp</guid>
-      <author>arstechnica.com via white-star</author>
-      <pubDate>Mon, 27 Jul 2026 22:15:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-    </item>
-    <item>
-      <title>Writing Toy Software Is A Joy (2025)</title>
-      <link>https://blog.jsbarretto.com/post/software-is-joy</link>
-      <guid>https://lobste.rs/s/ax6col</guid>
-      <author>blog.jsbarretto.com via abhin4v</author>
-      <pubDate>Wed, 29 Jul 2026 00:14:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/ax6col/writing_toy_software_is_joy_2025</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ax6col/writing_toy_software_is_joy_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-    </item>
-    <item>
-      <title>Memory Safety Absolutists</title>
-      <link>https://itsallaboutthebit.com/memory-safety-absolutists/</link>
-      <guid>https://lobste.rs/s/x7jtkt</guid>
-      <author>itsallaboutthebit.com via ekuber</author>
-      <pubDate>Sat, 25 Jul 2026 16:38:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/x7jtkt/memory_safety_absolutists</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x7jtkt/memory_safety_absolutists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>rust</category>
-      <category>zig</category>
     </item>
     <item>
       <title>Why Rocq is better than Lean for program verification</title>
@@ -214,25 +250,14 @@
       <category>plt</category>
     </item>
     <item>
-      <title>Maybe we should revisit microkernels</title>
-      <link>https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html</link>
-      <guid>https://lobste.rs/s/krsvrp</guid>
-      <author>notes.hella.cheap by bobpoekert</author>
-      <pubDate>Sat, 25 Jul 2026 17:13:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>osdev</category>
-    </item>
-    <item>
-      <title>Open Source Must Be Fun (Or It Will Die)</title>
-      <link>https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/</link>
-      <guid>https://lobste.rs/s/vjwhqn</guid>
-      <author>mikemcquaid.com via hugoarnal</author>
-      <pubDate>Mon, 27 Jul 2026 10:33:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjwhqn/open_source_must_be_fun_it_will_die"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>culture</category>
+      <title>Writing Toy Software Is A Joy (2025)</title>
+      <link>https://blog.jsbarretto.com/post/software-is-joy</link>
+      <guid>https://lobste.rs/s/ax6col</guid>
+      <author>blog.jsbarretto.com via abhin4v</author>
+      <pubDate>Wed, 29 Jul 2026 00:14:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/ax6col/writing_toy_software_is_joy_2025</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ax6col/writing_toy_software_is_joy_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>A field day for Gleam’s language server | Gleam v.1.18.0 release</title>
@@ -246,36 +271,14 @@
       <category>gleam</category>
     </item>
     <item>
-      <title>The mean means nothing</title>
-      <link>https://fzakaria.com/2026/07/27/the-mean-means-nothing</link>
-      <guid>https://lobste.rs/s/p0fdmk</guid>
-      <author>fzakaria.com via domenkozar</author>
-      <pubDate>Tue, 28 Jul 2026 13:53:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/p0fdmk/mean_means_nothing</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p0fdmk/mean_means_nothing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>performance</category>
-    </item>
-    <item>
-      <title>First CHERIoT Silicon</title>
-      <link>https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html</link>
-      <guid>https://lobste.rs/s/l3sj7g</guid>
-      <author>cheriot.org via kaycebasques</author>
-      <pubDate>Wed, 29 Jul 2026 13:11:44 -0500</pubDate>
-      <comments>https://lobste.rs/s/l3sj7g/first_cheriot_silicon</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l3sj7g/first_cheriot_silicon"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Framework 13 Pro review: Much better battery, much worse price</title>
+      <link>https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/</link>
+      <guid>https://lobste.rs/s/yo5wxp</guid>
+      <author>arstechnica.com via white-star</author>
+      <pubDate>Mon, 27 Jul 2026 22:15:40 -0500</pubDate>
+      <comments>https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yo5wxp/framework_13_pro_review_much_better"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
-    </item>
-    <item>
-      <title>Watching Go's new garbage collector move through the heap</title>
-      <link>https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html</link>
-      <guid>https://lobste.rs/s/u60zv9</guid>
-      <author>theconsensus.dev by eatonphil</author>
-      <pubDate>Fri, 24 Jul 2026 15:34:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u60zv9/watching_go_s_new_garbage_collector_move"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
-      <category>dotnet</category>
-      <category>performance</category>
     </item>
   </channel>
 </rss>
