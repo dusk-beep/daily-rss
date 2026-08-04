@@ -25,6 +25,26 @@ jobs:
           go run ./cmd/lobster > docs/lobsters.xml
           go run ./cmd/hn > docs/hn.xml
 
+      - name: Fetch Ziperto feed
+        run: |
+          docker run -d --name flaresolverr -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
+
+          until curl -sf http://localhost:8191/; do
+            sleep 2
+          done
+
+          curl -s \
+            -X POST http://localhost:8191/v1 \
+            -H "Content-Type: application/json" \
+            -d '{
+              "cmd":"request.get",
+              "url":"https://ziperto.com/feed/",
+              "maxTimeout":120000
+            }' > response.json
+
+          go run ./cmd/unescape response.json
+          mv feed.xml docs/ziperto.xml
+
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: Update Lobsters feed
+          commit_message: Update feed
