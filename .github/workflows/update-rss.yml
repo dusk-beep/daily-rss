@@ -29,9 +29,17 @@ jobs:
         run: |
           docker run -d --name flaresolverr -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
 
-          until curl -sf http://localhost:8191/; do
-            sleep 2
+          for i in {1..30}; do
+              if curl -sf http://localhost:8191/ >/dev/null; then
+                  break
+              fi
+              sleep 2
           done
+
+          curl -sf http://localhost:8191/ >/dev/null || {
+              echo "FlareSolverr failed to start"
+              exit 1
+          }
 
           curl -s \
             -X POST http://localhost:8191/v1 \
