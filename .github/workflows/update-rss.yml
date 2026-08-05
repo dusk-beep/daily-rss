@@ -46,12 +46,20 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{
               "cmd":"request.get",
+              "url":"https://ziperto.com/"
+            }' \
+          | jq -r '.solution.response' > ziperto.html
+
+          curl -s \
+            -X POST http://localhost:8191/v1 \
+            -H "Content-Type: application/json" \
+            -d '{
+              "cmd":"request.get",
               "url":"https://ziperto.com/feed/",
               "maxTimeout":120000
             }' > response.json
 
-          go run ./cmd/unescape response.json
-          mv feed.xml docs/ziperto.xml
+          go run ./cmd/unescape response.json ziperto.html docs/ziperto.xml
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:

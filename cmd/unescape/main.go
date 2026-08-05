@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
-	"io"
 	"os"
 	"strings"
 
@@ -15,6 +14,29 @@ type Response struct {
 	Solution struct {
 		Response string `json:"response"`
 	} `json:"solution"`
+}
+
+type RSS struct {
+	XMLName xml.Name `xml:"rss"`
+	Version string   `xml:"version,attr"`
+	Channel Channel  `xml:"channel"`
+}
+
+type Channel struct {
+	Title       string `xml:"title"`
+	Link        string `xml:"link"`
+	Description string `xml:"description"`
+	Language    string `xml:"language,omitempty"`
+	Items       []Item `xml:"item"`
+}
+
+type Item struct {
+	Title       string `xml:"title"`
+	Link        string `xml:"link"`
+	Description string `xml:"description,omitempty"`
+	PubDate     string `xml:"pubDate,omitempty"`
+	GUID        string `xml:"guid,omitempty"`
+	Category    string `xml:"category,omitempty"`
 }
 
 func extractXML(data string) (string, error) {
@@ -55,7 +77,16 @@ func extractXML(data string) (string, error) {
 }
 
 func main() {
-	data, err := os.ReadFile(os.Args[1])
+	if len(os.Args) != 4 {
+		fmt.Fprintf(os.Stderr, "Usage: %s <response.json> <ziperto.html> <output.xml>\n", os.Args[0])
+		os.Exit(2)
+	}
+
+	responsePath := os.Args[1]
+	htmlPath := os.Args[2]
+	outputPath := os.Args[3]
+
+	data, err := os.ReadFile(responsePath)
 	if err != nil {
 		panic(err)
 	}
@@ -70,17 +101,39 @@ func main() {
 		panic(err)
 	}
 
-	dec := xml.NewDecoder(strings.NewReader(xm))
-	for {
-		if _, err := dec.Token(); err != nil {
-			if err == io.EOF {
-				break
-			}
-			panic(err)
-		}
+	var rss RSS
+	if err := xml.Unmarshal([]byte(xm), &rss); err != nil {
+		panic(err)
 	}
 
-	if err := os.WriteFile("feed.xml", []byte(xm), 0644); err != nil {
+	f, err := os.Open(htmlPath)
+	if err != nil {
+		panic(err)
+	}
+	defer f.Close()
+
+	updates, err := scrapeUpdates(f)
+	if err != nil {
+		panic(err)
+	}
+
+	for _, u := range updates {
+		rss.Channel.Items = append(rss.Channel.Items, Item{
+			Title:    u.Title,
+			Link:     u.Link,
+			GUID:     u.Link + "#update",
+			Category: "Update",
+		})
+	}
+	out, err := xml.MarshalIndent(rss, "", "  ")
+	if err != nil {
+		panic(err)
+	}
+
+	// Write XML declaration + document
+	out = append([]byte(xml.Header), out...)
+
+	if err := os.WriteFile(outputPath, out, 0644); err != nil {
 		panic(err)
 	}
 }
