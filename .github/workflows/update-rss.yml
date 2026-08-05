@@ -46,7 +46,8 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{
               "cmd":"request.get",
-              "url":"https://ziperto.com/"
+              "url":"https://ziperto.com/",
+              "maxTimeout":120000
             }' \
           | jq -r '.solution.response' > ziperto.html
 

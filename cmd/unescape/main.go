@@ -11,7 +11,11 @@ import (
 )
 
 type Response struct {
+	Status  string `json:"status"`
+	Message string `json:"message"`
+
 	Solution struct {
+		Status   int    `json:"status"`
 		Response string `json:"response"`
 	} `json:"solution"`
 }
@@ -94,6 +98,14 @@ func main() {
 	var r Response
 	if err := json.Unmarshal(data, &r); err != nil {
 		panic(err)
+	}
+
+	if r.Status != "ok" {
+		panic(fmt.Errorf("flaresolverr error: %s", r.Message))
+	}
+
+	if r.Solution.Status != 200 {
+		panic(fmt.Errorf("unexpected HTTP status: %d", r.Solution.Status))
 	}
 
 	xm, err := extractXML(r.Solution.Response)
