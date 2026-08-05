@@ -1,0 +1,46 @@
+name: Test FlareSolverr
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Start FlareSolverr
+        run: |
+          docker run -d --name flaresolverr -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
+
+          for i in {1..30}; do
+            if curl -sf http://localhost:8191/ >/dev/null; then
+              break
+            fi
+            sleep 2
+          done
+
+          curl -sf http://localhost:8191/ >/dev/null || {
+            echo "FlareSolverr failed to start"
+            exit 1
+          }
+
+      - name: Fetch HTML
+        run: |
+          curl -s \
+            -X POST http://localhost:8191/v1 \
+            -H "Content-Type: application/json" \
+            -d '{
+              "cmd":"request.get",
+              "url":"https://ziperto.com/"
+            }' \
+          | jq -r '.solution.response' > ziperto.html
+
+          head -n 20 ziperto.html
+
+      - name: Upload HTML
+        uses: actions/upload-artifact@v4
+        with:
+          name: ziperto-html
+          path: ziperto.html
