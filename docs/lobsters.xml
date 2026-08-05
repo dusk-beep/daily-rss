@@ -19,28 +19,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Inside Zig's Incremental Compilation</title>
-      <link>https://mlugg.co.uk/posts/incremental-compilation-internals/</link>
-      <guid>https://lobste.rs/s/rmzzdb</guid>
-      <author>mlugg.co.uk by mlugg</author>
-      <pubDate>Tue, 28 Jul 2026 09:14:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compilers</category>
-      <category>performance</category>
-      <category>zig</category>
-    </item>
-    <item>
-      <title>AI Mania Is Eviscerating Global Decision-Making</title>
-      <link>https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking</link>
-      <guid>https://lobste.rs/s/xi6azw</guid>
-      <author>hermit-tech.com via zanlib</author>
-      <pubDate>Wed, 29 Jul 2026 05:42:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>help wanted</title>
       <link>https://lake.computer/blog/help-wanted/</link>
       <guid>https://lobste.rs/s/a355zh</guid>
@@ -53,6 +31,17 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Kill the Cookie Banner</title>
+      <link>https://killthecookiebanner.eu/</link>
+      <guid>https://lobste.rs/s/aftrcr</guid>
+      <author>killthecookiebanner.eu via loige</author>
+      <pubDate>Mon, 03 Aug 2026 08:31:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/aftrcr/kill_cookie_banner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aftrcr/kill_cookie_banner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>law</category>
+    </item>
+    <item>
       <title>Don't Take the Black Pill (Text Adaptation)</title>
       <link>https://andrewkelley.me/post/dont-take-black-pill.html</link>
       <guid>https://lobste.rs/s/tqcwbi</guid>
@@ -61,6 +50,38 @@
       <comments>https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>culture</category>
+    </item>
+    <item>
+      <title>AI Mania Is Eviscerating Global Decision-Making</title>
+      <link>https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking</link>
+      <guid>https://lobste.rs/s/xi6azw</guid>
+      <author>hermit-tech.com via zanlib</author>
+      <pubDate>Wed, 29 Jul 2026 05:42:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Don't be a meat proxy</title>
+      <link>https://gruhn.me/blog/2026-08-03/</link>
+      <guid>https://lobste.rs/s/hfbqr3</guid>
+      <author>gruhn.me via antonmedv</author>
+      <pubDate>Mon, 03 Aug 2026 02:10:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Twenty Years of Pandoc</title>
+      <link>https://pandoc.org/twenty-years-of-pandoc.html</link>
+      <guid>https://lobste.rs/s/blflqs</guid>
+      <author>pandoc.org via ehamberg</author>
+      <pubDate>Mon, 03 Aug 2026 14:44:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/blflqs/twenty_years_pandoc</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blflqs/twenty_years_pandoc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>haskell</category>
+      <category>historical</category>
     </item>
     <item>
       <title>NetBSD 11.0 released</title>
@@ -72,17 +93,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pvrnor/netbsd_11_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>netbsd</category>
-    </item>
-    <item>
-      <title>Kill the Cookie Banner</title>
-      <link>https://killthecookiebanner.eu/</link>
-      <guid>https://lobste.rs/s/aftrcr</guid>
-      <author>killthecookiebanner.eu via loige</author>
-      <pubDate>Mon, 03 Aug 2026 08:31:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/aftrcr/kill_cookie_banner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aftrcr/kill_cookie_banner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>law</category>
     </item>
     <item>
       <title>How to speed up the Rust compiler in July 2026</title>
@@ -108,17 +118,6 @@
       <category>rant</category>
     </item>
     <item>
-      <title>Don't be a meat proxy</title>
-      <link>https://gruhn.me/blog/2026-08-03/</link>
-      <guid>https://lobste.rs/s/hfbqr3</guid>
-      <author>gruhn.me via antonmedv</author>
-      <pubDate>Mon, 03 Aug 2026 02:10:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Atom is better than RSS, in ways that matter</title>
       <link>https://chrismorgan.info/atom%3Erss</link>
       <guid>https://lobste.rs/s/80cn4r</guid>
@@ -127,16 +126,6 @@
       <comments>https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
-    </item>
-    <item>
-      <title>State of multi-player Wayland</title>
-      <link>https://blinry.org/multi-seat-wayland/</link>
-      <guid>https://lobste.rs/s/anvtjk</guid>
-      <author>blinry.org via eBPF</author>
-      <pubDate>Tue, 28 Jul 2026 16:14:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/anvtjk/state_multi_player_wayland</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/anvtjk/state_multi_player_wayland"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
     </item>
     <item>
       <title>deskhop: Fast Desktop Switching Device</title>
@@ -193,6 +182,16 @@
       <category>go</category>
     </item>
     <item>
+      <title>Soppo - Go, with the features it's missing</title>
+      <link>https://soppolang.dev/</link>
+      <guid>https://lobste.rs/s/0ykmyt</guid>
+      <author>soppolang.dev via wezm</author>
+      <pubDate>Tue, 04 Aug 2026 00:58:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+    </item>
+    <item>
       <title>Why I forked rand</title>
       <link>https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html</link>
       <guid>https://lobste.rs/s/kvxee3</guid>
@@ -214,6 +213,17 @@
       <category>art</category>
     </item>
     <item>
+      <title>9front "THIS WAS SUPPOSED TO BE FUN" Released</title>
+      <link>https://9front.org/releases/2026/08/02/0/</link>
+      <guid>https://lobste.rs/s/peqq4p</guid>
+      <author>9front.org via pmjv</author>
+      <pubDate>Sun, 02 Aug 2026 23:34:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>art</category>
+    </item>
+    <item>
       <title>What side projects have you enjoyed the most?</title>
       <link>https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most</link>
       <guid>https://lobste.rs/s/mbk56v</guid>
@@ -224,30 +234,6 @@
 </description>
       <category>programming</category>
       <category>ask</category>
-    </item>
-    <item>
-      <title>Develop Cross-Platform CLI and GUI Tools With Tcl/Tk</title>
-      <link>https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</link>
-      <guid>https://lobste.rs/s/jrq2d9</guid>
-      <author>cgicoffee.com via hwj</author>
-      <pubDate>Tue, 28 Jul 2026 05:32:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>graphics</category>
-    </item>
-    <item>
-      <title>Why Rocq is better than Lean for program verification</title>
-      <link>https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html</link>
-      <guid>https://lobste.rs/s/vnh6b2</guid>
-      <author>joomy.korkutblech.com by joomy</author>
-      <pubDate>Tue, 28 Jul 2026 16:16:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program</comments>
-      <description>&lt;p&gt;A write-up on why I don't give in to the hype and switch to Lean for formal verification of programs.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ml</category>
-      <category>compilers</category>
-      <category>formalmethods</category>
-      <category>plt</category>
     </item>
     <item>
       <title>Writing Toy Software Is A Joy (2025)</title>
@@ -269,6 +255,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/r9zgni/field_day_for_gleam_s_language_server"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>gleam</category>
+    </item>
+    <item>
+      <title>The Lua community needs to learn to move on</title>
+      <link>https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/</link>
+      <guid>https://lobste.rs/s/t7wzko</guid>
+      <author>hisham.hm via tusharhero</author>
+      <pubDate>Tue, 04 Aug 2026 10:20:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lua</category>
     </item>
     <item>
       <title>First CHERIoT Silicon</title>
