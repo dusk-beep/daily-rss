@@ -2,8 +2,9 @@ package main
 
 import (
 	"encoding/json"
+	"encoding/xml"
 	"fmt"
-	"html"
+	"io"
 	"os"
 	"strings"
 
@@ -35,11 +36,22 @@ func extractXML(data string) (string, error) {
 	}
 	f(doc)
 
-	if pre == nil || pre.FirstChild == nil {
+	if pre == nil {
 		return "", fmt.Errorf("no <pre> found")
 	}
 
-	return html.UnescapeString(pre.FirstChild.Data), nil
+	var b strings.Builder
+	for c := pre.FirstChild; c != nil; c = c.NextSibling {
+		if c.Type == xhtml.TextNode {
+			b.WriteString(c.Data)
+		}
+	}
+
+	xm := b.String()
+	if xm == "" {
+		return "", fmt.Errorf("<pre> contains no XML")
+	}
+	return xm, nil
 }
 
 func main() {
@@ -53,12 +65,22 @@ func main() {
 		panic(err)
 	}
 
-	xml, err := extractXML(r.Solution.Response)
+	xm, err := extractXML(r.Solution.Response)
 	if err != nil {
 		panic(err)
 	}
 
-	if err := os.WriteFile("feed.xml", []byte(xml), 0644); err != nil {
+	dec := xml.NewDecoder(strings.NewReader(xm))
+	for {
+		if _, err := dec.Token(); err != nil {
+			if err == io.EOF {
+				break
+			}
+			panic(err)
+		}
+	}
+
+	if err := os.WriteFile("feed.xml", []byte(xm), 0644); err != nil {
 		panic(err)
 	}
 }
