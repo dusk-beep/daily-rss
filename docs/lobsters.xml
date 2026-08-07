@@ -31,6 +31,17 @@
       <category>law</category>
     </item>
     <item>
+      <title>rust-lang/rust is adopting an LLM policy</title>
+      <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
+      <guid>https://lobste.rs/s/czvkjy</guid>
+      <author>blog.rust-lang.org via wezm</author>
+      <pubDate>Wed, 05 Aug 2026 01:55:36 -0500</pubDate>
+      <comments>https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Don't Take the Black Pill (Text Adaptation)</title>
       <link>https://andrewkelley.me/post/dont-take-black-pill.html</link>
       <guid>https://lobste.rs/s/tqcwbi</guid>
@@ -41,6 +52,17 @@
       <category>culture</category>
     </item>
     <item>
+      <title>The "Disability Dongle": Why Silicon Valley Hates Me and you</title>
+      <link>https://sightlessscribbles.com/disability-dongle/</link>
+      <guid>https://lobste.rs/s/lzupt0</guid>
+      <author>sightlessscribbles.com via FedericoSchonborn</author>
+      <pubDate>Wed, 05 Aug 2026 13:29:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>a11y</category>
+    </item>
+    <item>
       <title>Don't be a meat proxy</title>
       <link>https://gruhn.me/blog/2026-08-03/</link>
       <guid>https://lobste.rs/s/hfbqr3</guid>
@@ -49,17 +71,6 @@
       <comments>https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>rust-lang/rust is adopting an LLM policy</title>
-      <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
-      <guid>https://lobste.rs/s/czvkjy</guid>
-      <author>blog.rust-lang.org via wezm</author>
-      <pubDate>Wed, 05 Aug 2026 01:55:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -83,6 +94,17 @@
       <category>rust</category>
     </item>
     <item>
+      <title>tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open</title>
+      <link>https://bobdahacker.com/blog/tldv-hack</link>
+      <guid>https://lobste.rs/s/97laur</guid>
+      <author>bobdahacker.com via yoelcabo</author>
+      <pubDate>Thu, 06 Aug 2026 06:22:20 -0500</pubDate>
+      <comments>https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>privacy</category>
+    </item>
+    <item>
       <title>Twenty Years of Pandoc</title>
       <link>https://pandoc.org/twenty-years-of-pandoc.html</link>
       <guid>https://lobste.rs/s/blflqs</guid>
@@ -92,6 +114,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blflqs/twenty_years_pandoc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>haskell</category>
       <category>historical</category>
+    </item>
+    <item>
+      <title>Offensive Internet Posture</title>
+      <link>https://bruceediger.com/posts/offensive-machine/</link>
+      <guid>https://lobste.rs/s/fgcrj0</guid>
+      <author>bruceediger.com via zk</author>
+      <pubDate>Wed, 05 Aug 2026 07:34:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/fgcrj0/offensive_internet_posture</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgcrj0/offensive_internet_posture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
     <item>
       <title>NetBSD 11.0 released</title>
@@ -127,6 +159,16 @@
       <category>web</category>
     </item>
     <item>
+      <title>The Lua community needs to learn to move on</title>
+      <link>https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/</link>
+      <guid>https://lobste.rs/s/t7wzko</guid>
+      <author>hisham.hm via tusharhero</author>
+      <pubDate>Tue, 04 Aug 2026 10:20:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lua</category>
+    </item>
+    <item>
       <title>Ruby Central's Destructive Legacy</title>
       <link>https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</link>
       <guid>https://lobste.rs/s/qvbkpa</guid>
@@ -138,14 +180,24 @@
       <category>rant</category>
     </item>
     <item>
-      <title>The Lua community needs to learn to move on</title>
-      <link>https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/</link>
-      <guid>https://lobste.rs/s/t7wzko</guid>
-      <author>hisham.hm via tusharhero</author>
-      <pubDate>Tue, 04 Aug 2026 10:20:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lua</category>
+      <title>i wonder if you could make a useful DOS executable with just emoji</title>
+      <link>https://oldbytes.space/@gloriouscow/117044736309312697</link>
+      <guid>https://lobste.rs/s/0cdps4</guid>
+      <author>oldbytes.space via thisalex</author>
+      <pubDate>Thu, 06 Aug 2026 03:11:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>retrocomputing</category>
+    </item>
+    <item>
+      <title>Born Against, or why hobby programming communities are aggressively against LLM usage</title>
+      <link>https://blog.fogus.me/llm/born-against.html</link>
+      <guid>https://lobste.rs/s/3d3wbr</guid>
+      <author>blog.fogus.me via j11g</author>
+      <pubDate>Tue, 04 Aug 2026 15:24:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Soppo - Go, with the features it's missing</title>
@@ -156,26 +208,6 @@
       <comments>https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0ykmyt/soppo_go_with_features_it_s_missing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>go</category>
-    </item>
-    <item>
-      <title>deskhop: Fast Desktop Switching Device</title>
-      <link>https://github.com/hrvach/deskhop</link>
-      <guid>https://lobste.rs/s/zk0qqe</guid>
-      <author>github.com via dominicm</author>
-      <pubDate>Thu, 30 Jul 2026 02:52:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zk0qqe/deskhop_fast_desktop_switching_device"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-    </item>
-    <item>
-      <title>C++ float-to-int conversion can be undefined behavior</title>
-      <link>https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/</link>
-      <guid>https://lobste.rs/s/ba2yfy</guid>
-      <author>kttnr.net via classichasclass</author>
-      <pubDate>Wed, 29 Jul 2026 22:47:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c++</category>
     </item>
     <item>
       <title>Elevators</title>
@@ -191,17 +223,6 @@
       <category>performance</category>
     </item>
     <item>
-      <title>The AI Aesthetic</title>
-      <link>https://blog.jim-nielsen.com/2026/ai-aesthetic/</link>
-      <guid>https://lobste.rs/s/wxmi0v</guid>
-      <author>blog.jim-nielsen.com via carlana</author>
-      <pubDate>Thu, 30 Jul 2026 08:57:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/wxmi0v/ai_aesthetic</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wxmi0v/ai_aesthetic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Go 1.27 interactive tour</title>
       <link>https://victoriametrics.com/blog/go-1-27/</link>
       <guid>https://lobste.rs/s/7ibjyl</guid>
@@ -210,16 +231,6 @@
       <comments>https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>go</category>
-    </item>
-    <item>
-      <title>Born Against, or why hobby programming communities are aggressively against LLM usage</title>
-      <link>https://blog.fogus.me/llm/born-against.html</link>
-      <guid>https://lobste.rs/s/3d3wbr</guid>
-      <author>blog.fogus.me via j11g</author>
-      <pubDate>Tue, 04 Aug 2026 15:24:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>Why I forked rand</title>
@@ -243,28 +254,6 @@
       <category>art</category>
     </item>
     <item>
-      <title>What side projects have you enjoyed the most?</title>
-      <link>https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most</link>
-      <guid>https://lobste.rs/s/mbk56v</guid>
-      <author> by nick4</author>
-      <pubDate>Wed, 29 Jul 2026 20:40:31 -0500</pubDate>
-      <comments>https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most</comments>
-      <description>&lt;p&gt;In the spirit of &lt;a href="https://blog.jsbarretto.com/post/software-is-joy" rel="ugc"&gt;https://blog.jsbarretto.com/post/software-is-joy&lt;/a&gt;, what side projects have you enjoyed working on the most?&lt;/p&gt;
-</description>
-      <category>programming</category>
-      <category>ask</category>
-    </item>
-    <item>
-      <title>Offensive Internet Posture</title>
-      <link>https://bruceediger.com/posts/offensive-machine/</link>
-      <guid>https://lobste.rs/s/fgcrj0</guid>
-      <author>bruceediger.com via zk</author>
-      <pubDate>Wed, 05 Aug 2026 07:34:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/fgcrj0/offensive_internet_posture</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgcrj0/offensive_internet_posture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-    </item>
-    <item>
       <title>sizeof is surprisingly difficult to parse in c</title>
       <link>https://sebsite.pw/w/20260802-sizeof.html</link>
       <guid>https://lobste.rs/s/hozhli</guid>
@@ -273,6 +262,17 @@
       <comments>https://lobste.rs/s/hozhli/sizeof_is_surprisingly_difficult_parse_c</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hozhli/sizeof_is_surprisingly_difficult_parse_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
+    </item>
+    <item>
+      <title>Postmortem for Lean Kernel Soundness Bug #14576</title>
+      <link>https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</link>
+      <guid>https://lobste.rs/s/ojcl8j</guid>
+      <author>leodemoura.github.io via banna</author>
+      <pubDate>Sat, 01 Aug 2026 16:51:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>formalmethods</category>
+      <category>plt</category>
     </item>
   </channel>
 </rss>
