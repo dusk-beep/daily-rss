@@ -20,6 +20,17 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open</title>
+      <link>https://bobdahacker.com/blog/tldv-hack</link>
+      <guid>https://lobste.rs/s/97laur</guid>
+      <author>bobdahacker.com via yoelcabo</author>
+      <pubDate>Thu, 06 Aug 2026 06:22:20 -0500</pubDate>
+      <comments>https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>privacy</category>
+    </item>
+    <item>
       <title>Kill the Cookie Banner</title>
       <link>https://killthecookiebanner.eu/</link>
       <guid>https://lobste.rs/s/aftrcr</guid>
@@ -94,15 +105,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open</title>
-      <link>https://bobdahacker.com/blog/tldv-hack</link>
-      <guid>https://lobste.rs/s/97laur</guid>
-      <author>bobdahacker.com via yoelcabo</author>
-      <pubDate>Thu, 06 Aug 2026 06:22:20 -0500</pubDate>
-      <comments>https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/97laur/tl_dv_too_lazy_didn_t_validate_181_874"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>privacy</category>
+      <title>I'm leaving OpenAI to build Jurassic Park</title>
+      <link>https://taylor.town/leaving-openai</link>
+      <guid>https://lobste.rs/s/ch83co</guid>
+      <author>taylor.town via j11g</author>
+      <pubDate>Thu, 06 Aug 2026 23:26:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
     </item>
     <item>
       <title>Twenty Years of Pandoc</title>
@@ -126,6 +136,16 @@
       <category>networking</category>
     </item>
     <item>
+      <title>i wonder if you could make a useful DOS executable with just emoji</title>
+      <link>https://oldbytes.space/@gloriouscow/117044736309312697</link>
+      <guid>https://lobste.rs/s/0cdps4</guid>
+      <author>oldbytes.space via thisalex</author>
+      <pubDate>Thu, 06 Aug 2026 03:11:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>retrocomputing</category>
+    </item>
+    <item>
       <title>NetBSD 11.0 released</title>
       <link>https://blog.netbsd.org/tnf/entry/netbsd_11_0_released</link>
       <guid>https://lobste.rs/s/pvrnor</guid>
@@ -135,28 +155,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pvrnor/netbsd_11_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>netbsd</category>
-    </item>
-    <item>
-      <title>How to speed up the Rust compiler in July 2026</title>
-      <link>https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html</link>
-      <guid>https://lobste.rs/s/ycsivx</guid>
-      <author>nnethercote.github.io via asb</author>
-      <pubDate>Fri, 31 Jul 2026 00:46:14 -0500</pubDate>
-      <comments>https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ycsivx/how_speed_up_rust_compiler_july_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>compilers</category>
-      <category>performance</category>
-    </item>
-    <item>
-      <title>Atom is better than RSS, in ways that matter</title>
-      <link>https://chrismorgan.info/atom%3Erss</link>
-      <guid>https://lobste.rs/s/80cn4r</guid>
-      <author>chrismorgan.info via bitshift</author>
-      <pubDate>Sat, 01 Aug 2026 23:40:17 -0500</pubDate>
-      <comments>https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
     </item>
     <item>
       <title>The Lua community needs to learn to move on</title>
@@ -169,25 +167,14 @@
       <category>lua</category>
     </item>
     <item>
-      <title>Ruby Central's Destructive Legacy</title>
-      <link>https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</link>
-      <guid>https://lobste.rs/s/qvbkpa</guid>
-      <author>andre.arko.net via soulcutter</author>
-      <pubDate>Fri, 31 Jul 2026 09:47:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvbkpa/ruby_central_s_destructive_legacy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ruby</category>
-      <category>rant</category>
-    </item>
-    <item>
-      <title>i wonder if you could make a useful DOS executable with just emoji</title>
-      <link>https://oldbytes.space/@gloriouscow/117044736309312697</link>
-      <guid>https://lobste.rs/s/0cdps4</guid>
-      <author>oldbytes.space via thisalex</author>
-      <pubDate>Thu, 06 Aug 2026 03:11:35 -0500</pubDate>
-      <comments>https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0cdps4/i_wonder_if_you_could_make_useful_dos"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>retrocomputing</category>
+      <title>Atom is better than RSS, in ways that matter</title>
+      <link>https://chrismorgan.info/atom%3Erss</link>
+      <guid>https://lobste.rs/s/80cn4r</guid>
+      <author>chrismorgan.info via bitshift</author>
+      <pubDate>Sat, 01 Aug 2026 23:40:17 -0500</pubDate>
+      <comments>https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>Born Against, or why hobby programming communities are aggressively against LLM usage</title>
@@ -223,24 +210,25 @@
       <category>performance</category>
     </item>
     <item>
-      <title>Go 1.27 interactive tour</title>
-      <link>https://victoriametrics.com/blog/go-1-27/</link>
-      <guid>https://lobste.rs/s/7ibjyl</guid>
-      <author>victoriametrics.com via cgrinds</author>
-      <pubDate>Fri, 31 Jul 2026 06:15:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7ibjyl/go_1_27_interactive_tour"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
+      <title>Zig's Io.Threaded is Neat</title>
+      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
+      <guid>https://lobste.rs/s/aegq82</guid>
+      <author>matklad.github.io via nickmonad</author>
+      <pubDate>Thu, 06 Aug 2026 15:12:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
     </item>
     <item>
-      <title>Why I forked rand</title>
-      <link>https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html</link>
-      <guid>https://lobste.rs/s/kvxee3</guid>
-      <author>casualhacks.net via ollien</author>
-      <pubDate>Fri, 31 Jul 2026 10:02:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/kvxee3/why_i_forked_rand</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kvxee3/why_i_forked_rand"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>jujutsu 0.44.0</title>
+      <link>https://github.com/jj-vcs/jj/releases/tag/v0.44.0</link>
+      <guid>https://lobste.rs/s/xx83dr</guid>
+      <author>github.com via olex</author>
+      <pubDate>Thu, 06 Aug 2026 04:03:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/xx83dr/jujutsu_0_44_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xx83dr/jujutsu_0_44_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>vcs</category>
     </item>
     <item>
       <title>9front "THIS WAS SUPPOSED TO BE FUN" Released</title>
@@ -254,6 +242,16 @@
       <category>art</category>
     </item>
     <item>
+      <title>A shell exclamation mark is not for yelling. Be lazy</title>
+      <link>https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark</link>
+      <guid>https://lobste.rs/s/0mjyep</guid>
+      <author>refp.se via seb</author>
+      <pubDate>Thu, 06 Aug 2026 20:18:25 -0500</pubDate>
+      <comments>https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>unix</category>
+    </item>
+    <item>
       <title>sizeof is surprisingly difficult to parse in c</title>
       <link>https://sebsite.pw/w/20260802-sizeof.html</link>
       <guid>https://lobste.rs/s/hozhli</guid>
@@ -264,15 +262,14 @@
       <category>c</category>
     </item>
     <item>
-      <title>Postmortem for Lean Kernel Soundness Bug #14576</title>
-      <link>https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</link>
-      <guid>https://lobste.rs/s/ojcl8j</guid>
-      <author>leodemoura.github.io via banna</author>
-      <pubDate>Sat, 01 Aug 2026 16:51:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ojcl8j/postmortem_for_lean_kernel_soundness_bug"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>formalmethods</category>
-      <category>plt</category>
+      <title>python string literals are kinda funny</title>
+      <link>https://sebsite.pw/w/20260806-pystrings.html</link>
+      <guid>https://lobste.rs/s/mxdfdv</guid>
+      <author>sebsite.pw via raymii</author>
+      <pubDate>Wed, 05 Aug 2026 23:44:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
     </item>
   </channel>
 </rss>
