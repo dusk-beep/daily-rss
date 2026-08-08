@@ -53,6 +53,17 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>The "Disability Dongle": Why Silicon Valley Hates Me and you</title>
+      <link>https://sightlessscribbles.com/disability-dongle/</link>
+      <guid>https://lobste.rs/s/lzupt0</guid>
+      <author>sightlessscribbles.com via FedericoSchonborn</author>
+      <pubDate>Wed, 05 Aug 2026 13:29:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>a11y</category>
+    </item>
+    <item>
       <title>Don't Take the Black Pill (Text Adaptation)</title>
       <link>https://andrewkelley.me/post/dont-take-black-pill.html</link>
       <guid>https://lobste.rs/s/tqcwbi</guid>
@@ -63,15 +74,14 @@
       <category>culture</category>
     </item>
     <item>
-      <title>The "Disability Dongle": Why Silicon Valley Hates Me and you</title>
-      <link>https://sightlessscribbles.com/disability-dongle/</link>
-      <guid>https://lobste.rs/s/lzupt0</guid>
-      <author>sightlessscribbles.com via FedericoSchonborn</author>
-      <pubDate>Wed, 05 Aug 2026 13:29:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>a11y</category>
+      <title>I'm leaving OpenAI to build Jurassic Park</title>
+      <link>https://taylor.town/leaving-openai</link>
+      <guid>https://lobste.rs/s/ch83co</guid>
+      <author>taylor.town via j11g</author>
+      <pubDate>Thu, 06 Aug 2026 23:26:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
     </item>
     <item>
       <title>Don't be a meat proxy</title>
@@ -103,16 +113,6 @@
       <comments>https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
-    </item>
-    <item>
-      <title>I'm leaving OpenAI to build Jurassic Park</title>
-      <link>https://taylor.town/leaving-openai</link>
-      <guid>https://lobste.rs/s/ch83co</guid>
-      <author>taylor.town via j11g</author>
-      <pubDate>Thu, 06 Aug 2026 23:26:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
     </item>
     <item>
       <title>Twenty Years of Pandoc</title>
@@ -197,19 +197,6 @@
       <category>go</category>
     </item>
     <item>
-      <title>Elevators</title>
-      <link>https://john.fun/elevators</link>
-      <guid>https://lobste.rs/s/jxqf1w</guid>
-      <author>john.fun via markerz</author>
-      <pubDate>Sat, 01 Aug 2026 00:49:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/jxqf1w/elevators</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jxqf1w/elevators"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compsci</category>
-      <category>math</category>
-      <category>visualization</category>
-      <category>performance</category>
-    </item>
-    <item>
       <title>Zig's Io.Threaded is Neat</title>
       <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
       <guid>https://lobste.rs/s/aegq82</guid>
@@ -231,6 +218,16 @@
       <category>vcs</category>
     </item>
     <item>
+      <title>A shell exclamation mark is not for yelling. Be lazy</title>
+      <link>https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark</link>
+      <guid>https://lobste.rs/s/0mjyep</guid>
+      <author>refp.se via seb</author>
+      <pubDate>Thu, 06 Aug 2026 20:18:25 -0500</pubDate>
+      <comments>https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>unix</category>
+    </item>
+    <item>
       <title>9front "THIS WAS SUPPOSED TO BE FUN" Released</title>
       <link>https://9front.org/releases/2026/08/02/0/</link>
       <guid>https://lobste.rs/s/peqq4p</guid>
@@ -242,14 +239,15 @@
       <category>art</category>
     </item>
     <item>
-      <title>A shell exclamation mark is not for yelling. Be lazy</title>
-      <link>https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark</link>
-      <guid>https://lobste.rs/s/0mjyep</guid>
-      <author>refp.se via seb</author>
-      <pubDate>Thu, 06 Aug 2026 20:18:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>unix</category>
+      <title>Am I the problem? Interviewing another team to find out</title>
+      <link>https://www.macchaffee.com/blog/2026/am-i-the-problem/</link>
+      <guid>https://lobste.rs/s/c30jsd</guid>
+      <author>macchaffee.com by cetera</author>
+      <pubDate>Fri, 07 Aug 2026 14:27:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>culture</category>
     </item>
     <item>
       <title>sizeof is surprisingly difficult to parse in c</title>
