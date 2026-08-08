@@ -41,6 +41,7 @@ jobs:
               exit 1
           }
 
+          echo "fetching ziperto html"
           curl -s \
             -X POST http://localhost:8191/v1 \
             -H "Content-Type: application/json" \
@@ -51,6 +52,7 @@ jobs:
             }' \
           | jq -r '.solution.response' > ziperto.html
 
+          echo "fetching ziperto rss"
           curl -s \
             -X POST http://localhost:8191/v1 \
             -H "Content-Type: application/json" \
