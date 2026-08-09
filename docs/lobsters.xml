@@ -31,17 +31,6 @@
       <category>privacy</category>
     </item>
     <item>
-      <title>Kill the Cookie Banner</title>
-      <link>https://killthecookiebanner.eu/</link>
-      <guid>https://lobste.rs/s/aftrcr</guid>
-      <author>killthecookiebanner.eu via loige</author>
-      <pubDate>Mon, 03 Aug 2026 08:31:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/aftrcr/kill_cookie_banner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aftrcr/kill_cookie_banner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>law</category>
-    </item>
-    <item>
       <title>rust-lang/rust is adopting an LLM policy</title>
       <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
       <guid>https://lobste.rs/s/czvkjy</guid>
@@ -51,6 +40,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Kill the Cookie Banner</title>
+      <link>https://killthecookiebanner.eu/</link>
+      <guid>https://lobste.rs/s/aftrcr</guid>
+      <author>killthecookiebanner.eu via loige</author>
+      <pubDate>Mon, 03 Aug 2026 08:31:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/aftrcr/kill_cookie_banner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aftrcr/kill_cookie_banner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>law</category>
     </item>
     <item>
       <title>I'm leaving OpenAI to build Jurassic Park</title>
@@ -146,26 +146,6 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>The Lua community needs to learn to move on</title>
-      <link>https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/</link>
-      <guid>https://lobste.rs/s/t7wzko</guid>
-      <author>hisham.hm via tusharhero</author>
-      <pubDate>Tue, 04 Aug 2026 10:20:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lua</category>
-    </item>
-    <item>
-      <title>Atom is better than RSS, in ways that matter</title>
-      <link>https://chrismorgan.info/atom%3Erss</link>
-      <guid>https://lobste.rs/s/80cn4r</guid>
-      <author>chrismorgan.info via bitshift</author>
-      <pubDate>Sat, 01 Aug 2026 23:40:17 -0500</pubDate>
-      <comments>https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-    </item>
-    <item>
       <title>Am I the problem? Interviewing another team to find out</title>
       <link>https://www.macchaffee.com/blog/2026/am-i-the-problem/</link>
       <guid>https://lobste.rs/s/c30jsd</guid>
@@ -185,6 +165,27 @@
       <comments>https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>nix</category>
+    </item>
+    <item>
+      <title>They don’t make ’em like Sublime Text anymore</title>
+      <link>https://dbushell.com/2026/08/07/sublime-text/</link>
+      <guid>https://lobste.rs/s/uny1fo</guid>
+      <author>dbushell.com via diktomat</author>
+      <pubDate>Sat, 08 Aug 2026 03:57:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>editors</category>
+    </item>
+    <item>
+      <title>The Lua community needs to learn to move on</title>
+      <link>https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/</link>
+      <guid>https://lobste.rs/s/t7wzko</guid>
+      <author>hisham.hm via tusharhero</author>
+      <pubDate>Tue, 04 Aug 2026 10:20:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t7wzko/lua_community_needs_learn_move_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lua</category>
     </item>
     <item>
       <title>Zig's Io.Threaded is Neat</title>
@@ -217,17 +218,6 @@
       <category>go</category>
     </item>
     <item>
-      <title>They don’t make ’em like Sublime Text anymore</title>
-      <link>https://dbushell.com/2026/08/07/sublime-text/</link>
-      <guid>https://lobste.rs/s/uny1fo</guid>
-      <author>dbushell.com via diktomat</author>
-      <pubDate>Sat, 08 Aug 2026 03:57:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>editors</category>
-    </item>
-    <item>
       <title>A shell exclamation mark is not for yelling. Be lazy</title>
       <link>https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark</link>
       <guid>https://lobste.rs/s/0mjyep</guid>
@@ -236,6 +226,17 @@
       <comments>https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>unix</category>
+    </item>
+    <item>
+      <title>some software talks i like</title>
+      <link>https://char.lt/blog/2026/08/talks-i-like/</link>
+      <guid>https://lobste.rs/s/cmrfrj</guid>
+      <author>char.lt via hugoarnal</author>
+      <pubDate>Sat, 08 Aug 2026 08:48:36 -0500</pubDate>
+      <comments>https://lobste.rs/s/cmrfrj/some_software_talks_i_like</comments>
+      <description>&lt;p&gt;Not tagged as video but contains mostly links to videos&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/cmrfrj/some_software_talks_i_like"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>jujutsu 0.44.0</title>
@@ -260,14 +261,14 @@
       <category>art</category>
     </item>
     <item>
-      <title>sizeof is surprisingly difficult to parse in c</title>
-      <link>https://sebsite.pw/w/20260802-sizeof.html</link>
-      <guid>https://lobste.rs/s/hozhli</guid>
+      <title>python string literals are kinda funny</title>
+      <link>https://sebsite.pw/w/20260806-pystrings.html</link>
+      <guid>https://lobste.rs/s/mxdfdv</guid>
       <author>sebsite.pw via raymii</author>
-      <pubDate>Sun, 02 Aug 2026 01:01:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/hozhli/sizeof_is_surprisingly_difficult_parse_c</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hozhli/sizeof_is_surprisingly_difficult_parse_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
+      <pubDate>Wed, 05 Aug 2026 23:44:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
     </item>
   </channel>
 </rss>
