@@ -53,6 +53,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>I'm leaving OpenAI to build Jurassic Park</title>
+      <link>https://taylor.town/leaving-openai</link>
+      <guid>https://lobste.rs/s/ch83co</guid>
+      <author>taylor.town via j11g</author>
+      <pubDate>Thu, 06 Aug 2026 23:26:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
+    </item>
+    <item>
       <title>The "Disability Dongle": Why Silicon Valley Hates Me and you</title>
       <link>https://sightlessscribbles.com/disability-dongle/</link>
       <guid>https://lobste.rs/s/lzupt0</guid>
@@ -74,16 +84,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>I'm leaving OpenAI to build Jurassic Park</title>
-      <link>https://taylor.town/leaving-openai</link>
-      <guid>https://lobste.rs/s/ch83co</guid>
-      <author>taylor.town via j11g</author>
-      <pubDate>Thu, 06 Aug 2026 23:26:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-    </item>
-    <item>
       <title>Don't be a meat proxy</title>
       <link>https://gruhn.me/blog/2026-08-03/</link>
       <guid>https://lobste.rs/s/hfbqr3</guid>
@@ -95,16 +95,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Security is Hard, Y’all</title>
-      <link>https://textslashplain.com/2026/08/04/security-is-hard-yall/</link>
-      <guid>https://lobste.rs/s/qoptbx</guid>
-      <author>textslashplain.com via kevincox</author>
-      <pubDate>Tue, 04 Aug 2026 13:31:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/qoptbx/security_is_hard_y_all</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qoptbx/security_is_hard_y_all"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>Enabling the next iteration of the borrow checker on nightly</title>
       <link>https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/</link>
       <guid>https://lobste.rs/s/skft2i</guid>
@@ -113,6 +103,16 @@
       <comments>https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/skft2i/enabling_next_iteration_borrow_checker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
+    </item>
+    <item>
+      <title>Security is Hard, Y’all</title>
+      <link>https://textslashplain.com/2026/08/04/security-is-hard-yall/</link>
+      <guid>https://lobste.rs/s/qoptbx</guid>
+      <author>textslashplain.com via kevincox</author>
+      <pubDate>Tue, 04 Aug 2026 13:31:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/qoptbx/security_is_hard_y_all</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qoptbx/security_is_hard_y_all"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Twenty Years of Pandoc</title>
@@ -146,17 +146,6 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>NetBSD 11.0 released</title>
-      <link>https://blog.netbsd.org/tnf/entry/netbsd_11_0_released</link>
-      <guid>https://lobste.rs/s/pvrnor</guid>
-      <author>blog.netbsd.org via jaypatelani</author>
-      <pubDate>Sat, 01 Aug 2026 12:57:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/pvrnor/netbsd_11_0_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pvrnor/netbsd_11_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>netbsd</category>
-    </item>
-    <item>
       <title>The Lua community needs to learn to move on</title>
       <link>https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/</link>
       <guid>https://lobste.rs/s/t7wzko</guid>
@@ -175,6 +164,37 @@
       <comments>https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/80cn4r/atom_is_better_than_rss_ways_matter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
+    </item>
+    <item>
+      <title>Am I the problem? Interviewing another team to find out</title>
+      <link>https://www.macchaffee.com/blog/2026/am-i-the-problem/</link>
+      <guid>https://lobste.rs/s/c30jsd</guid>
+      <author>macchaffee.com by cetera</author>
+      <pubDate>Fri, 07 Aug 2026 14:27:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>The Nixpkgs core team has disbanded</title>
+      <link>https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</link>
+      <guid>https://lobste.rs/s/9cv8me</guid>
+      <author>discourse.nixos.org via kevinc</author>
+      <pubDate>Fri, 07 Aug 2026 21:33:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>nix</category>
+    </item>
+    <item>
+      <title>Zig's Io.Threaded is Neat</title>
+      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
+      <guid>https://lobste.rs/s/aegq82</guid>
+      <author>matklad.github.io via nickmonad</author>
+      <pubDate>Thu, 06 Aug 2026 15:12:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
     </item>
     <item>
       <title>Born Against, or why hobby programming communities are aggressively against LLM usage</title>
@@ -197,14 +217,25 @@
       <category>go</category>
     </item>
     <item>
-      <title>Zig's Io.Threaded is Neat</title>
-      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
-      <guid>https://lobste.rs/s/aegq82</guid>
-      <author>matklad.github.io via nickmonad</author>
-      <pubDate>Thu, 06 Aug 2026 15:12:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>zig</category>
+      <title>They don’t make ’em like Sublime Text anymore</title>
+      <link>https://dbushell.com/2026/08/07/sublime-text/</link>
+      <guid>https://lobste.rs/s/uny1fo</guid>
+      <author>dbushell.com via diktomat</author>
+      <pubDate>Sat, 08 Aug 2026 03:57:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>editors</category>
+    </item>
+    <item>
+      <title>A shell exclamation mark is not for yelling. Be lazy</title>
+      <link>https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark</link>
+      <guid>https://lobste.rs/s/0mjyep</guid>
+      <author>refp.se via seb</author>
+      <pubDate>Thu, 06 Aug 2026 20:18:25 -0500</pubDate>
+      <comments>https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>unix</category>
     </item>
     <item>
       <title>jujutsu 0.44.0</title>
@@ -218,16 +249,6 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>A shell exclamation mark is not for yelling. Be lazy</title>
-      <link>https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark</link>
-      <guid>https://lobste.rs/s/0mjyep</guid>
-      <author>refp.se via seb</author>
-      <pubDate>Thu, 06 Aug 2026 20:18:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>unix</category>
-    </item>
-    <item>
       <title>9front "THIS WAS SUPPOSED TO BE FUN" Released</title>
       <link>https://9front.org/releases/2026/08/02/0/</link>
       <guid>https://lobste.rs/s/peqq4p</guid>
@@ -239,17 +260,6 @@
       <category>art</category>
     </item>
     <item>
-      <title>Am I the problem? Interviewing another team to find out</title>
-      <link>https://www.macchaffee.com/blog/2026/am-i-the-problem/</link>
-      <guid>https://lobste.rs/s/c30jsd</guid>
-      <author>macchaffee.com by cetera</author>
-      <pubDate>Fri, 07 Aug 2026 14:27:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>culture</category>
-    </item>
-    <item>
       <title>sizeof is surprisingly difficult to parse in c</title>
       <link>https://sebsite.pw/w/20260802-sizeof.html</link>
       <guid>https://lobste.rs/s/hozhli</guid>
@@ -258,16 +268,6 @@
       <comments>https://lobste.rs/s/hozhli/sizeof_is_surprisingly_difficult_parse_c</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hozhli/sizeof_is_surprisingly_difficult_parse_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
-    </item>
-    <item>
-      <title>python string literals are kinda funny</title>
-      <link>https://sebsite.pw/w/20260806-pystrings.html</link>
-      <guid>https://lobste.rs/s/mxdfdv</guid>
-      <author>sebsite.pw via raymii</author>
-      <pubDate>Wed, 05 Aug 2026 23:44:44 -0500</pubDate>
-      <comments>https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
     </item>
   </channel>
 </rss>
