@@ -157,16 +157,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>The Nixpkgs core team has disbanded</title>
-      <link>https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</link>
-      <guid>https://lobste.rs/s/9cv8me</guid>
-      <author>discourse.nixos.org via kevinc</author>
-      <pubDate>Fri, 07 Aug 2026 21:33:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>nix</category>
-    </item>
-    <item>
       <title>They don’t make ’em like Sublime Text anymore</title>
       <link>https://dbushell.com/2026/08/07/sublime-text/</link>
       <guid>https://lobste.rs/s/uny1fo</guid>
@@ -176,6 +166,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
       <category>editors</category>
+    </item>
+    <item>
+      <title>The Nixpkgs core team has disbanded</title>
+      <link>https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</link>
+      <guid>https://lobste.rs/s/9cv8me</guid>
+      <author>discourse.nixos.org via kevinc</author>
+      <pubDate>Fri, 07 Aug 2026 21:33:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>nix</category>
     </item>
     <item>
       <title>The Lua community needs to learn to move on</title>
@@ -196,6 +196,17 @@
       <comments>https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aegq82/zig_s_io_threaded_is_neat"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>zig</category>
+    </item>
+    <item>
+      <title>some software talks i like</title>
+      <link>https://char.lt/blog/2026/08/talks-i-like/</link>
+      <guid>https://lobste.rs/s/cmrfrj</guid>
+      <author>char.lt via hugoarnal</author>
+      <pubDate>Sat, 08 Aug 2026 08:48:36 -0500</pubDate>
+      <comments>https://lobste.rs/s/cmrfrj/some_software_talks_i_like</comments>
+      <description>&lt;p&gt;Not tagged as video but contains mostly links to videos&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/cmrfrj/some_software_talks_i_like"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>Born Against, or why hobby programming communities are aggressively against LLM usage</title>
@@ -228,17 +239,6 @@
       <category>unix</category>
     </item>
     <item>
-      <title>some software talks i like</title>
-      <link>https://char.lt/blog/2026/08/talks-i-like/</link>
-      <guid>https://lobste.rs/s/cmrfrj</guid>
-      <author>char.lt via hugoarnal</author>
-      <pubDate>Sat, 08 Aug 2026 08:48:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/cmrfrj/some_software_talks_i_like</comments>
-      <description>&lt;p&gt;Not tagged as video but contains mostly links to videos&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/cmrfrj/some_software_talks_i_like"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-    </item>
-    <item>
       <title>jujutsu 0.44.0</title>
       <link>https://github.com/jj-vcs/jj/releases/tag/v0.44.0</link>
       <guid>https://lobste.rs/s/xx83dr</guid>
@@ -250,6 +250,17 @@
       <category>vcs</category>
     </item>
     <item>
+      <title>Dithered QR codes</title>
+      <link>https://www.andrewt.net/dithered-qr-codes/wtf/</link>
+      <guid>https://lobste.rs/s/urdoby</guid>
+      <author>andrewt.net via lyall</author>
+      <pubDate>Sat, 08 Aug 2026 21:28:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/urdoby/dithered_qr_codes</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urdoby/dithered_qr_codes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>art</category>
+      <category>graphics</category>
+    </item>
+    <item>
       <title>9front "THIS WAS SUPPOSED TO BE FUN" Released</title>
       <link>https://9front.org/releases/2026/08/02/0/</link>
       <guid>https://lobste.rs/s/peqq4p</guid>
@@ -259,16 +270,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>art</category>
-    </item>
-    <item>
-      <title>python string literals are kinda funny</title>
-      <link>https://sebsite.pw/w/20260806-pystrings.html</link>
-      <guid>https://lobste.rs/s/mxdfdv</guid>
-      <author>sebsite.pw via raymii</author>
-      <pubDate>Wed, 05 Aug 2026 23:44:44 -0500</pubDate>
-      <comments>https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
     </item>
   </channel>
 </rss>
