@@ -5,20 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Mon, 03 Aug 2026 09:20:18 -0500</pubDate>
+    <pubDate>Thu, 06 Aug 2026 06:22:20 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>help wanted</title>
-      <link>https://lake.computer/blog/help-wanted/</link>
-      <guid>https://lobste.rs/s/a355zh</guid>
-      <author>lake.computer by lake</author>
-      <pubDate>Mon, 03 Aug 2026 09:20:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/a355zh/help_wanted</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a355zh/help_wanted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>satire</category>
-      <category>vibecoding</category>
-    </item>
     <item>
       <title>tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open</title>
       <link>https://bobdahacker.com/blog/tldv-hack</link>
@@ -42,17 +30,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Kill the Cookie Banner</title>
-      <link>https://killthecookiebanner.eu/</link>
-      <guid>https://lobste.rs/s/aftrcr</guid>
-      <author>killthecookiebanner.eu via loige</author>
-      <pubDate>Mon, 03 Aug 2026 08:31:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/aftrcr/kill_cookie_banner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aftrcr/kill_cookie_banner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>law</category>
-    </item>
-    <item>
       <title>I'm leaving OpenAI to build Jurassic Park</title>
       <link>https://taylor.town/leaving-openai</link>
       <guid>https://lobste.rs/s/ch83co</guid>
@@ -74,27 +51,6 @@
       <category>a11y</category>
     </item>
     <item>
-      <title>Don't Take the Black Pill (Text Adaptation)</title>
-      <link>https://andrewkelley.me/post/dont-take-black-pill.html</link>
-      <guid>https://lobste.rs/s/tqcwbi</guid>
-      <author>andrewkelley.me via dominicm</author>
-      <pubDate>Mon, 03 Aug 2026 05:20:27 -0500</pubDate>
-      <comments>https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tqcwbi/don_t_take_black_pill_text_adaptation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>Don't be a meat proxy</title>
-      <link>https://gruhn.me/blog/2026-08-03/</link>
-      <guid>https://lobste.rs/s/hfbqr3</guid>
-      <author>gruhn.me via antonmedv</author>
-      <pubDate>Mon, 03 Aug 2026 02:10:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hfbqr3/don_t_be_meat_proxy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Enabling the next iteration of the borrow checker on nightly</title>
       <link>https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/</link>
       <guid>https://lobste.rs/s/skft2i</guid>
@@ -113,17 +69,6 @@
       <comments>https://lobste.rs/s/qoptbx/security_is_hard_y_all</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qoptbx/security_is_hard_y_all"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-    </item>
-    <item>
-      <title>Twenty Years of Pandoc</title>
-      <link>https://pandoc.org/twenty-years-of-pandoc.html</link>
-      <guid>https://lobste.rs/s/blflqs</guid>
-      <author>pandoc.org via ehamberg</author>
-      <pubDate>Mon, 03 Aug 2026 14:44:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/blflqs/twenty_years_pandoc</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blflqs/twenty_years_pandoc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>haskell</category>
-      <category>historical</category>
     </item>
     <item>
       <title>Offensive Internet Posture</title>
@@ -157,6 +102,16 @@
       <category>culture</category>
     </item>
     <item>
+      <title>The Nixpkgs core team has disbanded</title>
+      <link>https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</link>
+      <guid>https://lobste.rs/s/9cv8me</guid>
+      <author>discourse.nixos.org via kevinc</author>
+      <pubDate>Fri, 07 Aug 2026 21:33:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>nix</category>
+    </item>
+    <item>
       <title>They don’t make ’em like Sublime Text anymore</title>
       <link>https://dbushell.com/2026/08/07/sublime-text/</link>
       <guid>https://lobste.rs/s/uny1fo</guid>
@@ -166,16 +121,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
       <category>editors</category>
-    </item>
-    <item>
-      <title>The Nixpkgs core team has disbanded</title>
-      <link>https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</link>
-      <guid>https://lobste.rs/s/9cv8me</guid>
-      <author>discourse.nixos.org via kevinc</author>
-      <pubDate>Fri, 07 Aug 2026 21:33:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>nix</category>
     </item>
     <item>
       <title>The Lua community needs to learn to move on</title>
@@ -209,6 +154,38 @@
       <category>programming</category>
     </item>
     <item>
+      <title>Dithered QR codes</title>
+      <link>https://www.andrewt.net/dithered-qr-codes/wtf/</link>
+      <guid>https://lobste.rs/s/urdoby</guid>
+      <author>andrewt.net via lyall</author>
+      <pubDate>Sat, 08 Aug 2026 21:28:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/urdoby/dithered_qr_codes</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urdoby/dithered_qr_codes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>art</category>
+      <category>graphics</category>
+    </item>
+    <item>
+      <title>Who Should Pay For Source Code Availability?</title>
+      <link>https://kristoff.it/blog/source-code-availability/</link>
+      <guid>https://lobste.rs/s/rsztog</guid>
+      <author>kristoff.it via hugoarnal</author>
+      <pubDate>Sun, 09 Aug 2026 08:42:39 -0500</pubDate>
+      <comments>https://lobste.rs/s/rsztog/who_should_pay_for_source_code</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rsztog/who_should_pay_for_source_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
+      <category>zig</category>
+    </item>
+    <item>
+      <title>Toggles Considered Harmful</title>
+      <link>https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/</link>
+      <guid>https://lobste.rs/s/ulinck</guid>
+      <author>ignorethecode.net via wezm</author>
+      <pubDate>Mon, 10 Aug 2026 03:04:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/ulinck/toggles_considered_harmful</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ulinck/toggles_considered_harmful"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+    </item>
+    <item>
       <title>Born Against, or why hobby programming communities are aggressively against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
       <guid>https://lobste.rs/s/3d3wbr</guid>
@@ -217,6 +194,16 @@
       <comments>https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3d3wbr/born_against_why_hobby_programming"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>IRC technology news from the first half of 2026</title>
+      <link>https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/</link>
+      <guid>https://lobste.rs/s/u0ks1k</guid>
+      <author>ilmarilauhakangas.fi via donio</author>
+      <pubDate>Sun, 09 Aug 2026 12:41:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u0ks1k/irc_technology_news_from_first_half_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
     <item>
       <title>Soppo - Go, with the features it's missing</title>
@@ -250,26 +237,35 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>Dithered QR codes</title>
-      <link>https://www.andrewt.net/dithered-qr-codes/wtf/</link>
-      <guid>https://lobste.rs/s/urdoby</guid>
-      <author>andrewt.net via lyall</author>
-      <pubDate>Sat, 08 Aug 2026 21:28:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/urdoby/dithered_qr_codes</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urdoby/dithered_qr_codes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>art</category>
-      <category>graphics</category>
+      <title>Tracking down a Zsh history data loss bug</title>
+      <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</link>
+      <guid>https://lobste.rs/s/x0jlp7</guid>
+      <author>michael.stapelberg.ch by stapelberg</author>
+      <pubDate>Sun, 09 Aug 2026 03:16:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>debugging</category>
     </item>
     <item>
-      <title>9front "THIS WAS SUPPOSED TO BE FUN" Released</title>
-      <link>https://9front.org/releases/2026/08/02/0/</link>
-      <guid>https://lobste.rs/s/peqq4p</guid>
-      <author>9front.org via pmjv</author>
-      <pubDate>Sun, 02 Aug 2026 23:34:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/peqq4p/9front_this_was_supposed_be_fun_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>art</category>
+      <title>Rails is done</title>
+      <link>https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/</link>
+      <guid>https://lobste.rs/s/paryb7</guid>
+      <author>lucas.dohmen.io via henrycatalinismith</author>
+      <pubDate>Sun, 09 Aug 2026 02:14:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/paryb7/rails_is_done</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/paryb7/rails_is_done"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Firefox Containers Preview</title>
+      <link>https://blog.mozilla.org/en/firefox/firefox-containers-preview/</link>
+      <guid>https://lobste.rs/s/ja2gzr</guid>
+      <author>blog.mozilla.org via freddyb</author>
+      <pubDate>Mon, 10 Aug 2026 04:37:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/ja2gzr/firefox_containers_preview</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ja2gzr/firefox_containers_preview"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
     </item>
   </channel>
 </rss>
