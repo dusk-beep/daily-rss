@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows</title>
-      <link>https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</link>
-      <description>1018 points • 570 comments • by riordan&#xA;https://news.ycombinator.com/item?id=49241679</description>
-      <pubDate>Tue, 11 Aug 2026 00:45:38 +0000</pubDate>
-      <guid>49241679</guid>
+      <title>France to ban unsolicited telemarketing calls</title>
+      <link>https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</link>
+      <description>983 points • 476 comments • by aziaziazi&#xA;https://news.ycombinator.com/item?id=49254880</description>
+      <pubDate>Wed, 12 Aug 2026 00:53:42 +0000</pubDate>
+      <guid>49254880</guid>
     </item>
     <item>
-      <title>Docker Sandboxes – Disposable, isolated sandboxes for AI agents</title>
-      <link>https://www.docker.com/products/docker-sandboxes/</link>
-      <description>624 points • 349 comments • by etoxin&#xA;https://news.ycombinator.com/item?id=49239751</description>
-      <pubDate>Tue, 11 Aug 2026 00:44:38 +0000</pubDate>
-      <guid>49239751</guid>
+      <title>England set to be one of the first countries to eliminate hepatitis C</title>
+      <link>https://www.bbc.com/news/articles/c75gk620r22o</link>
+      <description>483 points • 348 comments • by stevekemp&#xA;https://news.ycombinator.com/item?id=49257377</description>
+      <pubDate>Wed, 12 Aug 2026 00:52:42 +0000</pubDate>
+      <guid>49257377</guid>
     </item>
     <item>
-      <title>Tl;dv: Over 180k meetings left wide open</title>
-      <link>https://bobdahacker.com/blog/tldv-hack</link>
-      <description>527 points • 173 comments • by colesantiago&#xA;https://news.ycombinator.com/item?id=49242739</description>
-      <pubDate>Tue, 11 Aug 2026 00:43:38 +0000</pubDate>
-      <guid>49242739</guid>
+      <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
+      <link>https://stolen-thoughts.com/</link>
+      <description>479 points • 201 comments • by quantumgarbage&#xA;https://news.ycombinator.com/item?id=49257876</description>
+      <pubDate>Wed, 12 Aug 2026 00:51:42 +0000</pubDate>
+      <guid>49257876</guid>
     </item>
     <item>
-      <title>What Happened to HackerOne?</title>
-      <link>https://blog.teknogeek.io/posts/what-happened-to-hackerone/</link>
-      <description>367 points • 193 comments • by hipparchus&#xA;https://news.ycombinator.com/item?id=49238561</description>
-      <pubDate>Tue, 11 Aug 2026 00:42:38 +0000</pubDate>
-      <guid>49238561</guid>
+      <title>H3-metal – Native MiniMax-H3 inference for Apple Silicon</title>
+      <link>https://github.com/antirez/h3.c</link>
+      <description>422 points • 93 comments • by swyx&#xA;https://news.ycombinator.com/item?id=49252179</description>
+      <pubDate>Wed, 12 Aug 2026 00:50:42 +0000</pubDate>
+      <guid>49252179</guid>
     </item>
     <item>
-      <title>Mark Zuckerberg attacks &#39;closed&#39; AI rivals as Meta returns to open models</title>
-      <link>https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878</link>
-      <description>350 points • 365 comments • by root-parent&#xA;https://news.ycombinator.com/item?id=49243880</description>
-      <pubDate>Tue, 11 Aug 2026 00:41:38 +0000</pubDate>
-      <guid>49243880</guid>
+      <title>Chicken Scheme 6.0</title>
+      <link>https://code.call-cc.org/releases/6.0.0/NEWS</link>
+      <description>295 points • 50 comments • by eatonphil&#xA;https://news.ycombinator.com/item?id=49251702</description>
+      <pubDate>Wed, 12 Aug 2026 00:49:42 +0000</pubDate>
+      <guid>49251702</guid>
     </item>
     <item>
-      <title>Mars Bar from 1991 found – and it&#39;s 20g bigger than today&#39;s</title>
-      <link>https://www.bbc.com/news/articles/c1j1kjy7gewo</link>
-      <description>294 points • 454 comments • by RickJWagner&#xA;https://news.ycombinator.com/item?id=49245023</description>
-      <pubDate>Tue, 11 Aug 2026 00:40:38 +0000</pubDate>
-      <guid>49245023</guid>
+      <title>Nvidia&#39;s Risky Business</title>
+      <link>https://stratechery.com/2026/nvidias-risky-business/</link>
+      <description>288 points • 136 comments • by jonbaer&#xA;https://news.ycombinator.com/item?id=49255710</description>
+      <pubDate>Wed, 12 Aug 2026 00:48:42 +0000</pubDate>
+      <guid>49255710</guid>
     </item>
     <item>
-      <title>Illinois just passed a law that puts Linux on the hook for age verification</title>
-      <link>https://linuxstans.com/illinois-hb5511-operating-system-age-verification/</link>
-      <description>278 points • 351 comments • by speckx&#xA;https://news.ycombinator.com/item?id=49249150</description>
-      <pubDate>Tue, 11 Aug 2026 00:39:38 +0000</pubDate>
-      <guid>49249150</guid>
+      <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
+      <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
+      <description>282 points • 43 comments • by frabonacci&#xA;https://news.ycombinator.com/item?id=49259339</description>
+      <pubDate>Wed, 12 Aug 2026 00:47:42 +0000</pubDate>
+      <guid>49259339</guid>
     </item>
     <item>
-      <title>Auto mode is now the default in Claude Code</title>
-      <link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
-      <description>275 points • 302 comments • by sbehere&#xA;https://news.ycombinator.com/item?id=49239021</description>
-      <pubDate>Tue, 11 Aug 2026 00:38:38 +0000</pubDate>
-      <guid>49239021</guid>
+      <title>Mojo 1.0</title>
+      <link>https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</link>
+      <description>275 points • 126 comments • by dayanruben&#xA;https://news.ycombinator.com/item?id=49261128</description>
+      <pubDate>Wed, 12 Aug 2026 00:46:42 +0000</pubDate>
+      <guid>49261128</guid>
     </item>
     <item>
-      <title>Squeak 6.1</title>
-      <link>https://squeak.org/release_notes/6.1/</link>
-      <description>217 points • 112 comments • by fniephaus&#xA;https://news.ycombinator.com/item?id=49242653</description>
-      <pubDate>Tue, 11 Aug 2026 00:37:38 +0000</pubDate>
-      <guid>49242653</guid>
+      <title>OpenAI’s head of ethics leaves less than a year after joining</title>
+      <link>https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0</link>
+      <description>266 points • 336 comments • by ilamont&#xA;https://news.ycombinator.com/item?id=49257160</description>
+      <pubDate>Wed, 12 Aug 2026 00:45:42 +0000</pubDate>
+      <guid>49257160</guid>
     </item>
     <item>
-      <title>Mistral Patent for “Code implemented tool calls”</title>
-      <link>https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</link>
-      <description>207 points • 171 comments • by theanonymousone&#xA;https://news.ycombinator.com/item?id=49243397</description>
-      <pubDate>Tue, 11 Aug 2026 00:36:38 +0000</pubDate>
-      <guid>49243397</guid>
+      <title>Go is an ideal language for AI-assisted software engineering</title>
+      <link>https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</link>
+      <description>249 points • 294 comments • by 0xedb&#xA;https://news.ycombinator.com/item?id=49261133</description>
+      <pubDate>Wed, 12 Aug 2026 00:44:42 +0000</pubDate>
+      <guid>49261133</guid>
     </item>
   </channel>
 </rss>
