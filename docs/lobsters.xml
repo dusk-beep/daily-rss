@@ -19,17 +19,6 @@
       <category>privacy</category>
     </item>
     <item>
-      <title>rust-lang/rust is adopting an LLM policy</title>
-      <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
-      <guid>https://lobste.rs/s/czvkjy</guid>
-      <author>blog.rust-lang.org via wezm</author>
-      <pubDate>Wed, 05 Aug 2026 01:55:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/czvkjy/rust_lang_rust_is_adopting_llm_policy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>I'm leaving OpenAI to build Jurassic Park</title>
       <link>https://taylor.town/leaving-openai</link>
       <guid>https://lobste.rs/s/ch83co</guid>
@@ -49,16 +38,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lzupt0/disability_dongle_why_silicon_valley"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
       <category>a11y</category>
-    </item>
-    <item>
-      <title>Offensive Internet Posture</title>
-      <link>https://bruceediger.com/posts/offensive-machine/</link>
-      <guid>https://lobste.rs/s/fgcrj0</guid>
-      <author>bruceediger.com via zk</author>
-      <pubDate>Wed, 05 Aug 2026 07:34:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/fgcrj0/offensive_internet_posture</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgcrj0/offensive_internet_posture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
     </item>
     <item>
       <title>i wonder if you could make a useful DOS executable with just emoji</title>
@@ -273,6 +252,26 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>privacy</category>
+    </item>
+    <item>
+      <title>GNOME Shell Design Dreams</title>
+      <link>https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/</link>
+      <guid>https://lobste.rs/s/b3uky6</guid>
+      <author>blogs.gnome.org via FedericoSchonborn</author>
+      <pubDate>Tue, 11 Aug 2026 09:08:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/b3uky6/gnome_shell_design_dreams</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3uky6/gnome_shell_design_dreams"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+    </item>
+    <item>
+      <title>python string literals are kinda funny</title>
+      <link>https://sebsite.pw/w/20260806-pystrings.html</link>
+      <guid>https://lobste.rs/s/mxdfdv</guid>
+      <author>sebsite.pw via raymii</author>
+      <pubDate>Wed, 05 Aug 2026 23:44:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mxdfdv/python_string_literals_are_kinda_funny"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
     </item>
   </channel>
 </rss>
