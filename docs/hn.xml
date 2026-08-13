@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug</title>
+      <title>Tracking down the 16-year-old WAL-reset SQLite bug</title>
       <link>https://tailscale.com/blog/sqlite-wal-reset-bug</link>
-      <description>775 points • 137 comments • by ropbear&#xA;https://news.ycombinator.com/item?id=49272832</description>
-      <pubDate>Thu, 13 Aug 2026 00:55:05 +0000</pubDate>
+      <description>1089 points • 202 comments • by ropbear&#xA;https://news.ycombinator.com/item?id=49272832</description>
+      <pubDate>Thu, 13 Aug 2026 12:22:52 +0000</pubDate>
       <guid>49272832</guid>
     </item>
     <item>
       <title>DeepSeek V4 Pro 0813</title>
       <link>https://openrouter.ai/deepseek/deepseek-v4-pro-0813</link>
-      <description>720 points • 270 comments • by explosion-s&#xA;https://news.ycombinator.com/item?id=49274600</description>
-      <pubDate>Thu, 13 Aug 2026 00:54:05 +0000</pubDate>
+      <description>966 points • 415 comments • by explosion-s&#xA;https://news.ycombinator.com/item?id=49274600</description>
+      <pubDate>Thu, 13 Aug 2026 12:21:52 +0000</pubDate>
       <guid>49274600</guid>
     </item>
     <item>
       <title>AI is removing the middle class of software engineering?</title>
       <link>https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html</link>
-      <description>697 points • 628 comments • by florianherrengt&#xA;https://news.ycombinator.com/item?id=49271994</description>
-      <pubDate>Thu, 13 Aug 2026 00:53:05 +0000</pubDate>
+      <description>913 points • 817 comments • by florianherrengt&#xA;https://news.ycombinator.com/item?id=49271994</description>
+      <pubDate>Thu, 13 Aug 2026 12:20:52 +0000</pubDate>
       <guid>49271994</guid>
-    </item>
-    <item>
-      <title>License plate reader searches should require a warrant</title>
-      <link>https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/</link>
-      <description>535 points • 330 comments • by apwheele&#xA;https://news.ycombinator.com/item?id=49273165</description>
-      <pubDate>Thu, 13 Aug 2026 00:52:05 +0000</pubDate>
-      <guid>49273165</guid>
     </item>
     <item>
       <title>Qwen3.8-2.4T</title>
       <link>https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B</link>
-      <description>478 points • 102 comments • by Philpax&#xA;https://news.ycombinator.com/item?id=49273478</description>
-      <pubDate>Thu, 13 Aug 2026 00:51:05 +0000</pubDate>
+      <description>657 points • 154 comments • by Philpax&#xA;https://news.ycombinator.com/item?id=49273478</description>
+      <pubDate>Thu, 13 Aug 2026 12:19:52 +0000</pubDate>
       <guid>49273478</guid>
     </item>
     <item>
-      <title>Controversial creators are benefiting from monetization programs run by Meta</title>
-      <link>https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</link>
-      <description>464 points • 320 comments • by robtherobber&#xA;https://news.ycombinator.com/item?id=49269818</description>
-      <pubDate>Thu, 13 Aug 2026 00:50:05 +0000</pubDate>
-      <guid>49269818</guid>
-    </item>
-    <item>
-      <title>LinkedIn CringeBot 3000</title>
-      <link>https://www.cringebot3000.com/</link>
-      <description>462 points • 201 comments • by theanonymousone&#xA;https://news.ycombinator.com/item?id=49268564</description>
-      <pubDate>Thu, 13 Aug 2026 00:49:05 +0000</pubDate>
-      <guid>49268564</guid>
-    </item>
-    <item>
-      <title>2026 Eclipse Webcams</title>
-      <link>https://jonty.github.io/2026_eclipse_webcams/</link>
-      <description>457 points • 124 comments • by zoenolan&#xA;https://news.ycombinator.com/item?id=49270953</description>
-      <pubDate>Thu, 13 Aug 2026 00:48:05 +0000</pubDate>
-      <guid>49270953</guid>
-    </item>
-    <item>
-      <title>Grok 4.6</title>
-      <link>https://x.ai/news/grok-4-6</link>
-      <description>388 points • 387 comments • by iLuddite&#xA;https://news.ycombinator.com/item?id=49274027</description>
-      <pubDate>Thu, 13 Aug 2026 00:47:05 +0000</pubDate>
-      <guid>49274027</guid>
+      <title>License plate reader searches should require a warrant</title>
+      <link>https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/</link>
+      <description>590 points • 355 comments • by apwheele&#xA;https://news.ycombinator.com/item?id=49273165</description>
+      <pubDate>Thu, 13 Aug 2026 12:18:52 +0000</pubDate>
+      <guid>49273165</guid>
     </item>
     <item>
       <title>Delta</title>
       <link>https://zed.dev/blog/introducing-delta</link>
-      <description>369 points • 121 comments • by khy&#xA;https://news.ycombinator.com/item?id=49276574</description>
-      <pubDate>Thu, 13 Aug 2026 00:46:05 +0000</pubDate>
+      <description>585 points • 217 comments • by khy&#xA;https://news.ycombinator.com/item?id=49276574</description>
+      <pubDate>Thu, 13 Aug 2026 12:17:52 +0000</pubDate>
       <guid>49276574</guid>
+    </item>
+    <item>
+      <title>Grok 4.6</title>
+      <link>https://x.ai/news/grok-4-6</link>
+      <description>580 points • 526 comments • by iLuddite&#xA;https://news.ycombinator.com/item?id=49274027</description>
+      <pubDate>Thu, 13 Aug 2026 12:16:52 +0000</pubDate>
+      <guid>49274027</guid>
+    </item>
+    <item>
+      <title>uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook</title>
+      <link>https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html</link>
+      <description>567 points • 685 comments • by Markoff&#xA;https://news.ycombinator.com/item?id=49270726</description>
+      <pubDate>Thu, 13 Aug 2026 12:15:52 +0000</pubDate>
+      <guid>49270726</guid>
+    </item>
+    <item>
+      <title>2026 Eclipse Webcams</title>
+      <link>https://jonty.github.io/2026_eclipse_webcams/</link>
+      <description>498 points • 133 comments • by zoenolan&#xA;https://news.ycombinator.com/item?id=49270953</description>
+      <pubDate>Thu, 13 Aug 2026 12:14:52 +0000</pubDate>
+      <guid>49270953</guid>
+    </item>
+    <item>
+      <title>Controversial creators are benefiting from monetization programs run by Meta</title>
+      <link>https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</link>
+      <description>473 points • 329 comments • by robtherobber&#xA;https://news.ycombinator.com/item?id=49269818</description>
+      <pubDate>Thu, 13 Aug 2026 12:13:52 +0000</pubDate>
+      <guid>49269818</guid>
     </item>
   </channel>
 </rss>
