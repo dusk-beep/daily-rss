@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Thu, 06 Aug 2026 23:26:26 -0500</pubDate>
+    <pubDate>Wed, 12 Aug 2026 08:09:40 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>I'm leaving OpenAI to build Jurassic Park</title>
-      <link>https://taylor.town/leaving-openai</link>
-      <guid>https://lobste.rs/s/ch83co</guid>
-      <author>taylor.town via j11g</author>
-      <pubDate>Thu, 06 Aug 2026 23:26:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ch83co/i_m_leaving_openai_build_jurassic_park"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-    </item>
     <item>
       <title>I'm done using AI</title>
       <link>https://brettcodes.com/im-done-using-ai/</link>
@@ -112,6 +102,16 @@
       <category>linux</category>
     </item>
     <item>
+      <title>python's pre-declared constants are kinda weird</title>
+      <link>https://sebsite.pw/w/20260801-pythonconstants.html</link>
+      <guid>https://lobste.rs/s/62kxco</guid>
+      <author>sebsite.pw by seb</author>
+      <pubDate>Thu, 13 Aug 2026 00:28:40 -0500</pubDate>
+      <comments>https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
+    </item>
+    <item>
       <title>some software talks i like</title>
       <link>https://char.lt/blog/2026/08/talks-i-like/</link>
       <guid>https://lobste.rs/s/cmrfrj</guid>
@@ -178,24 +178,14 @@
       <category>css</category>
     </item>
     <item>
-      <title>python's pre-declared constants are kinda weird</title>
-      <link>https://sebsite.pw/w/20260801-pythonconstants.html</link>
-      <guid>https://lobste.rs/s/62kxco</guid>
-      <author>sebsite.pw by seb</author>
-      <pubDate>Thu, 13 Aug 2026 00:28:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
-    </item>
-    <item>
-      <title>A shell exclamation mark is not for yelling. Be lazy</title>
-      <link>https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark</link>
-      <guid>https://lobste.rs/s/0mjyep</guid>
-      <author>refp.se via seb</author>
-      <pubDate>Thu, 06 Aug 2026 20:18:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mjyep/shell_exclamation_mark_is_not_for_yelling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>unix</category>
+      <title>GNOME Shell Design Dreams</title>
+      <link>https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/</link>
+      <guid>https://lobste.rs/s/b3uky6</guid>
+      <author>blogs.gnome.org via FedericoSchonborn</author>
+      <pubDate>Tue, 11 Aug 2026 09:08:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/b3uky6/gnome_shell_design_dreams</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3uky6/gnome_shell_design_dreams"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
     </item>
     <item>
       <title>Rails is done</title>
@@ -219,14 +209,26 @@
       <category>debugging</category>
     </item>
     <item>
-      <title>GNOME Shell Design Dreams</title>
-      <link>https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/</link>
-      <guid>https://lobste.rs/s/b3uky6</guid>
-      <author>blogs.gnome.org via FedericoSchonborn</author>
-      <pubDate>Tue, 11 Aug 2026 09:08:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/b3uky6/gnome_shell_design_dreams</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3uky6/gnome_shell_design_dreams"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
+      <title>My Homelab Got Hacked - A Postmortem</title>
+      <link>https://phunky.cafe/my-homelab-got-hacked/</link>
+      <guid>https://lobste.rs/s/ugkhor</guid>
+      <author>phunky.cafe via colindean</author>
+      <pubDate>Wed, 12 Aug 2026 10:50:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>devops</category>
+    </item>
+    <item>
+      <title>I want extern "fil-c"</title>
+      <link>https://domenkozar.com/2026/08/13/i-want-extern-fil-c/</link>
+      <guid>https://lobste.rs/s/tssf5y</guid>
+      <author>domenkozar.com via fzakaria</author>
+      <pubDate>Thu, 13 Aug 2026 12:43:13 -0500</pubDate>
+      <comments>https://lobste.rs/s/tssf5y/i_want_extern_fil_c</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tssf5y/i_want_extern_fil_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>rust</category>
     </item>
     <item>
       <title>nixpkgs-multiverse: every version that ever existed</title>
@@ -263,15 +265,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>My Homelab Got Hacked - A Postmortem</title>
-      <link>https://phunky.cafe/my-homelab-got-hacked/</link>
-      <guid>https://lobste.rs/s/ugkhor</guid>
-      <author>phunky.cafe via colindean</author>
-      <pubDate>Wed, 12 Aug 2026 10:50:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>devops</category>
+      <title>Assembly Hall of Shame: Racing to the bottom of CPU performance</title>
+      <link>https://github.com/xoreaxeaxeax/asm-hall-of-shame</link>
+      <guid>https://lobste.rs/s/hw1y12</guid>
+      <author>github.com via mrunix</author>
+      <pubDate>Fri, 07 Aug 2026 15:29:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
   </channel>
 </rss>
