@@ -30,17 +30,6 @@
       <category>databases</category>
     </item>
     <item>
-      <title>Am I the problem? Interviewing another team to find out</title>
-      <link>https://www.macchaffee.com/blog/2026/am-i-the-problem/</link>
-      <guid>https://lobste.rs/s/c30jsd</guid>
-      <author>macchaffee.com by cetera</author>
-      <pubDate>Fri, 07 Aug 2026 14:27:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c30jsd/am_i_problem_interviewing_another_team"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>culture</category>
-    </item>
-    <item>
       <title>They don’t make ’em like Sublime Text anymore</title>
       <link>https://dbushell.com/2026/08/07/sublime-text/</link>
       <guid>https://lobste.rs/s/uny1fo</guid>
@@ -209,17 +198,6 @@
       <category>debugging</category>
     </item>
     <item>
-      <title>My Homelab Got Hacked - A Postmortem</title>
-      <link>https://phunky.cafe/my-homelab-got-hacked/</link>
-      <guid>https://lobste.rs/s/ugkhor</guid>
-      <author>phunky.cafe via colindean</author>
-      <pubDate>Wed, 12 Aug 2026 10:50:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>devops</category>
-    </item>
-    <item>
       <title>I want extern "fil-c"</title>
       <link>https://domenkozar.com/2026/08/13/i-want-extern-fil-c/</link>
       <guid>https://lobste.rs/s/tssf5y</guid>
@@ -229,6 +207,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tssf5y/i_want_extern_fil_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
       <category>rust</category>
+    </item>
+    <item>
+      <title>My Homelab Got Hacked - A Postmortem</title>
+      <link>https://phunky.cafe/my-homelab-got-hacked/</link>
+      <guid>https://lobste.rs/s/ugkhor</guid>
+      <author>phunky.cafe via colindean</author>
+      <pubDate>Wed, 12 Aug 2026 10:50:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>devops</category>
     </item>
     <item>
       <title>nixpkgs-multiverse: every version that ever existed</title>
@@ -265,14 +254,25 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Assembly Hall of Shame: Racing to the bottom of CPU performance</title>
-      <link>https://github.com/xoreaxeaxeax/asm-hall-of-shame</link>
-      <guid>https://lobste.rs/s/hw1y12</guid>
-      <author>github.com via mrunix</author>
-      <pubDate>Fri, 07 Aug 2026 15:29:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hw1y12/assembly_hall_shame_racing_bottom_cpu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
+      <title>"Code was never the hard part" is an insult to all programmers</title>
+      <link>https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers</link>
+      <guid>https://lobste.rs/s/iixlsm</guid>
+      <author>blog.senko.net via typesanitizer</author>
+      <pubDate>Sat, 08 Aug 2026 14:23:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>EuroZig</title>
+      <link>http://eurozig.eu/</link>
+      <guid>https://lobste.rs/s/rn4sp8</guid>
+      <author>eurozig.eu via Arya</author>
+      <pubDate>Thu, 13 Aug 2026 11:24:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/rn4sp8/eurozig</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rn4sp8/eurozig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
     </item>
   </channel>
 </rss>
