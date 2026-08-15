@@ -30,17 +30,6 @@
       <category>databases</category>
     </item>
     <item>
-      <title>They don’t make ’em like Sublime Text anymore</title>
-      <link>https://dbushell.com/2026/08/07/sublime-text/</link>
-      <guid>https://lobste.rs/s/uny1fo</guid>
-      <author>dbushell.com via diktomat</author>
-      <pubDate>Sat, 08 Aug 2026 03:57:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>editors</category>
-    </item>
-    <item>
       <title>Firefox Containers Preview</title>
       <link>https://blog.mozilla.org/en/firefox/firefox-containers-preview/</link>
       <guid>https://lobste.rs/s/ja2gzr</guid>
@@ -49,16 +38,6 @@
       <comments>https://lobste.rs/s/ja2gzr/firefox_containers_preview</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ja2gzr/firefox_containers_preview"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
-    </item>
-    <item>
-      <title>The Nixpkgs core team has disbanded</title>
-      <link>https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</link>
-      <guid>https://lobste.rs/s/9cv8me</guid>
-      <author>discourse.nixos.org via kevinc</author>
-      <pubDate>Fri, 07 Aug 2026 21:33:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>nix</category>
     </item>
     <item>
       <title>Toggles Considered Harmful</title>
@@ -81,16 +60,6 @@
       <category>design</category>
     </item>
     <item>
-      <title>I hate packaging my software for Linux</title>
-      <link>https://getfresh.dev/docs/blog/packaging-for-linux/</link>
-      <guid>https://lobste.rs/s/ixbrmc</guid>
-      <author>getfresh.dev via mtlynch</author>
-      <pubDate>Wed, 12 Aug 2026 07:40:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-    </item>
-    <item>
       <title>python's pre-declared constants are kinda weird</title>
       <link>https://sebsite.pw/w/20260801-pythonconstants.html</link>
       <guid>https://lobste.rs/s/62kxco</guid>
@@ -99,6 +68,16 @@
       <comments>https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>python</category>
+    </item>
+    <item>
+      <title>I hate packaging my software for Linux</title>
+      <link>https://getfresh.dev/docs/blog/packaging-for-linux/</link>
+      <guid>https://lobste.rs/s/ixbrmc</guid>
+      <author>getfresh.dev via mtlynch</author>
+      <pubDate>Wed, 12 Aug 2026 07:40:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
     </item>
     <item>
       <title>some software talks i like</title>
@@ -177,6 +156,17 @@
       <category>design</category>
     </item>
     <item>
+      <title>I want extern "fil-c"</title>
+      <link>https://domenkozar.com/2026/08/13/i-want-extern-fil-c/</link>
+      <guid>https://lobste.rs/s/tssf5y</guid>
+      <author>domenkozar.com via fzakaria</author>
+      <pubDate>Thu, 13 Aug 2026 12:43:13 -0500</pubDate>
+      <comments>https://lobste.rs/s/tssf5y/i_want_extern_fil_c</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tssf5y/i_want_extern_fil_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>rust</category>
+    </item>
+    <item>
       <title>Rails is done</title>
       <link>https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/</link>
       <guid>https://lobste.rs/s/paryb7</guid>
@@ -198,15 +188,14 @@
       <category>debugging</category>
     </item>
     <item>
-      <title>I want extern "fil-c"</title>
-      <link>https://domenkozar.com/2026/08/13/i-want-extern-fil-c/</link>
-      <guid>https://lobste.rs/s/tssf5y</guid>
-      <author>domenkozar.com via fzakaria</author>
-      <pubDate>Thu, 13 Aug 2026 12:43:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/tssf5y/i_want_extern_fil_c</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tssf5y/i_want_extern_fil_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>rust</category>
+      <title>Firefox is now the last major browser that still supports uBlock Origin</title>
+      <link>https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</link>
+      <guid>https://lobste.rs/s/lfmss9</guid>
+      <author>pcworld.com via tusharhero</author>
+      <pubDate>Sat, 15 Aug 2026 00:08:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
     </item>
     <item>
       <title>My Homelab Got Hacked - A Postmortem</title>
@@ -241,6 +230,18 @@
       <category>privacy</category>
     </item>
     <item>
+      <title>RISC-V: They Should Have Known Better</title>
+      <link>https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</link>
+      <guid>https://lobste.rs/s/pu3yzg</guid>
+      <author>dmitry.gr by dmitrygr</author>
+      <pubDate>Fri, 14 Aug 2026 14:12:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>rant</category>
+      <category>compilers</category>
+    </item>
+    <item>
       <title>I think the vibecoding tag has gotten out of hand</title>
       <link>https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand</link>
       <guid>https://lobste.rs/s/he9j7y</guid>
@@ -265,14 +266,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>EuroZig</title>
-      <link>http://eurozig.eu/</link>
-      <guid>https://lobste.rs/s/rn4sp8</guid>
-      <author>eurozig.eu via Arya</author>
-      <pubDate>Thu, 13 Aug 2026 11:24:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/rn4sp8/eurozig</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rn4sp8/eurozig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>zig</category>
+      <title>Let's not call it "tech debt," it's just "mess"</title>
+      <link>https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/</link>
+      <guid>https://lobste.rs/s/dnlhah</guid>
+      <author>simplermachines.com via jdh</author>
+      <pubDate>Thu, 13 Aug 2026 18:09:13 -0500</pubDate>
+      <comments>https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
     </item>
   </channel>
 </rss>
