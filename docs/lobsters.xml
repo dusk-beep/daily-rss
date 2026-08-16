@@ -30,6 +30,16 @@
       <category>databases</category>
     </item>
     <item>
+      <title>Firefox is now the last major browser that still supports uBlock Origin</title>
+      <link>https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</link>
+      <guid>https://lobste.rs/s/lfmss9</guid>
+      <author>pcworld.com via tusharhero</author>
+      <pubDate>Sat, 15 Aug 2026 00:08:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+    </item>
+    <item>
       <title>Firefox Containers Preview</title>
       <link>https://blog.mozilla.org/en/firefox/firefox-containers-preview/</link>
       <guid>https://lobste.rs/s/ja2gzr</guid>
@@ -78,17 +88,6 @@
       <comments>https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
-    </item>
-    <item>
-      <title>some software talks i like</title>
-      <link>https://char.lt/blog/2026/08/talks-i-like/</link>
-      <guid>https://lobste.rs/s/cmrfrj</guid>
-      <author>char.lt via hugoarnal</author>
-      <pubDate>Sat, 08 Aug 2026 08:48:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/cmrfrj/some_software_talks_i_like</comments>
-      <description>&lt;p&gt;Not tagged as video but contains mostly links to videos&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/cmrfrj/some_software_talks_i_like"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
     </item>
     <item>
       <title>Who Should Pay For Source Code Availability?</title>
@@ -146,6 +145,29 @@
       <category>css</category>
     </item>
     <item>
+      <title>RISC-V: They Should Have Known Better</title>
+      <link>https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</link>
+      <guid>https://lobste.rs/s/pu3yzg</guid>
+      <author>dmitry.gr by dmitrygr</author>
+      <pubDate>Fri, 14 Aug 2026 14:12:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>rant</category>
+      <category>compilers</category>
+    </item>
+    <item>
+      <title>Rails is done</title>
+      <link>https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/</link>
+      <guid>https://lobste.rs/s/paryb7</guid>
+      <author>lucas.dohmen.io via henrycatalinismith</author>
+      <pubDate>Sun, 09 Aug 2026 02:14:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/paryb7/rails_is_done</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/paryb7/rails_is_done"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
+      <category>culture</category>
+    </item>
+    <item>
       <title>GNOME Shell Design Dreams</title>
       <link>https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/</link>
       <guid>https://lobste.rs/s/b3uky6</guid>
@@ -167,17 +189,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Rails is done</title>
-      <link>https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/</link>
-      <guid>https://lobste.rs/s/paryb7</guid>
-      <author>lucas.dohmen.io via henrycatalinismith</author>
-      <pubDate>Sun, 09 Aug 2026 02:14:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/paryb7/rails_is_done</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/paryb7/rails_is_done"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ruby</category>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Tracking down a Zsh history data loss bug</title>
       <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</link>
       <guid>https://lobste.rs/s/x0jlp7</guid>
@@ -186,16 +197,6 @@
       <comments>https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>debugging</category>
-    </item>
-    <item>
-      <title>Firefox is now the last major browser that still supports uBlock Origin</title>
-      <link>https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</link>
-      <guid>https://lobste.rs/s/lfmss9</guid>
-      <author>pcworld.com via tusharhero</author>
-      <pubDate>Sat, 15 Aug 2026 00:08:35 -0500</pubDate>
-      <comments>https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
     </item>
     <item>
       <title>My Homelab Got Hacked - A Postmortem</title>
@@ -230,18 +231,6 @@
       <category>privacy</category>
     </item>
     <item>
-      <title>RISC-V: They Should Have Known Better</title>
-      <link>https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</link>
-      <guid>https://lobste.rs/s/pu3yzg</guid>
-      <author>dmitry.gr by dmitrygr</author>
-      <pubDate>Fri, 14 Aug 2026 14:12:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-      <category>rant</category>
-      <category>compilers</category>
-    </item>
-    <item>
       <title>I think the vibecoding tag has gotten out of hand</title>
       <link>https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand</link>
       <guid>https://lobste.rs/s/he9j7y</guid>
@@ -255,17 +244,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>"Code was never the hard part" is an insult to all programmers</title>
-      <link>https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers</link>
-      <guid>https://lobste.rs/s/iixlsm</guid>
-      <author>blog.senko.net via typesanitizer</author>
-      <pubDate>Sat, 08 Aug 2026 14:23:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iixlsm/code_was_never_hard_part_is_insult_all"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Let's not call it "tech debt," it's just "mess"</title>
       <link>https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/</link>
       <guid>https://lobste.rs/s/dnlhah</guid>
@@ -274,6 +252,27 @@
       <comments>https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
+    </item>
+    <item>
+      <title>EuroZig</title>
+      <link>http://eurozig.eu/</link>
+      <guid>https://lobste.rs/s/rn4sp8</guid>
+      <author>eurozig.eu via Arya</author>
+      <pubDate>Thu, 13 Aug 2026 11:24:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/rn4sp8/eurozig</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rn4sp8/eurozig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
+    </item>
+    <item>
+      <title>Unlocking _everything_ on the CPU with DRAM scrambling</title>
+      <link>https://github.com/xoreaxeaxeax/skitter-creek-bath-salts</link>
+      <guid>https://lobste.rs/s/a4zifd</guid>
+      <author>github.com via radex</author>
+      <pubDate>Thu, 13 Aug 2026 11:06:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
