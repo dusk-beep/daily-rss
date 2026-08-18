@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Firefox for iOS now has a native adblocker</title>
-      <link>https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</link>
-      <description>518 points • 211 comments • by pentagrama&#xA;https://news.ycombinator.com/item?id=49319633</description>
-      <pubDate>Mon, 17 Aug 2026 00:30:40 +0000</pubDate>
-      <guid>49319633</guid>
+      <title>Incident with Github.com</title>
+      <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
+      <description>694 points • 2 comments • by kevcampb&#xA;https://news.ycombinator.com/item?id=49330684</description>
+      <pubDate>Tue, 18 Aug 2026 00:30:34 +0000</pubDate>
+      <guid>49330684</guid>
     </item>
     <item>
-      <title>Claude: System Prompts</title>
-      <link>https://platform.claude.com/docs/en/release-notes/system-prompts</link>
-      <description>516 points • 216 comments • by tosh&#xA;https://news.ycombinator.com/item?id=49319556</description>
-      <pubDate>Mon, 17 Aug 2026 00:29:40 +0000</pubDate>
-      <guid>49319556</guid>
+      <title>AI;DR (AI; Didn&#39;t Read)</title>
+      <link>https://www.rickmanelius.com/p/aidr-ai-didnt-read</link>
+      <description>551 points • 339 comments • by mooreds&#xA;https://news.ycombinator.com/item?id=49336573</description>
+      <pubDate>Tue, 18 Aug 2026 00:29:34 +0000</pubDate>
+      <guid>49336573</guid>
     </item>
     <item>
-      <title>Research papers using &#34;kidney disappointment&#34; instead of &#34;kidney failure&#34;</title>
-      <link>https://scholar.google.com/scholar?q=%22kidney+disappointment%22</link>
-      <description>352 points • 128 comments • by Alifatisk&#xA;https://news.ycombinator.com/item?id=49319389</description>
-      <pubDate>Mon, 17 Aug 2026 00:28:40 +0000</pubDate>
-      <guid>49319389</guid>
+      <title>Incident with Github.com</title>
+      <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
+      <description>519 points • 895 comments • by SpyCoder77&#xA;https://news.ycombinator.com/item?id=49330597</description>
+      <pubDate>Tue, 18 Aug 2026 00:28:34 +0000</pubDate>
+      <guid>49330597</guid>
     </item>
     <item>
-      <title>A 3rd World Embedded Engineer Responds to &#34;RISC-V They Should Have Known Better&#34;</title>
-      <link>https://rvembedded.com/blog_post/12/</link>
-      <description>343 points • 179 comments • by Narishma&#xA;https://news.ycombinator.com/item?id=49321717</description>
-      <pubDate>Mon, 17 Aug 2026 00:27:40 +0000</pubDate>
-      <guid>49321717</guid>
+      <title>A Preview of DuckDB v2.0</title>
+      <link>https://duckdb.org/2026/08/17/duckdb-20-highlights</link>
+      <description>513 points • 91 comments • by ibotty&#xA;https://news.ycombinator.com/item?id=49330781</description>
+      <pubDate>Tue, 18 Aug 2026 00:27:34 +0000</pubDate>
+      <guid>49330781</guid>
     </item>
     <item>
-      <title>Tell HN: Cloudflare silently injects its analytics when you switch nameservers</title>
-      <link>https://news.ycombinator.com/item?id=49322107</link>
-      <description>253 points • 60 comments • by stagas&#xA;https://news.ycombinator.com/item?id=49322107</description>
-      <pubDate>Mon, 17 Aug 2026 00:26:40 +0000</pubDate>
-      <guid>49322107</guid>
+      <title>Ask HN: Alternatives to GitHub</title>
+      <link>https://news.ycombinator.com/item?id=49331033</link>
+      <description>483 points • 304 comments • by dhruv3006&#xA;https://news.ycombinator.com/item?id=49331033</description>
+      <pubDate>Tue, 18 Aug 2026 00:26:34 +0000</pubDate>
+      <guid>49331033</guid>
     </item>
     <item>
-      <title>Models Are Getting Dumber on Purpose</title>
-      <link>https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</link>
-      <description>244 points • 140 comments • by hruvhwe&#xA;https://news.ycombinator.com/item?id=49322695</description>
-      <pubDate>Mon, 17 Aug 2026 00:25:40 +0000</pubDate>
-      <guid>49322695</guid>
+      <title>Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study</title>
+      <link>https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/</link>
+      <description>378 points • 513 comments • by karakoram&#xA;https://news.ycombinator.com/item?id=49332981</description>
+      <pubDate>Tue, 18 Aug 2026 00:25:34 +0000</pubDate>
+      <guid>49332981</guid>
     </item>
     <item>
-      <title>What happens when an LLM never sees material beyond fifth grade?</title>
-      <link>https://littlelearner-ll.github.io/</link>
-      <description>234 points • 205 comments • by porridgeraisin&#xA;https://news.ycombinator.com/item?id=49317760</description>
-      <pubDate>Mon, 17 Aug 2026 00:24:40 +0000</pubDate>
-      <guid>49317760</guid>
+      <title>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&#39;s Jira</title>
+      <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
+      <description>305 points • 123 comments • by galnagli&#xA;https://news.ycombinator.com/item?id=49331423</description>
+      <pubDate>Tue, 18 Aug 2026 00:24:34 +0000</pubDate>
+      <guid>49331423</guid>
     </item>
     <item>
-      <title>The AI Credit Resale Economy</title>
-      <link>https://vectoral.com/blog/who-are-the-token-brokers</link>
-      <description>219 points • 86 comments • by mlenhard&#xA;https://news.ycombinator.com/item?id=49320611</description>
-      <pubDate>Mon, 17 Aug 2026 00:23:40 +0000</pubDate>
-      <guid>49320611</guid>
+      <title>GPT 5.6 Sol is the best &#34;vision&#34; model OpenAI ever released</title>
+      <link>https://blog.roboflow.com/openai-gpt-5-6/</link>
+      <description>294 points • 152 comments • by plurby&#xA;https://news.ycombinator.com/item?id=49329575</description>
+      <pubDate>Tue, 18 Aug 2026 00:23:34 +0000</pubDate>
+      <guid>49329575</guid>
     </item>
     <item>
-      <title>Patterns and problems in emerging multi-agent systems</title>
-      <link>https://www.anthropic.com/research/multiagent-systems</link>
-      <description>179 points • 130 comments • by maxutility&#xA;https://news.ycombinator.com/item?id=49316271</description>
-      <pubDate>Mon, 17 Aug 2026 00:22:40 +0000</pubDate>
-      <guid>49316271</guid>
+      <title>Qwen3.8 27B scores 52 on Artificial Analysis</title>
+      <link>https://artificialanalysis.ai/models/qwen3-8-27b</link>
+      <description>294 points • 128 comments • by anana_&#xA;https://news.ycombinator.com/item?id=49334544</description>
+      <pubDate>Tue, 18 Aug 2026 00:22:34 +0000</pubDate>
+      <guid>49334544</guid>
     </item>
     <item>
-      <title>The weekend is 100 years old</title>
-      <link>https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</link>
-      <description>176 points • 119 comments • by lentil_soup&#xA;https://news.ycombinator.com/item?id=49320984</description>
-      <pubDate>Mon, 17 Aug 2026 00:21:40 +0000</pubDate>
-      <guid>49320984</guid>
+      <title>GitHub down again? no PR access</title>
+      <link>https://news.ycombinator.com/item?id=49330632</link>
+      <description>288 points • 2 comments • by yodon&#xA;https://news.ycombinator.com/item?id=49330632</description>
+      <pubDate>Tue, 18 Aug 2026 00:21:34 +0000</pubDate>
+      <guid>49330632</guid>
     </item>
   </channel>
 </rss>
