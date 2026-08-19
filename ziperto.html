@@ -1,4 +1,4 @@
-<html class="js" lang="en-US"><head><meta charset="UTF-8"><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Y9FY1JDB4C&amp;cx=c&amp;gtm=4e68e1"></script><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.5",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseout","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),await this.T(),await this.F(),await this.j(),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise(t=>setTimeout(t,500-Date.now()+this.lastTouchEnd)),this.I(),this.H(),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))},{isRocket:!0})}o(){window.addEventListener("pageshow",t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0},{isRocket:!0}),window.addEventListener("pagehide",()=>{this.onFirstUserAction=null},{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",function i(o){o.changedTouches[0]&&t.changedTouches[0]&&Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}),"INPUT"===o.target.tagName&&"text"===o.target.type||(o.target.dispatchEvent(new TouchEvent("touchend",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new MouseEvent("mouseover",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0,detail:1,clientX:o.changedTouches[0].clientX,clientY:o.changedTouches[0].clientY})),event.preventDefault()))},{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,t.composedPath&&t.composedPath()[0].getRootNode()instanceof ShadowRoot&&(t.rocketTarget=t.composedPath()[0]),this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach(t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.addEventListener("visibilitychange",this.userEventHandler,{isRocket:!0})}U(){this.userEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.removeEventListener("visibilitychange",this.userEventHandler,{isRocket:!0}),this.savedUserEvents.forEach(t=>{(t.rocketTarget||t.target).dispatchEvent(new window[t.constructor.name](t.type,t))})}m(){const t="return false",e=Array.from(this.attributeEvents,t=>"data-rocket-"+t),i="["+this.attributeEvents.join("],[")+"]",o="[data-rocket-"+this.attributeEvents.join("],[data-rocket-")+"]",s=(e,i,o)=>{o&&o!==t&&(e.setAttribute("data-rocket-"+i,o),e["rocket"+i]=new Function("event",o),e.setAttribute(i,t))};new MutationObserver(t=>{for(const n of t)"attributes"===n.type&&(n.attributeName.startsWith("data-rocket-")||this.everythingLoaded?n.attributeName.startsWith("data-rocket-")&&this.everythingLoaded&&this.N(n.target,n.attributeName.substring(12)):s(n.target,n.attributeName,n.target.getAttribute(n.attributeName))),"childList"===n.type&&n.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE)if(this.everythingLoaded)for(const i of[t,...t.querySelectorAll(o)])for(const t of i.getAttributeNames())e.includes(t)&&this.N(i,t.substring(12));else for(const e of[t,...t.querySelectorAll(i)])for(const t of e.getAttributeNames())this.attributeEvents.includes(t)&&s(e,t,e.getAttribute(t))})}).observe(document,{subtree:!0,childList:!0,attributeFilter:[...this.attributeEvents,...e]})}I(){this.attributeEvents.forEach(t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach(e=>{this.N(e,t)})})}N(t,e){const i=t.getAttribute("data-rocket-"+e);i&&(t.setAttribute(e,i),t.removeAttribute("data-rocket-"+e))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick||null},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalAddEventListener.call(this,e,i,o):(t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o}),"mouseenter"!==e&&"mouseleave"!==e||t.originalAddEventListener.call(this,e,t.savedUserEvents.push,o))},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}J(t,e){this.savedEventListeners=this.savedEventListeners.filter(i=>{let o=i.type,s=i.target||window;return e!==o||t!==s||(this.B(o,s)&&(i.type="rocket-"+o),this.$(i),!1)})}H(){EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener,this.savedEventListeners.forEach(t=>this.$(t))}$(t){t.remove?this.originalRemoveEventListener.call(t.target,t.type,t.func,t.options):this.originalAddEventListener.call(t.target,t.type,t.func,t.options)}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map(t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e})),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,()=>{e[t].forEach(t=>t())},{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout(()=>i.bind(document)(o)):i.bind(document)(o)}return"function"==typeof i&&(t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s)),this},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async R(){return new Promise(t=>{this.userActionTriggered?t():this.onFirstUserAction=t})}async L(){return new Promise(t=>{document.addEventListener("DOMContentLoaded",()=>{this.realDomReadyFired=!0,t()},{isRocket:!0})})}async j(){return this.realWindowLoadedFired?Promise.resolve():new Promise(t=>{window.addEventListener("load",t,{isRocket:!0})})}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver(t=>{for(const e of t)e.addedNodes.forEach(t=>{"SCRIPT"!==t.tagName||!t.src||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise(e=>{const i=()=>{const i=this.pendingScripts.findIndex(e=>e.script===t);i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)})})})}),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async F(){await this.X(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.F()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach(e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this.Y(t,"preconnect")}async G(t){if(await this.K(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise(e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))}),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",()=>{i.setAttribute("data-rocket-status","failed-network"),e()},{isRocket:!0}),setTimeout(()=>{i.isConnected||e()},1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.G(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())},{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}});t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.G(e),this.C(t)):Promise.resolve()}O(){this.Y([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}Y(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach(t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}}),document.head.appendChild(o)}W(){this.trash.forEach(t=>t.remove())}async T(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(document,"DOMContentLoaded"),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.K(),this.J(window,"DOMContentLoaded"),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(window,"load"),window.dispatchEvent(new Event("rocket-load")),await this.K(),window.rocketonload&&window.rocketonload(),await this.K(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this.K(),this.J(window,"pageshow");const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.K(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async K(){Date.now()-this.lastBreath>45&&(await this.X(),this.lastBreath=Date.now())}async X(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}B(t,e=window){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();
+<html class="js" lang="en-US"><head><meta charset="UTF-8"><script src="//e.dtscout.com/e/?v=1a&amp;pid=5200&amp;site=1&amp;l=https%3A%2F%2Fwww.ziperto.com%2F&amp;j=" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Y9FY1JDB4C&amp;cx=c&amp;gtm=4e68h1"></script><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.5",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseout","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),await this.T(),await this.F(),await this.j(),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise(t=>setTimeout(t,500-Date.now()+this.lastTouchEnd)),this.I(),this.H(),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))},{isRocket:!0})}o(){window.addEventListener("pageshow",t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0},{isRocket:!0}),window.addEventListener("pagehide",()=>{this.onFirstUserAction=null},{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",function i(o){o.changedTouches[0]&&t.changedTouches[0]&&Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}),"INPUT"===o.target.tagName&&"text"===o.target.type||(o.target.dispatchEvent(new TouchEvent("touchend",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new MouseEvent("mouseover",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0,detail:1,clientX:o.changedTouches[0].clientX,clientY:o.changedTouches[0].clientY})),event.preventDefault()))},{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,t.composedPath&&t.composedPath()[0].getRootNode()instanceof ShadowRoot&&(t.rocketTarget=t.composedPath()[0]),this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach(t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.addEventListener("visibilitychange",this.userEventHandler,{isRocket:!0})}U(){this.userEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.removeEventListener("visibilitychange",this.userEventHandler,{isRocket:!0}),this.savedUserEvents.forEach(t=>{(t.rocketTarget||t.target).dispatchEvent(new window[t.constructor.name](t.type,t))})}m(){const t="return false",e=Array.from(this.attributeEvents,t=>"data-rocket-"+t),i="["+this.attributeEvents.join("],[")+"]",o="[data-rocket-"+this.attributeEvents.join("],[data-rocket-")+"]",s=(e,i,o)=>{o&&o!==t&&(e.setAttribute("data-rocket-"+i,o),e["rocket"+i]=new Function("event",o),e.setAttribute(i,t))};new MutationObserver(t=>{for(const n of t)"attributes"===n.type&&(n.attributeName.startsWith("data-rocket-")||this.everythingLoaded?n.attributeName.startsWith("data-rocket-")&&this.everythingLoaded&&this.N(n.target,n.attributeName.substring(12)):s(n.target,n.attributeName,n.target.getAttribute(n.attributeName))),"childList"===n.type&&n.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE)if(this.everythingLoaded)for(const i of[t,...t.querySelectorAll(o)])for(const t of i.getAttributeNames())e.includes(t)&&this.N(i,t.substring(12));else for(const e of[t,...t.querySelectorAll(i)])for(const t of e.getAttributeNames())this.attributeEvents.includes(t)&&s(e,t,e.getAttribute(t))})}).observe(document,{subtree:!0,childList:!0,attributeFilter:[...this.attributeEvents,...e]})}I(){this.attributeEvents.forEach(t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach(e=>{this.N(e,t)})})}N(t,e){const i=t.getAttribute("data-rocket-"+e);i&&(t.setAttribute(e,i),t.removeAttribute("data-rocket-"+e))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick||null},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalAddEventListener.call(this,e,i,o):(t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o}),"mouseenter"!==e&&"mouseleave"!==e||t.originalAddEventListener.call(this,e,t.savedUserEvents.push,o))},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}J(t,e){this.savedEventListeners=this.savedEventListeners.filter(i=>{let o=i.type,s=i.target||window;return e!==o||t!==s||(this.B(o,s)&&(i.type="rocket-"+o),this.$(i),!1)})}H(){EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener,this.savedEventListeners.forEach(t=>this.$(t))}$(t){t.remove?this.originalRemoveEventListener.call(t.target,t.type,t.func,t.options):this.originalAddEventListener.call(t.target,t.type,t.func,t.options)}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map(t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e})),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,()=>{e[t].forEach(t=>t())},{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout(()=>i.bind(document)(o)):i.bind(document)(o)}return"function"==typeof i&&(t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s)),this},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async R(){return new Promise(t=>{this.userActionTriggered?t():this.onFirstUserAction=t})}async L(){return new Promise(t=>{document.addEventListener("DOMContentLoaded",()=>{this.realDomReadyFired=!0,t()},{isRocket:!0})})}async j(){return this.realWindowLoadedFired?Promise.resolve():new Promise(t=>{window.addEventListener("load",t,{isRocket:!0})})}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver(t=>{for(const e of t)e.addedNodes.forEach(t=>{"SCRIPT"!==t.tagName||!t.src||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise(e=>{const i=()=>{const i=this.pendingScripts.findIndex(e=>e.script===t);i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)})})})}),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async F(){await this.X(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.F()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach(e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this.Y(t,"preconnect")}async G(t){if(await this.K(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise(e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))}),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",()=>{i.setAttribute("data-rocket-status","failed-network"),e()},{isRocket:!0}),setTimeout(()=>{i.isConnected||e()},1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.G(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())},{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}});t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.G(e),this.C(t)):Promise.resolve()}O(){this.Y([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}Y(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach(t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}}),document.head.appendChild(o)}W(){this.trash.forEach(t=>t.remove())}async T(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(document,"DOMContentLoaded"),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.K(),this.J(window,"DOMContentLoaded"),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(window,"load"),window.dispatchEvent(new Event("rocket-load")),await this.K(),window.rocketonload&&window.rocketonload(),await this.K(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this.K(),this.J(window,"pageshow");const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.K(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async K(){Date.now()-this.lastBreath>45&&(await this.X(),this.lastBreath=Date.now())}async X(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}B(t,e=window){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();
 </script>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +7,7 @@
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <script src="data:text/javascript;base64,ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsYXNzTmFtZSA9IGRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5jbGFzc05hbWUucmVwbGFjZSgibm8tanMiLCJqcyIpOw==" data-rocket-status="executed">document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
 
-	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v28.3 - https://yoast.com/product/yoast-seo-wordpress/ -->
 	<title>Ziperto - A Digital Park for Gamers</title>
 <link data-rocket-preload="" as="style" data-wpr-hosted-gf-parameters="family=Roboto%20Condensed%3A400%2C300italic%2C300%2C400italic%2C700&amp;subset=latin%2Clatin-ext&amp;display=swap" href="https://www.ziperto.com/wp-content/cache/fonts/1/google-fonts/css/8/5/2/d5f39824221850198d2fa9147d35d.css" rel="preload">
 <link data-wpr-hosted-gf-parameters="family=Roboto%20Condensed%3A400%2C300italic%2C300%2C400italic%2C700&amp;subset=latin%2Clatin-ext&amp;display=swap" href="https://www.ziperto.com/wp-content/cache/fonts/1/google-fonts/css/8/5/2/d5f39824221850198d2fa9147d35d.css" media="all" onload="this.media='all'" rel="stylesheet">
@@ -210,148 +210,148 @@ body { font-family: "Roboto Condensed", Arial, sans-serif; }
 
 	<div class="featured flexslider" id="flexslider-featured">
 		
-	<div class="flex-viewport" style="overflow: hidden; position: relative; height: 474.338px;"><ul class="slides" style="width: 1400%; margin-left: -952.749px;"><li class="clone" style="width: 720px; float: left; display: block;">
-				<article id="post-217326" class="group post-217326 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
+	<div class="flex-viewport" style="overflow: hidden; position: relative; height: 441.781px;"><ul class="slides" style="width: 1400%; margin-left: -1440px;"><li class="clone" style="width: 720px; float: left; display: block;">
+				<article id="post-217490" class="group post-217490 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-action tag-adventure tag-arcade tag-cloud-m1 tag-platformer">	
 	<div class="post-inner post-hover">
 		
 		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/basketball-club-story-switch/">
-									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Basketball Club Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
+			<a href="https://www.ziperto.com/ayo-the-clown-switch/">
+									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Ayo the Clown Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-520x245.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
 					</div><!--/.post-thumbnail-->
 		
 		<div class="post-meta group">
 			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
+			<p class="post-date">August 18, 2026</p>
 		</div><!--/.post-meta-->
 		
 		<h2 class="post-title">
-			<a href="https://www.ziperto.com/basketball-club-story-switch/" rel="bookmark">Basketball Club Story Switch NSP [UPDATE] (eShop)</a>
+			<a href="https://www.ziperto.com/ayo-the-clown-switch/" rel="bookmark">Ayo the Clown Switch NSP (eShop)</a>
 		</h2><!--/.post-title-->
 		
 				
 	</div><!--/.post-inner-->	
 </article><!--/.post-->				</li>
 						<li class="" style="width: 720px; float: left; display: block;">
-				<article id="post-217406" class="group post-217406 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-gbt-ui-solutions-s-r-l tag-sports">	
+				<article id="post-217430" class="group post-217430 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
 	<div class="post-inner post-hover">
 		
 		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/web-fishing-relax-and-fish-switch/">
-									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="WEB FISHING - Relax and Fish Switch" decoding="async" fetchpriority="high" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
+			<a href="https://www.ziperto.com/pool-slide-story-switch/">
+									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Pool Slide Story Switch" decoding="async" fetchpriority="high" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
 					</div><!--/.post-thumbnail-->
 		
 		<div class="post-meta group">
 			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
+			<p class="post-date">August 18, 2026</p>
 		</div><!--/.post-meta-->
 		
 		<h2 class="post-title">
-			<a href="https://www.ziperto.com/web-fishing-relax-and-fish-switch/" rel="bookmark">WEB FISHING – Relax and Fish Switch NSP [UPDATE] (eShop)</a>
+			<a href="https://www.ziperto.com/pool-slide-story-switch/" rel="bookmark">Pool Slide Story Switch NSP [UPDATE] (eShop)</a>
 		</h2><!--/.post-title-->
 		
 				
 	</div><!--/.post-inner-->	
 </article><!--/.post-->				</li>
 						<li style="width: 720px; float: left; display: block;" class="flex-active-slide">
-				<article id="post-217367" class="group post-217367 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
+				<article id="post-217422" class="group post-217422 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
 	<div class="post-inner post-hover">
 		
 		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/dungeon-village-switch/">
-									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Dungeon-Village-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Dungeon Village Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Dungeon-Village-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Dungeon-Village-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Dungeon-Village-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
+			<a href="https://www.ziperto.com/shiny-ski-resort-switch/">
+									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Shiny Ski Resort Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
 					</div><!--/.post-thumbnail-->
 		
 		<div class="post-meta group">
 			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
+			<p class="post-date">August 18, 2026</p>
 		</div><!--/.post-meta-->
 		
 		<h2 class="post-title">
-			<a href="https://www.ziperto.com/dungeon-village-switch/" rel="bookmark">Dungeon Village Switch NSP [UPDATE] (eShop)</a>
+			<a href="https://www.ziperto.com/shiny-ski-resort-switch/" rel="bookmark">Shiny Ski Resort Switch NSP [UPDATE] (eShop)</a>
 		</h2><!--/.post-title-->
 		
 				
 	</div><!--/.post-inner-->	
 </article><!--/.post-->				</li>
 						<li style="width: 720px; float: left; display: block;">
-				<article id="post-217360" class="group post-217360 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
+				<article id="post-217414" class="group post-217414 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
 	<div class="post-inner post-hover">
 		
 		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/dream-house-days-dx-switch/">
-									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Dream-House-Days-DX-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Dream House Days DX Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Dream-House-Days-DX-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Dream-House-Days-DX-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Dream-House-Days-DX-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
+			<a href="https://www.ziperto.com/silver-screen-story-switch/">
+									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Silver Screen Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
 					</div><!--/.post-thumbnail-->
 		
 		<div class="post-meta group">
 			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
+			<p class="post-date">August 18, 2026</p>
 		</div><!--/.post-meta-->
 		
 		<h2 class="post-title">
-			<a href="https://www.ziperto.com/dream-house-days-dx-switch/" rel="bookmark">Dream House Days DX Switch NSP [UPDATE] (eShop)</a>
+			<a href="https://www.ziperto.com/silver-screen-story-switch/" rel="bookmark">Silver Screen Story Switch NSP [UPDATE] (eShop)</a>
 		</h2><!--/.post-title-->
 		
 				
 	</div><!--/.post-inner-->	
 </article><!--/.post-->				</li>
 						<li style="width: 720px; float: left; display: block;">
-				<article id="post-217338" class="group post-217338 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
+				<article id="post-217492" class="group post-217492 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-action tag-adventure tag-rpg tag-stardust-llc">	
 	<div class="post-inner post-hover">
 		
 		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/cafeteria-nipponica-switch/">
-									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Cafeteria-Nipponica-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Cafeteria Nipponica&nbsp; Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Cafeteria-Nipponica-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Cafeteria-Nipponica-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Cafeteria-Nipponica-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
+			<a href="https://www.ziperto.com/grimoire-groves-switch/">
+									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Grimoire Groves Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-520x245.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
 					</div><!--/.post-thumbnail-->
 		
 		<div class="post-meta group">
 			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
+			<p class="post-date">August 18, 2026</p>
 		</div><!--/.post-meta-->
 		
 		<h2 class="post-title">
-			<a href="https://www.ziperto.com/cafeteria-nipponica-switch/" rel="bookmark">Cafeteria Nipponica Switch NSP [UPDATE] (eShop)</a>
+			<a href="https://www.ziperto.com/grimoire-groves-switch/" rel="bookmark">Grimoire Groves Switch NSP</a>
 		</h2><!--/.post-title-->
 		
 				
 	</div><!--/.post-inner-->	
 </article><!--/.post-->				</li>
 						<li style="width: 720px; float: left; display: block;">
-				<article id="post-217326" class="group post-217326 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
+				<article id="post-217490" class="group post-217490 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-action tag-adventure tag-arcade tag-cloud-m1 tag-platformer">	
 	<div class="post-inner post-hover">
 		
 		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/basketball-club-story-switch/">
-									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Basketball Club Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
+			<a href="https://www.ziperto.com/ayo-the-clown-switch/">
+									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Ayo the Clown Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-520x245.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
 					</div><!--/.post-thumbnail-->
 		
 		<div class="post-meta group">
 			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
+			<p class="post-date">August 18, 2026</p>
 		</div><!--/.post-meta-->
 		
 		<h2 class="post-title">
-			<a href="https://www.ziperto.com/basketball-club-story-switch/" rel="bookmark">Basketball Club Story Switch NSP [UPDATE] (eShop)</a>
+			<a href="https://www.ziperto.com/ayo-the-clown-switch/" rel="bookmark">Ayo the Clown Switch NSP (eShop)</a>
 		</h2><!--/.post-title-->
 		
 				
 	</div><!--/.post-inner-->	
 </article><!--/.post-->				</li>
 					<li class="clone" style="width: 720px; float: left; display: block;">
-				<article id="post-217406" class="group post-217406 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-gbt-ui-solutions-s-r-l tag-sports">	
+				<article id="post-217430" class="group post-217430 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
 	<div class="post-inner post-hover">
 		
 		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/web-fishing-relax-and-fish-switch/">
-									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="WEB FISHING - Relax and Fish Switch" decoding="async" fetchpriority="high" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
+			<a href="https://www.ziperto.com/pool-slide-story-switch/">
+									<img width="720" height="340" src="https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-720x340.webp" class="attachment-kontrast-large size-kontrast-large wp-post-image" alt="Pool Slide Story Switch" decoding="async" fetchpriority="high" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-720x340.webp 720w, https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3.webp 520w" sizes="(max-width: 720px) 100vw, 720px" loading="eager">																			</a>
 					</div><!--/.post-thumbnail-->
 		
 		<div class="post-meta group">
 			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
+			<p class="post-date">August 18, 2026</p>
 		</div><!--/.post-meta-->
 		
 		<h2 class="post-title">
-			<a href="https://www.ziperto.com/web-fishing-relax-and-fish-switch/" rel="bookmark">WEB FISHING – Relax and Fish Switch NSP [UPDATE] (eShop)</a>
+			<a href="https://www.ziperto.com/pool-slide-story-switch/" rel="bookmark">Pool Slide Story Switch NSP [UPDATE] (eShop)</a>
 		</h2><!--/.post-title-->
 		
 				
@@ -513,6 +513,120 @@ body { font-family: "Roboto Condensed", Arial, sans-serif; }
 		
 				
 	</div><!--/.post-inner-->	
+</article><!--/.post-->					</div><div class="post-row">					<article id="post-217430" class="group post-217430 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ziperto.com/pool-slide-story-switch/">
+									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Pool Slide Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
+			<p class="post-date">August 18, 2026</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://www.ziperto.com/pool-slide-story-switch/" rel="bookmark">Pool Slide Story Switch NSP [UPDATE] (eShop)</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->										<article id="post-217422" class="group post-217422 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ziperto.com/shiny-ski-resort-switch/">
+									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Shiny Ski Resort Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
+			<p class="post-date">August 18, 2026</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://www.ziperto.com/shiny-ski-resort-switch/" rel="bookmark">Shiny Ski Resort Switch NSP [UPDATE] (eShop)</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->					</div><div class="post-row">					<article id="post-217414" class="group post-217414 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ziperto.com/silver-screen-story-switch/">
+									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Silver Screen Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
+			<p class="post-date">August 18, 2026</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://www.ziperto.com/silver-screen-story-switch/" rel="bookmark">Silver Screen Story Switch NSP [UPDATE] (eShop)</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->										<article id="post-217492" class="group post-217492 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-action tag-adventure tag-rpg tag-stardust-llc">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ziperto.com/grimoire-groves-switch/">
+									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-520x245.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Grimoire Groves Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-520x245.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
+			<p class="post-date">August 18, 2026</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://www.ziperto.com/grimoire-groves-switch/" rel="bookmark">Grimoire Groves Switch NSP</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->					</div><div class="post-row">					<article id="post-217490" class="group post-217490 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-action tag-adventure tag-arcade tag-cloud-m1 tag-platformer">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ziperto.com/ayo-the-clown-switch/">
+									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-520x245.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Ayo the Clown Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-520x245.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
+			<p class="post-date">August 18, 2026</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://www.ziperto.com/ayo-the-clown-switch/" rel="bookmark">Ayo the Clown Switch NSP (eShop)</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
+</article><!--/.post-->										<article id="post-217491" class="group post-217491 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-headup-games tag-puzzle tag-simulation">	
+	<div class="post-inner post-hover">
+		
+		<div class="post-thumbnail">
+			<a href="https://www.ziperto.com/bridge-constructor-ultimate-edition-switch/">
+									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Bridge-Constructor-UE-Switch-feature-520x245.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Bridge Constructor Ultimate Edition Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Bridge-Constructor-UE-Switch-feature-520x245.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Bridge-Constructor-UE-Switch-feature-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
+					</div><!--/.post-thumbnail-->
+		
+		<div class="post-meta group">
+			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
+			<p class="post-date">August 18, 2026</p>
+		</div><!--/.post-meta-->
+		
+		<h2 class="post-title">
+			<a href="https://www.ziperto.com/bridge-constructor-ultimate-edition-switch/" rel="bookmark">Bridge Constructor Ultimate Edition Switch NSP (eShop)</a>
+		</h2><!--/.post-title-->
+		
+				
+	</div><!--/.post-inner-->	
 </article><!--/.post-->					</div><div class="post-row">					<article id="post-217406" class="group post-217406 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-gbt-ui-solutions-s-r-l tag-sports">	
 	<div class="post-inner post-hover">
 		
@@ -589,102 +703,7 @@ body { font-family: "Roboto Condensed", Arial, sans-serif; }
 		
 				
 	</div><!--/.post-inner-->	
-</article><!--/.post-->					</div><div class="post-row">					<article id="post-217326" class="group post-217326 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
-	<div class="post-inner post-hover">
-		
-		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/basketball-club-story-switch/">
-									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Basketball Club Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
-					</div><!--/.post-thumbnail-->
-		
-		<div class="post-meta group">
-			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
-		</div><!--/.post-meta-->
-		
-		<h2 class="post-title">
-			<a href="https://www.ziperto.com/basketball-club-story-switch/" rel="bookmark">Basketball Club Story Switch NSP [UPDATE] (eShop)</a>
-		</h2><!--/.post-title-->
-		
-				
-	</div><!--/.post-inner-->	
-</article><!--/.post-->										<article id="post-217320" class="group post-217320 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-kairosoft-co-ltd tag-strategy">	
-	<div class="post-inner post-hover">
-		
-		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/anime-studio-story-switch/">
-									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Anime-Studio-Story-Switch-s3.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Anime Studio Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Anime-Studio-Story-Switch-s3.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Anime-Studio-Story-Switch-s3-300x141.webp 300w, https://www.ziperto.com/wp-content/uploads/2026/08/Anime-Studio-Story-Switch-s3-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
-					</div><!--/.post-thumbnail-->
-		
-		<div class="post-meta group">
-			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
-		</div><!--/.post-meta-->
-		
-		<h2 class="post-title">
-			<a href="https://www.ziperto.com/anime-studio-story-switch/" rel="bookmark">Anime Studio Story Switch NSP [UPDATE] (eShop)</a>
-		</h2><!--/.post-title-->
-		
-				
-	</div><!--/.post-inner-->	
-</article><!--/.post-->					</div><div class="post-row">					<article id="post-217374" class="group post-217374 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-adventure tag-bd-games tag-puzzle tag-rpg tag-strategy">	
-	<div class="post-inner post-hover">
-		
-		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/card-quest-switch/">
-									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Card-Quest-Switch-feature-520x245.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Card Quest Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Card-Quest-Switch-feature-520x245.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Card-Quest-Switch-feature-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
-					</div><!--/.post-thumbnail-->
-		
-		<div class="post-meta group">
-			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
-		</div><!--/.post-meta-->
-		
-		<h2 class="post-title">
-			<a href="https://www.ziperto.com/card-quest-switch/" rel="bookmark">Card Quest Switch NSP</a>
-		</h2><!--/.post-title-->
-		
-				
-	</div><!--/.post-inner-->	
-</article><!--/.post-->										<article id="post-217376" class="group post-217376 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-max-interactive-studio tag-racing tag-simulation tag-sports">	
-	<div class="post-inner post-hover">
-		
-		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/snow-aces-league-switch/">
-									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Snow-Aces-League-Switch-feature-520x245.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Snow Aces League Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Snow-Aces-League-Switch-feature-520x245.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Snow-Aces-League-Switch-feature-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
-					</div><!--/.post-thumbnail-->
-		
-		<div class="post-meta group">
-			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
-		</div><!--/.post-meta-->
-		
-		<h2 class="post-title">
-			<a href="https://www.ziperto.com/snow-aces-league-switch/" rel="bookmark">Snow Aces League Switch NSP [Update] (eShop)</a>
-		</h2><!--/.post-title-->
-		
-				
-	</div><!--/.post-inner-->	
-</article><!--/.post-->					</div><div class="post-row">					<article id="post-217377" class="group post-217377 post type-post status-publish format-standard has-post-thumbnail hentry category-nintendo-switch-nsp tag-action tag-adventure tag-frozenbyte tag-platformer tag-puzzle">	
-	<div class="post-inner post-hover">
-		
-		<div class="post-thumbnail">
-			<a href="https://www.ziperto.com/trine-2-complete-story-switch/">
-									<img width="520" height="245" src="https://www.ziperto.com/wp-content/uploads/2026/08/Trine-2-Complete-Story-Switch-feature-520x245.webp" class="attachment-kontrast-medium size-kontrast-medium wp-post-image" alt="Trine 2: Complete Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Trine-2-Complete-Story-Switch-feature-520x245.webp 520w, https://www.ziperto.com/wp-content/uploads/2026/08/Trine-2-Complete-Story-Switch-feature-720x340.webp 720w" sizes="(max-width: 520px) 100vw, 520px" loading="eager">																			</a>
-					</div><!--/.post-thumbnail-->
-		
-		<div class="post-meta group">
-			<p class="post-category"><a href="https://www.ziperto.com/nintendo-switch-nsp/" rel="category tag">Nintendo Switch NSP</a></p>
-			<p class="post-date">August 17, 2026</p>
-		</div><!--/.post-meta-->
-		
-		<h2 class="post-title">
-			<a href="https://www.ziperto.com/trine-2-complete-story-switch/" rel="bookmark">Trine 2: Complete Story Switch NSP [Update] (eShop)</a>
-		</h2><!--/.post-title-->
-		
-				
-	</div><!--/.post-inner-->	
-</article><!--/.post-->					</div>			</div><!--/.post-list-->
+</article><!--/.post-->					</div><div class="post-row"></div>			</div><!--/.post-list-->
 						
 			<nav class="pagination group">
 			<div class="wp-pagenavi" role="navigation">
@@ -723,6 +742,11 @@ body { font-family: "Roboto Condensed", Arial, sans-serif; }
 <script data-minify="1" src="https://www.ziperto.com/wp-content/cache/min/1/654f80f771bc304c59c8411ef9b1fc70/invoke.js?ver=1785913435" data-rocket-defer="" defer=""></script>
 </div></div><div id="text-6" class="widget widget_text"><h3 class="group"><span>Latest Switch Updates</span></h3>			<div class="textwidget"><p><a href="https://www.ziperto.com/nintendo-switch-dlc-updates-august-2026/"> <strong>DLC/Update August 2026</strong></a></p>
 <hr>
+<p><a href="https://www.ziperto.com/trails-in-the-sky-1st-chapter-switch/"><strong>Trails in the Sky 1st Chapter (US) Update v1.0.7</strong></a></p>
+<p><a href="https://www.ziperto.com/the-last-faith-switch/"><strong>The Last Faith – Update v1.9.13858.20.4</strong></a></p>
+<p><a href="https://www.ziperto.com/orange-season-switch/"><strong>Orange Season Update v1.0.5</strong></a></p>
+<p><a href="https://www.ziperto.com/minecraft-switch/"><strong>Minecraft Update v1.26.44</strong></a></p>
+<p><a href="https://www.ziperto.com/fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games-switch/"><strong>Fear or Evil Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games Update v1.0.3 &amp; [Extra Life DLC]</strong></a></p>
 <p><a href="https://www.ziperto.com/shard-squad-switch/"><strong>Shard Squad Update v1.0.5</strong></a></p>
 <p><a href="https://www.ziperto.com/solo-shift-switch/"><strong>Solo Shift! Update v1.0.2</strong></a></p>
 <p><a href="https://www.ziperto.com/little-strays-2-switch/"><strong>Little Strays 2 Update v1.3.0</strong></a></p>
@@ -735,11 +759,6 @@ body { font-family: "Roboto Condensed", Arial, sans-serif; }
 <p><a href="https://www.ziperto.com/nitro-gen-omega-switch/"><strong>NITRO GEN OMEGA Update v1.3.0</strong></a></p>
 <p><a href="https://www.ziperto.com/momento-switch/"><strong>Momento Update v1.0.6</strong></a></p>
 <p><a href="https://www.ziperto.com/touhou-danmaku-kagura-phantasia-lost-switch/"><strong>Touhou Danmaku Kagura Phantasia Lost Update v1.16.0</strong></a></p>
-<p><a href="https://www.ziperto.com/senran-kagura-reflexions-switch/"><strong>SENRAN KAGURA Reflexions Update v1.0.2</strong></a></p>
-<p><a href="https://www.ziperto.com/r-type-tactics-i-ii-cosmos-switch/"><strong>R-Type Tactics I II Cosmos [5 DLC]</strong></a></p>
-<p><a href="https://www.ziperto.com/disney-dreamlight-valley-ultimate-edition-switch/"><strong>Disney Dreamlight Valley Update v1.24.13</strong></a></p>
-<p><a href="https://www.ziperto.com/astroneer-switch/"><strong>Astroneer Update v1.43.2.0</strong></a></p>
-<p><a href="https://www.ziperto.com/sonic-racing-crossworlds-switch/"><b><strong class="Lexical__textBold">Sonic Racing CrossWorlds [8 DLC]</strong></b></a></p>
 <p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
@@ -758,60 +777,60 @@ body { font-family: "Roboto Condensed", Arial, sans-serif; }
 								<li>
 
 										<div class="tab-item-thumbnail">
-						<a href="https://www.ziperto.com/web-fishing-relax-and-fish-switch/">
-															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="WEB FISHING - Relax and Fish Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/WEB-FISHING-Relax-and-Fish-Switch-s3-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
+						<a href="https://www.ziperto.com/pool-slide-story-switch/">
+															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Pool Slide Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Pool-Slide-Story-Switch-s3-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
 					</div>
 					
 					<div class="tab-item-inner group">
-												<p class="tab-item-title"><a href="https://www.ziperto.com/web-fishing-relax-and-fish-switch/" rel="bookmark">WEB FISHING – Relax and Fish Switch NSP [UPDATE] (eShop)</a></p>
+												<p class="tab-item-title"><a href="https://www.ziperto.com/pool-slide-story-switch/" rel="bookmark">Pool Slide Story Switch NSP [UPDATE] (eShop)</a></p>
 											</div>
 
 				</li>
 								<li>
 
 										<div class="tab-item-thumbnail">
-						<a href="https://www.ziperto.com/dungeon-village-switch/">
-															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Dungeon-Village-Switch-s3-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Dungeon Village Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Dungeon-Village-Switch-s3-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Dungeon-Village-Switch-s3-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Dungeon-Village-Switch-s3-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
+						<a href="https://www.ziperto.com/shiny-ski-resort-switch/">
+															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Shiny Ski Resort Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Shiny-Ski-Resort-Switch-s3-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
 					</div>
 					
 					<div class="tab-item-inner group">
-												<p class="tab-item-title"><a href="https://www.ziperto.com/dungeon-village-switch/" rel="bookmark">Dungeon Village Switch NSP [UPDATE] (eShop)</a></p>
+												<p class="tab-item-title"><a href="https://www.ziperto.com/shiny-ski-resort-switch/" rel="bookmark">Shiny Ski Resort Switch NSP [UPDATE] (eShop)</a></p>
 											</div>
 
 				</li>
 								<li>
 
 										<div class="tab-item-thumbnail">
-						<a href="https://www.ziperto.com/dream-house-days-dx-switch/">
-															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Dream-House-Days-DX-Switch-s3-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Dream House Days DX Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Dream-House-Days-DX-Switch-s3-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Dream-House-Days-DX-Switch-s3-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Dream-House-Days-DX-Switch-s3-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
+						<a href="https://www.ziperto.com/silver-screen-story-switch/">
+															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Silver Screen Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Silver-Screen-Story-Switch-s3-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
 					</div>
 					
 					<div class="tab-item-inner group">
-												<p class="tab-item-title"><a href="https://www.ziperto.com/dream-house-days-dx-switch/" rel="bookmark">Dream House Days DX Switch NSP [UPDATE] (eShop)</a></p>
+												<p class="tab-item-title"><a href="https://www.ziperto.com/silver-screen-story-switch/" rel="bookmark">Silver Screen Story Switch NSP [UPDATE] (eShop)</a></p>
 											</div>
 
 				</li>
 								<li>
 
 										<div class="tab-item-thumbnail">
-						<a href="https://www.ziperto.com/cafeteria-nipponica-switch/">
-															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Cafeteria-Nipponica-Switch-s3-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Cafeteria Nipponica&nbsp; Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Cafeteria-Nipponica-Switch-s3-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Cafeteria-Nipponica-Switch-s3-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Cafeteria-Nipponica-Switch-s3-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
+						<a href="https://www.ziperto.com/grimoire-groves-switch/">
+															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Grimoire Groves Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Grimoire-Groves-Switch-feature-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
 					</div>
 					
 					<div class="tab-item-inner group">
-												<p class="tab-item-title"><a href="https://www.ziperto.com/cafeteria-nipponica-switch/" rel="bookmark">Cafeteria Nipponica Switch NSP [UPDATE] (eShop)</a></p>
+												<p class="tab-item-title"><a href="https://www.ziperto.com/grimoire-groves-switch/" rel="bookmark">Grimoire Groves Switch NSP</a></p>
 											</div>
 
 				</li>
 								<li>
 
 										<div class="tab-item-thumbnail">
-						<a href="https://www.ziperto.com/basketball-club-story-switch/">
-															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Basketball Club Story Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Basketball-Club-Story-Switch-s3-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
+						<a href="https://www.ziperto.com/ayo-the-clown-switch/">
+															<img width="160" height="160" src="https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-160x160.webp" class="attachment-alx-small size-alx-small wp-post-image" alt="Ayo the Clown Switch" decoding="async" srcset="https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-160x160.webp 160w, https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-150x150.webp 150w, https://www.ziperto.com/wp-content/uploads/2026/08/Ayo-the-Clown-Switch-feature-320x320.webp 320w" sizes="(max-width: 160px) 100vw, 160px" loading="eager">																																		</a>
 					</div>
 					
 					<div class="tab-item-inner group">
-												<p class="tab-item-title"><a href="https://www.ziperto.com/basketball-club-story-switch/" rel="bookmark">Basketball Club Story Switch NSP [UPDATE] (eShop)</a></p>
+												<p class="tab-item-title"><a href="https://www.ziperto.com/ayo-the-clown-switch/" rel="bookmark">Ayo the Clown Switch NSP (eShop)</a></p>
 											</div>
 
 				</li>
@@ -1226,7 +1245,7 @@ window.open(this.href, '_blank');
 </amp-analytics>
 
 
-   <!-- Histats.com  (div with counter) --><div data-wpr-lazyrender="1" id="histats_counter"><div id="histats_counter_2405" style="display: block;"><a href="http://www.histats.com/viewstats/?sid=4991689&amp;ccid=511" target="_blank"><canvas id="histats_counter_2405_canvas" width="98" height="19"></canvas></a></div></div>
+   <!-- Histats.com  (div with counter) --><div data-wpr-lazyrender="1" id="histats_counter"><div id="histats_counter_7045" style="display: block;"><a href="http://www.histats.com/viewstats/?sid=4991689&amp;ccid=511" target="_blank"><canvas id="histats_counter_7045_canvas" width="98" height="19"></canvas></a></div></div>
 <!-- Histats.com  START  (aync)-->
 <script type="text/javascript" src="data:text/javascript;base64,dmFyIF9IYXN5bmM9IF9IYXN5bmN8fCBbXTsKX0hhc3luYy5wdXNoKFsnSGlzdGF0cy5zdGFydCcsICcxLDQ5OTE2ODksNCw1MTEsOTUsMTgsMDAwMDAwMDAnXSk7Cl9IYXN5bmMucHVzaChbJ0hpc3RhdHMuZmFzaScsICcxJ10pOwpfSGFzeW5jLnB1c2goWydIaXN0YXRzLnRyYWNrX2hpdHMnLCAnJ10pOwooZnVuY3Rpb24oKSB7CnZhciBocyA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOyBocy50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7IGhzLmFzeW5jID0gdHJ1ZTsKaHMuc3JjID0gKCcvL3MxMC5oaXN0YXRzLmNvbS9qczE1X2FzLmpzJyk7Cihkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdIHx8IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdib2R5JylbMF0pLmFwcGVuZENoaWxkKGhzKTsKfSkoKTs=" data-rocket-status="executed">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,4991689,4,511,95,18,00000000']);
@@ -1241,8 +1260,8 @@ hs.src = ('//s10.histats.com/js15_as.js');
 <!-- Histats.com  END  -->
 
 
-<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a2ccd0069c372855',t:'MTc4NzAxMzA1NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; visibility: hidden;"></iframe><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;b24946284b494d0cb39a472650fe5ac1&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;b24946284b494d0cb39a472650fe5ac1&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a2d50d2dbaa720d0',t:'MTc4NzA5OTQ0NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; visibility: hidden;"></iframe>
 
 
-
-<script async="" type="text/javascript" src="https://s4.histats.com/stats/0.php?4991689&amp;@f16&amp;@g1&amp;@h1&amp;@i1&amp;@j1787013058579&amp;@k0&amp;@l1&amp;@mZiperto%20-%20A%20Digital%20Park%20for%20Gamers&amp;@n0&amp;@o1000&amp;@q0&amp;@r0&amp;@s511&amp;@tC.UTF-8&amp;@u800&amp;@b1:-93429862&amp;@b3:1787013059&amp;@b4:js15_as.js&amp;@b5:0&amp;@a-_0.2.1&amp;@vhttps%3A%2F%2Fwww.ziperto.com%2F&amp;@w"></script><script async="" type="text/javascript" src="https://s10.histats.com/counters/cc_511.js"></script></body></html>
+<script async="" type="text/javascript" src="https://s4.histats.com/stats/0.php?4991689&amp;@f16&amp;@g1&amp;@h1&amp;@i1&amp;@j1787099449456&amp;@k0&amp;@l1&amp;@mZiperto%20-%20A%20Digital%20Park%20for%20Gamers&amp;@n0&amp;@o1000&amp;@q0&amp;@r0&amp;@s511&amp;@tC.UTF-8&amp;@u800&amp;@b1:4594288&amp;@b3:1787099449&amp;@b4:js15_as.js&amp;@b5:0&amp;@a-_0.2.1&amp;@vhttps%3A%2F%2Fwww.ziperto.com%2F&amp;@w"></script><script async="" type="text/javascript" src="https://s10.histats.com/counters/cc_511.js"></script><iframe src="https://t.dtscout.com/idg/?su=4C30178709944927331639C070177AB2" width="0" height="0" style="display: none;"></iframe><script src="https://p.mrktmtrcs.net/mm.js" async=""></script></body></html>

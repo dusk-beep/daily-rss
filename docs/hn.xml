@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Incident with Github.com</title>
-      <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
-      <description>694 points • 2 comments • by kevcampb&#xA;https://news.ycombinator.com/item?id=49330684</description>
-      <pubDate>Tue, 18 Aug 2026 00:30:34 +0000</pubDate>
-      <guid>49330684</guid>
+      <title>The Amazon tax</title>
+      <link>https://seths.blog/2026/08/the-amazon-tax/</link>
+      <description>874 points • 522 comments • by herbertl&#xA;https://news.ycombinator.com/item?id=49345263</description>
+      <pubDate>Wed, 19 Aug 2026 00:30:26 +0000</pubDate>
+      <guid>49345263</guid>
     </item>
     <item>
-      <title>AI;DR (AI; Didn&#39;t Read)</title>
-      <link>https://www.rickmanelius.com/p/aidr-ai-didnt-read</link>
-      <description>551 points • 339 comments • by mooreds&#xA;https://news.ycombinator.com/item?id=49336573</description>
-      <pubDate>Tue, 18 Aug 2026 00:29:34 +0000</pubDate>
-      <guid>49336573</guid>
+      <title>Google has acquired the data of failed US airline Spirit</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</link>
+      <description>562 points • 386 comments • by pseudolus&#xA;https://news.ycombinator.com/item?id=49343559</description>
+      <pubDate>Wed, 19 Aug 2026 00:29:26 +0000</pubDate>
+      <guid>49343559</guid>
     </item>
     <item>
-      <title>Incident with Github.com</title>
-      <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
-      <description>519 points • 895 comments • by SpyCoder77&#xA;https://news.ycombinator.com/item?id=49330597</description>
-      <pubDate>Tue, 18 Aug 2026 00:28:34 +0000</pubDate>
-      <guid>49330597</guid>
+      <title>Linux 7.3 improves performance when running out of vRAM</title>
+      <link>https://pixelcluster.dev/VRAM-Overcommit/</link>
+      <description>505 points • 267 comments • by flaburgan&#xA;https://news.ycombinator.com/item?id=49342719</description>
+      <pubDate>Wed, 19 Aug 2026 00:28:26 +0000</pubDate>
+      <guid>49342719</guid>
     </item>
     <item>
-      <title>A Preview of DuckDB v2.0</title>
-      <link>https://duckdb.org/2026/08/17/duckdb-20-highlights</link>
-      <description>513 points • 91 comments • by ibotty&#xA;https://news.ycombinator.com/item?id=49330781</description>
-      <pubDate>Tue, 18 Aug 2026 00:27:34 +0000</pubDate>
-      <guid>49330781</guid>
+      <title>Beware Management Consultants</title>
+      <link>https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</link>
+      <description>426 points • 115 comments • by KolmogorovComp&#xA;https://news.ycombinator.com/item?id=49351324</description>
+      <pubDate>Wed, 19 Aug 2026 00:27:26 +0000</pubDate>
+      <guid>49351324</guid>
     </item>
     <item>
-      <title>Ask HN: Alternatives to GitHub</title>
-      <link>https://news.ycombinator.com/item?id=49331033</link>
-      <description>483 points • 304 comments • by dhruv3006&#xA;https://news.ycombinator.com/item?id=49331033</description>
-      <pubDate>Tue, 18 Aug 2026 00:26:34 +0000</pubDate>
-      <guid>49331033</guid>
+      <title>Using the railway network as a flatbed scanner</title>
+      <link>https://philo.gay/linecam/</link>
+      <description>387 points • 61 comments • by otherayden&#xA;https://news.ycombinator.com/item?id=49344825</description>
+      <pubDate>Wed, 19 Aug 2026 00:26:26 +0000</pubDate>
+      <guid>49344825</guid>
     </item>
     <item>
-      <title>Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study</title>
-      <link>https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/</link>
-      <description>378 points • 513 comments • by karakoram&#xA;https://news.ycombinator.com/item?id=49332981</description>
-      <pubDate>Tue, 18 Aug 2026 00:25:34 +0000</pubDate>
-      <guid>49332981</guid>
+      <title>Fairphone is now officially available in the United States</title>
+      <link>https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more</link>
+      <description>345 points • 181 comments • by Vinnl&#xA;https://news.ycombinator.com/item?id=49344811</description>
+      <pubDate>Wed, 19 Aug 2026 00:25:26 +0000</pubDate>
+      <guid>49344811</guid>
     </item>
     <item>
-      <title>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&#39;s Jira</title>
-      <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
-      <description>305 points • 123 comments • by galnagli&#xA;https://news.ycombinator.com/item?id=49331423</description>
-      <pubDate>Tue, 18 Aug 2026 00:24:34 +0000</pubDate>
-      <guid>49331423</guid>
+      <title>Fixing a bricked Framework laptop</title>
+      <link>https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/</link>
+      <description>342 points • 234 comments • by jp_sc&#xA;https://news.ycombinator.com/item?id=49345220</description>
+      <pubDate>Wed, 19 Aug 2026 00:24:26 +0000</pubDate>
+      <guid>49345220</guid>
     </item>
     <item>
-      <title>GPT 5.6 Sol is the best &#34;vision&#34; model OpenAI ever released</title>
-      <link>https://blog.roboflow.com/openai-gpt-5-6/</link>
-      <description>294 points • 152 comments • by plurby&#xA;https://news.ycombinator.com/item?id=49329575</description>
-      <pubDate>Tue, 18 Aug 2026 00:23:34 +0000</pubDate>
-      <guid>49329575</guid>
+      <title>Field measurements of neighborhood-scale air temperature impacts of data centers</title>
+      <link>https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban</link>
+      <description>279 points • 417 comments • by cwwc&#xA;https://news.ycombinator.com/item?id=49349147</description>
+      <pubDate>Wed, 19 Aug 2026 00:23:26 +0000</pubDate>
+      <guid>49349147</guid>
     </item>
     <item>
-      <title>Qwen3.8 27B scores 52 on Artificial Analysis</title>
-      <link>https://artificialanalysis.ai/models/qwen3-8-27b</link>
-      <description>294 points • 128 comments • by anana_&#xA;https://news.ycombinator.com/item?id=49334544</description>
-      <pubDate>Tue, 18 Aug 2026 00:22:34 +0000</pubDate>
-      <guid>49334544</guid>
+      <title>Babies born under sugar rationing grew into adults with lower cancer risk</title>
+      <link>https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873</link>
+      <description>259 points • 54 comments • by zeristor&#xA;https://news.ycombinator.com/item?id=49345843</description>
+      <pubDate>Wed, 19 Aug 2026 00:22:26 +0000</pubDate>
+      <guid>49345843</guid>
     </item>
     <item>
-      <title>GitHub down again? no PR access</title>
-      <link>https://news.ycombinator.com/item?id=49330632</link>
-      <description>288 points • 2 comments • by yodon&#xA;https://news.ycombinator.com/item?id=49330632</description>
-      <pubDate>Tue, 18 Aug 2026 00:21:34 +0000</pubDate>
-      <guid>49330632</guid>
+      <title>Claude Code May–August 2026 weekly limits promotion</title>
+      <link>https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</link>
+      <description>254 points • 223 comments • by tyre&#xA;https://news.ycombinator.com/item?id=49348751</description>
+      <pubDate>Wed, 19 Aug 2026 00:21:26 +0000</pubDate>
+      <guid>49348751</guid>
     </item>
   </channel>
 </rss>

@@ -51,6 +51,18 @@
       <category>programming</category>
     </item>
     <item>
+      <title>Every Fucking Website</title>
+      <link>https://op.tngl.io/every-fucking-website/</link>
+      <guid>https://lobste.rs/s/ii5tun</guid>
+      <author>op.tngl.io by op</author>
+      <pubDate>Sun, 16 Aug 2026 11:26:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/ii5tun/every_fucking_website</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ii5tun/every_fucking_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>satire</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Guide to (not) fucking up QR codes</title>
       <link>https://infosec.exchange/@rebane2001/117078420917152774</link>
       <guid>https://lobste.rs/s/omcyaz</guid>
@@ -59,16 +71,6 @@
       <comments>https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>design</category>
-    </item>
-    <item>
-      <title>python's pre-declared constants are kinda weird</title>
-      <link>https://sebsite.pw/w/20260801-pythonconstants.html</link>
-      <guid>https://lobste.rs/s/62kxco</guid>
-      <author>sebsite.pw by seb</author>
-      <pubDate>Thu, 13 Aug 2026 00:28:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
     </item>
     <item>
       <title>I hate packaging my software for Linux</title>
@@ -81,16 +83,14 @@
       <category>linux</category>
     </item>
     <item>
-      <title>Every Fucking Website</title>
-      <link>https://op.tngl.io/every-fucking-website/</link>
-      <guid>https://lobste.rs/s/ii5tun</guid>
-      <author>op.tngl.io by op</author>
-      <pubDate>Sun, 16 Aug 2026 11:26:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/ii5tun/every_fucking_website</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ii5tun/every_fucking_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>satire</category>
-      <category>vibecoding</category>
+      <title>python's pre-declared constants are kinda weird</title>
+      <link>https://sebsite.pw/w/20260801-pythonconstants.html</link>
+      <guid>https://lobste.rs/s/62kxco</guid>
+      <author>sebsite.pw by seb</author>
+      <pubDate>Thu, 13 Aug 2026 00:28:40 -0500</pubDate>
+      <comments>https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
     </item>
     <item>
       <title>RISC-V: They Should Have Known Better</title>
@@ -115,6 +115,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>How Bluesky draws its logo on screenshots</title>
+      <link>https://timmarinin.net/2026/bluesky-screenshots/</link>
+      <guid>https://lobste.rs/s/05ocit</guid>
+      <author>timmarinin.net by mt</author>
+      <pubDate>Mon, 17 Aug 2026 16:46:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ios</category>
+    </item>
+    <item>
       <title>I want extern "fil-c"</title>
       <link>https://domenkozar.com/2026/08/13/i-want-extern-fil-c/</link>
       <guid>https://lobste.rs/s/tssf5y</guid>
@@ -126,14 +136,18 @@
       <category>rust</category>
     </item>
     <item>
-      <title>GNOME Shell Design Dreams</title>
-      <link>https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/</link>
-      <guid>https://lobste.rs/s/b3uky6</guid>
-      <author>blogs.gnome.org via FedericoSchonborn</author>
-      <pubDate>Tue, 11 Aug 2026 09:08:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/b3uky6/gnome_shell_design_dreams</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3uky6/gnome_shell_design_dreams"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
+      <title>Does it make sense to switch to a Github Alternative ?</title>
+      <link>https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github</link>
+      <guid>https://lobste.rs/s/0zdh32</guid>
+      <author> by dhruvp</author>
+      <pubDate>Mon, 17 Aug 2026 09:03:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github</comments>
+      <description>&lt;p&gt;Github has been down consistently over the last few months - does it make sense to switch to alternatives now?&lt;/p&gt;
+&lt;p&gt;When do you think majority will switch?&lt;/p&gt;
+&lt;p&gt;Edit : My thoughts on this - &lt;a href="https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/" rel="ugc"&gt;https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/&lt;/a&gt;&lt;/p&gt;
+</description>
+      <category>programming</category>
+      <category>ask</category>
     </item>
     <item>
       <title>A faster way to calculate the day-of-the-week</title>
@@ -160,6 +174,18 @@
       <category>devops</category>
     </item>
     <item>
+      <title>Rethinking Database Programming</title>
+      <link>https://acadia.engineering/blog/rethinking-database-programming</link>
+      <guid>https://lobste.rs/s/ykq7ym</guid>
+      <author>acadia.engineering via janiczek</author>
+      <pubDate>Tue, 18 Aug 2026 03:34:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/ykq7ym/rethinking_database_programming</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykq7ym/rethinking_database_programming"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
+      <category>elm</category>
+      <category>plt</category>
+    </item>
+    <item>
       <title>Let's not call it "tech debt," it's just "mess"</title>
       <link>https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/</link>
       <guid>https://lobste.rs/s/dnlhah</guid>
@@ -170,18 +196,14 @@
       <category>practices</category>
     </item>
     <item>
-      <title>Does it make sense to switch to a Github Alternative ?</title>
-      <link>https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github</link>
-      <guid>https://lobste.rs/s/0zdh32</guid>
-      <author> by dhruvp</author>
-      <pubDate>Mon, 17 Aug 2026 09:03:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github</comments>
-      <description>&lt;p&gt;Github has been down consistently over the last few months - does it make sense to switch to alternatives now?&lt;/p&gt;
-&lt;p&gt;When do you think majority will switch?&lt;/p&gt;
-&lt;p&gt;Edit : My thoughts on this - &lt;a href="https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/" rel="ugc"&gt;https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/&lt;/a&gt;&lt;/p&gt;
-</description>
-      <category>programming</category>
-      <category>ask</category>
+      <title>A Preview of DuckDB v2.0</title>
+      <link>https://duckdb.org/2026/08/17/duckdb-20-highlights.html</link>
+      <guid>https://lobste.rs/s/wya4zt</guid>
+      <author>duckdb.org via mpweiher</author>
+      <pubDate>Mon, 17 Aug 2026 11:13:25 -0500</pubDate>
+      <comments>https://lobste.rs/s/wya4zt/preview_duckdb_v2_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wya4zt/preview_duckdb_v2_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
     </item>
     <item>
       <title>EuroZig</title>
@@ -192,6 +214,16 @@
       <comments>https://lobste.rs/s/rn4sp8/eurozig</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rn4sp8/eurozig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>zig</category>
+    </item>
+    <item>
+      <title>GitHub has alternatives, but no replacement</title>
+      <link>https://lalitm.com/post/github-alternatives/</link>
+      <guid>https://lobste.rs/s/izrwdc</guid>
+      <author>lalitm.com by lalitm</author>
+      <pubDate>Mon, 17 Aug 2026 12:12:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
     <item>
       <title>Unlocking _everything_ on the CPU with DRAM scrambling</title>
@@ -225,6 +257,17 @@
       <category>rust</category>
     </item>
     <item>
+      <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
+      <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
+      <guid>https://lobste.rs/s/flcpeu</guid>
+      <author>simonwillison.net via alcides</author>
+      <pubDate>Mon, 17 Aug 2026 12:54:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>art</category>
+      <category>ai</category>
+    </item>
+    <item>
       <title>GitHub Stacks in Jujutsu</title>
       <link>https://alan.norbauer.com/articles/github-stacks-with-jujutsu/</link>
       <guid>https://lobste.rs/s/keiw21</guid>
@@ -233,50 +276,6 @@
       <comments>https://lobste.rs/s/keiw21/github_stacks_jujutsu</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/keiw21/github_stacks_jujutsu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>AI is removing the middle class of software engineering</title>
-      <link>https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html</link>
-      <guid>https://lobste.rs/s/xk3ley</guid>
-      <author>blog.florianherrengt.com via facundoolano</author>
-      <pubDate>Thu, 13 Aug 2026 09:03:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Bevy's Sixth Birthday</title>
-      <link>https://bevy.org/news/bevys-sixth-birthday/</link>
-      <guid>https://lobste.rs/s/oppmip</guid>
-      <author>bevy.org via andyfriesen</author>
-      <pubDate>Mon, 10 Aug 2026 22:36:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/oppmip/bevy_s_sixth_birthday</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oppmip/bevy_s_sixth_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>games</category>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>Reviewing code is a skill</title>
-      <link>https://typesanitizer.com/blog/code-review.html</link>
-      <guid>https://lobste.rs/s/gyxkma</guid>
-      <author>typesanitizer.com by typesanitizer</author>
-      <pubDate>Tue, 11 Aug 2026 00:37:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/gyxkma/reviewing_code_is_skill</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gyxkma/reviewing_code_is_skill"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Everything is about to “go dark”</title>
-      <link>https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</link>
-      <guid>https://lobste.rs/s/w5rmwi</guid>
-      <author>blog.cryptographyengineering.com via untitaker</author>
-      <pubDate>Sat, 15 Aug 2026 07:50:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/w5rmwi/everything_is_about_go_dark</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w5rmwi/everything_is_about_go_dark"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
