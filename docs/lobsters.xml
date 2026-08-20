@@ -18,26 +18,14 @@
       <category>browsers</category>
     </item>
     <item>
-      <title>I'm done using AI</title>
-      <link>https://brettcodes.com/im-done-using-ai/</link>
-      <guid>https://lobste.rs/s/rfiuko</guid>
-      <author>brettcodes.com via untrusem</author>
-      <pubDate>Wed, 12 Aug 2026 08:09:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/rfiuko/i_m_done_using_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfiuko/i_m_done_using_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>How Tailscale helped find the SQLite WAL-Reset bug</title>
-      <link>https://tailscale.com/blog/sqlite-wal-reset-bug</link>
-      <guid>https://lobste.rs/s/e0lkmi</guid>
-      <author>tailscale.com via pushcx</author>
-      <pubDate>Wed, 12 Aug 2026 10:01:27 -0500</pubDate>
-      <comments>https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal</comments>
-      <description>&lt;p&gt;Previously, the &lt;a href="https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug" rel="ugc"&gt;SQLite release fixing this bug&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
+      <title>HTML Can Do That</title>
+      <link>https://chrisburnell.com/html-can-do-that/</link>
+      <guid>https://lobste.rs/s/5gcd3t</guid>
+      <author>chrisburnell.com via abhin4v</author>
+      <pubDate>Wed, 19 Aug 2026 05:55:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/5gcd3t/html_can_do</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5gcd3t/html_can_do"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>I thought I was building a C replacement. I was wrong</title>
@@ -63,26 +51,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Guide to (not) fucking up QR codes</title>
-      <link>https://infosec.exchange/@rebane2001/117078420917152774</link>
-      <guid>https://lobste.rs/s/omcyaz</guid>
-      <author>infosec.exchange via hugoarnal</author>
-      <pubDate>Wed, 12 Aug 2026 06:27:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/omcyaz/guide_not_fucking_up_qr_codes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-    </item>
-    <item>
-      <title>I hate packaging my software for Linux</title>
-      <link>https://getfresh.dev/docs/blog/packaging-for-linux/</link>
-      <guid>https://lobste.rs/s/ixbrmc</guid>
-      <author>getfresh.dev via mtlynch</author>
-      <pubDate>Wed, 12 Aug 2026 07:40:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-    </item>
-    <item>
       <title>python's pre-declared constants are kinda weird</title>
       <link>https://sebsite.pw/w/20260801-pythonconstants.html</link>
       <guid>https://lobste.rs/s/62kxco</guid>
@@ -91,6 +59,16 @@
       <comments>https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>python</category>
+    </item>
+    <item>
+      <title>How Bluesky draws its logo on screenshots</title>
+      <link>https://timmarinin.net/2026/bluesky-screenshots/</link>
+      <guid>https://lobste.rs/s/05ocit</guid>
+      <author>timmarinin.net by mt</author>
+      <pubDate>Mon, 17 Aug 2026 16:46:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ios</category>
     </item>
     <item>
       <title>RISC-V: They Should Have Known Better</title>
@@ -105,6 +83,16 @@
       <category>compilers</category>
     </item>
     <item>
+      <title>Bun 1.4 Rust rewrite is not looking good</title>
+      <link>https://tipiirai.com/writing/bun-rust-rewrite-worries</link>
+      <guid>https://lobste.rs/s/caubyr</guid>
+      <author>tipiirai.com via robinheghan</author>
+      <pubDate>Wed, 19 Aug 2026 01:20:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Why I remain a skeptic</title>
       <link>https://blog.jsbarretto.com/post/i-remain-a-skeptic</link>
       <guid>https://lobste.rs/s/fooyux</guid>
@@ -113,16 +101,6 @@
       <comments>https://lobste.rs/s/fooyux/why_i_remain_skeptic</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fooyux/why_i_remain_skeptic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>How Bluesky draws its logo on screenshots</title>
-      <link>https://timmarinin.net/2026/bluesky-screenshots/</link>
-      <guid>https://lobste.rs/s/05ocit</guid>
-      <author>timmarinin.net by mt</author>
-      <pubDate>Mon, 17 Aug 2026 16:46:01 -0500</pubDate>
-      <comments>https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ios</category>
     </item>
     <item>
       <title>I want extern "fil-c"</title>
@@ -134,6 +112,19 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tssf5y/i_want_extern_fil_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
       <category>rust</category>
+    </item>
+    <item>
+      <title>A faster way to calculate the day-of-the-week</title>
+      <link>https://www.benjoffe.com/fast-day-of-week</link>
+      <guid>https://lobste.rs/s/ln3dao</guid>
+      <author>benjoffe.com by benjoffe</author>
+      <pubDate>Sun, 16 Aug 2026 15:52:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/ln3dao/faster_way_calculate_day_week</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ln3dao/faster_way_calculate_day_week"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>math</category>
+      <category>c++</category>
+      <category>performance</category>
     </item>
     <item>
       <title>Does it make sense to switch to a Github Alternative ?</title>
@@ -150,30 +141,6 @@
       <category>ask</category>
     </item>
     <item>
-      <title>A faster way to calculate the day-of-the-week</title>
-      <link>https://www.benjoffe.com/fast-day-of-week</link>
-      <guid>https://lobste.rs/s/ln3dao</guid>
-      <author>benjoffe.com by benjoffe</author>
-      <pubDate>Sun, 16 Aug 2026 15:52:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/ln3dao/faster_way_calculate_day_week</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ln3dao/faster_way_calculate_day_week"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-      <category>math</category>
-      <category>c++</category>
-      <category>performance</category>
-    </item>
-    <item>
-      <title>My Homelab Got Hacked - A Postmortem</title>
-      <link>https://phunky.cafe/my-homelab-got-hacked/</link>
-      <guid>https://lobste.rs/s/ugkhor</guid>
-      <author>phunky.cafe via colindean</author>
-      <pubDate>Wed, 12 Aug 2026 10:50:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>devops</category>
-    </item>
-    <item>
       <title>Rethinking Database Programming</title>
       <link>https://acadia.engineering/blog/rethinking-database-programming</link>
       <guid>https://lobste.rs/s/ykq7ym</guid>
@@ -183,6 +150,52 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykq7ym/rethinking_database_programming"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>databases</category>
       <category>elm</category>
+      <category>plt</category>
+    </item>
+    <item>
+      <title>How I browse the Web with uBlock (Hard Mode)</title>
+      <link>https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html</link>
+      <guid>https://lobste.rs/s/nsywuo</guid>
+      <author>untrusem.party by untrusem</author>
+      <pubDate>Tue, 18 Aug 2026 07:30:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>privacy</category>
+    </item>
+    <item>
+      <title>What software do you use daily in 2026?</title>
+      <link>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</link>
+      <guid>https://lobste.rs/s/ttxwdz</guid>
+      <author> by r1w1s1</author>
+      <pubDate>Tue, 18 Aug 2026 09:31:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</comments>
+      <description>&lt;p&gt;There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.&lt;/p&gt;
+&lt;p&gt;What does the software side of your daily setup look like in 2026?&lt;/p&gt;
+&lt;p&gt;Operating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.&lt;/p&gt;
+&lt;p&gt;I'm especially interested in the small or less obvious tools that have become indispensable to you.&lt;/p&gt;
+</description>
+      <category>practices</category>
+      <category>ask</category>
+    </item>
+    <item>
+      <title>Using the railway network as a flatbed scanner</title>
+      <link>https://philo.gay/linecam/</link>
+      <guid>https://lobste.rs/s/n7i1jn</guid>
+      <author>philo.gay via polywolf</author>
+      <pubDate>Tue, 18 Aug 2026 06:42:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>art</category>
+    </item>
+    <item>
+      <title>Mojo is now open source</title>
+      <link>https://www.modular.com/blog/mojo-open-source</link>
+      <guid>https://lobste.rs/s/01lxuf</guid>
+      <author>modular.com via eatonphil</author>
+      <pubDate>Tue, 18 Aug 2026 11:34:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/01lxuf/mojo_is_now_open_source</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/01lxuf/mojo_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>plt</category>
     </item>
     <item>
@@ -196,6 +209,27 @@
       <category>practices</category>
     </item>
     <item>
+      <title>Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools</title>
+      <link>https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/</link>
+      <guid>https://lobste.rs/s/phisnd</guid>
+      <author>quantum5.ca via LolPython</author>
+      <pubDate>Tue, 18 Aug 2026 10:07:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+    </item>
+    <item>
+      <title>Mastodon 5.0: Laying the foundation</title>
+      <link>https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/</link>
+      <guid>https://lobste.rs/s/m0okh1</guid>
+      <author>blog.joinmastodon.org via consteval</author>
+      <pubDate>Tue, 18 Aug 2026 19:03:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>web</category>
+    </item>
+    <item>
       <title>A Preview of DuckDB v2.0</title>
       <link>https://duckdb.org/2026/08/17/duckdb-20-highlights.html</link>
       <guid>https://lobste.rs/s/wya4zt</guid>
@@ -206,16 +240,6 @@
       <category>databases</category>
     </item>
     <item>
-      <title>EuroZig</title>
-      <link>http://eurozig.eu/</link>
-      <guid>https://lobste.rs/s/rn4sp8</guid>
-      <author>eurozig.eu via Arya</author>
-      <pubDate>Thu, 13 Aug 2026 11:24:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/rn4sp8/eurozig</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rn4sp8/eurozig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>zig</category>
-    </item>
-    <item>
       <title>GitHub has alternatives, but no replacement</title>
       <link>https://lalitm.com/post/github-alternatives/</link>
       <guid>https://lobste.rs/s/izrwdc</guid>
@@ -224,6 +248,16 @@
       <comments>https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
+    </item>
+    <item>
+      <title>EuroZig</title>
+      <link>http://eurozig.eu/</link>
+      <guid>https://lobste.rs/s/rn4sp8</guid>
+      <author>eurozig.eu via Arya</author>
+      <pubDate>Thu, 13 Aug 2026 11:24:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/rn4sp8/eurozig</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rn4sp8/eurozig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
     </item>
     <item>
       <title>Unlocking _everything_ on the CPU with DRAM scrambling</title>
@@ -245,37 +279,6 @@
       <comments>https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
-    </item>
-    <item>
-      <title>Protecting the Rust standard library from accidental breakage</title>
-      <link>https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/</link>
-      <guid>https://lobste.rs/s/hnx6id</guid>
-      <author>predr.ag by predrag</author>
-      <pubDate>Sun, 16 Aug 2026 08:59:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hnx6id/protecting_rust_standard_library_from"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
-      <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
-      <guid>https://lobste.rs/s/flcpeu</guid>
-      <author>simonwillison.net via alcides</author>
-      <pubDate>Mon, 17 Aug 2026 12:54:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>art</category>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>GitHub Stacks in Jujutsu</title>
-      <link>https://alan.norbauer.com/articles/github-stacks-with-jujutsu/</link>
-      <guid>https://lobste.rs/s/keiw21</guid>
-      <author>alan.norbauer.com by altano</author>
-      <pubDate>Wed, 12 Aug 2026 19:55:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/keiw21/github_stacks_jujutsu</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/keiw21/github_stacks_jujutsu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
     </item>
   </channel>
 </rss>
