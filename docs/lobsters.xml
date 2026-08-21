@@ -39,6 +39,16 @@
       <category>programming</category>
     </item>
     <item>
+      <title>Bun 1.4 Rust rewrite is not looking good</title>
+      <link>https://tipiirai.com/writing/bun-rust-rewrite-worries</link>
+      <guid>https://lobste.rs/s/caubyr</guid>
+      <author>tipiirai.com via robinheghan</author>
+      <pubDate>Wed, 19 Aug 2026 01:20:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Every Fucking Website</title>
       <link>https://op.tngl.io/every-fucking-website/</link>
       <guid>https://lobste.rs/s/ii5tun</guid>
@@ -51,14 +61,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>python's pre-declared constants are kinda weird</title>
-      <link>https://sebsite.pw/w/20260801-pythonconstants.html</link>
-      <guid>https://lobste.rs/s/62kxco</guid>
-      <author>sebsite.pw by seb</author>
-      <pubDate>Thu, 13 Aug 2026 00:28:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/62kxco/python_s_pre_declared_constants_are_kinda"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
+      <title>Plain Text Accounting is Pretty Cool</title>
+      <link>https://sumnerevans.com/posts/money/plain-text-accounting/</link>
+      <guid>https://lobste.rs/s/i4lxyt</guid>
+      <author>sumnerevans.com via abnercoimbre</author>
+      <pubDate>Wed, 19 Aug 2026 11:55:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>finance</category>
     </item>
     <item>
       <title>How Bluesky draws its logo on screenshots</title>
@@ -83,16 +93,6 @@
       <category>compilers</category>
     </item>
     <item>
-      <title>Bun 1.4 Rust rewrite is not looking good</title>
-      <link>https://tipiirai.com/writing/bun-rust-rewrite-worries</link>
-      <guid>https://lobste.rs/s/caubyr</guid>
-      <author>tipiirai.com via robinheghan</author>
-      <pubDate>Wed, 19 Aug 2026 01:20:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Why I remain a skeptic</title>
       <link>https://blog.jsbarretto.com/post/i-remain-a-skeptic</link>
       <guid>https://lobste.rs/s/fooyux</guid>
@@ -103,15 +103,19 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>I want extern "fil-c"</title>
-      <link>https://domenkozar.com/2026/08/13/i-want-extern-fil-c/</link>
-      <guid>https://lobste.rs/s/tssf5y</guid>
-      <author>domenkozar.com via fzakaria</author>
-      <pubDate>Thu, 13 Aug 2026 12:43:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/tssf5y/i_want_extern_fil_c</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tssf5y/i_want_extern_fil_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>rust</category>
+      <title>What software do you use daily in 2026?</title>
+      <link>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</link>
+      <guid>https://lobste.rs/s/ttxwdz</guid>
+      <author> by r1w1s1</author>
+      <pubDate>Tue, 18 Aug 2026 09:31:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</comments>
+      <description>&lt;p&gt;There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.&lt;/p&gt;
+&lt;p&gt;What does the software side of your daily setup look like in 2026?&lt;/p&gt;
+&lt;p&gt;Operating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.&lt;/p&gt;
+&lt;p&gt;I'm especially interested in the small or less obvious tools that have become indispensable to you.&lt;/p&gt;
+</description>
+      <category>practices</category>
+      <category>ask</category>
     </item>
     <item>
       <title>A faster way to calculate the day-of-the-week</title>
@@ -141,6 +145,17 @@
       <category>ask</category>
     </item>
     <item>
+      <title>How I browse the Web with uBlock (Hard Mode)</title>
+      <link>https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html</link>
+      <guid>https://lobste.rs/s/nsywuo</guid>
+      <author>untrusem.party by untrusem</author>
+      <pubDate>Tue, 18 Aug 2026 07:30:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>privacy</category>
+    </item>
+    <item>
       <title>Rethinking Database Programming</title>
       <link>https://acadia.engineering/blog/rethinking-database-programming</link>
       <guid>https://lobste.rs/s/ykq7ym</guid>
@@ -153,30 +168,15 @@
       <category>plt</category>
     </item>
     <item>
-      <title>How I browse the Web with uBlock (Hard Mode)</title>
-      <link>https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html</link>
-      <guid>https://lobste.rs/s/nsywuo</guid>
-      <author>untrusem.party by untrusem</author>
-      <pubDate>Tue, 18 Aug 2026 07:30:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>privacy</category>
-    </item>
-    <item>
-      <title>What software do you use daily in 2026?</title>
-      <link>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</link>
-      <guid>https://lobste.rs/s/ttxwdz</guid>
-      <author> by r1w1s1</author>
-      <pubDate>Tue, 18 Aug 2026 09:31:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</comments>
-      <description>&lt;p&gt;There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.&lt;/p&gt;
-&lt;p&gt;What does the software side of your daily setup look like in 2026?&lt;/p&gt;
-&lt;p&gt;Operating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.&lt;/p&gt;
-&lt;p&gt;I'm especially interested in the small or less obvious tools that have become indispensable to you.&lt;/p&gt;
-</description>
-      <category>practices</category>
-      <category>ask</category>
+      <title>Mastodon 5.0: Laying the foundation</title>
+      <link>https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/</link>
+      <guid>https://lobste.rs/s/m0okh1</guid>
+      <author>blog.joinmastodon.org via consteval</author>
+      <pubDate>Tue, 18 Aug 2026 19:03:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>web</category>
     </item>
     <item>
       <title>Using the railway network as a flatbed scanner</title>
@@ -199,14 +199,25 @@
       <category>plt</category>
     </item>
     <item>
-      <title>Let's not call it "tech debt," it's just "mess"</title>
-      <link>https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/</link>
-      <guid>https://lobste.rs/s/dnlhah</guid>
-      <author>simplermachines.com via jdh</author>
-      <pubDate>Thu, 13 Aug 2026 18:09:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
+      <title>Go 1.27 is released</title>
+      <link>https://go.dev/blog/go1.27</link>
+      <guid>https://lobste.rs/s/smrw3n</guid>
+      <author>go.dev via binjip978</author>
+      <pubDate>Wed, 19 Aug 2026 12:53:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/smrw3n/go_1_27_is_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/smrw3n/go_1_27_is_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+      <category>release</category>
+    </item>
+    <item>
+      <title>How a joke domain purchase turned into geopolitical warfare</title>
+      <link>https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</link>
+      <guid>https://lobste.rs/s/sfi9te</guid>
+      <author>sprocketfox.io via zzkt</author>
+      <pubDate>Thu, 20 Aug 2026 07:21:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools</title>
@@ -219,25 +230,15 @@
       <category>hardware</category>
     </item>
     <item>
-      <title>Mastodon 5.0: Laying the foundation</title>
-      <link>https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/</link>
-      <guid>https://lobste.rs/s/m0okh1</guid>
-      <author>blog.joinmastodon.org via consteval</author>
-      <pubDate>Tue, 18 Aug 2026 19:03:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>A Preview of DuckDB v2.0</title>
-      <link>https://duckdb.org/2026/08/17/duckdb-20-highlights.html</link>
-      <guid>https://lobste.rs/s/wya4zt</guid>
-      <author>duckdb.org via mpweiher</author>
-      <pubDate>Mon, 17 Aug 2026 11:13:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/wya4zt/preview_duckdb_v2_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wya4zt/preview_duckdb_v2_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
+      <title>Supply chain attack on arrayref</title>
+      <link>https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/</link>
+      <guid>https://lobste.rs/s/dns8du</guid>
+      <author>blog.rust-lang.org via ohrv</author>
+      <pubDate>Thu, 20 Aug 2026 04:54:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>rust</category>
     </item>
     <item>
       <title>GitHub has alternatives, but no replacement</title>
@@ -250,35 +251,34 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>EuroZig</title>
-      <link>http://eurozig.eu/</link>
-      <guid>https://lobste.rs/s/rn4sp8</guid>
-      <author>eurozig.eu via Arya</author>
-      <pubDate>Thu, 13 Aug 2026 11:24:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/rn4sp8/eurozig</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rn4sp8/eurozig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>zig</category>
+      <title>A Preview of DuckDB v2.0</title>
+      <link>https://duckdb.org/2026/08/17/duckdb-20-highlights.html</link>
+      <guid>https://lobste.rs/s/wya4zt</guid>
+      <author>duckdb.org via mpweiher</author>
+      <pubDate>Mon, 17 Aug 2026 11:13:25 -0500</pubDate>
+      <comments>https://lobste.rs/s/wya4zt/preview_duckdb_v2_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wya4zt/preview_duckdb_v2_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
     </item>
     <item>
-      <title>Unlocking _everything_ on the CPU with DRAM scrambling</title>
-      <link>https://github.com/xoreaxeaxeax/skitter-creek-bath-salts</link>
-      <guid>https://lobste.rs/s/a4zifd</guid>
-      <author>github.com via radex</author>
-      <pubDate>Thu, 13 Aug 2026 11:06:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a4zifd/unlocking_everything_on_cpu_with_dram"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>CSS: the bomb inside your inbox</title>
+      <link>https://portswigger.net/research/css-the-bomb-inside-your-inbox</link>
+      <guid>https://lobste.rs/s/qo7eyx</guid>
+      <author>portswigger.net via refp</author>
+      <pubDate>Tue, 18 Aug 2026 08:30:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-      <category>vibecoding</category>
     </item>
     <item>
-      <title>OxiSH: SSH server written in Rust</title>
-      <link>https://github.com/djc/oxish</link>
-      <guid>https://lobste.rs/s/xi7txx</guid>
-      <author>github.com via wofo</author>
-      <pubDate>Thu, 13 Aug 2026 13:23:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
+      <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
+      <guid>https://lobste.rs/s/flcpeu</guid>
+      <author>simonwillison.net via alcides</author>
+      <pubDate>Mon, 17 Aug 2026 12:54:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
