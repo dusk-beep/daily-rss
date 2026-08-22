@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Sat, 15 Aug 2026 00:08:35 -0500</pubDate>
+    <pubDate>Wed, 19 Aug 2026 05:55:29 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Firefox is now the last major browser that still supports uBlock Origin</title>
-      <link>https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</link>
-      <guid>https://lobste.rs/s/lfmss9</guid>
-      <author>pcworld.com via tusharhero</author>
-      <pubDate>Sat, 15 Aug 2026 00:08:35 -0500</pubDate>
-      <comments>https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-    </item>
     <item>
       <title>HTML Can Do That</title>
       <link>https://chrisburnell.com/html-can-do-that/</link>
@@ -28,6 +18,26 @@
       <category>web</category>
     </item>
     <item>
+      <title>Firefox is now the last major browser that still supports uBlock Origin</title>
+      <link>https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</link>
+      <guid>https://lobste.rs/s/lfmss9</guid>
+      <author>pcworld.com via tusharhero</author>
+      <pubDate>Sat, 15 Aug 2026 00:08:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+    </item>
+    <item>
+      <title>How a joke domain purchase turned into geopolitical warfare</title>
+      <link>https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</link>
+      <guid>https://lobste.rs/s/sfi9te</guid>
+      <author>sprocketfox.io via zzkt</author>
+      <pubDate>Thu, 20 Aug 2026 07:21:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>I thought I was building a C replacement. I was wrong</title>
       <link>https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/</link>
       <guid>https://lobste.rs/s/wpyhdh</guid>
@@ -37,6 +47,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
       <category>programming</category>
+    </item>
+    <item>
+      <title>I accidentally logged hundreds of thousands of phone calls to military bases</title>
+      <link>https://lina.sh/blog/hijacking-e164-arpa</link>
+      <guid>https://lobste.rs/s/dyswyz</guid>
+      <author>lina.sh via taavi</author>
+      <pubDate>Fri, 21 Aug 2026 07:05:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Bun 1.4 Rust rewrite is not looking good</title>
@@ -81,28 +101,6 @@
       <category>ios</category>
     </item>
     <item>
-      <title>RISC-V: They Should Have Known Better</title>
-      <link>https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</link>
-      <guid>https://lobste.rs/s/pu3yzg</guid>
-      <author>dmitry.gr by dmitrygr</author>
-      <pubDate>Fri, 14 Aug 2026 14:12:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-      <category>rant</category>
-      <category>compilers</category>
-    </item>
-    <item>
-      <title>Why I remain a skeptic</title>
-      <link>https://blog.jsbarretto.com/post/i-remain-a-skeptic</link>
-      <guid>https://lobste.rs/s/fooyux</guid>
-      <author>blog.jsbarretto.com via jbauer</author>
-      <pubDate>Sat, 15 Aug 2026 08:29:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/fooyux/why_i_remain_skeptic</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fooyux/why_i_remain_skeptic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>What software do you use daily in 2026?</title>
       <link>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</link>
       <guid>https://lobste.rs/s/ttxwdz</guid>
@@ -116,6 +114,27 @@
 </description>
       <category>practices</category>
       <category>ask</category>
+    </item>
+    <item>
+      <title>Why I remain a skeptic</title>
+      <link>https://blog.jsbarretto.com/post/i-remain-a-skeptic</link>
+      <guid>https://lobste.rs/s/fooyux</guid>
+      <author>blog.jsbarretto.com via jbauer</author>
+      <pubDate>Sat, 15 Aug 2026 08:29:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/fooyux/why_i_remain_skeptic</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fooyux/why_i_remain_skeptic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Supply chain attack on arrayref</title>
+      <link>https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/</link>
+      <guid>https://lobste.rs/s/dns8du</guid>
+      <author>blog.rust-lang.org via ohrv</author>
+      <pubDate>Thu, 20 Aug 2026 04:54:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>rust</category>
     </item>
     <item>
       <title>A faster way to calculate the day-of-the-week</title>
@@ -179,14 +198,15 @@
       <category>web</category>
     </item>
     <item>
-      <title>Using the railway network as a flatbed scanner</title>
-      <link>https://philo.gay/linecam/</link>
-      <guid>https://lobste.rs/s/n7i1jn</guid>
-      <author>philo.gay via polywolf</author>
-      <pubDate>Tue, 18 Aug 2026 06:42:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>art</category>
+      <title>Go 1.27 is released</title>
+      <link>https://go.dev/blog/go1.27</link>
+      <guid>https://lobste.rs/s/smrw3n</guid>
+      <author>go.dev via binjip978</author>
+      <pubDate>Wed, 19 Aug 2026 12:53:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/smrw3n/go_1_27_is_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/smrw3n/go_1_27_is_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+      <category>release</category>
     </item>
     <item>
       <title>Mojo is now open source</title>
@@ -199,25 +219,25 @@
       <category>plt</category>
     </item>
     <item>
-      <title>Go 1.27 is released</title>
-      <link>https://go.dev/blog/go1.27</link>
-      <guid>https://lobste.rs/s/smrw3n</guid>
-      <author>go.dev via binjip978</author>
-      <pubDate>Wed, 19 Aug 2026 12:53:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/smrw3n/go_1_27_is_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/smrw3n/go_1_27_is_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
-      <category>release</category>
+      <title>Bun 1.4</title>
+      <link>https://bun.com/blog/bun-v1.4</link>
+      <guid>https://lobste.rs/s/eesu8d</guid>
+      <author>bun.com via simonw</author>
+      <pubDate>Thu, 20 Aug 2026 09:37:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/eesu8d/bun_1_4</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eesu8d/bun_1_4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>javascript</category>
+      <category>vibecoding</category>
     </item>
     <item>
-      <title>How a joke domain purchase turned into geopolitical warfare</title>
-      <link>https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</link>
-      <guid>https://lobste.rs/s/sfi9te</guid>
-      <author>sprocketfox.io via zzkt</author>
-      <pubDate>Thu, 20 Aug 2026 07:21:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>Using the railway network as a flatbed scanner</title>
+      <link>https://philo.gay/linecam/</link>
+      <guid>https://lobste.rs/s/n7i1jn</guid>
+      <author>philo.gay via polywolf</author>
+      <pubDate>Tue, 18 Aug 2026 06:42:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>art</category>
     </item>
     <item>
       <title>Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools</title>
@@ -230,15 +250,27 @@
       <category>hardware</category>
     </item>
     <item>
-      <title>Supply chain attack on arrayref</title>
-      <link>https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/</link>
-      <guid>https://lobste.rs/s/dns8du</guid>
-      <author>blog.rust-lang.org via ohrv</author>
-      <pubDate>Thu, 20 Aug 2026 04:54:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>What Zig felt like, coming from Rust</title>
+      <link>https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</link>
+      <guid>https://lobste.rs/s/oaybfe</guid>
+      <author>besok.github.io via nickmonad</author>
+      <pubDate>Thu, 20 Aug 2026 02:53:17 -0500</pubDate>
+      <comments>https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oaybfe/what_zig_felt_like_coming_from_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
+      <category>zig</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Everyone Says Assembly Is Untyped—Everyone Is Wrong</title>
+      <link>https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/</link>
+      <guid>https://lobste.rs/s/wphnca</guid>
+      <author>gingerbill.org via rrampage</author>
+      <pubDate>Thu, 20 Aug 2026 12:22:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>plt</category>
     </item>
     <item>
       <title>GitHub has alternatives, but no replacement</title>
@@ -249,36 +281,6 @@
       <comments>https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>A Preview of DuckDB v2.0</title>
-      <link>https://duckdb.org/2026/08/17/duckdb-20-highlights.html</link>
-      <guid>https://lobste.rs/s/wya4zt</guid>
-      <author>duckdb.org via mpweiher</author>
-      <pubDate>Mon, 17 Aug 2026 11:13:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/wya4zt/preview_duckdb_v2_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wya4zt/preview_duckdb_v2_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
-    </item>
-    <item>
-      <title>CSS: the bomb inside your inbox</title>
-      <link>https://portswigger.net/research/css-the-bomb-inside-your-inbox</link>
-      <guid>https://lobste.rs/s/qo7eyx</guid>
-      <author>portswigger.net via refp</author>
-      <pubDate>Tue, 18 Aug 2026 08:30:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
-      <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
-      <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
-      <guid>https://lobste.rs/s/flcpeu</guid>
-      <author>simonwillison.net via alcides</author>
-      <pubDate>Mon, 17 Aug 2026 12:54:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
     </item>
   </channel>
 </rss>

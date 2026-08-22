@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Don&#39;t paste the AI, please</title>
-      <link>https://dontpastetheai.com/</link>
-      <description>986 points • 538 comments • by pjerem&#xA;https://news.ycombinator.com/item?id=49371857</description>
-      <pubDate>Fri, 21 Aug 2026 00:33:31 +0000</pubDate>
-      <guid>49371857</guid>
+      <title>Kagi added a setting for removing paywalled links from search results</title>
+      <link>https://kagi.com/changelog#11296</link>
+      <description>986 points • 333 comments • by speckx&#xA;https://news.ycombinator.com/item?id=49388154</description>
+      <pubDate>Sat, 22 Aug 2026 00:30:23 +0000</pubDate>
+      <guid>49388154</guid>
     </item>
     <item>
-      <title>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</title>
-      <link>https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</link>
-      <description>858 points • 280 comments • by emctech&#xA;https://news.ycombinator.com/item?id=49372583</description>
-      <pubDate>Fri, 21 Aug 2026 00:32:31 +0000</pubDate>
-      <guid>49372583</guid>
+      <title>AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late</title>
+      <link>https://annas-archive.pk/blog/physical-destruction.html</link>
+      <description>701 points • 2 comments • by darccio&#xA;https://news.ycombinator.com/item?id=49385994</description>
+      <pubDate>Sat, 22 Aug 2026 00:29:23 +0000</pubDate>
+      <guid>49385994</guid>
     </item>
     <item>
-      <title>Aaron Swartz was prosecuted for scraping, while Meta does it without consequence</title>
-      <link>https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</link>
-      <description>821 points • 186 comments • by speckx&#xA;https://news.ycombinator.com/item?id=49379550</description>
-      <pubDate>Fri, 21 Aug 2026 00:31:31 +0000</pubDate>
-      <guid>49379550</guid>
+      <title>Grand jury declines to indict Ohio man charged with destroying Flock camera</title>
+      <link>https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/</link>
+      <description>627 points • 362 comments • by throw7&#xA;https://news.ycombinator.com/item?id=49387497</description>
+      <pubDate>Sat, 22 Aug 2026 00:28:23 +0000</pubDate>
+      <guid>49387497</guid>
     </item>
     <item>
-      <title>Show HN: I trained a 125M model to autocomplete piano on-device</title>
-      <link>https://simedw.com/2026/08/20/midi-autocomplete/</link>
-      <description>483 points • 105 comments • by simedw&#xA;https://news.ycombinator.com/item?id=49373456</description>
-      <pubDate>Fri, 21 Aug 2026 00:30:31 +0000</pubDate>
-      <guid>49373456</guid>
+      <title>AI companies destroy physical books – let&#39;s scan rare books before it&#39;s too late</title>
+      <link>https://annas-archive.gl/blog/physical-destruction.html</link>
+      <description>516 points • 833 comments • by Cider9986&#xA;https://news.ycombinator.com/item?id=49383026</description>
+      <pubDate>Sat, 22 Aug 2026 00:27:23 +0000</pubDate>
+      <guid>49383026</guid>
     </item>
     <item>
-      <title>Malicious Rust crate Arrayref runs a build-time payload</title>
-      <link>https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</link>
-      <description>379 points • 355 comments • by abhisek&#xA;https://news.ycombinator.com/item?id=49374269</description>
-      <pubDate>Fri, 21 Aug 2026 00:29:31 +0000</pubDate>
-      <guid>49374269</guid>
+      <title>Felony charges for citizen deleting phone data at US Border</title>
+      <link>https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html</link>
+      <description>508 points • 696 comments • by floathub&#xA;https://news.ycombinator.com/item?id=49386895</description>
+      <pubDate>Sat, 22 Aug 2026 00:26:23 +0000</pubDate>
+      <guid>49386895</guid>
     </item>
     <item>
-      <title>Windows brings out the Rorschach test in everyone (2003)</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</link>
-      <description>336 points • 130 comments • by luu&#xA;https://news.ycombinator.com/item?id=49371006</description>
-      <pubDate>Fri, 21 Aug 2026 00:28:31 +0000</pubDate>
-      <guid>49371006</guid>
+      <title>Felony Bench</title>
+      <link>https://www.felonybench.com/</link>
+      <description>485 points • 219 comments • by colinprince&#xA;https://news.ycombinator.com/item?id=49389430</description>
+      <pubDate>Sat, 22 Aug 2026 00:25:23 +0000</pubDate>
+      <guid>49389430</guid>
     </item>
     <item>
-      <title>Turns are Better than Radians (2022)</title>
-      <link>https://www.computerenhance.com/p/turns-are-better-than-radians</link>
-      <description>332 points • 198 comments • by mayoff&#xA;https://news.ycombinator.com/item?id=49369408</description>
-      <pubDate>Fri, 21 Aug 2026 00:27:31 +0000</pubDate>
-      <guid>49369408</guid>
+      <title>DeepSeek-v4-flash-vision-exp</title>
+      <link>https://api-docs.deepseek.com/guides/vision/</link>
+      <description>450 points • 142 comments • by dares2573&#xA;https://news.ycombinator.com/item?id=49386163</description>
+      <pubDate>Sat, 22 Aug 2026 00:24:23 +0000</pubDate>
+      <guid>49386163</guid>
     </item>
     <item>
-      <title>CIA funding helped keep NeXT afloat in the 80s</title>
-      <link>https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&amp;reflink=desktopwebshare_permalink</link>
-      <description>315 points • 204 comments • by EwanG&#xA;https://news.ycombinator.com/item?id=49368886</description>
-      <pubDate>Fri, 21 Aug 2026 00:26:31 +0000</pubDate>
-      <guid>49368886</guid>
+      <title>I accidentally logged hundreds of thousands of phone calls to military bases</title>
+      <link>https://lina.sh/blog/hijacking-e164-arpa</link>
+      <description>420 points • 45 comments • by gavide&#xA;https://news.ycombinator.com/item?id=49387570</description>
+      <pubDate>Sat, 22 Aug 2026 00:23:23 +0000</pubDate>
+      <guid>49387570</guid>
     </item>
     <item>
-      <title>Watching TikTok and Instagram deactivates the cognitive control network: Study</title>
-      <link>https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</link>
-      <description>294 points • 113 comments • by Akasci&#xA;https://news.ycombinator.com/item?id=49378630</description>
-      <pubDate>Fri, 21 Aug 2026 00:25:31 +0000</pubDate>
-      <guid>49378630</guid>
+      <title>Kobo can run apps now</title>
+      <link>https://bandarlabs.github.io/Cobalt/</link>
+      <description>397 points • 136 comments • by thepoet&#xA;https://news.ycombinator.com/item?id=49390427</description>
+      <pubDate>Sat, 22 Aug 2026 00:22:23 +0000</pubDate>
+      <guid>49390427</guid>
     </item>
     <item>
-      <title>The August 17 outage, and the work ahead</title>
-      <link>https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</link>
-      <description>283 points • 327 comments • by 0xedb&#xA;https://news.ycombinator.com/item?id=49378957</description>
-      <pubDate>Fri, 21 Aug 2026 00:24:31 +0000</pubDate>
-      <guid>49378957</guid>
+      <title>Japan tried to build an operating system for the world, the US intervened</title>
+      <link>https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</link>
+      <description>346 points • 200 comments • by rdmuser&#xA;https://news.ycombinator.com/item?id=49384180</description>
+      <pubDate>Sat, 22 Aug 2026 00:21:23 +0000</pubDate>
+      <guid>49384180</guid>
     </item>
   </channel>
 </rss>
