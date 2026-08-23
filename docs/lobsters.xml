@@ -18,14 +18,14 @@
       <category>web</category>
     </item>
     <item>
-      <title>Firefox is now the last major browser that still supports uBlock Origin</title>
-      <link>https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</link>
-      <guid>https://lobste.rs/s/lfmss9</guid>
-      <author>pcworld.com via tusharhero</author>
-      <pubDate>Sat, 15 Aug 2026 00:08:35 -0500</pubDate>
-      <comments>https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
+      <title>I accidentally logged hundreds of thousands of phone calls to military bases</title>
+      <link>https://lina.sh/blog/hijacking-e164-arpa</link>
+      <guid>https://lobste.rs/s/dyswyz</guid>
+      <author>lina.sh via taavi</author>
+      <pubDate>Fri, 21 Aug 2026 07:05:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>How a joke domain purchase turned into geopolitical warfare</title>
@@ -47,16 +47,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
       <category>programming</category>
-    </item>
-    <item>
-      <title>I accidentally logged hundreds of thousands of phone calls to military bases</title>
-      <link>https://lina.sh/blog/hijacking-e164-arpa</link>
-      <guid>https://lobste.rs/s/dyswyz</guid>
-      <author>lina.sh via taavi</author>
-      <pubDate>Fri, 21 Aug 2026 07:05:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>Bun 1.4 Rust rewrite is not looking good</title>
@@ -91,6 +81,28 @@
       <category>finance</category>
     </item>
     <item>
+      <title>Japan tried to build an operating system for the entire world, then the US government intervened</title>
+      <link>https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</link>
+      <guid>https://lobste.rs/s/mfo0fd</guid>
+      <author>xda-developers.com via lproven</author>
+      <pubDate>Fri, 21 Aug 2026 07:47:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>historical</category>
+      <category>osdev</category>
+      <category>retrocomputing</category>
+    </item>
+    <item>
+      <title>Enabling the next-generation trait solver on nightly</title>
+      <link>https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/</link>
+      <guid>https://lobste.rs/s/3giezs</guid>
+      <author>blog.rust-lang.org by jana</author>
+      <pubDate>Fri, 21 Aug 2026 10:15:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
       <title>How Bluesky draws its logo on screenshots</title>
       <link>https://timmarinin.net/2026/bluesky-screenshots/</link>
       <guid>https://lobste.rs/s/05ocit</guid>
@@ -114,16 +126,6 @@
 </description>
       <category>practices</category>
       <category>ask</category>
-    </item>
-    <item>
-      <title>Why I remain a skeptic</title>
-      <link>https://blog.jsbarretto.com/post/i-remain-a-skeptic</link>
-      <guid>https://lobste.rs/s/fooyux</guid>
-      <author>blog.jsbarretto.com via jbauer</author>
-      <pubDate>Sat, 15 Aug 2026 08:29:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/fooyux/why_i_remain_skeptic</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fooyux/why_i_remain_skeptic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>Supply chain attack on arrayref</title>
@@ -150,6 +152,17 @@
       <category>performance</category>
     </item>
     <item>
+      <title>How I browse the Web with uBlock (Hard Mode)</title>
+      <link>https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html</link>
+      <guid>https://lobste.rs/s/nsywuo</guid>
+      <author>untrusem.party by untrusem</author>
+      <pubDate>Tue, 18 Aug 2026 07:30:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>privacy</category>
+    </item>
+    <item>
       <title>Does it make sense to switch to a Github Alternative ?</title>
       <link>https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github</link>
       <guid>https://lobste.rs/s/0zdh32</guid>
@@ -162,17 +175,6 @@
 </description>
       <category>programming</category>
       <category>ask</category>
-    </item>
-    <item>
-      <title>How I browse the Web with uBlock (Hard Mode)</title>
-      <link>https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html</link>
-      <guid>https://lobste.rs/s/nsywuo</guid>
-      <author>untrusem.party by untrusem</author>
-      <pubDate>Tue, 18 Aug 2026 07:30:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>privacy</category>
     </item>
     <item>
       <title>Rethinking Database Programming</title>
@@ -219,6 +221,28 @@
       <category>plt</category>
     </item>
     <item>
+      <title>Announcing Rust 1.98.0</title>
+      <link>https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/</link>
+      <guid>https://lobste.rs/s/hbjeir</guid>
+      <author>blog.rust-lang.org via FedericoSchonborn</author>
+      <pubDate>Thu, 20 Aug 2026 19:38:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/hbjeir/announcing_rust_1_98_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hbjeir/announcing_rust_1_98_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>Better Batteries</title>
+      <link>https://matklad.github.io/2026/08/20/better-batteries.html</link>
+      <guid>https://lobste.rs/s/qxvz7f</guid>
+      <author>matklad.github.io via olex</author>
+      <pubDate>Fri, 21 Aug 2026 02:47:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/qxvz7f/better_batteries</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qxvz7f/better_batteries"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+      <category>plt</category>
+    </item>
+    <item>
       <title>Bun 1.4</title>
       <link>https://bun.com/blog/bun-v1.4</link>
       <guid>https://lobste.rs/s/eesu8d</guid>
@@ -238,16 +262,6 @@
       <comments>https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>art</category>
-    </item>
-    <item>
-      <title>Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools</title>
-      <link>https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/</link>
-      <guid>https://lobste.rs/s/phisnd</guid>
-      <author>quantum5.ca via LolPython</author>
-      <pubDate>Tue, 18 Aug 2026 10:07:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
     </item>
     <item>
       <title>What Zig felt like, coming from Rust</title>
@@ -271,16 +285,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>assembly</category>
       <category>plt</category>
-    </item>
-    <item>
-      <title>GitHub has alternatives, but no replacement</title>
-      <link>https://lalitm.com/post/github-alternatives/</link>
-      <guid>https://lobste.rs/s/izrwdc</guid>
-      <author>lalitm.com by lalitm</author>
-      <pubDate>Mon, 17 Aug 2026 12:12:44 -0500</pubDate>
-      <comments>https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
     </item>
   </channel>
 </rss>
