@@ -38,17 +38,6 @@
       <category>security</category>
     </item>
     <item>
-      <title>I thought I was building a C replacement. I was wrong</title>
-      <link>https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/</link>
-      <guid>https://lobste.rs/s/wpyhdh</guid>
-      <author>c3-lang.org by clerno</author>
-      <pubDate>Sun, 16 Aug 2026 09:05:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wpyhdh/i_thought_i_was_building_c_replacement_i"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>programming</category>
-    </item>
-    <item>
       <title>Bun 1.4 Rust rewrite is not looking good</title>
       <link>https://tipiirai.com/writing/bun-rust-rewrite-worries</link>
       <guid>https://lobste.rs/s/caubyr</guid>
@@ -59,26 +48,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Every Fucking Website</title>
-      <link>https://op.tngl.io/every-fucking-website/</link>
-      <guid>https://lobste.rs/s/ii5tun</guid>
-      <author>op.tngl.io by op</author>
-      <pubDate>Sun, 16 Aug 2026 11:26:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/ii5tun/every_fucking_website</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ii5tun/every_fucking_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>satire</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Plain Text Accounting is Pretty Cool</title>
-      <link>https://sumnerevans.com/posts/money/plain-text-accounting/</link>
-      <guid>https://lobste.rs/s/i4lxyt</guid>
-      <author>sumnerevans.com via abnercoimbre</author>
-      <pubDate>Wed, 19 Aug 2026 11:55:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>finance</category>
+      <title>Enabling the next-generation trait solver on nightly</title>
+      <link>https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/</link>
+      <guid>https://lobste.rs/s/3giezs</guid>
+      <author>blog.rust-lang.org by jana</author>
+      <pubDate>Fri, 21 Aug 2026 10:15:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
     </item>
     <item>
       <title>Japan tried to build an operating system for the entire world, then the US government intervened</title>
@@ -93,14 +70,14 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>Enabling the next-generation trait solver on nightly</title>
-      <link>https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/</link>
-      <guid>https://lobste.rs/s/3giezs</guid>
-      <author>blog.rust-lang.org by jana</author>
-      <pubDate>Fri, 21 Aug 2026 10:15:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>Plain Text Accounting is Pretty Cool</title>
+      <link>https://sumnerevans.com/posts/money/plain-text-accounting/</link>
+      <guid>https://lobste.rs/s/i4lxyt</guid>
+      <author>sumnerevans.com via abnercoimbre</author>
+      <pubDate>Wed, 19 Aug 2026 11:55:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>finance</category>
     </item>
     <item>
       <title>How Bluesky draws its logo on screenshots</title>
@@ -128,6 +105,16 @@
       <category>ask</category>
     </item>
     <item>
+      <title>You should never be angry at work</title>
+      <link>https://www.seangoedecke.com/you-should-never-be-angry-at-work/</link>
+      <guid>https://lobste.rs/s/mbmn1f</guid>
+      <author>seangoedecke.com via MooreMachine</author>
+      <pubDate>Sat, 22 Aug 2026 07:41:39 -0500</pubDate>
+      <comments>https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+    </item>
+    <item>
       <title>Supply chain attack on arrayref</title>
       <link>https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/</link>
       <guid>https://lobste.rs/s/dns8du</guid>
@@ -137,19 +124,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dns8du/supply_chain_attack_on_arrayref"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>rust</category>
-    </item>
-    <item>
-      <title>A faster way to calculate the day-of-the-week</title>
-      <link>https://www.benjoffe.com/fast-day-of-week</link>
-      <guid>https://lobste.rs/s/ln3dao</guid>
-      <author>benjoffe.com by benjoffe</author>
-      <pubDate>Sun, 16 Aug 2026 15:52:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/ln3dao/faster_way_calculate_day_week</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ln3dao/faster_way_calculate_day_week"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-      <category>math</category>
-      <category>c++</category>
-      <category>performance</category>
     </item>
     <item>
       <title>How I browse the Web with uBlock (Hard Mode)</title>
@@ -200,38 +174,6 @@
       <category>web</category>
     </item>
     <item>
-      <title>Go 1.27 is released</title>
-      <link>https://go.dev/blog/go1.27</link>
-      <guid>https://lobste.rs/s/smrw3n</guid>
-      <author>go.dev via binjip978</author>
-      <pubDate>Wed, 19 Aug 2026 12:53:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/smrw3n/go_1_27_is_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/smrw3n/go_1_27_is_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
-      <category>release</category>
-    </item>
-    <item>
-      <title>Mojo is now open source</title>
-      <link>https://www.modular.com/blog/mojo-open-source</link>
-      <guid>https://lobste.rs/s/01lxuf</guid>
-      <author>modular.com via eatonphil</author>
-      <pubDate>Tue, 18 Aug 2026 11:34:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/01lxuf/mojo_is_now_open_source</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/01lxuf/mojo_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>plt</category>
-    </item>
-    <item>
-      <title>Announcing Rust 1.98.0</title>
-      <link>https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/</link>
-      <guid>https://lobste.rs/s/hbjeir</guid>
-      <author>blog.rust-lang.org via FedericoSchonborn</author>
-      <pubDate>Thu, 20 Aug 2026 19:38:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/hbjeir/announcing_rust_1_98_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hbjeir/announcing_rust_1_98_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>rust</category>
-    </item>
-    <item>
       <title>Better Batteries</title>
       <link>https://matklad.github.io/2026/08/20/better-batteries.html</link>
       <guid>https://lobste.rs/s/qxvz7f</guid>
@@ -243,25 +185,37 @@
       <category>plt</category>
     </item>
     <item>
-      <title>Bun 1.4</title>
-      <link>https://bun.com/blog/bun-v1.4</link>
-      <guid>https://lobste.rs/s/eesu8d</guid>
-      <author>bun.com via simonw</author>
-      <pubDate>Thu, 20 Aug 2026 09:37:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/eesu8d/bun_1_4</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eesu8d/bun_1_4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>javascript</category>
-      <category>vibecoding</category>
+      <title>Go 1.27 is released</title>
+      <link>https://go.dev/blog/go1.27</link>
+      <guid>https://lobste.rs/s/smrw3n</guid>
+      <author>go.dev via binjip978</author>
+      <pubDate>Wed, 19 Aug 2026 12:53:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/smrw3n/go_1_27_is_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/smrw3n/go_1_27_is_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+      <category>release</category>
     </item>
     <item>
-      <title>Using the railway network as a flatbed scanner</title>
-      <link>https://philo.gay/linecam/</link>
-      <guid>https://lobste.rs/s/n7i1jn</guid>
-      <author>philo.gay via polywolf</author>
-      <pubDate>Tue, 18 Aug 2026 06:42:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>art</category>
+      <title>And then the men with guns tell you to do it anyway</title>
+      <link>https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</link>
+      <guid>https://lobste.rs/s/u7v2sn</guid>
+      <author>shkspr.mobi via rrampage</author>
+      <pubDate>Sun, 23 Aug 2026 07:15:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>privacy</category>
+      <category>philosophy</category>
+    </item>
+    <item>
+      <title>Mojo is now open source</title>
+      <link>https://www.modular.com/blog/mojo-open-source</link>
+      <guid>https://lobste.rs/s/01lxuf</guid>
+      <author>modular.com via eatonphil</author>
+      <pubDate>Tue, 18 Aug 2026 11:34:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/01lxuf/mojo_is_now_open_source</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/01lxuf/mojo_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>plt</category>
     </item>
     <item>
       <title>What Zig felt like, coming from Rust</title>
@@ -276,6 +230,38 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Announcing Rust 1.98.0</title>
+      <link>https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/</link>
+      <guid>https://lobste.rs/s/hbjeir</guid>
+      <author>blog.rust-lang.org via FedericoSchonborn</author>
+      <pubDate>Thu, 20 Aug 2026 19:38:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/hbjeir/announcing_rust_1_98_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hbjeir/announcing_rust_1_98_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>Using the railway network as a flatbed scanner</title>
+      <link>https://philo.gay/linecam/</link>
+      <guid>https://lobste.rs/s/n7i1jn</guid>
+      <author>philo.gay via polywolf</author>
+      <pubDate>Tue, 18 Aug 2026 06:42:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>art</category>
+    </item>
+    <item>
+      <title>Bun 1.4</title>
+      <link>https://bun.com/blog/bun-v1.4</link>
+      <guid>https://lobste.rs/s/eesu8d</guid>
+      <author>bun.com via simonw</author>
+      <pubDate>Thu, 20 Aug 2026 09:37:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/eesu8d/bun_1_4</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eesu8d/bun_1_4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>javascript</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Everyone Says Assembly Is Untyped—Everyone Is Wrong</title>
       <link>https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/</link>
       <guid>https://lobste.rs/s/wphnca</guid>
@@ -285,6 +271,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>assembly</category>
       <category>plt</category>
+    </item>
+    <item>
+      <title>Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools</title>
+      <link>https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/</link>
+      <guid>https://lobste.rs/s/phisnd</guid>
+      <author>quantum5.ca via LolPython</author>
+      <pubDate>Tue, 18 Aug 2026 10:07:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
   </channel>
 </rss>
