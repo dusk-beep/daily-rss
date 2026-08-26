@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>How Europe is killing makers and micro-entrepreneurs</title>
-      <link>https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs</link>
-      <description>1029 points • 645 comments • by l-one-lone&#xA;https://news.ycombinator.com/item?id=49419237</description>
-      <pubDate>Tue, 25 Aug 2026 00:32:03 +0000</pubDate>
-      <guid>49419237</guid>
+      <title>Dolly Parton has died</title>
+      <link>https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead</link>
+      <description>1150 points • 180 comments • by helsinkiandrew&#xA;https://news.ycombinator.com/item?id=49438052</description>
+      <pubDate>Wed, 26 Aug 2026 00:33:14 +0000</pubDate>
+      <guid>49438052</guid>
     </item>
     <item>
-      <title>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</title>
-      <link>https://twitter.com/lemire/status/2091894299289874926</link>
-      <description>706 points • 476 comments • by tosh&#xA;https://news.ycombinator.com/item?id=49420873</description>
-      <pubDate>Tue, 25 Aug 2026 00:31:03 +0000</pubDate>
-      <guid>49420873</guid>
+      <title>Apple introduces M6 and M5 Ultra</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</link>
+      <description>925 points • 880 comments • by interpol_p&#xA;https://news.ycombinator.com/item?id=49433292</description>
+      <pubDate>Wed, 26 Aug 2026 00:32:14 +0000</pubDate>
+      <guid>49433292</guid>
     </item>
     <item>
-      <title>Andreessen Horowitz is investing billions into a bleak future</title>
-      <link>https://www.modelrepublic.org/articles/a16z-portfolio</link>
-      <description>649 points • 343 comments • by reasonableklout&#xA;https://news.ycombinator.com/item?id=49416055</description>
-      <pubDate>Tue, 25 Aug 2026 00:30:03 +0000</pubDate>
-      <guid>49416055</guid>
+      <title>New Mac Studio with M5 Max and M5 Ultra</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</link>
+      <description>694 points • 433 comments • by interpol_p&#xA;https://news.ycombinator.com/item?id=49433316</description>
+      <pubDate>Wed, 26 Aug 2026 00:31:14 +0000</pubDate>
+      <guid>49433316</guid>
     </item>
     <item>
-      <title>MS Paint and Photos inivisibly watermark even locally generated output with GUID</title>
-      <link>https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/</link>
-      <description>533 points • 214 comments • by ComputerGuru&#xA;https://news.ycombinator.com/item?id=49421158</description>
-      <pubDate>Tue, 25 Aug 2026 00:29:03 +0000</pubDate>
-      <guid>49421158</guid>
+      <title>Nitter project received cease and desist</title>
+      <link>https://github.com/zedeus/nitter/issues/1442</link>
+      <description>583 points • 412 comments • by Banditoz&#xA;https://news.ycombinator.com/item?id=49437283</description>
+      <pubDate>Wed, 26 Aug 2026 00:30:14 +0000</pubDate>
+      <guid>49437283</guid>
     </item>
     <item>
-      <title>Executable Is a SQLite Database</title>
-      <link>https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database</link>
-      <description>485 points • 90 comments • by setheron&#xA;https://news.ycombinator.com/item?id=49415271</description>
-      <pubDate>Tue, 25 Aug 2026 00:28:03 +0000</pubDate>
-      <guid>49415271</guid>
+      <title>My Friend Aaron</title>
+      <link>https://rorz.io/writing/my-friend-aaron</link>
+      <description>423 points • 113 comments • by sarreph&#xA;https://news.ycombinator.com/item?id=49437069</description>
+      <pubDate>Wed, 26 Aug 2026 00:29:14 +0000</pubDate>
+      <guid>49437069</guid>
     </item>
     <item>
-      <title>Coding expertise is going to collapse from AI reliance</title>
-      <link>https://larsfaye.com/articles/ai-coding-will-prevent-expertise</link>
-      <description>439 points • 444 comments • by larsfaye&#xA;https://news.ycombinator.com/item?id=49421554</description>
-      <pubDate>Tue, 25 Aug 2026 00:27:03 +0000</pubDate>
-      <guid>49421554</guid>
+      <title>New Mac mini, featuring M6 and M5 Pro</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/</link>
+      <description>414 points • 247 comments • by runako&#xA;https://news.ycombinator.com/item?id=49433450</description>
+      <pubDate>Wed, 26 Aug 2026 00:28:14 +0000</pubDate>
+      <guid>49433450</guid>
     </item>
     <item>
-      <title>Oceans hit highest temperature on record</title>
-      <link>https://www.bbc.com/news/articles/c62m4gpnp78o</link>
-      <description>377 points • 256 comments • by tcp_handshaker&#xA;https://news.ycombinator.com/item?id=49424606</description>
-      <pubDate>Tue, 25 Aug 2026 00:26:03 +0000</pubDate>
-      <guid>49424606</guid>
+      <title>Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)</title>
+      <link>https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next</link>
+      <description>310 points • 137 comments • by garo-pro&#xA;https://news.ycombinator.com/item?id=49432317</description>
+      <pubDate>Wed, 26 Aug 2026 00:27:14 +0000</pubDate>
+      <guid>49432317</guid>
     </item>
     <item>
-      <title>The entire city of San Francisco as a video game</title>
-      <link>https://sf.thijs.gg/</link>
-      <description>319 points • 111 comments • by centrosphere&#xA;https://news.ycombinator.com/item?id=49422784</description>
-      <pubDate>Tue, 25 Aug 2026 00:25:03 +0000</pubDate>
-      <guid>49422784</guid>
+      <title>OpenAI Jalapeño: Better than Nvidia Blackwell</title>
+      <link>https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia</link>
+      <description>294 points • 199 comments • by bmulholland&#xA;https://news.ycombinator.com/item?id=49434378</description>
+      <pubDate>Wed, 26 Aug 2026 00:26:14 +0000</pubDate>
+      <guid>49434378</guid>
     </item>
     <item>
-      <title>IPFS Maintainers Winding Down</title>
-      <link>https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/</link>
-      <description>316 points • 159 comments • by iand&#xA;https://news.ycombinator.com/item?id=49421489</description>
-      <pubDate>Tue, 25 Aug 2026 00:24:03 +0000</pubDate>
-      <guid>49421489</guid>
+      <title>Don&#39;t Wordle</title>
+      <link>https://dontwordle.com/</link>
+      <description>294 points • 115 comments • by Hbruz0&#xA;https://news.ycombinator.com/item?id=49432319</description>
+      <pubDate>Wed, 26 Aug 2026 00:25:14 +0000</pubDate>
+      <guid>49432319</guid>
     </item>
     <item>
-      <title>OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)</title>
-      <link>https://developers.openai.com/api/docs/pricing</link>
-      <description>285 points • 259 comments • by tosh&#xA;https://news.ycombinator.com/item?id=49421074</description>
-      <pubDate>Tue, 25 Aug 2026 00:23:03 +0000</pubDate>
-      <guid>49421074</guid>
+      <title>Firefox 157 will include JPEG XL by default on all platforms</title>
+      <link>https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1</link>
+      <description>261 points • 65 comments • by yboris&#xA;https://news.ycombinator.com/item?id=49437946</description>
+      <pubDate>Wed, 26 Aug 2026 00:24:14 +0000</pubDate>
+      <guid>49437946</guid>
     </item>
   </channel>
 </rss>

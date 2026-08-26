@@ -5,8 +5,23 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Wed, 19 Aug 2026 05:55:29 -0500</pubDate>
+    <pubDate>Mon, 24 Aug 2026 11:04:45 -0500</pubDate>
     <ttl>120</ttl>
+    <item>
+      <title>I cannot survive from burnout</title>
+      <link>https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout</link>
+      <guid>https://lobste.rs/s/0typpq</guid>
+      <author> by delirehberi</author>
+      <pubDate>Mon, 24 Aug 2026 11:04:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout</comments>
+      <description>&lt;p&gt;I burned out two years ago, went through a divorce, and relocated to a new city. I live alone now and care for seven cats.&lt;/p&gt;
+&lt;p&gt;Over the last two years, I’ve tried forcing discipline, making detailed plans, and restarting over and over. Despite this, I’m still carrying significant debt.&lt;/p&gt;
+&lt;p&gt;My main struggle is staying focused on paid work. I’m constantly building and working on my own side projects, but I struggle to put time into client work. Because of my experience, finding clients isn't hard, but I tend to lose them after a few months due to low throughput. I deliver high-quality code and solve their core problems, but I can only bring myself to work on client tasks for about 5–6 hours a week.&lt;/p&gt;
+&lt;p&gt;I’m struggling to survive day-to-day and losing hope that this will change, though some days are good and I can get solid work done. I’ve tried all the standard advice for burnout with little success. At this point, I wonder if burnout has become a habit, an excuse, or a form of self-sabotage.&lt;/p&gt;
+&lt;p&gt;I’m posting here to see if anyone who has experienced something similar found a practical way out or a working routine that stuck.&lt;/p&gt;
+</description>
+      <category>person</category>
+    </item>
     <item>
       <title>HTML Can Do That</title>
       <link>https://chrisburnell.com/html-can-do-that/</link>
@@ -18,16 +33,6 @@
       <category>web</category>
     </item>
     <item>
-      <title>I accidentally logged hundreds of thousands of phone calls to military bases</title>
-      <link>https://lina.sh/blog/hijacking-e164-arpa</link>
-      <guid>https://lobste.rs/s/dyswyz</guid>
-      <author>lina.sh via taavi</author>
-      <pubDate>Fri, 21 Aug 2026 07:05:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>Your executable is a SQLite database</title>
       <link>https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database</link>
       <guid>https://lobste.rs/s/8ttu5n</guid>
@@ -37,6 +42,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
       <category>databases</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>I accidentally logged hundreds of thousands of phone calls to military bases</title>
+      <link>https://lina.sh/blog/hijacking-e164-arpa</link>
+      <guid>https://lobste.rs/s/dyswyz</guid>
+      <author>lina.sh via taavi</author>
+      <pubDate>Fri, 21 Aug 2026 07:05:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>How a joke domain purchase turned into geopolitical warfare</title>
@@ -71,21 +87,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>I cannot survive from burnout</title>
-      <link>https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout</link>
-      <guid>https://lobste.rs/s/0typpq</guid>
-      <author> by delirehberi</author>
-      <pubDate>Mon, 24 Aug 2026 11:04:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout</comments>
-      <description>&lt;p&gt;I burned out two years ago, went through a divorce, and relocated to a new city. I live alone now and care for seven cats.&lt;/p&gt;
-&lt;p&gt;Over the last two years, I’ve tried forcing discipline, making detailed plans, and restarting over and over. Despite this, I’m still carrying significant debt.&lt;/p&gt;
-&lt;p&gt;My main struggle is staying focused on paid work. I’m constantly building and working on my own side projects, but I struggle to put time into client work. Because of my experience, finding clients isn't hard, but I tend to lose them after a few months due to low throughput. I deliver high-quality code and solve their core problems, but I can only bring myself to work on client tasks for about 5–6 hours a week.&lt;/p&gt;
-&lt;p&gt;I’m struggling to survive day-to-day and losing hope that this will change, though some days are good and I can get solid work done. I’ve tried all the standard advice for burnout with little success. At this point, I wonder if burnout has become a habit, an excuse, or a form of self-sabotage.&lt;/p&gt;
-&lt;p&gt;I’m posting here to see if anyone who has experienced something similar found a practical way out or a working routine that stuck.&lt;/p&gt;
-</description>
-      <category>person</category>
-    </item>
-    <item>
       <title>Enabling the next-generation trait solver on nightly</title>
       <link>https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/</link>
       <guid>https://lobste.rs/s/3giezs</guid>
@@ -118,6 +119,17 @@
       <category>finance</category>
     </item>
     <item>
+      <title>Intent to Ship: JPEG XL</title>
+      <link>https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/</link>
+      <guid>https://lobste.rs/s/26oj2u</guid>
+      <author>hacks.mozilla.org via EvanHahn</author>
+      <pubDate>Mon, 24 Aug 2026 11:25:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>graphics</category>
+    </item>
+    <item>
       <title>You should never be angry at work</title>
       <link>https://www.seangoedecke.com/you-should-never-be-angry-at-work/</link>
       <guid>https://lobste.rs/s/mbmn1f</guid>
@@ -128,19 +140,15 @@
       <category>practices</category>
     </item>
     <item>
-      <title>What software do you use daily in 2026?</title>
-      <link>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</link>
-      <guid>https://lobste.rs/s/ttxwdz</guid>
-      <author> by r1w1s1</author>
-      <pubDate>Tue, 18 Aug 2026 09:31:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026</comments>
-      <description>&lt;p&gt;There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.&lt;/p&gt;
-&lt;p&gt;What does the software side of your daily setup look like in 2026?&lt;/p&gt;
-&lt;p&gt;Operating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.&lt;/p&gt;
-&lt;p&gt;I'm especially interested in the small or less obvious tools that have become indispensable to you.&lt;/p&gt;
-</description>
-      <category>practices</category>
-      <category>ask</category>
+      <title>Emacs 31.1 released</title>
+      <link>https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html</link>
+      <guid>https://lobste.rs/s/rehaa3</guid>
+      <author>lists.gnu.org via dutchie</author>
+      <pubDate>Mon, 24 Aug 2026 05:52:27 -0500</pubDate>
+      <comments>https://lobste.rs/s/rehaa3/emacs_31_1_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rehaa3/emacs_31_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>emacs</category>
     </item>
     <item>
       <title>Supply chain attack on arrayref</title>
@@ -165,49 +173,14 @@
       <category>graphics</category>
     </item>
     <item>
-      <title>How I browse the Web with uBlock (Hard Mode)</title>
-      <link>https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html</link>
-      <guid>https://lobste.rs/s/nsywuo</guid>
-      <author>untrusem.party by untrusem</author>
-      <pubDate>Tue, 18 Aug 2026 07:30:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsywuo/how_i_browse_web_with_ublock_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>privacy</category>
-    </item>
-    <item>
-      <title>Rethinking Database Programming</title>
-      <link>https://acadia.engineering/blog/rethinking-database-programming</link>
-      <guid>https://lobste.rs/s/ykq7ym</guid>
-      <author>acadia.engineering via janiczek</author>
-      <pubDate>Tue, 18 Aug 2026 03:34:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/ykq7ym/rethinking_database_programming</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykq7ym/rethinking_database_programming"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
-      <category>elm</category>
-      <category>plt</category>
-    </item>
-    <item>
-      <title>Mastodon 5.0: Laying the foundation</title>
-      <link>https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/</link>
-      <guid>https://lobste.rs/s/m0okh1</guid>
-      <author>blog.joinmastodon.org via consteval</author>
-      <pubDate>Tue, 18 Aug 2026 19:03:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m0okh1/mastodon_5_0_laying_foundation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Emacs 31.1 released</title>
-      <link>https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html</link>
-      <guid>https://lobste.rs/s/rehaa3</guid>
-      <author>lists.gnu.org via dutchie</author>
-      <pubDate>Mon, 24 Aug 2026 05:52:27 -0500</pubDate>
-      <comments>https://lobste.rs/s/rehaa3/emacs_31_1_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rehaa3/emacs_31_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>emacs</category>
+      <title>Replicating Reddit's best feature on other forums</title>
+      <link>https://xavd.id/blog/post/highlighting-users/</link>
+      <guid>https://lobste.rs/s/ll6pak</guid>
+      <author>xavd.id by xavdid</author>
+      <pubDate>Sun, 23 Aug 2026 14:23:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
     </item>
     <item>
       <title>Better Batteries</title>
@@ -221,16 +194,6 @@
       <category>plt</category>
     </item>
     <item>
-      <title>Replicating Reddit's best feature on other forums</title>
-      <link>https://xavd.id/blog/post/highlighting-users/</link>
-      <guid>https://lobste.rs/s/ll6pak</guid>
-      <author>xavd.id by xavdid</author>
-      <pubDate>Sun, 23 Aug 2026 14:23:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Go 1.27 is released</title>
       <link>https://go.dev/blog/go1.27</link>
       <guid>https://lobste.rs/s/smrw3n</guid>
@@ -240,16 +203,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/smrw3n/go_1_27_is_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>go</category>
       <category>release</category>
-    </item>
-    <item>
-      <title>Mojo is now open source</title>
-      <link>https://www.modular.com/blog/mojo-open-source</link>
-      <guid>https://lobste.rs/s/01lxuf</guid>
-      <author>modular.com via eatonphil</author>
-      <pubDate>Tue, 18 Aug 2026 11:34:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/01lxuf/mojo_is_now_open_source</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/01lxuf/mojo_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>plt</category>
     </item>
     <item>
       <title>What Zig felt like, coming from Rust</title>
@@ -275,14 +228,57 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Using the railway network as a flatbed scanner</title>
-      <link>https://philo.gay/linecam/</link>
-      <guid>https://lobste.rs/s/n7i1jn</guid>
-      <author>philo.gay via polywolf</author>
-      <pubDate>Tue, 18 Aug 2026 06:42:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>art</category>
+      <title>Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it</title>
+      <link>https://ericpardee.github.io/fire-hd-ownership/</link>
+      <guid>https://lobste.rs/s/fadbev</guid>
+      <author>ericpardee.github.io via Yogthos</author>
+      <pubDate>Sun, 23 Aug 2026 10:45:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>I stabilized never type</title>
+      <link>https://blog.ihatereality.space/0C-never-type/</link>
+      <guid>https://lobste.rs/s/gizvfn</guid>
+      <author>blog.ihatereality.space via ettolrach</author>
+      <pubDate>Tue, 25 Aug 2026 10:11:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/gizvfn/i_stabilized_never_type</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gizvfn/i_stabilized_never_type"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>Bun 1.4</title>
+      <link>https://bun.com/blog/bun-v1.4</link>
+      <guid>https://lobste.rs/s/eesu8d</guid>
+      <author>bun.com via simonw</author>
+      <pubDate>Thu, 20 Aug 2026 09:37:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/eesu8d/bun_1_4</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eesu8d/bun_1_4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>javascript</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Everyone Says Assembly Is Untyped—Everyone Is Wrong</title>
+      <link>https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/</link>
+      <guid>https://lobste.rs/s/wphnca</guid>
+      <author>gingerbill.org via rrampage</author>
+      <pubDate>Thu, 20 Aug 2026 12:22:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wphnca/everyone_says_assembly_is_untyped"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>plt</category>
+    </item>
+    <item>
+      <title>Btrfs Snapshot Integration in KDE</title>
+      <link>https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/</link>
+      <guid>https://lobste.rs/s/umey8v</guid>
+      <author>bharadwajraju.com via gnafuthegreat</author>
+      <pubDate>Fri, 21 Aug 2026 00:14:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>osdev</category>
     </item>
   </channel>
 </rss>
