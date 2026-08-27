@@ -173,6 +173,17 @@
       <category>culture</category>
     </item>
     <item>
+      <title>Haiku R1/beta6 released</title>
+      <link>https://www.haiku-os.org/get-haiku/r1beta6/release-notes/</link>
+      <guid>https://lobste.rs/s/lt9i0j</guid>
+      <author>haiku-os.org via waddlesplash</author>
+      <pubDate>Wed, 26 Aug 2026 11:22:23 -0500</pubDate>
+      <comments>https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>osdev</category>
+    </item>
+    <item>
       <title>Better Batteries</title>
       <link>https://matklad.github.io/2026/08/20/better-batteries.html</link>
       <guid>https://lobste.rs/s/qxvz7f</guid>
@@ -260,26 +271,16 @@
       <category>a11y</category>
     </item>
     <item>
-      <title>Btrfs Snapshot Integration in KDE</title>
-      <link>https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/</link>
-      <guid>https://lobste.rs/s/umey8v</guid>
-      <author>bharadwajraju.com via gnafuthegreat</author>
-      <pubDate>Fri, 21 Aug 2026 00:14:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>osdev</category>
-    </item>
-    <item>
-      <title>Haiku R1/beta6 released</title>
-      <link>https://www.haiku-os.org/get-haiku/r1beta6/release-notes/</link>
-      <guid>https://lobste.rs/s/lt9i0j</guid>
-      <author>haiku-os.org via waddlesplash</author>
-      <pubDate>Wed, 26 Aug 2026 11:22:23 -0500</pubDate>
-      <comments>https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>osdev</category>
+      <title>mold: A Massively Parallel Linker</title>
+      <link>https://arxiv.org/abs/2608.23228</link>
+      <guid>https://lobste.rs/s/e291dc</guid>
+      <author>arxiv.org via rrampage</author>
+      <pubDate>Wed, 26 Aug 2026 00:09:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/e291dc/mold_massively_parallel_linker</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e291dc/mold_massively_parallel_linker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>pdf</category>
+      <category>compilers</category>
+      <category>performance</category>
     </item>
   </channel>
 </rss>
