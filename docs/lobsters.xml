@@ -23,16 +23,6 @@
       <category>person</category>
     </item>
     <item>
-      <title>HTML Can Do That</title>
-      <link>https://chrisburnell.com/html-can-do-that/</link>
-      <guid>https://lobste.rs/s/5gcd3t</guid>
-      <author>chrisburnell.com via abhin4v</author>
-      <pubDate>Wed, 19 Aug 2026 05:55:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/5gcd3t/html_can_do</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5gcd3t/html_can_do"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-    </item>
-    <item>
       <title>Your executable is a SQLite database</title>
       <link>https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database</link>
       <guid>https://lobste.rs/s/8ttu5n</guid>
@@ -55,6 +45,16 @@
       <category>security</category>
     </item>
     <item>
+      <title>I stabilized never type</title>
+      <link>https://blog.ihatereality.space/0C-never-type/</link>
+      <guid>https://lobste.rs/s/gizvfn</guid>
+      <author>blog.ihatereality.space via ettolrach</author>
+      <pubDate>Tue, 25 Aug 2026 10:11:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/gizvfn/i_stabilized_never_type</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gizvfn/i_stabilized_never_type"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
       <title>How a joke domain purchase turned into geopolitical warfare</title>
       <link>https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</link>
       <guid>https://lobste.rs/s/sfi9te</guid>
@@ -63,6 +63,16 @@
       <comments>https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfi9te/how_joke_domain_purchase_turned_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
+    </item>
+    <item>
+      <title>The Move to Python 3 Begins</title>
+      <link>https://www.eveonline.com/news/view/the-move-to-python-3-begins</link>
+      <guid>https://lobste.rs/s/e1oalq</guid>
+      <author>eveonline.com via rmpr</author>
+      <pubDate>Tue, 25 Aug 2026 11:52:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/e1oalq/move_python_3_begins</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e1oalq/move_python_3_begins"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
     </item>
     <item>
       <title>And then the men with guns tell you to do it anyway</title>
@@ -77,14 +87,15 @@
       <category>philosophy</category>
     </item>
     <item>
-      <title>Bun 1.4 Rust rewrite is not looking good</title>
-      <link>https://tipiirai.com/writing/bun-rust-rewrite-worries</link>
-      <guid>https://lobste.rs/s/caubyr</guid>
-      <author>tipiirai.com via robinheghan</author>
-      <pubDate>Wed, 19 Aug 2026 01:20:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/caubyr/bun_1_4_rust_rewrite_is_not_looking_good"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
+      <title>Intent to Ship: JPEG XL</title>
+      <link>https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/</link>
+      <guid>https://lobste.rs/s/26oj2u</guid>
+      <author>hacks.mozilla.org via EvanHahn</author>
+      <pubDate>Mon, 24 Aug 2026 11:25:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>graphics</category>
     </item>
     <item>
       <title>Enabling the next-generation trait solver on nightly</title>
@@ -109,25 +120,15 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>Plain Text Accounting is Pretty Cool</title>
-      <link>https://sumnerevans.com/posts/money/plain-text-accounting/</link>
-      <guid>https://lobste.rs/s/i4lxyt</guid>
-      <author>sumnerevans.com via abnercoimbre</author>
-      <pubDate>Wed, 19 Aug 2026 11:55:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/i4lxyt/plain_text_accounting_is_pretty_cool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>finance</category>
-    </item>
-    <item>
-      <title>Intent to Ship: JPEG XL</title>
-      <link>https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/</link>
-      <guid>https://lobste.rs/s/26oj2u</guid>
-      <author>hacks.mozilla.org via EvanHahn</author>
-      <pubDate>Mon, 24 Aug 2026 11:25:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>graphics</category>
+      <title>Emacs 31.1 released</title>
+      <link>https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html</link>
+      <guid>https://lobste.rs/s/rehaa3</guid>
+      <author>lists.gnu.org via dutchie</author>
+      <pubDate>Mon, 24 Aug 2026 05:52:27 -0500</pubDate>
+      <comments>https://lobste.rs/s/rehaa3/emacs_31_1_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rehaa3/emacs_31_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>emacs</category>
     </item>
     <item>
       <title>You should never be angry at work</title>
@@ -138,17 +139,6 @@
       <comments>https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
-    </item>
-    <item>
-      <title>Emacs 31.1 released</title>
-      <link>https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html</link>
-      <guid>https://lobste.rs/s/rehaa3</guid>
-      <author>lists.gnu.org via dutchie</author>
-      <pubDate>Mon, 24 Aug 2026 05:52:27 -0500</pubDate>
-      <comments>https://lobste.rs/s/rehaa3/emacs_31_1_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rehaa3/emacs_31_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>emacs</category>
     </item>
     <item>
       <title>Supply chain attack on arrayref</title>
@@ -194,17 +184,6 @@
       <category>plt</category>
     </item>
     <item>
-      <title>Go 1.27 is released</title>
-      <link>https://go.dev/blog/go1.27</link>
-      <guid>https://lobste.rs/s/smrw3n</guid>
-      <author>go.dev via binjip978</author>
-      <pubDate>Wed, 19 Aug 2026 12:53:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/smrw3n/go_1_27_is_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/smrw3n/go_1_27_is_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
-      <category>release</category>
-    </item>
-    <item>
       <title>What Zig felt like, coming from Rust</title>
       <link>https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</link>
       <guid>https://lobste.rs/s/oaybfe</guid>
@@ -238,14 +217,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>I stabilized never type</title>
-      <link>https://blog.ihatereality.space/0C-never-type/</link>
-      <guid>https://lobste.rs/s/gizvfn</guid>
-      <author>blog.ihatereality.space via ettolrach</author>
-      <pubDate>Tue, 25 Aug 2026 10:11:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/gizvfn/i_stabilized_never_type</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gizvfn/i_stabilized_never_type"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>MNT Station - A modular, open hardware desktop computer and server</title>
+      <link>https://www.crowdsupply.com/mnt-research/mnt-station</link>
+      <guid>https://lobste.rs/s/jjspxh</guid>
+      <author>crowdsupply.com via hawski</author>
+      <pubDate>Tue, 25 Aug 2026 06:16:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
     <item>
       <title>Bun 1.4</title>
@@ -270,6 +249,17 @@
       <category>plt</category>
     </item>
     <item>
+      <title>Can a blog post be handwritten?</title>
+      <link>https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/</link>
+      <guid>https://lobste.rs/s/wxjtxq</guid>
+      <author>diggingforfire.blog via abnercoimbre</author>
+      <pubDate>Mon, 24 Aug 2026 11:18:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>a11y</category>
+    </item>
+    <item>
       <title>Btrfs Snapshot Integration in KDE</title>
       <link>https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/</link>
       <guid>https://lobste.rs/s/umey8v</guid>
@@ -278,6 +268,17 @@
       <comments>https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/umey8v/btrfs_snapshot_integration_kde"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
+      <category>osdev</category>
+    </item>
+    <item>
+      <title>Haiku R1/beta6 released</title>
+      <link>https://www.haiku-os.org/get-haiku/r1beta6/release-notes/</link>
+      <guid>https://lobste.rs/s/lt9i0j</guid>
+      <author>haiku-os.org via waddlesplash</author>
+      <pubDate>Wed, 26 Aug 2026 11:22:23 -0500</pubDate>
+      <comments>https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
       <category>osdev</category>
     </item>
   </channel>
