@@ -161,18 +161,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Asahi Linux Progress Report: Linux 7.2</title>
-      <link>https://asahilinux.org/2026/08/progress-report-7-2/</link>
-      <guid>https://lobste.rs/s/6qxd8g</guid>
-      <author>asahilinux.org via calvin</author>
-      <pubDate>Wed, 26 Aug 2026 18:34:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>reversing</category>
-      <category>mac</category>
-    </item>
-    <item>
       <title>Nitter, XCancel Shutdown Over Cease-And-Desist</title>
       <link>https://github.com/zedeus/nitter</link>
       <guid>https://lobste.rs/s/zfhall</guid>
@@ -188,6 +176,28 @@
       <category>culture</category>
     </item>
     <item>
+      <title>Asahi Linux Progress Report: Linux 7.2</title>
+      <link>https://asahilinux.org/2026/08/progress-report-7-2/</link>
+      <guid>https://lobste.rs/s/6qxd8g</guid>
+      <author>asahilinux.org via calvin</author>
+      <pubDate>Wed, 26 Aug 2026 18:34:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>reversing</category>
+      <category>mac</category>
+    </item>
+    <item>
+      <title>Please stop flooding our projects with AI slop to furnish your CV</title>
+      <link>https://neilalexander.dev/2026/06/30/flooding-contributions.html</link>
+      <guid>https://lobste.rs/s/rzvdqo</guid>
+      <author>neilalexander.dev via lr0</author>
+      <pubDate>Thu, 27 Aug 2026 06:36:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>The Root of The Root of All Evil</title>
       <link>https://www.youtube.com/watch?v=hpj6r6CjJf8</link>
       <guid>https://lobste.rs/s/p8exgy</guid>
@@ -199,16 +209,6 @@
       <category>programming</category>
       <category>historical</category>
       <category>retrocomputing</category>
-    </item>
-    <item>
-      <title>Please stop flooding our projects with AI slop to furnish your CV</title>
-      <link>https://neilalexander.dev/2026/06/30/flooding-contributions.html</link>
-      <guid>https://lobste.rs/s/rzvdqo</guid>
-      <author>neilalexander.dev via lr0</author>
-      <pubDate>Thu, 27 Aug 2026 06:36:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>Now Hiring: Senior Open Source Maintainer</title>
@@ -233,16 +233,6 @@
       <category>performance</category>
     </item>
     <item>
-      <title>Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it</title>
-      <link>https://ericpardee.github.io/fire-hd-ownership/</link>
-      <guid>https://lobste.rs/s/fadbev</guid>
-      <author>ericpardee.github.io via Yogthos</author>
-      <pubDate>Sun, 23 Aug 2026 10:45:01 -0500</pubDate>
-      <comments>https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Can a blog post be handwritten?</title>
       <link>https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/</link>
       <guid>https://lobste.rs/s/wxjtxq</guid>
@@ -252,6 +242,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
       <category>a11y</category>
+    </item>
+    <item>
+      <title>Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it</title>
+      <link>https://ericpardee.github.io/fire-hd-ownership/</link>
+      <guid>https://lobste.rs/s/fadbev</guid>
+      <author>ericpardee.github.io via Yogthos</author>
+      <pubDate>Sun, 23 Aug 2026 10:45:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>MNT Station - A modular, open hardware desktop computer and server</title>
@@ -264,19 +264,6 @@
       <category>hardware</category>
     </item>
     <item>
-      <title>Hister - A private, full content search index that you control</title>
-      <link>https://hister.org/</link>
-      <guid>https://lobste.rs/s/dyxeyu</guid>
-      <author>hister.org via Kratacoa</author>
-      <pubDate>Sun, 23 Aug 2026 07:28:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/dyxeyu/hister_private_full_content_search_index</comments>
-      <description>&lt;p&gt;I've seen the author &lt;a href="https://lobste.rs/~asciimoo" rel="ugc"&gt;@asciimoo&lt;/a&gt; reply in the comments here recently, yet the project has never had a dedicated submission.&lt;br&gt;
-Taking inspiration from the orange cousin, here it is .&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/dyxeyu/hister_private_full_content_search_index"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>web</category>
-    </item>
-    <item>
       <title>C2PA Cameras Do Not Survive Contact With Reality</title>
       <link>https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</link>
       <guid>https://lobste.rs/s/4netv1</guid>
@@ -287,6 +274,16 @@ Taking inspiration from the orange cousin, here it is .&lt;/p&gt;
       <category>security</category>
       <category>android</category>
       <category>cryptography</category>
+    </item>
+    <item>
+      <title>Adding CPU affinity in a 24-core build machine made builds take longer</title>
+      <link>https://infosec.exchange/@david_chisnall/117156204452541109</link>
+      <guid>https://lobste.rs/s/ozkoqo</guid>
+      <author>infosec.exchange via val</author>
+      <pubDate>Tue, 25 Aug 2026 08:29:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
   </channel>
 </rss>
