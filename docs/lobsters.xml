@@ -35,14 +35,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>I accidentally logged hundreds of thousands of phone calls to military bases</title>
-      <link>https://lina.sh/blog/hijacking-e164-arpa</link>
-      <guid>https://lobste.rs/s/dyswyz</guid>
-      <author>lina.sh via taavi</author>
-      <pubDate>Fri, 21 Aug 2026 07:05:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>Changes to SourceHut's terms of service regarding LLMs</title>
+      <link>https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/</link>
+      <guid>https://lobste.rs/s/iqgrsx</guid>
+      <author>sourcehut.org via seb</author>
+      <pubDate>Thu, 27 Aug 2026 03:37:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>I stabilized never type</title>
@@ -53,16 +53,6 @@
       <comments>https://lobste.rs/s/gizvfn/i_stabilized_never_type</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gizvfn/i_stabilized_never_type"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
-    </item>
-    <item>
-      <title>Changes to SourceHut's terms of service regarding LLMs</title>
-      <link>https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/</link>
-      <guid>https://lobste.rs/s/iqgrsx</guid>
-      <author>sourcehut.org via seb</author>
-      <pubDate>Thu, 27 Aug 2026 03:37:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>The Move to Python 3 Begins</title>
@@ -109,28 +99,6 @@
       <category>graphics</category>
     </item>
     <item>
-      <title>Japan tried to build an operating system for the entire world, then the US government intervened</title>
-      <link>https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</link>
-      <guid>https://lobste.rs/s/mfo0fd</guid>
-      <author>xda-developers.com via lproven</author>
-      <pubDate>Fri, 21 Aug 2026 07:47:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>historical</category>
-      <category>osdev</category>
-      <category>retrocomputing</category>
-    </item>
-    <item>
-      <title>Enabling the next-generation trait solver on nightly</title>
-      <link>https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/</link>
-      <guid>https://lobste.rs/s/3giezs</guid>
-      <author>blog.rust-lang.org by jana</author>
-      <pubDate>Fri, 21 Aug 2026 10:15:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-    </item>
-    <item>
       <title>Merchants of Insecurity</title>
       <link>https://blog.happyfellow.dev/merchants-of-insecurity/</link>
       <guid>https://lobste.rs/s/eove8s</guid>
@@ -162,6 +130,16 @@
       <category>practices</category>
     </item>
     <item>
+      <title>Announcing our first Maintainers in Residence</title>
+      <link>https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/</link>
+      <guid>https://lobste.rs/s/oshbjt</guid>
+      <author>blog.rust-lang.org via jamesw</author>
+      <pubDate>Thu, 27 Aug 2026 03:44:13 -0500</pubDate>
+      <comments>https://lobste.rs/s/oshbjt/announcing_our_first_maintainers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oshbjt/announcing_our_first_maintainers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
       <title>An Introduction to Canvas in GNU Emacs</title>
       <link>https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html</link>
       <guid>https://lobste.rs/s/9xglf3</guid>
@@ -173,16 +151,6 @@
       <category>graphics</category>
     </item>
     <item>
-      <title>Announcing our first Maintainers in Residence</title>
-      <link>https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/</link>
-      <guid>https://lobste.rs/s/oshbjt</guid>
-      <author>blog.rust-lang.org via jamesw</author>
-      <pubDate>Thu, 27 Aug 2026 03:44:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/oshbjt/announcing_our_first_maintainers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oshbjt/announcing_our_first_maintainers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-    </item>
-    <item>
       <title>Replicating Reddit's best feature on other forums</title>
       <link>https://xavd.id/blog/post/highlighting-users/</link>
       <guid>https://lobste.rs/s/ll6pak</guid>
@@ -190,6 +158,33 @@
       <pubDate>Sun, 23 Aug 2026 14:23:51 -0500</pubDate>
       <comments>https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Asahi Linux Progress Report: Linux 7.2</title>
+      <link>https://asahilinux.org/2026/08/progress-report-7-2/</link>
+      <guid>https://lobste.rs/s/6qxd8g</guid>
+      <author>asahilinux.org via calvin</author>
+      <pubDate>Wed, 26 Aug 2026 18:34:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>reversing</category>
+      <category>mac</category>
+    </item>
+    <item>
+      <title>Nitter, XCancel Shutdown Over Cease-And-Desist</title>
+      <link>https://github.com/zedeus/nitter</link>
+      <guid>https://lobste.rs/s/zfhall</guid>
+      <author>github.com via crunxxi</author>
+      <pubDate>Thu, 27 Aug 2026 23:41:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease</comments>
+      <description>&lt;p&gt;Nitter is an alternative front-end for X. XCancel is/was a redirect service.&lt;/p&gt;
+&lt;p&gt;Please let me know if I need to change tags, URLs, or update the description.&lt;/p&gt;
+&lt;p&gt;EDIT: adding 'privacy' tag&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>web</category>
       <category>culture</category>
     </item>
     <item>
@@ -206,15 +201,24 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>Better Batteries</title>
-      <link>https://matklad.github.io/2026/08/20/better-batteries.html</link>
-      <guid>https://lobste.rs/s/qxvz7f</guid>
-      <author>matklad.github.io via olex</author>
-      <pubDate>Fri, 21 Aug 2026 02:47:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/qxvz7f/better_batteries</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qxvz7f/better_batteries"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>plt</category>
+      <title>Please stop flooding our projects with AI slop to furnish your CV</title>
+      <link>https://neilalexander.dev/2026/06/30/flooding-contributions.html</link>
+      <guid>https://lobste.rs/s/rzvdqo</guid>
+      <author>neilalexander.dev via lr0</author>
+      <pubDate>Thu, 27 Aug 2026 06:36:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Now Hiring: Senior Open Source Maintainer</title>
+      <link>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</link>
+      <guid>https://lobste.rs/s/p6kxjh</guid>
+      <author>nesbitt.io via freddyb</author>
+      <pubDate>Fri, 28 Aug 2026 06:57:23 -0500</pubDate>
+      <comments>https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
     </item>
     <item>
       <title>mold: A Massively Parallel Linker</title>
@@ -260,18 +264,6 @@
       <category>hardware</category>
     </item>
     <item>
-      <title>Asahi Linux Progress Report: Linux 7.2</title>
-      <link>https://asahilinux.org/2026/08/progress-report-7-2/</link>
-      <guid>https://lobste.rs/s/6qxd8g</guid>
-      <author>asahilinux.org via calvin</author>
-      <pubDate>Wed, 26 Aug 2026 18:34:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>reversing</category>
-      <category>mac</category>
-    </item>
-    <item>
       <title>Hister - A private, full content search index that you control</title>
       <link>https://hister.org/</link>
       <guid>https://lobste.rs/s/dyxeyu</guid>
@@ -283,6 +275,18 @@ Taking inspiration from the orange cousin, here it is .&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://lobste.rs/s/dyxeyu/hister_private_full_content_search_index"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
       <category>web</category>
+    </item>
+    <item>
+      <title>C2PA Cameras Do Not Survive Contact With Reality</title>
+      <link>https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</link>
+      <guid>https://lobste.rs/s/4netv1</guid>
+      <author>da.vidbuchanan.co.uk by retr0id</author>
+      <pubDate>Tue, 25 Aug 2026 10:51:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>android</category>
+      <category>cryptography</category>
     </item>
   </channel>
 </rss>
