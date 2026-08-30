@@ -88,6 +88,16 @@
       <category>osdev</category>
     </item>
     <item>
+      <title>Being kicked out of the tech industry</title>
+      <link>https://www.jacky.wtf/essays/2026/kicked-out/</link>
+      <guid>https://lobste.rs/s/mroowi</guid>
+      <author>jacky.wtf by jalcine</author>
+      <pubDate>Sat, 29 Aug 2026 03:24:22 -0500</pubDate>
+      <comments>https://lobste.rs/s/mroowi/being_kicked_out_tech_industry</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mroowi/being_kicked_out_tech_industry"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+    </item>
+    <item>
       <title>Intent to Ship: JPEG XL</title>
       <link>https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/</link>
       <guid>https://lobste.rs/s/26oj2u</guid>
@@ -109,6 +119,16 @@
       <category>security</category>
     </item>
     <item>
+      <title>Now Hiring: Senior Open Source Maintainer</title>
+      <link>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</link>
+      <guid>https://lobste.rs/s/p6kxjh</guid>
+      <author>nesbitt.io via freddyb</author>
+      <pubDate>Fri, 28 Aug 2026 06:57:23 -0500</pubDate>
+      <comments>https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
+    </item>
+    <item>
       <title>Emacs 31.1 released</title>
       <link>https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html</link>
       <guid>https://lobste.rs/s/rehaa3</guid>
@@ -120,16 +140,6 @@
       <category>emacs</category>
     </item>
     <item>
-      <title>You should never be angry at work</title>
-      <link>https://www.seangoedecke.com/you-should-never-be-angry-at-work/</link>
-      <guid>https://lobste.rs/s/mbmn1f</guid>
-      <author>seangoedecke.com via MooreMachine</author>
-      <pubDate>Sat, 22 Aug 2026 07:41:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-    </item>
-    <item>
       <title>Announcing our first Maintainers in Residence</title>
       <link>https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/</link>
       <guid>https://lobste.rs/s/oshbjt</guid>
@@ -138,6 +148,21 @@
       <comments>https://lobste.rs/s/oshbjt/announcing_our_first_maintainers</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oshbjt/announcing_our_first_maintainers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
+    </item>
+    <item>
+      <title>Nitter, XCancel Shutdown Over Cease-And-Desist</title>
+      <link>https://github.com/zedeus/nitter</link>
+      <guid>https://lobste.rs/s/zfhall</guid>
+      <author>github.com via crunxxi</author>
+      <pubDate>Thu, 27 Aug 2026 23:41:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease</comments>
+      <description>&lt;p&gt;Nitter is an alternative front-end for X. XCancel is/was a redirect service.&lt;/p&gt;
+&lt;p&gt;Please let me know if I need to change tags, URLs, or update the description.&lt;/p&gt;
+&lt;p&gt;EDIT: adding 'privacy' tag&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>web</category>
+      <category>culture</category>
     </item>
     <item>
       <title>An Introduction to Canvas in GNU Emacs</title>
@@ -158,21 +183,6 @@
       <pubDate>Sun, 23 Aug 2026 14:23:51 -0500</pubDate>
       <comments>https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ll6pak/replicating_reddit_s_best_feature_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>Nitter, XCancel Shutdown Over Cease-And-Desist</title>
-      <link>https://github.com/zedeus/nitter</link>
-      <guid>https://lobste.rs/s/zfhall</guid>
-      <author>github.com via crunxxi</author>
-      <pubDate>Thu, 27 Aug 2026 23:41:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease</comments>
-      <description>&lt;p&gt;Nitter is an alternative front-end for X. XCancel is/was a redirect service.&lt;/p&gt;
-&lt;p&gt;Please let me know if I need to change tags, URLs, or update the description.&lt;/p&gt;
-&lt;p&gt;EDIT: adding 'privacy' tag&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>web</category>
       <category>culture</category>
     </item>
     <item>
@@ -211,16 +221,6 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>Now Hiring: Senior Open Source Maintainer</title>
-      <link>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</link>
-      <guid>https://lobste.rs/s/p6kxjh</guid>
-      <author>nesbitt.io via freddyb</author>
-      <pubDate>Fri, 28 Aug 2026 06:57:23 -0500</pubDate>
-      <comments>https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-    </item>
-    <item>
       <title>mold: A Massively Parallel Linker</title>
       <link>https://arxiv.org/abs/2608.23228</link>
       <guid>https://lobste.rs/s/e291dc</guid>
@@ -231,6 +231,28 @@
       <category>pdf</category>
       <category>compilers</category>
       <category>performance</category>
+    </item>
+    <item>
+      <title>htmx 4.0.0 has been released</title>
+      <link>https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</link>
+      <guid>https://lobste.rs/s/77uge9</guid>
+      <author>four.htmx.org via rcalixte</author>
+      <pubDate>Fri, 28 Aug 2026 11:14:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>web</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>OpenOffice does not print on Tuesdays (2009)</title>
+      <link>https://beza1e1.tuxen.de/lore/print_on_tuesday.html</link>
+      <guid>https://lobste.rs/s/im3eeh</guid>
+      <author>beza1e1.tuxen.de via juliethefoxcoon</author>
+      <pubDate>Fri, 28 Aug 2026 07:06:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
     </item>
     <item>
       <title>Can a blog post be handwritten?</title>
@@ -261,28 +283,6 @@
       <pubDate>Tue, 25 Aug 2026 06:16:01 -0500</pubDate>
       <comments>https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-    </item>
-    <item>
-      <title>C2PA Cameras Do Not Survive Contact With Reality</title>
-      <link>https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</link>
-      <guid>https://lobste.rs/s/4netv1</guid>
-      <author>da.vidbuchanan.co.uk by retr0id</author>
-      <pubDate>Tue, 25 Aug 2026 10:51:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4netv1/c2pa_cameras_do_not_survive_contact_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>android</category>
-      <category>cryptography</category>
-    </item>
-    <item>
-      <title>Adding CPU affinity in a 24-core build machine made builds take longer</title>
-      <link>https://infosec.exchange/@david_chisnall/117156204452541109</link>
-      <guid>https://lobste.rs/s/ozkoqo</guid>
-      <author>infosec.exchange via val</author>
-      <pubDate>Tue, 25 Aug 2026 08:29:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
     </item>
   </channel>
