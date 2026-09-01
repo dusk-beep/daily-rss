@@ -5,35 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Mon, 24 Aug 2026 11:04:45 -0500</pubDate>
+    <pubDate>Thu, 27 Aug 2026 03:37:19 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>I cannot survive from burnout</title>
-      <link>https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout</link>
-      <guid>https://lobste.rs/s/0typpq</guid>
-      <author> by delirehberi</author>
-      <pubDate>Mon, 24 Aug 2026 11:04:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout</comments>
-      <description>&lt;p&gt;I burned out two years ago, went through a divorce, and relocated to a new city. I live alone now and care for seven cats.&lt;/p&gt;
-&lt;p&gt;Over the last two years, I’ve tried forcing discipline, making detailed plans, and restarting over and over. Despite this, I’m still carrying significant debt.&lt;/p&gt;
-&lt;p&gt;My main struggle is staying focused on paid work. I’m constantly building and working on my own side projects, but I struggle to put time into client work. Because of my experience, finding clients isn't hard, but I tend to lose them after a few months due to low throughput. I deliver high-quality code and solve their core problems, but I can only bring myself to work on client tasks for about 5–6 hours a week.&lt;/p&gt;
-&lt;p&gt;I’m struggling to survive day-to-day and losing hope that this will change, though some days are good and I can get solid work done. I’ve tried all the standard advice for burnout with little success. At this point, I wonder if burnout has become a habit, an excuse, or a form of self-sabotage.&lt;/p&gt;
-&lt;p&gt;I’m posting here to see if anyone who has experienced something similar found a practical way out or a working routine that stuck.&lt;/p&gt;
-</description>
-      <category>person</category>
-    </item>
-    <item>
-      <title>Your executable is a SQLite database</title>
-      <link>https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database</link>
-      <guid>https://lobste.rs/s/8ttu5n</guid>
-      <author>fzakaria.com via jummo</author>
-      <pubDate>Mon, 24 Aug 2026 02:32:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8ttu5n/your_executable_is_sqlite_database"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>databases</category>
-      <category>vibecoding</category>
-    </item>
     <item>
       <title>Changes to SourceHut's terms of service regarding LLMs</title>
       <link>https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/</link>
@@ -75,6 +48,17 @@
       <category>python</category>
     </item>
     <item>
+      <title>Creepy crawlies</title>
+      <link>https://people.kernel.org/monsieuricon/creepy-crawlies</link>
+      <guid>https://lobste.rs/s/nbjo0i</guid>
+      <author>people.kernel.org via gmem</author>
+      <pubDate>Sat, 29 Aug 2026 11:25:31 -0500</pubDate>
+      <comments>https://lobste.rs/s/nbjo0i/creepy_crawlies</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbjo0i/creepy_crawlies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>devops</category>
+    </item>
+    <item>
       <title>Haiku R1/beta6 released</title>
       <link>https://www.haiku-os.org/get-haiku/r1beta6/release-notes/</link>
       <guid>https://lobste.rs/s/lt9i0j</guid>
@@ -86,26 +70,15 @@
       <category>osdev</category>
     </item>
     <item>
-      <title>Intent to Ship: JPEG XL</title>
-      <link>https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/</link>
-      <guid>https://lobste.rs/s/26oj2u</guid>
-      <author>hacks.mozilla.org via EvanHahn</author>
-      <pubDate>Mon, 24 Aug 2026 11:25:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/26oj2u/intent_ship_jpeg_xl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>graphics</category>
-    </item>
-    <item>
-      <title>Creepy crawlies</title>
-      <link>https://people.kernel.org/monsieuricon/creepy-crawlies</link>
-      <guid>https://lobste.rs/s/nbjo0i</guid>
-      <author>people.kernel.org via gmem</author>
-      <pubDate>Sat, 29 Aug 2026 11:25:31 -0500</pubDate>
-      <comments>https://lobste.rs/s/nbjo0i/creepy_crawlies</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbjo0i/creepy_crawlies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>devops</category>
+      <title>There's no such thing as Just a Tool</title>
+      <link>https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool</link>
+      <guid>https://lobste.rs/s/9y9jo6</guid>
+      <author>deadsimpletech.com via kirch</author>
+      <pubDate>Sat, 29 Aug 2026 22:59:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>philosophy</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Now Hiring: Senior Open Source Maintainer</title>
@@ -118,6 +91,16 @@
       <category>satire</category>
     </item>
     <item>
+      <title>Omarchy: Any User Process Can Escalate to Root</title>
+      <link>https://0xcc.io/posts/omarchy-root-creds/</link>
+      <guid>https://lobste.rs/s/bxihn3</guid>
+      <author>0xcc.io via ucirello</author>
+      <pubDate>Sun, 30 Aug 2026 13:11:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>Merchants of Insecurity</title>
       <link>https://blog.happyfellow.dev/merchants-of-insecurity/</link>
       <guid>https://lobste.rs/s/eove8s</guid>
@@ -126,28 +109,6 @@
       <comments>https://lobste.rs/s/eove8s/merchants_insecurity</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eove8s/merchants_insecurity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-    </item>
-    <item>
-      <title>Emacs 31.1 released</title>
-      <link>https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html</link>
-      <guid>https://lobste.rs/s/rehaa3</guid>
-      <author>lists.gnu.org via dutchie</author>
-      <pubDate>Mon, 24 Aug 2026 05:52:27 -0500</pubDate>
-      <comments>https://lobste.rs/s/rehaa3/emacs_31_1_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rehaa3/emacs_31_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>emacs</category>
-    </item>
-    <item>
-      <title>There's no such thing as Just a Tool</title>
-      <link>https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool</link>
-      <guid>https://lobste.rs/s/9y9jo6</guid>
-      <author>deadsimpletech.com via kirch</author>
-      <pubDate>Sat, 29 Aug 2026 22:59:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>philosophy</category>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>Announcing our first Maintainers in Residence</title>
@@ -222,6 +183,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>OpenOffice does not print on Tuesdays (2009)</title>
+      <link>https://beza1e1.tuxen.de/lore/print_on_tuesday.html</link>
+      <guid>https://lobste.rs/s/im3eeh</guid>
+      <author>beza1e1.tuxen.de via juliethefoxcoon</author>
+      <pubDate>Fri, 28 Aug 2026 07:06:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+    </item>
+    <item>
       <title>mold: A Massively Parallel Linker</title>
       <link>https://arxiv.org/abs/2608.23228</link>
       <guid>https://lobste.rs/s/e291dc</guid>
@@ -234,35 +205,32 @@
       <category>performance</category>
     </item>
     <item>
-      <title>OpenOffice does not print on Tuesdays (2009)</title>
-      <link>https://beza1e1.tuxen.de/lore/print_on_tuesday.html</link>
-      <guid>https://lobste.rs/s/im3eeh</guid>
-      <author>beza1e1.tuxen.de via juliethefoxcoon</author>
-      <pubDate>Fri, 28 Aug 2026 07:06:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
+      <title>Gram Editor 3.3.0 Released</title>
+      <link>https://gram-editor.com/posts/release-3.3.0/</link>
+      <guid>https://lobste.rs/s/rr2irk</guid>
+      <author>gram-editor.com via patchunwrap</author>
+      <pubDate>Sun, 30 Aug 2026 03:50:36 -0500</pubDate>
+      <comments>https://lobste.rs/s/rr2irk/gram_editor_3_3_0_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rr2irk/gram_editor_3_3_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>rust</category>
+      <category>editors</category>
     </item>
     <item>
-      <title>Can a blog post be handwritten?</title>
-      <link>https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/</link>
-      <guid>https://lobste.rs/s/wxjtxq</guid>
-      <author>diggingforfire.blog via abnercoimbre</author>
-      <pubDate>Mon, 24 Aug 2026 11:18:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wxjtxq/can_blog_post_be_handwritten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>a11y</category>
-    </item>
-    <item>
-      <title>MNT Station - A modular, open hardware desktop computer and server</title>
-      <link>https://www.crowdsupply.com/mnt-research/mnt-station</link>
-      <guid>https://lobste.rs/s/jjspxh</guid>
-      <author>crowdsupply.com via hawski</author>
-      <pubDate>Tue, 25 Aug 2026 06:16:01 -0500</pubDate>
-      <comments>https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
+      <title>I attended a conference recently and AI use by academics was absurd</title>
+      <link>https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by</link>
+      <guid>https://lobste.rs/s/qn7jtv</guid>
+      <author> by oceanhaiyang</author>
+      <pubDate>Mon, 31 Aug 2026 10:22:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by</comments>
+      <description>&lt;p&gt;As we listened to talks most people were stuck doing pointless tasks on their phones and computers. Less than 10%, likely 5%, were listening attentively. This was quite sad for me.&lt;/p&gt;
+&lt;p&gt;The thing I would like to share the most, that shocked me more than any AI use I've seen ever—when I was on stage receiving QA post talk among the fellow panelists, everyone but me used AI on their laptops to record their questions and then come up with a response they could use. IDK about others, but I spent a lot of time on my talk and slideshow. The professor who served as the respondent listened for two hours taking a ton of notes then formed thoughtful questions. I cannot believe the laziness and disrespect to the professor's intellect for all the other panelists to rely on AI for their response.&lt;/p&gt;
+&lt;p&gt;For me, the seduction of AI to do boring tasks such as translation, CV writing, and job applications, and editing papers is forever there but I choose to believe these tasks benefit me as someone trying to be a so-called intellectual. To see everyone around me choose to not think for themselves, when we presenters should be the most knowledgeable in the room about our topics, shocked me beyond anything I've seen in academic.&lt;/p&gt;
+&lt;p&gt;I am constantly considering the use of AI in the classroom and research and thought this reflection/rant would be relevant here.&lt;/p&gt;
+&lt;p&gt;I'm curious if my fellow Lobsters have seen similar uses of AI or what their opinions are.&lt;/p&gt;
+</description>
+      <category>rant</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Yap: a particular kind of slop</title>
@@ -276,6 +244,26 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>MNT Station - A modular, open hardware desktop computer and server</title>
+      <link>https://www.crowdsupply.com/mnt-research/mnt-station</link>
+      <guid>https://lobste.rs/s/jjspxh</guid>
+      <author>crowdsupply.com via hawski</author>
+      <pubDate>Tue, 25 Aug 2026 06:16:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jjspxh/mnt_station_modular_open_hardware"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+    </item>
+    <item>
+      <title>curl: a CVE dispute</title>
+      <link>https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/</link>
+      <guid>https://lobste.rs/s/1pdfex</guid>
+      <author>daniel.haxx.se via eugeny</author>
+      <pubDate>Mon, 31 Aug 2026 05:38:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/1pdfex/curl_cve_dispute</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1pdfex/curl_cve_dispute"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>C2PA Cameras Do Not Survive Contact With Reality</title>
       <link>https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</link>
       <guid>https://lobste.rs/s/4netv1</guid>
@@ -286,6 +274,16 @@
       <category>security</category>
       <category>android</category>
       <category>cryptography</category>
+    </item>
+    <item>
+      <title>Adding CPU affinity in a 24-core build machine made builds take longer</title>
+      <link>https://infosec.exchange/@david_chisnall/117156204452541109</link>
+      <guid>https://lobste.rs/s/ozkoqo</guid>
+      <author>infosec.exchange via val</author>
+      <pubDate>Tue, 25 Aug 2026 08:29:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ozkoqo/adding_cpu_affinity_24_core_build_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
   </channel>
 </rss>
