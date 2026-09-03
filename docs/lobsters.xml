@@ -5,8 +5,18 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Thu, 27 Aug 2026 03:37:19 -0500</pubDate>
+    <pubDate>Wed, 02 Sep 2026 01:31:38 -0500</pubDate>
     <ttl>120</ttl>
+    <item>
+      <title>Normalized Fascism in Open Source: $12 Million Given to DHH</title>
+      <link>https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/</link>
+      <guid>https://lobste.rs/s/ipy9xw</guid>
+      <author>brennan.day via diktomat</author>
+      <pubDate>Wed, 02 Sep 2026 01:31:38 -0500</pubDate>
+      <comments>https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
     <item>
       <title>Changes to SourceHut's terms of service regarding LLMs</title>
       <link>https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/</link>
@@ -21,7 +31,7 @@
       <title>Being kicked out of the tech industry</title>
       <link>https://www.jacky.wtf/essays/2026/kicked-out/</link>
       <guid>https://lobste.rs/s/mroowi</guid>
-      <author>jacky.wtf by jalcine</author>
+      <author>jacky.wtf by jacky</author>
       <pubDate>Sat, 29 Aug 2026 03:24:22 -0500</pubDate>
       <comments>https://lobste.rs/s/mroowi/being_kicked_out_tech_industry</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mroowi/being_kicked_out_tech_industry"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -55,17 +65,6 @@
       <category>devops</category>
     </item>
     <item>
-      <title>Haiku R1/beta6 released</title>
-      <link>https://www.haiku-os.org/get-haiku/r1beta6/release-notes/</link>
-      <guid>https://lobste.rs/s/lt9i0j</guid>
-      <author>haiku-os.org via waddlesplash</author>
-      <pubDate>Wed, 26 Aug 2026 11:22:23 -0500</pubDate>
-      <comments>https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>osdev</category>
-    </item>
-    <item>
       <title>There's no such thing as Just a Tool</title>
       <link>https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool</link>
       <guid>https://lobste.rs/s/9y9jo6</guid>
@@ -97,13 +96,13 @@
       <category>satire</category>
     </item>
     <item>
-      <title>Merchants of Insecurity</title>
-      <link>https://blog.happyfellow.dev/merchants-of-insecurity/</link>
-      <guid>https://lobste.rs/s/eove8s</guid>
-      <author>blog.happyfellow.dev via chrisl</author>
-      <pubDate>Wed, 26 Aug 2026 09:30:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/eove8s/merchants_insecurity</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eove8s/merchants_insecurity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>curl: a CVE dispute</title>
+      <link>https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/</link>
+      <guid>https://lobste.rs/s/1pdfex</guid>
+      <author>daniel.haxx.se via eugeny</author>
+      <pubDate>Mon, 31 Aug 2026 05:38:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/1pdfex/curl_cve_dispute</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1pdfex/curl_cve_dispute"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
     </item>
     <item>
@@ -115,16 +114,6 @@
       <comments>https://lobste.rs/s/oshbjt/announcing_our_first_maintainers</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oshbjt/announcing_our_first_maintainers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
-    </item>
-    <item>
-      <title>curl: a CVE dispute</title>
-      <link>https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/</link>
-      <guid>https://lobste.rs/s/1pdfex</guid>
-      <author>daniel.haxx.se via eugeny</author>
-      <pubDate>Mon, 31 Aug 2026 05:38:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/1pdfex/curl_cve_dispute</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1pdfex/curl_cve_dispute"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>Nitter, XCancel Shutdown Over Cease-And-Desist</title>
@@ -142,28 +131,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Please stop flooding our projects with AI slop to furnish your CV</title>
-      <link>https://neilalexander.dev/2026/06/30/flooding-contributions.html</link>
-      <guid>https://lobste.rs/s/rzvdqo</guid>
-      <author>neilalexander.dev via lr0</author>
-      <pubDate>Thu, 27 Aug 2026 06:36:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Asahi Linux Progress Report: Linux 7.2</title>
-      <link>https://asahilinux.org/2026/08/progress-report-7-2/</link>
-      <guid>https://lobste.rs/s/6qxd8g</guid>
-      <author>asahilinux.org via calvin</author>
-      <pubDate>Wed, 26 Aug 2026 18:34:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>reversing</category>
-      <category>mac</category>
-    </item>
-    <item>
       <title>July in Servo: more platforms, faster canvas, web fonts in SVG, and more</title>
       <link>https://servo.org/blog/2026/08/31/july-in-servo/</link>
       <guid>https://lobste.rs/s/8gved6</guid>
@@ -174,17 +141,25 @@
       <category>browsers</category>
     </item>
     <item>
-      <title>The Root of The Root of All Evil</title>
-      <link>https://www.youtube.com/watch?v=hpj6r6CjJf8</link>
-      <guid>https://lobste.rs/s/p8exgy</guid>
-      <author>youtube.com via gingerBill</author>
-      <pubDate>Wed, 26 Aug 2026 02:55:34 -0500</pubDate>
-      <comments>https://lobste.rs/s/p8exgy/root_root_all_evil</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p8exgy/root_root_all_evil"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>video</category>
-      <category>programming</category>
-      <category>historical</category>
-      <category>retrocomputing</category>
+      <title>Fine, I’ll build my own text editor</title>
+      <link>https://dbushell.com/2026/09/01/text-editor/</link>
+      <guid>https://lobste.rs/s/1malyo</guid>
+      <author>dbushell.com via FedericoSchonborn</author>
+      <pubDate>Tue, 01 Sep 2026 06:18:22 -0500</pubDate>
+      <comments>https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>editors</category>
+    </item>
+    <item>
+      <title>Please stop flooding our projects with AI slop to furnish your CV</title>
+      <link>https://neilalexander.dev/2026/06/30/flooding-contributions.html</link>
+      <guid>https://lobste.rs/s/rzvdqo</guid>
+      <author>neilalexander.dev via lr0</author>
+      <pubDate>Thu, 27 Aug 2026 06:36:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>htmx 4.0.0 has been released</title>
@@ -209,16 +184,15 @@
       <category>linux</category>
     </item>
     <item>
-      <title>mold: A Massively Parallel Linker</title>
-      <link>https://arxiv.org/abs/2608.23228</link>
-      <guid>https://lobste.rs/s/e291dc</guid>
-      <author>arxiv.org via rrampage</author>
-      <pubDate>Wed, 26 Aug 2026 00:09:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/e291dc/mold_massively_parallel_linker</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e291dc/mold_massively_parallel_linker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>pdf</category>
-      <category>compilers</category>
-      <category>performance</category>
+      <title>"iT woRKs BeTter in THe aPp!!"</title>
+      <link>https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</link>
+      <guid>https://lobste.rs/s/fjpexo</guid>
+      <author>shkspr.mobi via abnercoimbre</author>
+      <pubDate>Tue, 01 Sep 2026 10:33:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/fjpexo/it_works_better_app</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fjpexo/it_works_better_app"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>mobile</category>
+      <category>rant</category>
     </item>
     <item>
       <title>Gram Editor 3.3.0 Released</title>
@@ -255,6 +229,17 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Janet 1.42.0</title>
+      <link>https://github.com/janet-lang/janet/releases/tag/v1.42.0</link>
+      <guid>https://lobste.rs/s/jbgnwk</guid>
+      <author>github.com via veqq</author>
+      <pubDate>Mon, 31 Aug 2026 19:05:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/jbgnwk/janet_1_42_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jbgnwk/janet_1_42_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lisp</category>
+      <category>release</category>
+    </item>
+    <item>
       <title>EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality</title>
       <link>https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/</link>
       <guid>https://lobste.rs/s/zhnpv1</guid>
@@ -276,15 +261,24 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Fine, I’ll build my own text editor</title>
-      <link>https://dbushell.com/2026/09/01/text-editor/</link>
-      <guid>https://lobste.rs/s/1malyo</guid>
-      <author>dbushell.com via FedericoSchonborn</author>
-      <pubDate>Tue, 01 Sep 2026 06:18:22 -0500</pubDate>
-      <comments>https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>editors</category>
+      <title>The Server Called Paranoia: Defend Autistici/Inventati Before September 25</title>
+      <link>https://cavallette.noblogs.org/2026/08/10083/2</link>
+      <guid>https://lobste.rs/s/gscm11</guid>
+      <author>cavallette.noblogs.org via dustyweb</author>
+      <pubDate>Thu, 27 Aug 2026 10:20:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/gscm11/server_called_paranoia_defend_autistici</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gscm11/server_called_paranoia_defend_autistici"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>But where does taste come from?</title>
+      <link>https://dustycloud.org/blog/but-where-does-taste-come-from/</link>
+      <guid>https://lobste.rs/s/9naffr</guid>
+      <author>dustycloud.org by dustyweb</author>
+      <pubDate>Sun, 30 Aug 2026 08:27:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/9naffr/where_does_taste_come_from</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9naffr/where_does_taste_come_from"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
