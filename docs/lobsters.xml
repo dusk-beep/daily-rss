@@ -18,14 +18,14 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Changes to SourceHut's terms of service regarding LLMs</title>
-      <link>https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/</link>
-      <guid>https://lobste.rs/s/iqgrsx</guid>
-      <author>sourcehut.org via seb</author>
-      <pubDate>Thu, 27 Aug 2026 03:37:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
+      <title>.name Termination</title>
+      <link>https://neil.fraser.name/news/2026/09/03/</link>
+      <guid>https://lobste.rs/s/6tsncg</guid>
+      <author>neil.fraser.name via fancybone</author>
+      <pubDate>Thu, 03 Sep 2026 09:55:14 -0500</pubDate>
+      <comments>https://lobste.rs/s/6tsncg/name_termination</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6tsncg/name_termination"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>Being kicked out of the tech industry</title>
@@ -96,6 +96,16 @@
       <category>satire</category>
     </item>
     <item>
+      <title>A note on subscription prices from LWN</title>
+      <link>https://lwn.net/Articles/1090585/</link>
+      <guid>https://lobste.rs/s/krcehd</guid>
+      <author>lwn.net via zg</author>
+      <pubDate>Wed, 02 Sep 2026 10:20:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+    </item>
+    <item>
       <title>curl: a CVE dispute</title>
       <link>https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/</link>
       <guid>https://lobste.rs/s/1pdfex</guid>
@@ -106,14 +116,14 @@
       <category>security</category>
     </item>
     <item>
-      <title>Announcing our first Maintainers in Residence</title>
-      <link>https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/</link>
-      <guid>https://lobste.rs/s/oshbjt</guid>
-      <author>blog.rust-lang.org via jamesw</author>
-      <pubDate>Thu, 27 Aug 2026 03:44:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/oshbjt/announcing_our_first_maintainers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oshbjt/announcing_our_first_maintainers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>I Don’t Have a Smartphone…</title>
+      <link>https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html</link>
+      <guid>https://lobste.rs/s/nh1uij</guid>
+      <author>ploum.net via cgrinds</author>
+      <pubDate>Wed, 02 Sep 2026 13:20:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/nh1uij/i_don_t_have_smartphone</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nh1uij/i_don_t_have_smartphone"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
     </item>
     <item>
       <title>Nitter, XCancel Shutdown Over Cease-And-Desist</title>
@@ -131,16 +141,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>July in Servo: more platforms, faster canvas, web fonts in SVG, and more</title>
-      <link>https://servo.org/blog/2026/08/31/july-in-servo/</link>
-      <guid>https://lobste.rs/s/8gved6</guid>
-      <author>servo.org via FedericoSchonborn</author>
-      <pubDate>Mon, 31 Aug 2026 05:55:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-    </item>
-    <item>
       <title>Fine, I’ll build my own text editor</title>
       <link>https://dbushell.com/2026/09/01/text-editor/</link>
       <guid>https://lobste.rs/s/1malyo</guid>
@@ -152,14 +152,14 @@
       <category>editors</category>
     </item>
     <item>
-      <title>Please stop flooding our projects with AI slop to furnish your CV</title>
-      <link>https://neilalexander.dev/2026/06/30/flooding-contributions.html</link>
-      <guid>https://lobste.rs/s/rzvdqo</guid>
-      <author>neilalexander.dev via lr0</author>
-      <pubDate>Thu, 27 Aug 2026 06:36:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
+      <title>July in Servo: more platforms, faster canvas, web fonts in SVG, and more</title>
+      <link>https://servo.org/blog/2026/08/31/july-in-servo/</link>
+      <guid>https://lobste.rs/s/8gved6</guid>
+      <author>servo.org via FedericoSchonborn</author>
+      <pubDate>Mon, 31 Aug 2026 05:55:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
     </item>
     <item>
       <title>htmx 4.0.0 has been released</title>
@@ -174,16 +174,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>OpenOffice does not print on Tuesdays (2009)</title>
-      <link>https://beza1e1.tuxen.de/lore/print_on_tuesday.html</link>
-      <guid>https://lobste.rs/s/im3eeh</guid>
-      <author>beza1e1.tuxen.de via juliethefoxcoon</author>
-      <pubDate>Fri, 28 Aug 2026 07:06:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-    </item>
-    <item>
       <title>"iT woRKs BeTter in THe aPp!!"</title>
       <link>https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</link>
       <guid>https://lobste.rs/s/fjpexo</guid>
@@ -193,6 +183,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fjpexo/it_works_better_app"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>mobile</category>
       <category>rant</category>
+    </item>
+    <item>
+      <title>OpenOffice does not print on Tuesdays (2009)</title>
+      <link>https://beza1e1.tuxen.de/lore/print_on_tuesday.html</link>
+      <guid>https://lobste.rs/s/im3eeh</guid>
+      <author>beza1e1.tuxen.de via juliethefoxcoon</author>
+      <pubDate>Fri, 28 Aug 2026 07:06:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
     </item>
     <item>
       <title>Gram Editor 3.3.0 Released</title>
@@ -261,16 +261,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>The Server Called Paranoia: Defend Autistici/Inventati Before September 25</title>
-      <link>https://cavallette.noblogs.org/2026/08/10083/2</link>
-      <guid>https://lobste.rs/s/gscm11</guid>
-      <author>cavallette.noblogs.org via dustyweb</author>
-      <pubDate>Thu, 27 Aug 2026 10:20:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/gscm11/server_called_paranoia_defend_autistici</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gscm11/server_called_paranoia_defend_autistici"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
       <title>But where does taste come from?</title>
       <link>https://dustycloud.org/blog/but-where-does-taste-come-from/</link>
       <guid>https://lobste.rs/s/9naffr</guid>
@@ -279,6 +269,16 @@
       <comments>https://lobste.rs/s/9naffr/where_does_taste_come_from</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9naffr/where_does_taste_come_from"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>CERN transitioning industrial computers to Debian after being a longtime RHEL institution</title>
+      <link>https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL</link>
+      <guid>https://lobste.rs/s/fxk56i</guid>
+      <author>phoronix.com via ema-pe</author>
+      <pubDate>Thu, 03 Sep 2026 03:28:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/fxk56i/cern_transitioning_industrial</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fxk56i/cern_transitioning_industrial"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
     </item>
   </channel>
 </rss>
