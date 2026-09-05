@@ -28,16 +28,6 @@
       <category>web</category>
     </item>
     <item>
-      <title>Being kicked out of the tech industry</title>
-      <link>https://www.jacky.wtf/essays/2026/kicked-out/</link>
-      <guid>https://lobste.rs/s/mroowi</guid>
-      <author>jacky.wtf by jacky</author>
-      <pubDate>Sat, 29 Aug 2026 03:24:22 -0500</pubDate>
-      <comments>https://lobste.rs/s/mroowi/being_kicked_out_tech_industry</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mroowi/being_kicked_out_tech_industry"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-    </item>
-    <item>
       <title>I attended a conference recently and AI use by academics was absurd</title>
       <link>https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by</link>
       <guid>https://lobste.rs/s/qn7jtv</guid>
@@ -86,6 +76,19 @@
       <category>security</category>
     </item>
     <item>
+      <title>Surviving Code Reviews in the era of AI</title>
+      <link>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</link>
+      <guid>https://lobste.rs/s/7tpc5q</guid>
+      <author> by mrpossoms</author>
+      <pubDate>Fri, 04 Sep 2026 08:11:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</comments>
+      <description>&lt;p&gt;My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.&lt;/p&gt;
+&lt;p&gt;It's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.&lt;/p&gt;
+&lt;p&gt;I'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.&lt;/p&gt;
+</description>
+      <category>ask</category>
+    </item>
+    <item>
       <title>A note on subscription prices from LWN</title>
       <link>https://lwn.net/Articles/1090585/</link>
       <guid>https://lobste.rs/s/krcehd</guid>
@@ -116,6 +119,16 @@
       <category>culture</category>
     </item>
     <item>
+      <title>Audacity 4.0.0 Released</title>
+      <link>https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0</link>
+      <guid>https://lobste.rs/s/j03x8u</guid>
+      <author>github.com via rcalixte</author>
+      <pubDate>Thu, 03 Sep 2026 08:52:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/j03x8u/audacity_4_0_0_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j03x8u/audacity_4_0_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+    </item>
+    <item>
       <title>Fine, I’ll build my own text editor</title>
       <link>https://dbushell.com/2026/09/01/text-editor/</link>
       <guid>https://lobste.rs/s/1malyo</guid>
@@ -125,19 +138,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
       <category>editors</category>
-    </item>
-    <item>
-      <title>Surviving Code Reviews in the era of AI</title>
-      <link>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</link>
-      <guid>https://lobste.rs/s/7tpc5q</guid>
-      <author> by mrpossoms</author>
-      <pubDate>Fri, 04 Sep 2026 08:11:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</comments>
-      <description>&lt;p&gt;My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.&lt;/p&gt;
-&lt;p&gt;It's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.&lt;/p&gt;
-&lt;p&gt;I'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.&lt;/p&gt;
-</description>
-      <category>ask</category>
     </item>
     <item>
       <title>July in Servo: more platforms, faster canvas, web fonts in SVG, and more</title>
@@ -159,16 +159,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/towfrz/revo_programming_language"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
       <category>zig</category>
-    </item>
-    <item>
-      <title>Audacity 4.0.0 Released</title>
-      <link>https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0</link>
-      <guid>https://lobste.rs/s/j03x8u</guid>
-      <author>github.com via rcalixte</author>
-      <pubDate>Thu, 03 Sep 2026 08:52:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/j03x8u/audacity_4_0_0_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j03x8u/audacity_4_0_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
     </item>
     <item>
       <title>"iT woRKs BeTter in THe aPp!!"</title>
@@ -215,17 +205,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Janet 1.42.0</title>
-      <link>https://github.com/janet-lang/janet/releases/tag/v1.42.0</link>
-      <guid>https://lobste.rs/s/jbgnwk</guid>
-      <author>github.com via veqq</author>
-      <pubDate>Mon, 31 Aug 2026 19:05:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/jbgnwk/janet_1_42_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jbgnwk/janet_1_42_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lisp</category>
-      <category>release</category>
-    </item>
-    <item>
       <title>jujutsu 0.45.0</title>
       <link>https://github.com/jj-vcs/jj/releases/tag/v0.45.0</link>
       <guid>https://lobste.rs/s/zudpcb</guid>
@@ -235,6 +214,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>vcs</category>
+    </item>
+    <item>
+      <title>Janet 1.42.0</title>
+      <link>https://github.com/janet-lang/janet/releases/tag/v1.42.0</link>
+      <guid>https://lobste.rs/s/jbgnwk</guid>
+      <author>github.com via veqq</author>
+      <pubDate>Mon, 31 Aug 2026 19:05:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/jbgnwk/janet_1_42_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jbgnwk/janet_1_42_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lisp</category>
+      <category>release</category>
     </item>
     <item>
       <title>Debian and the sirens</title>
@@ -267,6 +257,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
       <category>css</category>
+    </item>
+    <item>
+      <title>simple is not small</title>
+      <link>https://jyn.dev/simple-is-not-the-same-as-small/</link>
+      <guid>https://lobste.rs/s/entcaa</guid>
+      <author>jyn.dev via hugoarnal</author>
+      <pubDate>Thu, 03 Sep 2026 16:24:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/entcaa/simple_is_not_small</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/entcaa/simple_is_not_small"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
     </item>
     <item>
       <title>California Passes AB-1856 For Open-Source Relief Over Age Verification</title>
