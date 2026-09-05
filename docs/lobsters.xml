@@ -86,16 +86,6 @@
       <category>security</category>
     </item>
     <item>
-      <title>Now Hiring: Senior Open Source Maintainer</title>
-      <link>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</link>
-      <guid>https://lobste.rs/s/p6kxjh</guid>
-      <author>nesbitt.io via freddyb</author>
-      <pubDate>Fri, 28 Aug 2026 06:57:23 -0500</pubDate>
-      <comments>https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p6kxjh/now_hiring_senior_open_source_maintainer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-    </item>
-    <item>
       <title>A note on subscription prices from LWN</title>
       <link>https://lwn.net/Articles/1090585/</link>
       <guid>https://lobste.rs/s/krcehd</guid>
@@ -126,21 +116,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Nitter, XCancel Shutdown Over Cease-And-Desist</title>
-      <link>https://github.com/zedeus/nitter</link>
-      <guid>https://lobste.rs/s/zfhall</guid>
-      <author>github.com via crunxxi</author>
-      <pubDate>Thu, 27 Aug 2026 23:41:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease</comments>
-      <description>&lt;p&gt;Nitter is an alternative front-end for X. XCancel is/was a redirect service.&lt;/p&gt;
-&lt;p&gt;Please let me know if I need to change tags, URLs, or update the description.&lt;/p&gt;
-&lt;p&gt;EDIT: adding 'privacy' tag&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>web</category>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Fine, I’ll build my own text editor</title>
       <link>https://dbushell.com/2026/09/01/text-editor/</link>
       <guid>https://lobste.rs/s/1malyo</guid>
@@ -150,6 +125,19 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
       <category>editors</category>
+    </item>
+    <item>
+      <title>Surviving Code Reviews in the era of AI</title>
+      <link>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</link>
+      <guid>https://lobste.rs/s/7tpc5q</guid>
+      <author> by mrpossoms</author>
+      <pubDate>Fri, 04 Sep 2026 08:11:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</comments>
+      <description>&lt;p&gt;My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.&lt;/p&gt;
+&lt;p&gt;It's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.&lt;/p&gt;
+&lt;p&gt;I'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.&lt;/p&gt;
+</description>
+      <category>ask</category>
     </item>
     <item>
       <title>July in Servo: more platforms, faster canvas, web fonts in SVG, and more</title>
@@ -162,16 +150,25 @@
       <category>browsers</category>
     </item>
     <item>
-      <title>htmx 4.0.0 has been released</title>
-      <link>https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</link>
-      <guid>https://lobste.rs/s/77uge9</guid>
-      <author>four.htmx.org via rcalixte</author>
-      <pubDate>Fri, 28 Aug 2026 11:14:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Revo Programming language</title>
+      <link>https://revo.lung.fyi/</link>
+      <guid>https://lobste.rs/s/towfrz</guid>
+      <author>revo.lung.fyi via Drakonis</author>
+      <pubDate>Thu, 03 Sep 2026 08:21:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/towfrz/revo_programming_language</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/towfrz/revo_programming_language"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+      <category>zig</category>
+    </item>
+    <item>
+      <title>Audacity 4.0.0 Released</title>
+      <link>https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0</link>
+      <guid>https://lobste.rs/s/j03x8u</guid>
+      <author>github.com via rcalixte</author>
+      <pubDate>Thu, 03 Sep 2026 08:52:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/j03x8u/audacity_4_0_0_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j03x8u/audacity_4_0_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
-      <category>web</category>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>"iT woRKs BeTter in THe aPp!!"</title>
@@ -183,16 +180,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fjpexo/it_works_better_app"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>mobile</category>
       <category>rant</category>
-    </item>
-    <item>
-      <title>OpenOffice does not print on Tuesdays (2009)</title>
-      <link>https://beza1e1.tuxen.de/lore/print_on_tuesday.html</link>
-      <guid>https://lobste.rs/s/im3eeh</guid>
-      <author>beza1e1.tuxen.de via juliethefoxcoon</author>
-      <pubDate>Fri, 28 Aug 2026 07:06:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
     </item>
     <item>
       <title>Gram Editor 3.3.0 Released</title>
@@ -207,15 +194,14 @@
       <category>editors</category>
     </item>
     <item>
-      <title>Yap: a particular kind of slop</title>
-      <link>https://mckayla.blog/posts/yap.html</link>
-      <guid>https://lobste.rs/s/xr1eor</guid>
-      <author>mckayla.blog by lilac</author>
-      <pubDate>Fri, 28 Aug 2026 11:35:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/xr1eor/yap_particular_kind_slop</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xr1eor/yap_particular_kind_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
+      <title>CERN transitioning industrial computers to Debian after being a longtime RHEL institution</title>
+      <link>https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL</link>
+      <guid>https://lobste.rs/s/fxk56i</guid>
+      <author>phoronix.com via ema-pe</author>
+      <pubDate>Thu, 03 Sep 2026 03:28:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/fxk56i/cern_transitioning_industrial</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fxk56i/cern_transitioning_industrial"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
     </item>
     <item>
       <title>VibeCoded AI-Slop License v1.0</title>
@@ -240,14 +226,15 @@
       <category>release</category>
     </item>
     <item>
-      <title>EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality</title>
-      <link>https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/</link>
-      <guid>https://lobste.rs/s/zhnpv1</guid>
-      <author>osnews.com via hawski</author>
-      <pubDate>Fri, 28 Aug 2026 04:28:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
+      <title>jujutsu 0.45.0</title>
+      <link>https://github.com/jj-vcs/jj/releases/tag/v0.45.0</link>
+      <guid>https://lobste.rs/s/zudpcb</guid>
+      <author>github.com via olex</author>
+      <pubDate>Thu, 03 Sep 2026 05:02:34 -0500</pubDate>
+      <comments>https://lobste.rs/s/zudpcb/jujutsu_0_45_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>vcs</category>
     </item>
     <item>
       <title>Debian and the sirens</title>
@@ -271,14 +258,25 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>CERN transitioning industrial computers to Debian after being a longtime RHEL institution</title>
-      <link>https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL</link>
-      <guid>https://lobste.rs/s/fxk56i</guid>
-      <author>phoronix.com via ema-pe</author>
-      <pubDate>Thu, 03 Sep 2026 03:28:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/fxk56i/cern_transitioning_industrial</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fxk56i/cern_transitioning_industrial"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
+      <title>Is Minifying CSS Necessary? (2023)</title>
+      <link>https://shivjm.blog/is-minifying-css-necessary/</link>
+      <guid>https://lobste.rs/s/gbucyj</guid>
+      <author>shivjm.blog via uncenter</author>
+      <pubDate>Tue, 01 Sep 2026 10:42:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>css</category>
+    </item>
+    <item>
+      <title>California Passes AB-1856 For Open-Source Relief Over Age Verification</title>
+      <link>https://www.phoronix.com/news/California-AB-1856-Passes</link>
+      <guid>https://lobste.rs/s/pcldcc</guid>
+      <author>phoronix.com via lonami</author>
+      <pubDate>Sun, 30 Aug 2026 02:09:22 -0500</pubDate>
+      <comments>https://lobste.rs/s/pcldcc/california_passes_ab_1856_for_open_source</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pcldcc/california_passes_ab_1856_for_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
     </item>
   </channel>
 </rss>
