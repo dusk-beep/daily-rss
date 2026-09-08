@@ -28,22 +28,6 @@
       <category>web</category>
     </item>
     <item>
-      <title>I attended a conference recently and AI use by academics was absurd</title>
-      <link>https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by</link>
-      <guid>https://lobste.rs/s/qn7jtv</guid>
-      <author> by oceanhaiyang</author>
-      <pubDate>Mon, 31 Aug 2026 10:22:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by</comments>
-      <description>&lt;p&gt;As we listened to talks most people were stuck doing pointless tasks on their phones and computers. Less than 10%, likely 5%, were listening attentively. This was quite sad for me.&lt;/p&gt;
-&lt;p&gt;The thing I would like to share the most, that shocked me more than any AI use I've seen ever—when I was on stage receiving QA post talk among the fellow panelists, everyone but me used AI on their laptops to record their questions and then come up with a response they could use. IDK about others, but I spent a lot of time on my talk and slideshow. The professor who served as the respondent listened for two hours taking a ton of notes then formed thoughtful questions. I cannot believe the laziness and disrespect to the professor's intellect for all the other panelists to rely on AI for their response.&lt;/p&gt;
-&lt;p&gt;For me, the seduction of AI to do boring tasks such as translation, CV writing, and job applications, and editing papers is forever there but I choose to believe these tasks benefit me as someone trying to be a so-called intellectual. To see everyone around me choose to not think for themselves, when we presenters should be the most knowledgeable in the room about our topics, shocked me beyond anything I've seen in academic.&lt;/p&gt;
-&lt;p&gt;I am constantly considering the use of AI in the classroom and research and thought this reflection/rant would be relevant here.&lt;/p&gt;
-&lt;p&gt;I'm curious if my fellow Lobsters have seen similar uses of AI or what their opinions are.&lt;/p&gt;
-</description>
-      <category>rant</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>The revolt of the reader</title>
       <link>https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</link>
       <guid>https://lobste.rs/s/xnqxqe</guid>
@@ -78,14 +62,27 @@
       <category>linux</category>
     </item>
     <item>
-      <title>curl: a CVE dispute</title>
-      <link>https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/</link>
-      <guid>https://lobste.rs/s/1pdfex</guid>
-      <author>daniel.haxx.se via eugeny</author>
-      <pubDate>Mon, 31 Aug 2026 05:38:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/1pdfex/curl_cve_dispute</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1pdfex/curl_cve_dispute"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>Following legal advice, the Nitter project will continue</title>
+      <link>https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</link>
+      <guid>https://lobste.rs/s/jsxzwl</guid>
+      <author>github.com via olex</author>
+      <pubDate>Sun, 06 Sep 2026 13:32:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>web</category>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>QBittorrent breaks out of sandbox to commit crimes</title>
+      <link>https://beige.party/@intransitivelie/117057396732763183</link>
+      <guid>https://lobste.rs/s/os1y44</guid>
+      <author>beige.party via zg</author>
+      <pubDate>Sun, 06 Sep 2026 14:08:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>I Don’t Have a Smartphone…</title>
@@ -106,6 +103,17 @@
       <comments>https://lobste.rs/s/j03x8u/audacity_4_0_0_released</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j03x8u/audacity_4_0_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
+    </item>
+    <item>
+      <title>It took a year to ship WebAssembly in Anubis</title>
+      <link>https://anubis.techaro.lol/blog/2026/anubis-wasm/</link>
+      <guid>https://lobste.rs/s/aokzbg</guid>
+      <author>anubis.techaro.lol by cadey</author>
+      <pubDate>Sun, 06 Sep 2026 15:41:38 -0500</pubDate>
+      <comments>https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>wasm</category>
     </item>
     <item>
       <title>Fine, I’ll build my own text editor</title>
@@ -130,14 +138,27 @@
       <category>zig</category>
     </item>
     <item>
-      <title>July in Servo: more platforms, faster canvas, web fonts in SVG, and more</title>
-      <link>https://servo.org/blog/2026/08/31/july-in-servo/</link>
-      <guid>https://lobste.rs/s/8gved6</guid>
-      <author>servo.org via FedericoSchonborn</author>
-      <pubDate>Mon, 31 Aug 2026 05:55:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
+      <title>Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”</title>
+      <link>https://mathstodon.xyz/@tao/117207856734787448</link>
+      <guid>https://lobste.rs/s/nohdoj</guid>
+      <author>mathstodon.xyz via tmcb</author>
+      <pubDate>Sun, 06 Sep 2026 02:45:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths</comments>
+      <description>&lt;p&gt;I recommend reading the whole thread, but I linked to the part I found the most relevant. I believe the same is true for programming.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>math</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>A faster way to convert a timestamp to Hour, Min, Sec</title>
+      <link>https://www.benjoffe.com/fast-time-of-day</link>
+      <guid>https://lobste.rs/s/wolwwd</guid>
+      <author>benjoffe.com by benjoffe</author>
+      <pubDate>Mon, 07 Sep 2026 05:27:56 -0500</pubDate>
+      <comments>https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c++</category>
+      <category>performance</category>
     </item>
     <item>
       <title>"iT woRKs BeTter in THe aPp!!"</title>
@@ -171,27 +192,16 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>VibeCoded AI-Slop License v1.0</title>
-      <link>https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6</link>
-      <guid>https://lobste.rs/s/zzn47c</guid>
-      <author>gist.github.com by ktr</author>
-      <pubDate>Mon, 31 Aug 2026 06:40:14 -0500</pubDate>
-      <comments>https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”</title>
-      <link>https://mathstodon.xyz/@tao/117207856734787448</link>
-      <guid>https://lobste.rs/s/nohdoj</guid>
-      <author>mathstodon.xyz via tmcb</author>
-      <pubDate>Sun, 06 Sep 2026 02:45:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths</comments>
-      <description>&lt;p&gt;I recommend reading the whole thread, but I linked to the part I found the most relevant. I believe the same is true for programming.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>math</category>
-      <category>vibecoding</category>
+      <title>M2: Episode 1 (or, Asahi Linux on M3)</title>
+      <link>https://asahilinux.org/2026/09/m2-episode-1/</link>
+      <guid>https://lobste.rs/s/ben6a4</guid>
+      <author>asahilinux.org via kreeft</author>
+      <pubDate>Sat, 05 Sep 2026 19:52:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>release</category>
+      <category>mac</category>
     </item>
     <item>
       <title>jujutsu 0.45.0</title>
@@ -203,17 +213,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>Janet 1.42.0</title>
-      <link>https://github.com/janet-lang/janet/releases/tag/v1.42.0</link>
-      <guid>https://lobste.rs/s/jbgnwk</guid>
-      <author>github.com via veqq</author>
-      <pubDate>Mon, 31 Aug 2026 19:05:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/jbgnwk/janet_1_42_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jbgnwk/janet_1_42_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lisp</category>
-      <category>release</category>
     </item>
     <item>
       <title>Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)</title>
@@ -240,16 +239,15 @@
       <category>practices</category>
     </item>
     <item>
-      <title>M2: Episode 1 (or, Asahi Linux on M3)</title>
-      <link>https://asahilinux.org/2026/09/m2-episode-1/</link>
-      <guid>https://lobste.rs/s/ben6a4</guid>
-      <author>asahilinux.org via kreeft</author>
-      <pubDate>Sat, 05 Sep 2026 19:52:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>release</category>
-      <category>mac</category>
+      <title>Any Nix package, live in your browser</title>
+      <link>https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser</link>
+      <guid>https://lobste.rs/s/i9zp2x</guid>
+      <author>fzakaria.com via diktomat</author>
+      <pubDate>Sun, 06 Sep 2026 02:09:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>nix</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Is Minifying CSS Necessary? (2023)</title>
@@ -263,6 +261,16 @@
       <category>css</category>
     </item>
     <item>
+      <title>NetBSD 11 from scratch</title>
+      <link>https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/</link>
+      <guid>https://lobste.rs/s/be5lrk</guid>
+      <author>meanmicio.org via jaypatelani</author>
+      <pubDate>Sun, 06 Sep 2026 08:35:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/be5lrk/netbsd_11_from_scratch</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/be5lrk/netbsd_11_from_scratch"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>netbsd</category>
+    </item>
+    <item>
       <title>A Crash Course in Predicate Logic</title>
       <link>https://www.hillelwayne.com/post/predicate-logic/</link>
       <guid>https://lobste.rs/s/rwqtzs</guid>
@@ -271,16 +279,6 @@
       <comments>https://lobste.rs/s/rwqtzs/crash_course_predicate_logic</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwqtzs/crash_course_predicate_logic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>math</category>
-    </item>
-    <item>
-      <title>The NX bit is not just about security</title>
-      <link>https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/</link>
-      <guid>https://lobste.rs/s/eokmrg</guid>
-      <author>purplesyringa.moe via fanf</author>
-      <pubDate>Fri, 04 Sep 2026 01:27:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
     </item>
   </channel>
 </rss>
