@@ -52,14 +52,25 @@
       <category>ask</category>
     </item>
     <item>
-      <title>A note on subscription prices from LWN</title>
-      <link>https://lwn.net/Articles/1090585/</link>
-      <guid>https://lobste.rs/s/krcehd</guid>
-      <author>lwn.net via zg</author>
-      <pubDate>Wed, 02 Sep 2026 10:20:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
+      <title>I changed my license to EUPL</title>
+      <link>https://bergie.iki.fi/blog/eupl/</link>
+      <guid>https://lobste.rs/s/4ntizu</guid>
+      <author>bergie.iki.fi via knedl</author>
+      <pubDate>Mon, 07 Sep 2026 23:17:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/4ntizu/i_changed_my_license_eupl</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ntizu/i_changed_my_license_eupl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
+    </item>
+    <item>
+      <title>A faster way to convert a timestamp to Hour, Min, Sec</title>
+      <link>https://www.benjoffe.com/fast-time-of-day</link>
+      <guid>https://lobste.rs/s/wolwwd</guid>
+      <author>benjoffe.com by benjoffe</author>
+      <pubDate>Mon, 07 Sep 2026 05:27:56 -0500</pubDate>
+      <comments>https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c++</category>
+      <category>performance</category>
     </item>
     <item>
       <title>Following legal advice, the Nitter project will continue</title>
@@ -74,6 +85,16 @@
       <category>culture</category>
     </item>
     <item>
+      <title>A note on subscription prices from LWN</title>
+      <link>https://lwn.net/Articles/1090585/</link>
+      <guid>https://lobste.rs/s/krcehd</guid>
+      <author>lwn.net via zg</author>
+      <pubDate>Wed, 02 Sep 2026 10:20:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+    </item>
+    <item>
       <title>QBittorrent breaks out of sandbox to commit crimes</title>
       <link>https://beige.party/@intransitivelie/117057396732763183</link>
       <guid>https://lobste.rs/s/os1y44</guid>
@@ -83,26 +104,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>satire</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>I Don’t Have a Smartphone…</title>
-      <link>https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html</link>
-      <guid>https://lobste.rs/s/nh1uij</guid>
-      <author>ploum.net via cgrinds</author>
-      <pubDate>Wed, 02 Sep 2026 13:20:35 -0500</pubDate>
-      <comments>https://lobste.rs/s/nh1uij/i_don_t_have_smartphone</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nh1uij/i_don_t_have_smartphone"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>Audacity 4.0.0 Released</title>
-      <link>https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0</link>
-      <guid>https://lobste.rs/s/j03x8u</guid>
-      <author>github.com via rcalixte</author>
-      <pubDate>Thu, 03 Sep 2026 08:52:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/j03x8u/audacity_4_0_0_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j03x8u/audacity_4_0_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
     </item>
     <item>
       <title>It took a year to ship WebAssembly in Anubis</title>
@@ -116,26 +117,14 @@
       <category>wasm</category>
     </item>
     <item>
-      <title>Fine, I’ll build my own text editor</title>
-      <link>https://dbushell.com/2026/09/01/text-editor/</link>
-      <guid>https://lobste.rs/s/1malyo</guid>
-      <author>dbushell.com via FedericoSchonborn</author>
-      <pubDate>Tue, 01 Sep 2026 06:18:22 -0500</pubDate>
-      <comments>https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>editors</category>
-    </item>
-    <item>
-      <title>Revo Programming language</title>
-      <link>https://revo.lung.fyi/</link>
-      <guid>https://lobste.rs/s/towfrz</guid>
-      <author>revo.lung.fyi via Drakonis</author>
-      <pubDate>Thu, 03 Sep 2026 08:21:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/towfrz/revo_programming_language</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/towfrz/revo_programming_language"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>zig</category>
+      <title>I Don’t Have a Smartphone…</title>
+      <link>https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html</link>
+      <guid>https://lobste.rs/s/nh1uij</guid>
+      <author>ploum.net via cgrinds</author>
+      <pubDate>Wed, 02 Sep 2026 13:20:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/nh1uij/i_don_t_have_smartphone</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nh1uij/i_don_t_have_smartphone"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
     </item>
     <item>
       <title>Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”</title>
@@ -150,26 +139,25 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>A faster way to convert a timestamp to Hour, Min, Sec</title>
-      <link>https://www.benjoffe.com/fast-time-of-day</link>
-      <guid>https://lobste.rs/s/wolwwd</guid>
-      <author>benjoffe.com by benjoffe</author>
-      <pubDate>Mon, 07 Sep 2026 05:27:56 -0500</pubDate>
-      <comments>https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c++</category>
-      <category>performance</category>
+      <title>Audacity 4.0.0 Released</title>
+      <link>https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0</link>
+      <guid>https://lobste.rs/s/j03x8u</guid>
+      <author>github.com via rcalixte</author>
+      <pubDate>Thu, 03 Sep 2026 08:52:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/j03x8u/audacity_4_0_0_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j03x8u/audacity_4_0_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
     </item>
     <item>
-      <title>"iT woRKs BeTter in THe aPp!!"</title>
-      <link>https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</link>
-      <guid>https://lobste.rs/s/fjpexo</guid>
-      <author>shkspr.mobi via abnercoimbre</author>
-      <pubDate>Tue, 01 Sep 2026 10:33:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/fjpexo/it_works_better_app</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fjpexo/it_works_better_app"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>mobile</category>
-      <category>rant</category>
+      <title>Revo Programming language</title>
+      <link>https://revo.lung.fyi/</link>
+      <guid>https://lobste.rs/s/towfrz</guid>
+      <author>revo.lung.fyi via Drakonis</author>
+      <pubDate>Thu, 03 Sep 2026 08:21:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/towfrz/revo_programming_language</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/towfrz/revo_programming_language"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+      <category>zig</category>
     </item>
     <item>
       <title>CERN transitioning industrial computers to Debian after being a longtime RHEL institution</title>
@@ -204,6 +192,16 @@
       <category>mac</category>
     </item>
     <item>
+      <title>simple is not small</title>
+      <link>https://jyn.dev/simple-is-not-the-same-as-small/</link>
+      <guid>https://lobste.rs/s/entcaa</guid>
+      <author>jyn.dev via hugoarnal</author>
+      <pubDate>Thu, 03 Sep 2026 16:24:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/entcaa/simple_is_not_small</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/entcaa/simple_is_not_small"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+    </item>
+    <item>
       <title>jujutsu 0.45.0</title>
       <link>https://github.com/jj-vcs/jj/releases/tag/v0.45.0</link>
       <guid>https://lobste.rs/s/zudpcb</guid>
@@ -229,16 +227,6 @@
       <category>nix</category>
     </item>
     <item>
-      <title>simple is not small</title>
-      <link>https://jyn.dev/simple-is-not-the-same-as-small/</link>
-      <guid>https://lobste.rs/s/entcaa</guid>
-      <author>jyn.dev via hugoarnal</author>
-      <pubDate>Thu, 03 Sep 2026 16:24:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/entcaa/simple_is_not_small</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/entcaa/simple_is_not_small"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-    </item>
-    <item>
       <title>Any Nix package, live in your browser</title>
       <link>https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser</link>
       <guid>https://lobste.rs/s/i9zp2x</guid>
@@ -250,15 +238,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Is Minifying CSS Necessary? (2023)</title>
-      <link>https://shivjm.blog/is-minifying-css-necessary/</link>
-      <guid>https://lobste.rs/s/gbucyj</guid>
-      <author>shivjm.blog via uncenter</author>
-      <pubDate>Tue, 01 Sep 2026 10:42:44 -0500</pubDate>
-      <comments>https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>css</category>
+      <title>Jellyfin 12.0</title>
+      <link>https://jellyfin.org/posts/jellyfin-release-12.0</link>
+      <guid>https://lobste.rs/s/blba3b</guid>
+      <author>jellyfin.org via lilac</author>
+      <pubDate>Mon, 07 Sep 2026 22:13:20 -0500</pubDate>
+      <comments>https://lobste.rs/s/blba3b/jellyfin_12_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blba3b/jellyfin_12_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
     </item>
     <item>
       <title>NetBSD 11 from scratch</title>
@@ -271,14 +258,25 @@
       <category>netbsd</category>
     </item>
     <item>
-      <title>A Crash Course in Predicate Logic</title>
-      <link>https://www.hillelwayne.com/post/predicate-logic/</link>
-      <guid>https://lobste.rs/s/rwqtzs</guid>
-      <author>hillelwayne.com by hwayne</author>
-      <pubDate>Tue, 01 Sep 2026 11:08:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwqtzs/crash_course_predicate_logic</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwqtzs/crash_course_predicate_logic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>math</category>
+      <title>Switching Password Managers in 2026</title>
+      <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
+      <guid>https://lobste.rs/s/ikzvtv</guid>
+      <author>rmondello.com via soulcutter</author>
+      <pubDate>Tue, 08 Sep 2026 08:55:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/ikzvtv/switching_password_managers_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>practices</category>
+    </item>
+    <item>
+      <title>The state of European cloud providers in 2026</title>
+      <link>https://crescentro.se/posts/euro-cloud-providers-2026/</link>
+      <guid>https://lobste.rs/s/6licoy</guid>
+      <author>crescentro.se via morj</author>
+      <pubDate>Tue, 08 Sep 2026 02:20:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/6licoy/state_european_cloud_providers_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6licoy/state_european_cloud_providers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>scaling</category>
     </item>
   </channel>
 </rss>
