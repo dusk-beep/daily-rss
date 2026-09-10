@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Wed, 02 Sep 2026 01:31:38 -0500</pubDate>
+    <pubDate>Thu, 03 Sep 2026 09:55:14 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Normalized Fascism in Open Source: $12 Million Given to DHH</title>
-      <link>https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/</link>
-      <guid>https://lobste.rs/s/ipy9xw</guid>
-      <author>brennan.day via diktomat</author>
-      <pubDate>Wed, 02 Sep 2026 01:31:38 -0500</pubDate>
-      <comments>https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
     <item>
       <title>.name Termination</title>
       <link>https://neil.fraser.name/news/2026/09/03/</link>
@@ -39,6 +29,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>I changed my license to EUPL</title>
+      <link>https://bergie.iki.fi/blog/eupl/</link>
+      <guid>https://lobste.rs/s/4ntizu</guid>
+      <author>bergie.iki.fi via knedl</author>
+      <pubDate>Mon, 07 Sep 2026 23:17:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/4ntizu/i_changed_my_license_eupl</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ntizu/i_changed_my_license_eupl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
+    </item>
+    <item>
       <title>Surviving Code Reviews in the era of AI</title>
       <link>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</link>
       <guid>https://lobste.rs/s/7tpc5q</guid>
@@ -50,16 +50,6 @@
 &lt;p&gt;I'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.&lt;/p&gt;
 </description>
       <category>ask</category>
-    </item>
-    <item>
-      <title>I changed my license to EUPL</title>
-      <link>https://bergie.iki.fi/blog/eupl/</link>
-      <guid>https://lobste.rs/s/4ntizu</guid>
-      <author>bergie.iki.fi via knedl</author>
-      <pubDate>Mon, 07 Sep 2026 23:17:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/4ntizu/i_changed_my_license_eupl</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ntizu/i_changed_my_license_eupl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
     </item>
     <item>
       <title>A faster way to convert a timestamp to Hour, Min, Sec</title>
@@ -85,16 +75,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>A note on subscription prices from LWN</title>
-      <link>https://lwn.net/Articles/1090585/</link>
-      <guid>https://lobste.rs/s/krcehd</guid>
-      <author>lwn.net via zg</author>
-      <pubDate>Wed, 02 Sep 2026 10:20:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-    </item>
-    <item>
       <title>QBittorrent breaks out of sandbox to commit crimes</title>
       <link>https://beige.party/@intransitivelie/117057396732763183</link>
       <guid>https://lobste.rs/s/os1y44</guid>
@@ -117,14 +97,28 @@
       <category>wasm</category>
     </item>
     <item>
-      <title>I Don’t Have a Smartphone…</title>
-      <link>https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html</link>
-      <guid>https://lobste.rs/s/nh1uij</guid>
-      <author>ploum.net via cgrinds</author>
-      <pubDate>Wed, 02 Sep 2026 13:20:35 -0500</pubDate>
-      <comments>https://lobste.rs/s/nh1uij/i_don_t_have_smartphone</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nh1uij/i_don_t_have_smartphone"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
+      <title>Switching Password Managers in 2026</title>
+      <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
+      <guid>https://lobste.rs/s/ikzvtv</guid>
+      <author>rmondello.com via soulcutter</author>
+      <pubDate>Tue, 08 Sep 2026 08:55:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/ikzvtv/switching_password_managers_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>practices</category>
+    </item>
+    <item>
+      <title>How to build a f**king printer</title>
+      <link>https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</link>
+      <guid>https://lobste.rs/s/pxreik</guid>
+      <author>nishantjosh.dev by nishantjosh</author>
+      <pubDate>Tue, 08 Sep 2026 16:39:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/pxreik/how_build_f_king_printer</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pxreik/how_build_f_king_printer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+      <category>networking</category>
+      <category>c++</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”</title>
@@ -149,6 +143,16 @@
       <category>release</category>
     </item>
     <item>
+      <title>The state of European cloud providers in 2026</title>
+      <link>https://crescentro.se/posts/euro-cloud-providers-2026/</link>
+      <guid>https://lobste.rs/s/6licoy</guid>
+      <author>crescentro.se via morj</author>
+      <pubDate>Tue, 08 Sep 2026 02:20:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/6licoy/state_european_cloud_providers_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6licoy/state_european_cloud_providers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>scaling</category>
+    </item>
+    <item>
       <title>Revo Programming language</title>
       <link>https://revo.lung.fyi/</link>
       <guid>https://lobste.rs/s/towfrz</guid>
@@ -158,6 +162,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/towfrz/revo_programming_language"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
       <category>zig</category>
+    </item>
+    <item>
+      <title>Jellyfin 12.0</title>
+      <link>https://jellyfin.org/posts/jellyfin-release-12.0</link>
+      <guid>https://lobste.rs/s/blba3b</guid>
+      <author>jellyfin.org via lilac</author>
+      <pubDate>Mon, 07 Sep 2026 22:13:20 -0500</pubDate>
+      <comments>https://lobste.rs/s/blba3b/jellyfin_12_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blba3b/jellyfin_12_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
     </item>
     <item>
       <title>CERN transitioning industrial computers to Debian after being a longtime RHEL institution</title>
@@ -238,16 +252,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Jellyfin 12.0</title>
-      <link>https://jellyfin.org/posts/jellyfin-release-12.0</link>
-      <guid>https://lobste.rs/s/blba3b</guid>
-      <author>jellyfin.org via lilac</author>
-      <pubDate>Mon, 07 Sep 2026 22:13:20 -0500</pubDate>
-      <comments>https://lobste.rs/s/blba3b/jellyfin_12_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blba3b/jellyfin_12_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-    </item>
-    <item>
       <title>NetBSD 11 from scratch</title>
       <link>https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/</link>
       <guid>https://lobste.rs/s/be5lrk</guid>
@@ -258,25 +262,27 @@
       <category>netbsd</category>
     </item>
     <item>
-      <title>Switching Password Managers in 2026</title>
-      <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
-      <guid>https://lobste.rs/s/ikzvtv</guid>
-      <author>rmondello.com via soulcutter</author>
-      <pubDate>Tue, 08 Sep 2026 08:55:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/ikzvtv/switching_password_managers_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>practices</category>
+      <title>Reverse engineering my e-scooter and rewriting the firmware in rust</title>
+      <link>https://bensimms.moe/reverse-engineering-scooter/</link>
+      <guid>https://lobste.rs/s/pdr2bo</guid>
+      <author>bensimms.moe via kevinmehall</author>
+      <pubDate>Tue, 08 Sep 2026 16:03:22 -0500</pubDate>
+      <comments>https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+      <category>reversing</category>
+      <category>rust</category>
     </item>
     <item>
-      <title>The state of European cloud providers in 2026</title>
-      <link>https://crescentro.se/posts/euro-cloud-providers-2026/</link>
-      <guid>https://lobste.rs/s/6licoy</guid>
-      <author>crescentro.se via morj</author>
-      <pubDate>Tue, 08 Sep 2026 02:20:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/6licoy/state_european_cloud_providers_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6licoy/state_european_cloud_providers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>scaling</category>
+      <title>I Don’t Want to Interact With Stochastic Parrots</title>
+      <link>https://ploum.net/2026-09-09-ai_policy.html</link>
+      <guid>https://lobste.rs/s/rdhsu9</guid>
+      <author>ploum.net via cgrinds</author>
+      <pubDate>Wed, 09 Sep 2026 12:18:32 -0500</pubDate>
+      <comments>https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
