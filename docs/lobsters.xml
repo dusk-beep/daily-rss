@@ -29,17 +29,15 @@
       <category>law</category>
     </item>
     <item>
-      <title>Surviving Code Reviews in the era of AI</title>
-      <link>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</link>
-      <guid>https://lobste.rs/s/7tpc5q</guid>
-      <author> by mrpossoms</author>
-      <pubDate>Fri, 04 Sep 2026 08:11:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai</comments>
-      <description>&lt;p&gt;My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.&lt;/p&gt;
-&lt;p&gt;It's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.&lt;/p&gt;
-&lt;p&gt;I'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.&lt;/p&gt;
-</description>
-      <category>ask</category>
+      <title>Power grab</title>
+      <link>https://tante.cc/2026/09/11/power-grab/</link>
+      <guid>https://lobste.rs/s/be7tgu</guid>
+      <author>tante.cc via rudis</author>
+      <pubDate>Fri, 11 Sep 2026 09:23:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/be7tgu/power_grab</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/be7tgu/power_grab"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>culture</category>
     </item>
     <item>
       <title>A faster way to convert a timestamp to Hour, Min, Sec</title>
@@ -51,6 +49,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c++</category>
       <category>performance</category>
+    </item>
+    <item>
+      <title>Feeling sad about AI</title>
+      <link>https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/</link>
+      <guid>https://lobste.rs/s/7guove</guid>
+      <author>artificialworlds.net by andybalaam</author>
+      <pubDate>Fri, 11 Sep 2026 07:33:20 -0500</pubDate>
+      <comments>https://lobste.rs/s/7guove/feeling_sad_about_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7guove/feeling_sad_about_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>Following legal advice, the Nitter project will continue</title>
@@ -111,6 +119,17 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>It Breaks a Village: Bevy's 6th Birthday</title>
+      <link>https://blog.fallible.net/it-breaks-a-village/</link>
+      <guid>https://lobste.rs/s/k99ryf</guid>
+      <author>blog.fallible.net via aldantanneo</author>
+      <pubDate>Thu, 10 Sep 2026 05:38:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Switching Password Managers in 2026</title>
       <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
       <guid>https://lobste.rs/s/ikzvtv</guid>
@@ -144,15 +163,26 @@
       <category>scaling</category>
     </item>
     <item>
-      <title>It Breaks a Village: Bevy's 6th Birthday</title>
-      <link>https://blog.fallible.net/it-breaks-a-village/</link>
-      <guid>https://lobste.rs/s/k99ryf</guid>
-      <author>blog.fallible.net via aldantanneo</author>
-      <pubDate>Thu, 10 Sep 2026 05:38:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-      <category>vibecoding</category>
+      <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
+      <link>https://maurycyz.com/misc/domains/</link>
+      <guid>https://lobste.rs/s/9szn91</guid>
+      <author>maurycyz.com by maurycy</author>
+      <pubDate>Thu, 10 Sep 2026 10:14:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>web</category>
+      <category>rant</category>
+    </item>
+    <item>
+      <title>Rust Is Tier-1 Language at Microsoft</title>
+      <link>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</link>
+      <guid>https://lobste.rs/s/eerwba</guid>
+      <author>rustfoundation.org via mmastrac</author>
+      <pubDate>Thu, 10 Sep 2026 08:40:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
     </item>
     <item>
       <title>Jellyfin 12.0</title>
@@ -163,16 +193,6 @@
       <comments>https://lobste.rs/s/blba3b/jellyfin_12_0</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blba3b/jellyfin_12_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
-    </item>
-    <item>
-      <title>Is AI ruining my brain?</title>
-      <link>https://thoughtbot.com/blog/is-ai-ruining-my-brain</link>
-      <guid>https://lobste.rs/s/utloro</guid>
-      <author>thoughtbot.com via MatheusRich</author>
-      <pubDate>Fri, 04 Sep 2026 09:41:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/utloro/is_ai_ruining_my_brain</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/utloro/is_ai_ruining_my_brain"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>M2: Episode 1 (or, Asahi Linux on M3)</title>
@@ -187,17 +207,6 @@
       <category>mac</category>
     </item>
     <item>
-      <title>A decade of rustls</title>
-      <link>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/</link>
-      <guid>https://lobste.rs/s/zffgb8</guid>
-      <author>rustls.dev via wofo</author>
-      <pubDate>Wed, 09 Sep 2026 06:13:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/zffgb8/decade_rustls</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zffgb8/decade_rustls"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-      <category>rust</category>
-    </item>
-    <item>
       <title>Reverse engineering my e-scooter and rewriting the firmware in rust</title>
       <link>https://bensimms.moe/reverse-engineering-scooter/</link>
       <guid>https://lobste.rs/s/pdr2bo</guid>
@@ -207,6 +216,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
       <category>reversing</category>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>A decade of rustls</title>
+      <link>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/</link>
+      <guid>https://lobste.rs/s/zffgb8</guid>
+      <author>rustls.dev via wofo</author>
+      <pubDate>Wed, 09 Sep 2026 06:13:13 -0500</pubDate>
+      <comments>https://lobste.rs/s/zffgb8/decade_rustls</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zffgb8/decade_rustls"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
       <category>rust</category>
     </item>
     <item>
@@ -269,26 +289,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tprfej/extreme_server_side_rendering"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
       <category>web</category>
-    </item>
-    <item>
-      <title>Rust Is Tier-1 Language at Microsoft</title>
-      <link>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</link>
-      <guid>https://lobste.rs/s/eerwba</guid>
-      <author>rustfoundation.org via mmastrac</author>
-      <pubDate>Thu, 10 Sep 2026 08:40:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>The NX bit is not just about security</title>
-      <link>https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/</link>
-      <guid>https://lobste.rs/s/eokmrg</guid>
-      <author>purplesyringa.moe via fanf</author>
-      <pubDate>Fri, 04 Sep 2026 01:27:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
     </item>
   </channel>
 </rss>
