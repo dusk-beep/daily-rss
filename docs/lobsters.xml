@@ -5,29 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Sat, 05 Sep 2026 16:28:47 -0500</pubDate>
+    <pubDate>Fri, 11 Sep 2026 09:23:46 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>The revolt of the reader</title>
-      <link>https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</link>
-      <guid>https://lobste.rs/s/xnqxqe</guid>
-      <author>bcantrill.dtrace.org via prattmic</author>
-      <pubDate>Sat, 05 Sep 2026 16:28:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/xnqxqe/revolt_reader</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xnqxqe/revolt_reader"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>I changed my license to EUPL</title>
-      <link>https://bergie.iki.fi/blog/eupl/</link>
-      <guid>https://lobste.rs/s/4ntizu</guid>
-      <author>bergie.iki.fi via knedl</author>
-      <pubDate>Mon, 07 Sep 2026 23:17:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/4ntizu/i_changed_my_license_eupl</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ntizu/i_changed_my_license_eupl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-    </item>
     <item>
       <title>Power grab</title>
       <link>https://tante.cc/2026/09/11/power-grab/</link>
@@ -40,6 +19,26 @@
       <category>culture</category>
     </item>
     <item>
+      <title>Feeling sad about AI</title>
+      <link>https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/</link>
+      <guid>https://lobste.rs/s/7guove</guid>
+      <author>artificialworlds.net by andybalaam</author>
+      <pubDate>Fri, 11 Sep 2026 07:33:20 -0500</pubDate>
+      <comments>https://lobste.rs/s/7guove/feeling_sad_about_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7guove/feeling_sad_about_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+    </item>
+    <item>
+      <title>I changed my license to EUPL</title>
+      <link>https://bergie.iki.fi/blog/eupl/</link>
+      <guid>https://lobste.rs/s/4ntizu</guid>
+      <author>bergie.iki.fi via knedl</author>
+      <pubDate>Mon, 07 Sep 2026 23:17:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/4ntizu/i_changed_my_license_eupl</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ntizu/i_changed_my_license_eupl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
+    </item>
+    <item>
       <title>A faster way to convert a timestamp to Hour, Min, Sec</title>
       <link>https://www.benjoffe.com/fast-time-of-day</link>
       <guid>https://lobste.rs/s/wolwwd</guid>
@@ -49,16 +48,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c++</category>
       <category>performance</category>
-    </item>
-    <item>
-      <title>Feeling sad about AI</title>
-      <link>https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/</link>
-      <guid>https://lobste.rs/s/7guove</guid>
-      <author>artificialworlds.net by andybalaam</author>
-      <pubDate>Fri, 11 Sep 2026 07:33:20 -0500</pubDate>
-      <comments>https://lobste.rs/s/7guove/feeling_sad_about_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7guove/feeling_sad_about_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
     </item>
     <item>
       <title>Following legal advice, the Nitter project will continue</title>
@@ -73,17 +62,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>QBittorrent breaks out of sandbox to commit crimes</title>
-      <link>https://beige.party/@intransitivelie/117057396732763183</link>
-      <guid>https://lobste.rs/s/os1y44</guid>
-      <author>beige.party via zg</author>
-      <pubDate>Sun, 06 Sep 2026 14:08:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>I Don’t Want to Interact With Stochastic Parrots</title>
       <link>https://ploum.net/2026-09-09-ai_policy.html</link>
       <guid>https://lobste.rs/s/rdhsu9</guid>
@@ -92,6 +70,17 @@
       <comments>https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>QBittorrent breaks out of sandbox to commit crimes</title>
+      <link>https://beige.party/@intransitivelie/117057396732763183</link>
+      <guid>https://lobste.rs/s/os1y44</guid>
+      <author>beige.party via zg</author>
+      <pubDate>Sun, 06 Sep 2026 14:08:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -104,6 +93,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
       <category>wasm</category>
+    </item>
+    <item>
+      <title>It Breaks a Village: Bevy's 6th Birthday</title>
+      <link>https://blog.fallible.net/it-breaks-a-village/</link>
+      <guid>https://lobste.rs/s/k99ryf</guid>
+      <author>blog.fallible.net via aldantanneo</author>
+      <pubDate>Thu, 10 Sep 2026 05:38:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>How to build a f**king printer</title>
@@ -119,14 +119,15 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>It Breaks a Village: Bevy's 6th Birthday</title>
-      <link>https://blog.fallible.net/it-breaks-a-village/</link>
-      <guid>https://lobste.rs/s/k99ryf</guid>
-      <author>blog.fallible.net via aldantanneo</author>
-      <pubDate>Thu, 10 Sep 2026 05:38:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
+      <title>OpenAI agents carried out an undisclosed attack on RubyGems</title>
+      <link>https://www.rubyhack.ai/</link>
+      <guid>https://lobste.rs/s/wajtsa</guid>
+      <author>rubyhack.ai via xavdid</author>
+      <pubDate>Fri, 11 Sep 2026 18:41:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
+      <category>security</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -163,6 +164,16 @@
       <category>scaling</category>
     </item>
     <item>
+      <title>Rust Is Tier-1 Language at Microsoft</title>
+      <link>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</link>
+      <guid>https://lobste.rs/s/eerwba</guid>
+      <author>rustfoundation.org via mmastrac</author>
+      <pubDate>Thu, 10 Sep 2026 08:40:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
       <link>https://maurycyz.com/misc/domains/</link>
       <guid>https://lobste.rs/s/9szn91</guid>
@@ -175,14 +186,15 @@
       <category>rant</category>
     </item>
     <item>
-      <title>Rust Is Tier-1 Language at Microsoft</title>
-      <link>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</link>
-      <guid>https://lobste.rs/s/eerwba</guid>
-      <author>rustfoundation.org via mmastrac</author>
-      <pubDate>Thu, 10 Sep 2026 08:40:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>A Severe Misalignment of AI in Mathematics</title>
+      <link>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/</link>
+      <guid>https://lobste.rs/s/xsbz3l</guid>
+      <author>terrytao.wordpress.com via jo3_l</author>
+      <pubDate>Fri, 11 Sep 2026 14:03:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>math</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Jellyfin 12.0</title>
@@ -195,16 +207,15 @@
       <category>release</category>
     </item>
     <item>
-      <title>M2: Episode 1 (or, Asahi Linux on M3)</title>
-      <link>https://asahilinux.org/2026/09/m2-episode-1/</link>
-      <guid>https://lobste.rs/s/ben6a4</guid>
-      <author>asahilinux.org via kreeft</author>
-      <pubDate>Sat, 05 Sep 2026 19:52:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>release</category>
-      <category>mac</category>
+      <title>A decade of rustls</title>
+      <link>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/</link>
+      <guid>https://lobste.rs/s/zffgb8</guid>
+      <author>rustls.dev via wofo</author>
+      <pubDate>Wed, 09 Sep 2026 06:13:13 -0500</pubDate>
+      <comments>https://lobste.rs/s/zffgb8/decade_rustls</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zffgb8/decade_rustls"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
+      <category>rust</category>
     </item>
     <item>
       <title>Reverse engineering my e-scooter and rewriting the firmware in rust</title>
@@ -216,17 +227,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
       <category>reversing</category>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>A decade of rustls</title>
-      <link>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/</link>
-      <guid>https://lobste.rs/s/zffgb8</guid>
-      <author>rustls.dev via wofo</author>
-      <pubDate>Wed, 09 Sep 2026 06:13:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/zffgb8/decade_rustls</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zffgb8/decade_rustls"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
       <category>rust</category>
     </item>
     <item>
@@ -256,18 +256,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)</title>
-      <link>https://arxiv.org/abs/2607.24888</link>
-      <guid>https://lobste.rs/s/p5w5j6</guid>
-      <author>arxiv.org via MarkMLl</author>
-      <pubDate>Sat, 05 Sep 2026 05:58:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire</comments>
-      <description>&lt;p&gt;"Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers. We show that it is not."&lt;/p&gt;
-&lt;p&gt;A few weeks ago I came across this &lt;a href="https://www.teamten.com/lawrence/writings/coding-machines/" rel="ugc"&gt;https://www.teamten.com/lawrence/writings/coding-machines/&lt;/a&gt; : it's clearly fictional (and furthermore is "pre-AI" in that it was written in 2009) but is interesting in that it raises the question of whether one or more &lt;em&gt;computers&lt;/em&gt; could- without "intention" embed code meeting the "trusting trust" criteria in GCC.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>linux</category>
-      <category>nix</category>
+      <title>Soft-deprecating re.match()</title>
+      <link>https://hugovk.dev/blog/2026/soft-deprecating-re.match/</link>
+      <guid>https://lobste.rs/s/u7dr96</guid>
+      <author>hugovk.dev via ubernostrum</author>
+      <pubDate>Thu, 10 Sep 2026 16:59:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/u7dr96/soft_deprecating_re_match</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u7dr96/soft_deprecating_re_match"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
     </item>
     <item>
       <title>NetBSD 11 from scratch</title>
