@@ -50,16 +50,16 @@
       <category>performance</category>
     </item>
     <item>
-      <title>Following legal advice, the Nitter project will continue</title>
-      <link>https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</link>
-      <guid>https://lobste.rs/s/jsxzwl</guid>
-      <author>github.com via olex</author>
-      <pubDate>Sun, 06 Sep 2026 13:32:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>web</category>
-      <category>culture</category>
+      <title>OpenAI agents carried out an undisclosed attack on RubyGems</title>
+      <link>https://www.rubyhack.ai/</link>
+      <guid>https://lobste.rs/s/wajtsa</guid>
+      <author>rubyhack.ai via xavdid</author>
+      <pubDate>Fri, 11 Sep 2026 18:41:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
+      <category>security</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>I Don’t Want to Interact With Stochastic Parrots</title>
@@ -70,39 +70,6 @@
       <comments>https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>QBittorrent breaks out of sandbox to commit crimes</title>
-      <link>https://beige.party/@intransitivelie/117057396732763183</link>
-      <guid>https://lobste.rs/s/os1y44</guid>
-      <author>beige.party via zg</author>
-      <pubDate>Sun, 06 Sep 2026 14:08:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/os1y44/qbittorrent_breaks_out_sandbox_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>It took a year to ship WebAssembly in Anubis</title>
-      <link>https://anubis.techaro.lol/blog/2026/anubis-wasm/</link>
-      <guid>https://lobste.rs/s/aokzbg</guid>
-      <author>anubis.techaro.lol by cadey</author>
-      <pubDate>Sun, 06 Sep 2026 15:41:38 -0500</pubDate>
-      <comments>https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>wasm</category>
-    </item>
-    <item>
-      <title>It Breaks a Village: Bevy's 6th Birthday</title>
-      <link>https://blog.fallible.net/it-breaks-a-village/</link>
-      <guid>https://lobste.rs/s/k99ryf</guid>
-      <author>blog.fallible.net via aldantanneo</author>
-      <pubDate>Thu, 10 Sep 2026 05:38:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -119,16 +86,26 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>OpenAI agents carried out an undisclosed attack on RubyGems</title>
-      <link>https://www.rubyhack.ai/</link>
-      <guid>https://lobste.rs/s/wajtsa</guid>
-      <author>rubyhack.ai via xavdid</author>
-      <pubDate>Fri, 11 Sep 2026 18:41:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ruby</category>
-      <category>security</category>
+      <title>It Breaks a Village: Bevy's 6th Birthday</title>
+      <link>https://blog.fallible.net/it-breaks-a-village/</link>
+      <guid>https://lobste.rs/s/k99ryf</guid>
+      <author>blog.fallible.net via aldantanneo</author>
+      <pubDate>Thu, 10 Sep 2026 05:38:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>I made a build visualizer to understand Bun’s compile times</title>
+      <link>https://lalitm.com/post/buildprof/</link>
+      <guid>https://lobste.rs/s/qsrjs2</guid>
+      <author>lalitm.com by lalitm</author>
+      <pubDate>Sat, 12 Sep 2026 09:48:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compilers</category>
+      <category>performance</category>
     </item>
     <item>
       <title>Switching Password Managers in 2026</title>
@@ -140,18 +117,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>practices</category>
-    </item>
-    <item>
-      <title>Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”</title>
-      <link>https://mathstodon.xyz/@tao/117207856734787448</link>
-      <guid>https://lobste.rs/s/nohdoj</guid>
-      <author>mathstodon.xyz via tmcb</author>
-      <pubDate>Sun, 06 Sep 2026 02:45:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths</comments>
-      <description>&lt;p&gt;I recommend reading the whole thread, but I linked to the part I found the most relevant. I believe the same is true for programming.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>math</category>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>The state of European cloud providers in 2026</title>
@@ -245,17 +210,6 @@
       <category>mac</category>
     </item>
     <item>
-      <title>Any Nix package, live in your browser</title>
-      <link>https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser</link>
-      <guid>https://lobste.rs/s/i9zp2x</guid>
-      <author>fzakaria.com via diktomat</author>
-      <pubDate>Sun, 06 Sep 2026 02:09:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>nix</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Soft-deprecating re.match()</title>
       <link>https://hugovk.dev/blog/2026/soft-deprecating-re.match/</link>
       <guid>https://lobste.rs/s/u7dr96</guid>
@@ -266,14 +220,25 @@
       <category>python</category>
     </item>
     <item>
-      <title>NetBSD 11 from scratch</title>
-      <link>https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/</link>
-      <guid>https://lobste.rs/s/be5lrk</guid>
-      <author>meanmicio.org via jaypatelani</author>
-      <pubDate>Sun, 06 Sep 2026 08:35:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/be5lrk/netbsd_11_from_scratch</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/be5lrk/netbsd_11_from_scratch"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>netbsd</category>
+      <title>Linux Zoom Client Proactively Reads X11 Clipboard</title>
+      <link>https://hachyderm.io/@simontatham/117201594980991062</link>
+      <guid>https://lobste.rs/s/8t1ddm</guid>
+      <author>hachyderm.io via darleaf</author>
+      <pubDate>Sat, 12 Sep 2026 07:38:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>linux</category>
+    </item>
+    <item>
+      <title>Watch what you say: Apple opens the door to a nightmare world of always-listening tech</title>
+      <link>https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/</link>
+      <guid>https://lobste.rs/s/yaax1z</guid>
+      <author>this.weekinsecurity.com via lim</author>
+      <pubDate>Sun, 13 Sep 2026 07:10:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
     </item>
     <item>
       <title>Extreme Server Side Rendering</title>
@@ -285,6 +250,37 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tprfej/extreme_server_side_rendering"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
       <category>web</category>
+    </item>
+    <item>
+      <title>evergarden</title>
+      <link>https://evergarden.moe/</link>
+      <guid>https://lobste.rs/s/cegf7n</guid>
+      <author>evergarden.moe via FedericoSchonborn</author>
+      <pubDate>Fri, 11 Sep 2026 07:59:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/cegf7n/evergarden</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cegf7n/evergarden"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+    </item>
+    <item>
+      <title>heol</title>
+      <link>https://wiki.xxiivv.com/site/heol.html</link>
+      <guid>https://lobste.rs/s/pr1po9</guid>
+      <author>wiki.xxiivv.com via FedericoSchonborn</author>
+      <pubDate>Sun, 13 Sep 2026 00:59:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/pr1po9/heol</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pr1po9/heol"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lisp</category>
+    </item>
+    <item>
+      <title>Models Don't Go Rogue</title>
+      <link>https://mail.cyberneticforests.com/models-dont-go-rogue/</link>
+      <guid>https://lobste.rs/s/0i492m</guid>
+      <author>mail.cyberneticforests.com via Yogthos</author>
+      <pubDate>Thu, 10 Sep 2026 22:37:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/0i492m/models_don_t_go_rogue</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0i492m/models_don_t_go_rogue"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
