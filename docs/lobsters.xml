@@ -39,17 +39,6 @@
       <category>law</category>
     </item>
     <item>
-      <title>A faster way to convert a timestamp to Hour, Min, Sec</title>
-      <link>https://www.benjoffe.com/fast-time-of-day</link>
-      <guid>https://lobste.rs/s/wolwwd</guid>
-      <author>benjoffe.com by benjoffe</author>
-      <pubDate>Mon, 07 Sep 2026 05:27:56 -0500</pubDate>
-      <comments>https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c++</category>
-      <category>performance</category>
-    </item>
-    <item>
       <title>OpenAI agents carried out an undisclosed attack on RubyGems</title>
       <link>https://www.rubyhack.ai/</link>
       <guid>https://lobste.rs/s/wajtsa</guid>
@@ -71,6 +60,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>I made a build visualizer to understand Bun’s compile times</title>
+      <link>https://lalitm.com/post/buildprof/</link>
+      <guid>https://lobste.rs/s/qsrjs2</guid>
+      <author>lalitm.com by lalitm</author>
+      <pubDate>Sat, 12 Sep 2026 09:48:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compilers</category>
+      <category>performance</category>
     </item>
     <item>
       <title>How to build a f**king printer</title>
@@ -97,15 +97,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>I made a build visualizer to understand Bun’s compile times</title>
-      <link>https://lalitm.com/post/buildprof/</link>
-      <guid>https://lobste.rs/s/qsrjs2</guid>
-      <author>lalitm.com by lalitm</author>
-      <pubDate>Sat, 12 Sep 2026 09:48:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compilers</category>
-      <category>performance</category>
+      <title>Watch what you say: Apple opens the door to a nightmare world of always-listening tech</title>
+      <link>https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/</link>
+      <guid>https://lobste.rs/s/yaax1z</guid>
+      <author>this.weekinsecurity.com via lim</author>
+      <pubDate>Sun, 13 Sep 2026 07:10:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
     </item>
     <item>
       <title>Switching Password Managers in 2026</title>
@@ -119,6 +118,16 @@
       <category>practices</category>
     </item>
     <item>
+      <title>The contagion of fear</title>
+      <link>https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</link>
+      <guid>https://lobste.rs/s/1ifr5f</guid>
+      <author>bcantrill.dtrace.org via rrampage</author>
+      <pubDate>Mon, 14 Sep 2026 11:53:14 -0500</pubDate>
+      <comments>https://lobste.rs/s/1ifr5f/contagion_fear</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1ifr5f/contagion_fear"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>The state of European cloud providers in 2026</title>
       <link>https://crescentro.se/posts/euro-cloud-providers-2026/</link>
       <guid>https://lobste.rs/s/6licoy</guid>
@@ -129,14 +138,14 @@
       <category>scaling</category>
     </item>
     <item>
-      <title>Rust Is Tier-1 Language at Microsoft</title>
-      <link>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</link>
-      <guid>https://lobste.rs/s/eerwba</guid>
-      <author>rustfoundation.org via mmastrac</author>
-      <pubDate>Thu, 10 Sep 2026 08:40:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>Anecdotally, programmers dislike "reduce"</title>
+      <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
+      <guid>https://lobste.rs/s/dhn991</guid>
+      <author>evanhahn.com via aphaelion</author>
+      <pubDate>Sun, 13 Sep 2026 18:59:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
@@ -149,6 +158,16 @@
       <category>security</category>
       <category>web</category>
       <category>rant</category>
+    </item>
+    <item>
+      <title>Rust Is Tier-1 Language at Microsoft</title>
+      <link>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</link>
+      <guid>https://lobste.rs/s/eerwba</guid>
+      <author>rustfoundation.org via mmastrac</author>
+      <pubDate>Thu, 10 Sep 2026 08:40:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
     </item>
     <item>
       <title>A Severe Misalignment of AI in Mathematics</title>
@@ -172,6 +191,18 @@
       <category>release</category>
     </item>
     <item>
+      <title>Reverse engineering my e-scooter and rewriting the firmware in rust</title>
+      <link>https://bensimms.moe/reverse-engineering-scooter/</link>
+      <guid>https://lobste.rs/s/pdr2bo</guid>
+      <author>bensimms.moe via kevinmehall</author>
+      <pubDate>Tue, 08 Sep 2026 16:03:22 -0500</pubDate>
+      <comments>https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+      <category>reversing</category>
+      <category>rust</category>
+    </item>
+    <item>
       <title>A decade of rustls</title>
       <link>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/</link>
       <guid>https://lobste.rs/s/zffgb8</guid>
@@ -183,16 +214,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Reverse engineering my e-scooter and rewriting the firmware in rust</title>
-      <link>https://bensimms.moe/reverse-engineering-scooter/</link>
-      <guid>https://lobste.rs/s/pdr2bo</guid>
-      <author>bensimms.moe via kevinmehall</author>
-      <pubDate>Tue, 08 Sep 2026 16:03:22 -0500</pubDate>
-      <comments>https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-      <category>reversing</category>
-      <category>rust</category>
+      <title>heol</title>
+      <link>https://wiki.xxiivv.com/site/heol.html</link>
+      <guid>https://lobste.rs/s/pr1po9</guid>
+      <author>wiki.xxiivv.com via FedericoSchonborn</author>
+      <pubDate>Sun, 13 Sep 2026 00:59:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/pr1po9/heol</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pr1po9/heol"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lisp</category>
     </item>
     <item>
       <title>Apple Event for September 9th, 2026</title>
@@ -210,16 +239,6 @@
       <category>mac</category>
     </item>
     <item>
-      <title>Soft-deprecating re.match()</title>
-      <link>https://hugovk.dev/blog/2026/soft-deprecating-re.match/</link>
-      <guid>https://lobste.rs/s/u7dr96</guid>
-      <author>hugovk.dev via ubernostrum</author>
-      <pubDate>Thu, 10 Sep 2026 16:59:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/u7dr96/soft_deprecating_re_match</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u7dr96/soft_deprecating_re_match"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
-    </item>
-    <item>
       <title>Linux Zoom Client Proactively Reads X11 Clipboard</title>
       <link>https://hachyderm.io/@simontatham/117201594980991062</link>
       <guid>https://lobste.rs/s/8t1ddm</guid>
@@ -231,56 +250,36 @@
       <category>linux</category>
     </item>
     <item>
-      <title>Watch what you say: Apple opens the door to a nightmare world of always-listening tech</title>
-      <link>https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/</link>
-      <guid>https://lobste.rs/s/yaax1z</guid>
-      <author>this.weekinsecurity.com via lim</author>
-      <pubDate>Sun, 13 Sep 2026 07:10:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
+      <title>Soft-deprecating re.match()</title>
+      <link>https://hugovk.dev/blog/2026/soft-deprecating-re.match/</link>
+      <guid>https://lobste.rs/s/u7dr96</guid>
+      <author>hugovk.dev via ubernostrum</author>
+      <pubDate>Thu, 10 Sep 2026 16:59:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/u7dr96/soft_deprecating_re_match</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u7dr96/soft_deprecating_re_match"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
     </item>
     <item>
-      <title>Extreme Server Side Rendering</title>
-      <link>https://www.scd31.com/posts/extreme-server-side-rendering</link>
-      <guid>https://lobste.rs/s/tprfej</guid>
-      <author>scd31.com via hmac</author>
-      <pubDate>Tue, 08 Sep 2026 05:54:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/tprfej/extreme_server_side_rendering</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tprfej/extreme_server_side_rendering"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>web</category>
+      <title>Why is the x86 undefined instruction called ud2? Why 2?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</link>
+      <guid>https://lobste.rs/s/zbb37v</guid>
+      <author>devblogs.microsoft.com via eranb</author>
+      <pubDate>Sun, 13 Sep 2026 22:34:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>historical</category>
     </item>
     <item>
-      <title>evergarden</title>
-      <link>https://evergarden.moe/</link>
-      <guid>https://lobste.rs/s/cegf7n</guid>
-      <author>evergarden.moe via FedericoSchonborn</author>
-      <pubDate>Fri, 11 Sep 2026 07:59:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/cegf7n/evergarden</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cegf7n/evergarden"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-    </item>
-    <item>
-      <title>heol</title>
-      <link>https://wiki.xxiivv.com/site/heol.html</link>
-      <guid>https://lobste.rs/s/pr1po9</guid>
-      <author>wiki.xxiivv.com via FedericoSchonborn</author>
-      <pubDate>Sun, 13 Sep 2026 00:59:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/pr1po9/heol</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pr1po9/heol"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lisp</category>
-    </item>
-    <item>
-      <title>Models Don't Go Rogue</title>
-      <link>https://mail.cyberneticforests.com/models-dont-go-rogue/</link>
-      <guid>https://lobste.rs/s/0i492m</guid>
-      <author>mail.cyberneticforests.com via Yogthos</author>
-      <pubDate>Thu, 10 Sep 2026 22:37:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/0i492m/models_don_t_go_rogue</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0i492m/models_don_t_go_rogue"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>vibecoding</category>
+      <title>Homebrew 7.0.0</title>
+      <link>https://brew.sh/2026/09/13/homebrew-7.0.0/</link>
+      <guid>https://lobste.rs/s/vmapye</guid>
+      <author>brew.sh via EvanHahn</author>
+      <pubDate>Sun, 13 Sep 2026 07:22:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/vmapye/homebrew_7_0_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vmapye/homebrew_7_0_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>mac</category>
     </item>
   </channel>
 </rss>
