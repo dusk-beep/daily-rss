@@ -29,14 +29,14 @@
       <category>programming</category>
     </item>
     <item>
-      <title>I changed my license to EUPL</title>
-      <link>https://bergie.iki.fi/blog/eupl/</link>
-      <guid>https://lobste.rs/s/4ntizu</guid>
-      <author>bergie.iki.fi via knedl</author>
-      <pubDate>Mon, 07 Sep 2026 23:17:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/4ntizu/i_changed_my_license_eupl</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ntizu/i_changed_my_license_eupl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
+      <title>The contagion of fear</title>
+      <link>https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</link>
+      <guid>https://lobste.rs/s/1ifr5f</guid>
+      <author>bcantrill.dtrace.org via rrampage</author>
+      <pubDate>Mon, 14 Sep 2026 11:53:14 -0500</pubDate>
+      <comments>https://lobste.rs/s/1ifr5f/contagion_fear</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1ifr5f/contagion_fear"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>OpenAI agents carried out an undisclosed attack on RubyGems</title>
@@ -73,19 +73,6 @@
       <category>performance</category>
     </item>
     <item>
-      <title>How to build a f**king printer</title>
-      <link>https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</link>
-      <guid>https://lobste.rs/s/pxreik</guid>
-      <author>nishantjosh.dev by nishantjosh</author>
-      <pubDate>Tue, 08 Sep 2026 16:39:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/pxreik/how_build_f_king_printer</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pxreik/how_build_f_king_printer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-      <category>networking</category>
-      <category>c++</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>It Breaks a Village: Bevy's 6th Birthday</title>
       <link>https://blog.fallible.net/it-breaks-a-village/</link>
       <guid>https://lobste.rs/s/k99ryf</guid>
@@ -107,37 +94,6 @@
       <category>privacy</category>
     </item>
     <item>
-      <title>Switching Password Managers in 2026</title>
-      <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
-      <guid>https://lobste.rs/s/ikzvtv</guid>
-      <author>rmondello.com via soulcutter</author>
-      <pubDate>Tue, 08 Sep 2026 08:55:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/ikzvtv/switching_password_managers_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>practices</category>
-    </item>
-    <item>
-      <title>The contagion of fear</title>
-      <link>https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</link>
-      <guid>https://lobste.rs/s/1ifr5f</guid>
-      <author>bcantrill.dtrace.org via rrampage</author>
-      <pubDate>Mon, 14 Sep 2026 11:53:14 -0500</pubDate>
-      <comments>https://lobste.rs/s/1ifr5f/contagion_fear</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1ifr5f/contagion_fear"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>The state of European cloud providers in 2026</title>
-      <link>https://crescentro.se/posts/euro-cloud-providers-2026/</link>
-      <guid>https://lobste.rs/s/6licoy</guid>
-      <author>crescentro.se via morj</author>
-      <pubDate>Tue, 08 Sep 2026 02:20:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/6licoy/state_european_cloud_providers_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6licoy/state_european_cloud_providers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>scaling</category>
-    </item>
-    <item>
       <title>Anecdotally, programmers dislike "reduce"</title>
       <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
       <guid>https://lobste.rs/s/dhn991</guid>
@@ -146,6 +102,30 @@
       <comments>https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
+    </item>
+    <item>
+      <title>What blog posts influenced your thinking the most?</title>
+      <link>https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking</link>
+      <guid>https://lobste.rs/s/lbavmm</guid>
+      <author> by mt</author>
+      <pubDate>Mon, 14 Sep 2026 10:27:32 -0500</pubDate>
+      <comments>https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking</comments>
+      <description>&lt;p&gt;Interested in hearing your opinions, I usually learn a lot from it.&lt;/p&gt;
+&lt;p&gt;For me it has to be Parse, Don’t Validate and early joelonsoftware.&lt;/p&gt;
+</description>
+      <category>practices</category>
+      <category>ask</category>
+    </item>
+    <item>
+      <title>How can you not be romantic about UNIX domain sockets?</title>
+      <link>https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets</link>
+      <guid>https://lobste.rs/s/uauns9</guid>
+      <author>yuvalino.com via polywolf</author>
+      <pubDate>Mon, 14 Sep 2026 11:27:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>unix</category>
     </item>
     <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
@@ -181,26 +161,26 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Jellyfin 12.0</title>
-      <link>https://jellyfin.org/posts/jellyfin-release-12.0</link>
-      <guid>https://lobste.rs/s/blba3b</guid>
-      <author>jellyfin.org via lilac</author>
-      <pubDate>Mon, 07 Sep 2026 22:13:20 -0500</pubDate>
-      <comments>https://lobste.rs/s/blba3b/jellyfin_12_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blba3b/jellyfin_12_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
+      <title>Why is the x86 undefined instruction called ud2? Why 2?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</link>
+      <guid>https://lobste.rs/s/zbb37v</guid>
+      <author>devblogs.microsoft.com via eranb</author>
+      <pubDate>Sun, 13 Sep 2026 22:34:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>historical</category>
     </item>
     <item>
-      <title>Reverse engineering my e-scooter and rewriting the firmware in rust</title>
-      <link>https://bensimms.moe/reverse-engineering-scooter/</link>
-      <guid>https://lobste.rs/s/pdr2bo</guid>
-      <author>bensimms.moe via kevinmehall</author>
-      <pubDate>Tue, 08 Sep 2026 16:03:22 -0500</pubDate>
-      <comments>https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-      <category>reversing</category>
-      <category>rust</category>
+      <title>"Do You Still Read the Code?"</title>
+      <link>https://zanlib.dev/blog/do-you-still-read-the-code/</link>
+      <guid>https://lobste.rs/s/qiwlzz</guid>
+      <author>zanlib.dev by zanlib</author>
+      <pubDate>Mon, 14 Sep 2026 15:16:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/qiwlzz/do_you_still_read_code</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qiwlzz/do_you_still_read_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>A decade of rustls</title>
@@ -260,17 +240,6 @@
       <category>python</category>
     </item>
     <item>
-      <title>Why is the x86 undefined instruction called ud2? Why 2?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</link>
-      <guid>https://lobste.rs/s/zbb37v</guid>
-      <author>devblogs.microsoft.com via eranb</author>
-      <pubDate>Sun, 13 Sep 2026 22:34:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-      <category>historical</category>
-    </item>
-    <item>
       <title>Homebrew 7.0.0</title>
       <link>https://brew.sh/2026/09/13/homebrew-7.0.0/</link>
       <guid>https://lobste.rs/s/vmapye</guid>
@@ -280,6 +249,38 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vmapye/homebrew_7_0_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>mac</category>
+    </item>
+    <item>
+      <title>what if my git host were a static site generator?</title>
+      <link>https://char.lt/blog/2026/09/sorcery-repo-viewer/</link>
+      <guid>https://lobste.rs/s/6syfar</guid>
+      <author>char.lt via easrng</author>
+      <pubDate>Sun, 13 Sep 2026 11:10:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>javascript</category>
+      <category>web</category>
+      <category>vcs</category>
+    </item>
+    <item>
+      <title>The case against JPEG XL</title>
+      <link>https://giannirosato.com/blog/post/case-against-jxl</link>
+      <guid>https://lobste.rs/s/e1lcnf</guid>
+      <author>giannirosato.com by gianni</author>
+      <pubDate>Sun, 13 Sep 2026 20:18:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/e1lcnf/case_against_jpeg_xl</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e1lcnf/case_against_jpeg_xl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compsci</category>
+    </item>
+    <item>
+      <title>I wish you the best in the Offline</title>
+      <link>https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</link>
+      <guid>https://lobste.rs/s/ede4z0</guid>
+      <author>daverupert.com via skycam</author>
+      <pubDate>Mon, 14 Sep 2026 11:39:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/ede4z0/i_wish_you_best_offline</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ede4z0/i_wish_you_best_offline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
     </item>
   </channel>
 </rss>
