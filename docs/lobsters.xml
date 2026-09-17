@@ -39,6 +39,31 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>A/I Shuts Down</title>
+      <link>https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/</link>
+      <guid>https://lobste.rs/s/wxnibb</guid>
+      <author>keepitfree.ai via kolja</author>
+      <pubDate>Wed, 16 Sep 2026 01:05:38 -0500</pubDate>
+      <comments>https://lobste.rs/s/wxnibb/i_shuts_down</comments>
+      <description>&lt;p&gt;A/I is Autistici/Inventati, nothing to do with algorithms.&lt;/p&gt;
+&lt;p&gt;Why this matters: to quote senior advisor and journalist &lt;a href="https://systemli.social/@anneroth" rel="ugc"&gt;Anne Roth&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;20,000 mail accounts.
+20,000 blogs.
+5,000 mailing lists.
+1,500 websites.&lt;/p&gt;
+&lt;p&gt;In Europe.&lt;/p&gt;
+&lt;p&gt;Run by volunteers of &lt;a href="https://systemli.social/@cavallette@mastodon.bida.im" rel="ugc"&gt;@cavallette&lt;/a&gt;, perfectly legal, and decidedly antifascist, feminist, queer.&lt;/p&gt;
+&lt;p&gt;Destroyed and shut down by Trump's administration, extra legally.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is one of the most devastating cases of politically motivated debanking I have come across.&lt;/p&gt;
+&lt;p&gt;Triggered &lt;a href="https://lobste.rs/c/dv0zqn" rel="ugc"&gt;by my own comment&lt;/a&gt;, I thought this might be a good starting point for a discussion about how to secure platforms not only technically, but also socially and financially.&lt;/p&gt;
+&lt;p&gt;Mods: this is my first submission, feel free to tell me how to improve. I had a hard time choosing a tag, but I think this may be relevant to the community.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/wxnibb/i_shuts_down"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>finance</category>
+    </item>
+    <item>
       <title>OpenAI agents carried out an undisclosed attack on RubyGems</title>
       <link>https://www.rubyhack.ai/</link>
       <guid>https://lobste.rs/s/wajtsa</guid>
@@ -48,17 +73,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>ruby</category>
       <category>security</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>I Don’t Want to Interact With Stochastic Parrots</title>
-      <link>https://ploum.net/2026-09-09-ai_policy.html</link>
-      <guid>https://lobste.rs/s/rdhsu9</guid>
-      <author>ploum.net via cgrinds</author>
-      <pubDate>Wed, 09 Sep 2026 12:18:32 -0500</pubDate>
-      <comments>https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -94,16 +108,6 @@
       <category>privacy</category>
     </item>
     <item>
-      <title>Anecdotally, programmers dislike "reduce"</title>
-      <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
-      <guid>https://lobste.rs/s/dhn991</guid>
-      <author>evanhahn.com via aphaelion</author>
-      <pubDate>Sun, 13 Sep 2026 18:59:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-    </item>
-    <item>
       <title>What blog posts influenced your thinking the most?</title>
       <link>https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking</link>
       <guid>https://lobste.rs/s/lbavmm</guid>
@@ -126,6 +130,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
       <category>unix</category>
+    </item>
+    <item>
+      <title>Anecdotally, programmers dislike "reduce"</title>
+      <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
+      <guid>https://lobste.rs/s/dhn991</guid>
+      <author>evanhahn.com via aphaelion</author>
+      <pubDate>Sun, 13 Sep 2026 18:59:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
@@ -161,6 +175,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>GEFS on OpenBSD: A very early preview</title>
+      <link>https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</link>
+      <guid>https://lobste.rs/s/buzdkb</guid>
+      <author>marc.info via jbauer</author>
+      <pubDate>Tue, 15 Sep 2026 12:21:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>openbsd</category>
+    </item>
+    <item>
       <title>Why is the x86 undefined instruction called ud2? Why 2?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</link>
       <guid>https://lobste.rs/s/zbb37v</guid>
@@ -183,17 +207,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>A decade of rustls</title>
-      <link>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/</link>
-      <guid>https://lobste.rs/s/zffgb8</guid>
-      <author>rustls.dev via wofo</author>
-      <pubDate>Wed, 09 Sep 2026 06:13:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/zffgb8/decade_rustls</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zffgb8/decade_rustls"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-      <category>rust</category>
-    </item>
-    <item>
       <title>heol</title>
       <link>https://wiki.xxiivv.com/site/heol.html</link>
       <guid>https://lobste.rs/s/pr1po9</guid>
@@ -202,21 +215,6 @@
       <comments>https://lobste.rs/s/pr1po9/heol</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pr1po9/heol"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>lisp</category>
-    </item>
-    <item>
-      <title>Apple Event for September 9th, 2026</title>
-      <link>https://www.apple.com/apple-events/event-stream/</link>
-      <guid>https://lobste.rs/s/zj6mij</guid>
-      <author>apple.com via calvin</author>
-      <pubDate>Wed, 09 Sep 2026 11:54:31 -0500</pubDate>
-      <comments>https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026</comments>
-      <description>&lt;p&gt;Out with the Tim, in with the John. Who knows if they'll fold?&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>event</category>
-      <category>video</category>
-      <category>ios</category>
-      <category>hardware</category>
-      <category>mac</category>
     </item>
     <item>
       <title>Linux Zoom Client Proactively Reads X11 Clipboard</title>
@@ -228,6 +226,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>linux</category>
+    </item>
+    <item>
+      <title>Coreutils - rejected feature requests</title>
+      <link>https://www.gnu.org/software/coreutils/rejected_requests.html</link>
+      <guid>https://lobste.rs/s/zbcua4</guid>
+      <author>gnu.org via ryan-duve</author>
+      <pubDate>Tue, 15 Sep 2026 04:06:36 -0500</pubDate>
+      <comments>https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>unix</category>
+      <category>programming</category>
     </item>
     <item>
       <title>Soft-deprecating re.match()</title>
@@ -251,6 +260,16 @@
       <category>mac</category>
     </item>
     <item>
+      <title>I wish you the best in the Offline</title>
+      <link>https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</link>
+      <guid>https://lobste.rs/s/ede4z0</guid>
+      <author>daverupert.com via skycam</author>
+      <pubDate>Mon, 14 Sep 2026 11:39:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/ede4z0/i_wish_you_best_offline</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ede4z0/i_wish_you_best_offline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
       <title>what if my git host were a static site generator?</title>
       <link>https://char.lt/blog/2026/09/sorcery-repo-viewer/</link>
       <guid>https://lobste.rs/s/6syfar</guid>
@@ -271,16 +290,6 @@
       <comments>https://lobste.rs/s/e1lcnf/case_against_jpeg_xl</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e1lcnf/case_against_jpeg_xl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>compsci</category>
-    </item>
-    <item>
-      <title>I wish you the best in the Offline</title>
-      <link>https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</link>
-      <guid>https://lobste.rs/s/ede4z0</guid>
-      <author>daverupert.com via skycam</author>
-      <pubDate>Mon, 14 Sep 2026 11:39:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/ede4z0/i_wish_you_best_offline</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ede4z0/i_wish_you_best_offline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
     </item>
   </channel>
 </rss>
