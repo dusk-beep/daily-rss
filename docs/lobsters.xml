@@ -87,17 +87,6 @@
       <category>performance</category>
     </item>
     <item>
-      <title>It Breaks a Village: Bevy's 6th Birthday</title>
-      <link>https://blog.fallible.net/it-breaks-a-village/</link>
-      <guid>https://lobste.rs/s/k99ryf</guid>
-      <author>blog.fallible.net via aldantanneo</author>
-      <pubDate>Thu, 10 Sep 2026 05:38:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Watch what you say: Apple opens the door to a nightmare world of always-listening tech</title>
       <link>https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/</link>
       <guid>https://lobste.rs/s/yaax1z</guid>
@@ -121,6 +110,16 @@
       <category>ask</category>
     </item>
     <item>
+      <title>Everybody's Lost Their Minds</title>
+      <link>https://www.netmeister.org/blog/everybodys-lost-their-minds.html</link>
+      <guid>https://lobste.rs/s/rok1za</guid>
+      <author>netmeister.org via j11g</author>
+      <pubDate>Thu, 17 Sep 2026 10:06:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/rok1za/everybody_s_lost_their_minds</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rok1za/everybody_s_lost_their_minds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
       <title>How can you not be romantic about UNIX domain sockets?</title>
       <link>https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets</link>
       <guid>https://lobste.rs/s/uauns9</guid>
@@ -142,26 +141,25 @@
       <category>programming</category>
     </item>
     <item>
-      <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
-      <link>https://maurycyz.com/misc/domains/</link>
-      <guid>https://lobste.rs/s/9szn91</guid>
-      <author>maurycyz.com by maurycy</author>
-      <pubDate>Thu, 10 Sep 2026 10:14:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>web</category>
-      <category>rant</category>
+      <title>Introducing GNOME 51</title>
+      <link>https://release.gnome.org/51/</link>
+      <guid>https://lobste.rs/s/gs10ad</guid>
+      <author>release.gnome.org via uncenter</author>
+      <pubDate>Wed, 16 Sep 2026 13:05:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/gs10ad/introducing_gnome_51</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gs10ad/introducing_gnome_51"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>release</category>
     </item>
     <item>
-      <title>Rust Is Tier-1 Language at Microsoft</title>
-      <link>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</link>
-      <guid>https://lobste.rs/s/eerwba</guid>
-      <author>rustfoundation.org via mmastrac</author>
-      <pubDate>Thu, 10 Sep 2026 08:40:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>GEFS on OpenBSD: A very early preview</title>
+      <link>https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</link>
+      <guid>https://lobste.rs/s/buzdkb</guid>
+      <author>marc.info via jbauer</author>
+      <pubDate>Tue, 15 Sep 2026 12:21:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>openbsd</category>
     </item>
     <item>
       <title>A Severe Misalignment of AI in Mathematics</title>
@@ -175,14 +173,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>GEFS on OpenBSD: A very early preview</title>
-      <link>https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</link>
-      <guid>https://lobste.rs/s/buzdkb</guid>
-      <author>marc.info via jbauer</author>
-      <pubDate>Tue, 15 Sep 2026 12:21:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>openbsd</category>
+      <title>The end of verygoodsoftwarenotvirus.ru</title>
+      <link>https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/</link>
+      <guid>https://lobste.rs/s/ihw0hq</guid>
+      <author>blog.verygoodsoftwarenotvirus.dev by verygoodsoftwarenotvirus</author>
+      <pubDate>Wed, 16 Sep 2026 11:58:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>Why is the x86 undefined instruction called ud2? Why 2?</title>
@@ -217,15 +215,14 @@
       <category>lisp</category>
     </item>
     <item>
-      <title>Linux Zoom Client Proactively Reads X11 Clipboard</title>
-      <link>https://hachyderm.io/@simontatham/117201594980991062</link>
-      <guid>https://lobste.rs/s/8t1ddm</guid>
-      <author>hachyderm.io via darleaf</author>
-      <pubDate>Sat, 12 Sep 2026 07:38:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>linux</category>
+      <title>How to get a DOI for your blog posts</title>
+      <link>https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/</link>
+      <guid>https://lobste.rs/s/lvld5b</guid>
+      <author>shkspr.mobi via eBPF</author>
+      <pubDate>Wed, 16 Sep 2026 10:59:17 -0500</pubDate>
+      <comments>https://lobste.rs/s/lvld5b/how_get_doi_for_your_blog_posts</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lvld5b/how_get_doi_for_your_blog_posts"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>Coreutils - rejected feature requests</title>
@@ -239,14 +236,27 @@
       <category>programming</category>
     </item>
     <item>
-      <title>Soft-deprecating re.match()</title>
-      <link>https://hugovk.dev/blog/2026/soft-deprecating-re.match/</link>
-      <guid>https://lobste.rs/s/u7dr96</guid>
-      <author>hugovk.dev via ubernostrum</author>
-      <pubDate>Thu, 10 Sep 2026 16:59:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/u7dr96/soft_deprecating_re_match</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u7dr96/soft_deprecating_re_match"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
+      <title>Some things Veloren does differently</title>
+      <link>https://blog.jsbarretto.com/post/veloren</link>
+      <guid>https://lobste.rs/s/zutlqt</guid>
+      <author>blog.jsbarretto.com via LesleyLai</author>
+      <pubDate>Tue, 15 Sep 2026 22:47:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/zutlqt/some_things_veloren_does_differently</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zutlqt/some_things_veloren_does_differently"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>games</category>
+      <category>rust</category>
+      <category>graphics</category>
+    </item>
+    <item>
+      <title>Linux Zoom Client Proactively Reads X11 Clipboard</title>
+      <link>https://hachyderm.io/@simontatham/117201594980991062</link>
+      <guid>https://lobste.rs/s/8t1ddm</guid>
+      <author>hachyderm.io via darleaf</author>
+      <pubDate>Sat, 12 Sep 2026 07:38:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>linux</category>
     </item>
     <item>
       <title>Homebrew 7.0.0</title>
@@ -280,16 +290,6 @@
       <category>javascript</category>
       <category>web</category>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>The case against JPEG XL</title>
-      <link>https://giannirosato.com/blog/post/case-against-jxl</link>
-      <guid>https://lobste.rs/s/e1lcnf</guid>
-      <author>giannirosato.com by gianni</author>
-      <pubDate>Sun, 13 Sep 2026 20:18:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/e1lcnf/case_against_jpeg_xl</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e1lcnf/case_against_jpeg_xl"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compsci</category>
     </item>
   </channel>
 </rss>
