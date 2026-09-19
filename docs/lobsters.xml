@@ -5,28 +5,17 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Fri, 11 Sep 2026 09:23:46 -0500</pubDate>
+    <pubDate>Thu, 17 Sep 2026 10:06:08 -0500</pubDate>
     <ttl>120</ttl>
     <item>
-      <title>Power grab</title>
-      <link>https://tante.cc/2026/09/11/power-grab/</link>
-      <guid>https://lobste.rs/s/be7tgu</guid>
-      <author>tante.cc via rudis</author>
-      <pubDate>Fri, 11 Sep 2026 09:23:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/be7tgu/power_grab</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/be7tgu/power_grab"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
+      <title>Everybody's Lost Their Minds</title>
+      <link>https://www.netmeister.org/blog/everybodys-lost-their-minds.html</link>
+      <guid>https://lobste.rs/s/rok1za</guid>
+      <author>netmeister.org via j11g</author>
+      <pubDate>Thu, 17 Sep 2026 10:06:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/rok1za/everybody_s_lost_their_minds</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rok1za/everybody_s_lost_their_minds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>culture</category>
-    </item>
-    <item>
-      <title>Feeling sad about AI</title>
-      <link>https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/</link>
-      <guid>https://lobste.rs/s/7guove</guid>
-      <author>artificialworlds.net by andybalaam</author>
-      <pubDate>Fri, 11 Sep 2026 07:33:20 -0500</pubDate>
-      <comments>https://lobste.rs/s/7guove/feeling_sad_about_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7guove/feeling_sad_about_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
     </item>
     <item>
       <title>The contagion of fear</title>
@@ -64,16 +53,29 @@
       <category>finance</category>
     </item>
     <item>
-      <title>OpenAI agents carried out an undisclosed attack on RubyGems</title>
-      <link>https://www.rubyhack.ai/</link>
-      <guid>https://lobste.rs/s/wajtsa</guid>
-      <author>rubyhack.ai via xavdid</author>
-      <pubDate>Fri, 11 Sep 2026 18:41:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ruby</category>
-      <category>security</category>
-      <category>vibecoding</category>
+      <title>What is still exciting in tech?</title>
+      <link>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</link>
+      <guid>https://lobste.rs/s/lcjf7c</guid>
+      <author> by ploum</author>
+      <pubDate>Fri, 18 Sep 2026 03:14:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</comments>
+      <description>&lt;p&gt;A comment on a lobste.rs post about the tech culture stagnating made me think.&lt;/p&gt;
+&lt;p&gt;20-15 or even 10 years ago, tech was really exciting. Sure, monopolies were bad, I was fighting them, but tech by itself was very interesting. New versions of software were expected, we were skimming through changelogs to find novelties, installing beta or alpha versions of totally unknown projects. And I had lived that excitement since the 90’s.&lt;/p&gt;
+&lt;p&gt;When you think about it, today feels really bleak in comparison:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Changelogs of commercial projects now all have that pseudo-humorous tone to tell you that "they improved performance and fixed bugs"&lt;/li&gt;
+&lt;li&gt;The best smartphone I ever had is now 10 years old (and was not an expensive one, see &lt;a href="https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html" rel="ugc"&gt;https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;Around me, at least 3 totally unrelated people left a decade-long career in tech to do woodworking. And they are way happier.&lt;/li&gt;
+&lt;li&gt;My main interest in looking at changelogs is now to see how the projects I use will be enshitified with AI integration&lt;/li&gt;
+&lt;li&gt;Even my beloved Free Software stack is now heavily tainted by slop&lt;/li&gt;
+&lt;li&gt;Lot of people that could have been doing very cool thing (or were doing very cool things) are now outspoken fascist ( see &lt;a href="https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md" rel="ugc"&gt;https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md&lt;/a&gt; or &lt;a href="https://drewdevault.com/weird-guys/" rel="ugc"&gt;https://drewdevault.com/weird-guys/&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;Even if you are interested by AI, the ecological consequences and the way it is used are simply awful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of this makes me wonder: am I just a grumpy already old man? Am I missing something? If so, what?&lt;/p&gt;
+&lt;p&gt;So I would like to ask all lobste.rs: what do you find really exciting in tech today? What are you waiting with impatience? Which project are you following closely? What do you expect from them? What do you hope to see in the next few months or years?&lt;/p&gt;
+</description>
+      <category>ask</category>
+      <category>culture</category>
     </item>
     <item>
       <title>I made a build visualizer to understand Bun’s compile times</title>
@@ -85,16 +87,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>compilers</category>
       <category>performance</category>
-    </item>
-    <item>
-      <title>Watch what you say: Apple opens the door to a nightmare world of always-listening tech</title>
-      <link>https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/</link>
-      <guid>https://lobste.rs/s/yaax1z</guid>
-      <author>this.weekinsecurity.com via lim</author>
-      <pubDate>Sun, 13 Sep 2026 07:10:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
     </item>
     <item>
       <title>What blog posts influenced your thinking the most?</title>
@@ -110,14 +102,25 @@
       <category>ask</category>
     </item>
     <item>
-      <title>Everybody's Lost Their Minds</title>
-      <link>https://www.netmeister.org/blog/everybodys-lost-their-minds.html</link>
-      <guid>https://lobste.rs/s/rok1za</guid>
-      <author>netmeister.org via j11g</author>
-      <pubDate>Thu, 17 Sep 2026 10:06:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/rok1za/everybody_s_lost_their_minds</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rok1za/everybody_s_lost_their_minds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
+      <title>Introducing GNOME 51</title>
+      <link>https://release.gnome.org/51/</link>
+      <guid>https://lobste.rs/s/gs10ad</guid>
+      <author>release.gnome.org via uncenter</author>
+      <pubDate>Wed, 16 Sep 2026 13:05:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/gs10ad/introducing_gnome_51</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gs10ad/introducing_gnome_51"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>release</category>
+    </item>
+    <item>
+      <title>Watch what you say: Apple opens the door to a nightmare world of always-listening tech</title>
+      <link>https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/</link>
+      <guid>https://lobste.rs/s/yaax1z</guid>
+      <author>this.weekinsecurity.com via lim</author>
+      <pubDate>Sun, 13 Sep 2026 07:10:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
     </item>
     <item>
       <title>How can you not be romantic about UNIX domain sockets?</title>
@@ -141,15 +144,36 @@
       <category>programming</category>
     </item>
     <item>
-      <title>Introducing GNOME 51</title>
-      <link>https://release.gnome.org/51/</link>
-      <guid>https://lobste.rs/s/gs10ad</guid>
-      <author>release.gnome.org via uncenter</author>
-      <pubDate>Wed, 16 Sep 2026 13:05:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/gs10ad/introducing_gnome_51</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gs10ad/introducing_gnome_51"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>release</category>
+      <title>Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
+      <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
+      <guid>https://lobste.rs/s/eyg3oe</guid>
+      <author>micahflee.com via robey</author>
+      <pubDate>Thu, 17 Sep 2026 16:21:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>reversing</category>
+    </item>
+    <item>
+      <title>The end of verygoodsoftwarenotvirus.ru</title>
+      <link>https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/</link>
+      <guid>https://lobste.rs/s/ihw0hq</guid>
+      <author>blog.verygoodsoftwarenotvirus.dev by verygoodsoftwarenotvirus</author>
+      <pubDate>Wed, 16 Sep 2026 11:58:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+    </item>
+    <item>
+      <title>I Don't Like LLMs</title>
+      <link>https://martinfowler.com/articles/2026-dont-like-llms.html</link>
+      <guid>https://lobste.rs/s/pkj7mf</guid>
+      <author>martinfowler.com via cameron</author>
+      <pubDate>Thu, 17 Sep 2026 10:25:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/pkj7mf/i_don_t_like_llms</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pkj7mf/i_don_t_like_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>GEFS on OpenBSD: A very early preview</title>
@@ -162,25 +186,35 @@
       <category>openbsd</category>
     </item>
     <item>
-      <title>A Severe Misalignment of AI in Mathematics</title>
-      <link>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/</link>
-      <guid>https://lobste.rs/s/xsbz3l</guid>
-      <author>terrytao.wordpress.com via jo3_l</author>
-      <pubDate>Fri, 11 Sep 2026 14:03:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>math</category>
-      <category>vibecoding</category>
+      <title>We Must Create the Shit Machine</title>
+      <link>https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine</link>
+      <guid>https://lobste.rs/s/vzql1n</guid>
+      <author>mcsweeneys.net via FedericoSchonborn</author>
+      <pubDate>Thu, 17 Sep 2026 19:00:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/vzql1n/we_must_create_shit_machine</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vzql1n/we_must_create_shit_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
     </item>
     <item>
-      <title>The end of verygoodsoftwarenotvirus.ru</title>
-      <link>https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/</link>
-      <guid>https://lobste.rs/s/ihw0hq</guid>
-      <author>blog.verygoodsoftwarenotvirus.dev by verygoodsoftwarenotvirus</author>
-      <pubDate>Wed, 16 Sep 2026 11:58:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
+      <title>Be alert: targeted attacks on prominent Rustaceans</title>
+      <link>https://blog.rust-lang.org/2026/09/17/targeted-attacks/</link>
+      <guid>https://lobste.rs/s/uz30ed</guid>
+      <author>blog.rust-lang.org via itamarst</author>
+      <pubDate>Thu, 17 Sep 2026 13:10:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>I expected better from Google</title>
+      <link>https://www.minitap.ai/blog/i-expected-better-from-google</link>
+      <guid>https://lobste.rs/s/11uiiv</guid>
+      <author>minitap.ai via FedericoSchonborn</author>
+      <pubDate>Thu, 17 Sep 2026 05:01:13 -0500</pubDate>
+      <comments>https://lobste.rs/s/11uiiv/i_expected_better_from_google</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/11uiiv/i_expected_better_from_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
     </item>
     <item>
       <title>Why is the x86 undefined instruction called ud2? Why 2?</title>
@@ -205,16 +239,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>heol</title>
-      <link>https://wiki.xxiivv.com/site/heol.html</link>
-      <guid>https://lobste.rs/s/pr1po9</guid>
-      <author>wiki.xxiivv.com via FedericoSchonborn</author>
-      <pubDate>Sun, 13 Sep 2026 00:59:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/pr1po9/heol</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pr1po9/heol"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lisp</category>
-    </item>
-    <item>
       <title>How to get a DOI for your blog posts</title>
       <link>https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/</link>
       <guid>https://lobste.rs/s/lvld5b</guid>
@@ -225,15 +249,25 @@
       <category>web</category>
     </item>
     <item>
-      <title>Coreutils - rejected feature requests</title>
-      <link>https://www.gnu.org/software/coreutils/rejected_requests.html</link>
-      <guid>https://lobste.rs/s/zbcua4</guid>
-      <author>gnu.org via ryan-duve</author>
-      <pubDate>Tue, 15 Sep 2026 04:06:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>unix</category>
+      <title>heol</title>
+      <link>https://wiki.xxiivv.com/site/heol.html</link>
+      <guid>https://lobste.rs/s/pr1po9</guid>
+      <author>wiki.xxiivv.com via FedericoSchonborn</author>
+      <pubDate>Sun, 13 Sep 2026 00:59:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/pr1po9/heol</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pr1po9/heol"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lisp</category>
+    </item>
+    <item>
+      <title>Typst makes big strides</title>
+      <link>https://lwn.net/Articles/1092993/</link>
+      <guid>https://lobste.rs/s/j4oyxa</guid>
+      <author>lwn.net via isuffix</author>
+      <pubDate>Fri, 18 Sep 2026 08:14:17 -0500</pubDate>
+      <comments>https://lobste.rs/s/j4oyxa/typst_makes_big_strides</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4oyxa/typst_makes_big_strides"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
+      <category>a11y</category>
     </item>
     <item>
       <title>Some things Veloren does differently</title>
@@ -248,6 +282,17 @@
       <category>graphics</category>
     </item>
     <item>
+      <title>Coreutils - rejected feature requests</title>
+      <link>https://www.gnu.org/software/coreutils/rejected_requests.html</link>
+      <guid>https://lobste.rs/s/zbcua4</guid>
+      <author>gnu.org via ryan-duve</author>
+      <pubDate>Tue, 15 Sep 2026 04:06:36 -0500</pubDate>
+      <comments>https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>unix</category>
+      <category>programming</category>
+    </item>
+    <item>
       <title>Linux Zoom Client Proactively Reads X11 Clipboard</title>
       <link>https://hachyderm.io/@simontatham/117201594980991062</link>
       <guid>https://lobste.rs/s/8t1ddm</guid>
@@ -257,39 +302,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>linux</category>
-    </item>
-    <item>
-      <title>Homebrew 7.0.0</title>
-      <link>https://brew.sh/2026/09/13/homebrew-7.0.0/</link>
-      <guid>https://lobste.rs/s/vmapye</guid>
-      <author>brew.sh via EvanHahn</author>
-      <pubDate>Sun, 13 Sep 2026 07:22:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/vmapye/homebrew_7_0_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vmapye/homebrew_7_0_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>mac</category>
-    </item>
-    <item>
-      <title>I wish you the best in the Offline</title>
-      <link>https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</link>
-      <guid>https://lobste.rs/s/ede4z0</guid>
-      <author>daverupert.com via skycam</author>
-      <pubDate>Mon, 14 Sep 2026 11:39:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/ede4z0/i_wish_you_best_offline</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ede4z0/i_wish_you_best_offline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>what if my git host were a static site generator?</title>
-      <link>https://char.lt/blog/2026/09/sorcery-repo-viewer/</link>
-      <guid>https://lobste.rs/s/6syfar</guid>
-      <author>char.lt via easrng</author>
-      <pubDate>Sun, 13 Sep 2026 11:10:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>javascript</category>
-      <category>web</category>
-      <category>vcs</category>
     </item>
   </channel>
 </rss>
