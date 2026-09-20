@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Microsoft exec called AI scraping &#39;the largest theft of labor in human history&#39;</title>
-      <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
-      <description>865 points • 761 comments • by pluc&#xA;https://news.ycombinator.com/item?id=49752056</description>
-      <pubDate>Sat, 19 Sep 2026 01:56:07 +0000</pubDate>
-      <guid>49752056</guid>
+      <title>AI-generated posters don’t have to be horrible</title>
+      <link>https://john.hartnup.uk/2026/06/07/ai-event-posters.html</link>
+      <description>1383 points • 778 comments • by ereiamjh&#xA;https://news.ycombinator.com/item?id=49764791</description>
+      <pubDate>Sun, 20 Sep 2026 01:58:44 +0000</pubDate>
+      <guid>49764791</guid>
     </item>
     <item>
-      <title>I don&#39;t like passkeys</title>
-      <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
-      <description>733 points • 715 comments • by ethanhawksley&#xA;https://news.ycombinator.com/item?id=49753211</description>
-      <pubDate>Sat, 19 Sep 2026 01:55:07 +0000</pubDate>
-      <guid>49753211</guid>
+      <title>I built non-autoregressive decision models with RL a year ago</title>
+      <link>https://laya.convaiinnovations.com/</link>
+      <description>1094 points • 268 comments • by nandakishor_ml&#xA;https://news.ycombinator.com/item?id=49765348</description>
+      <pubDate>Sun, 20 Sep 2026 01:57:44 +0000</pubDate>
+      <guid>49765348</guid>
     </item>
     <item>
-      <title>Cloudflare Quick Tunnels</title>
-      <link>https://try.cloudflare.com/</link>
-      <description>578 points • 248 comments • by jcbhmr&#xA;https://news.ycombinator.com/item?id=49754785</description>
-      <pubDate>Sat, 19 Sep 2026 01:54:07 +0000</pubDate>
-      <guid>49754785</guid>
+      <title>Two parallel neural ectoderm progenitors contribute to the developing brain</title>
+      <link>https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</link>
+      <description>613 points • 237 comments • by emigre&#xA;https://news.ycombinator.com/item?id=49763697</description>
+      <pubDate>Sun, 20 Sep 2026 01:56:44 +0000</pubDate>
+      <guid>49763697</guid>
     </item>
     <item>
-      <title>OpenJev</title>
-      <link>https://openjev.com/</link>
-      <description>557 points • 245 comments • by ilreb&#xA;https://news.ycombinator.com/item?id=49752041</description>
-      <pubDate>Sat, 19 Sep 2026 01:53:07 +0000</pubDate>
-      <guid>49752041</guid>
+      <title>San Francisco Onion Futures Company</title>
+      <link>https://onionfutures.com/</link>
+      <description>375 points • 162 comments • by z-mach9&#xA;https://news.ycombinator.com/item?id=49763296</description>
+      <pubDate>Sun, 20 Sep 2026 01:55:44 +0000</pubDate>
+      <guid>49763296</guid>
     </item>
     <item>
-      <title>Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</title>
-      <link>https://grapheneos.social/@GrapheneOS/117282080803799576</link>
-      <description>534 points • 262 comments • by theanonymousone&#xA;https://news.ycombinator.com/item?id=49758736</description>
-      <pubDate>Sat, 19 Sep 2026 01:52:07 +0000</pubDate>
-      <guid>49758736</guid>
+      <title>GPT-6 Astra Solves a WWI German Radio Cipher</title>
+      <link>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</link>
+      <description>367 points • 168 comments • by nsoonhui&#xA;https://news.ycombinator.com/item?id=49763987</description>
+      <pubDate>Sun, 20 Sep 2026 01:54:44 +0000</pubDate>
+      <guid>49763987</guid>
     </item>
     <item>
-      <title>Claude Code now reads AGENTS.md if there is no Claude.md</title>
-      <link>https://code.claude.com/docs/en/changelog</link>
-      <description>511 points • 182 comments • by datadrivenangel&#xA;https://news.ycombinator.com/item?id=49760187</description>
-      <pubDate>Sat, 19 Sep 2026 01:51:07 +0000</pubDate>
-      <guid>49760187</guid>
+      <title>If math is more than proof, we need to better celebrate the rest of it</title>
+      <link>https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</link>
+      <description>311 points • 242 comments • by num42&#xA;https://news.ycombinator.com/item?id=49763928</description>
+      <pubDate>Sun, 20 Sep 2026 01:53:44 +0000</pubDate>
+      <guid>49763928</guid>
     </item>
     <item>
-      <title>A heap overflow and SSO misconfiguration to compromise OpenAI internal repos</title>
-      <link>https://www.hacktron.ai/blog/hacking-openai</link>
-      <description>470 points • 197 comments • by Handy-Man&#xA;https://news.ycombinator.com/item?id=49749656</description>
-      <pubDate>Sat, 19 Sep 2026 01:50:07 +0000</pubDate>
-      <guid>49749656</guid>
+      <title>I think you should almost never use AI to write</title>
+      <link>https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</link>
+      <description>234 points • 121 comments • by erwald&#xA;https://news.ycombinator.com/item?id=49767937</description>
+      <pubDate>Sun, 20 Sep 2026 01:52:44 +0000</pubDate>
+      <guid>49767937</guid>
     </item>
     <item>
-      <title>US Military had close call after using AI for hallucinated intelligence report</title>
-      <link>https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</link>
-      <description>402 points • 310 comments • by realsarm&#xA;https://news.ycombinator.com/item?id=49757520</description>
-      <pubDate>Sat, 19 Sep 2026 01:49:07 +0000</pubDate>
-      <guid>49757520</guid>
+      <title>Tin: full-text search for Postgres</title>
+      <link>https://planetscale.com/blog/introducing-tin</link>
+      <description>192 points • 73 comments • by ksec&#xA;https://news.ycombinator.com/item?id=49766611</description>
+      <pubDate>Sun, 20 Sep 2026 01:51:44 +0000</pubDate>
+      <guid>49766611</guid>
     </item>
     <item>
-      <title>Jemalloc 5.4.0</title>
-      <link>https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</link>
-      <description>325 points • 91 comments • by gkfasdfasdf&#xA;https://news.ycombinator.com/item?id=49750152</description>
-      <pubDate>Sat, 19 Sep 2026 01:48:07 +0000</pubDate>
-      <guid>49750152</guid>
+      <title>What Zig felt like, coming from Rust</title>
+      <link>https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</link>
+      <description>172 points • 212 comments • by ksec&#xA;https://news.ycombinator.com/item?id=49766637</description>
+      <pubDate>Sun, 20 Sep 2026 01:50:44 +0000</pubDate>
+      <guid>49766637</guid>
     </item>
     <item>
-      <title>Bend 2 and the Vibe-Coding Trap</title>
-      <link>https://blog.liampwll.com/posts/bend_vibe_coding/</link>
-      <description>311 points • 228 comments • by LiamPowell&#xA;https://news.ycombinator.com/item?id=49753179</description>
-      <pubDate>Sat, 19 Sep 2026 01:47:07 +0000</pubDate>
-      <guid>49753179</guid>
+      <title>Brood War Bench</title>
+      <link>https://bw.swerdlow.dev/report</link>
+      <description>159 points • 70 comments • by benswerd&#xA;https://news.ycombinator.com/item?id=49766966</description>
+      <pubDate>Sun, 20 Sep 2026 01:49:44 +0000</pubDate>
+      <guid>49766966</guid>
     </item>
   </channel>
 </rss>
