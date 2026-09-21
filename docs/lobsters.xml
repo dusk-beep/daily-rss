@@ -89,6 +89,17 @@
       <category>a11y</category>
     </item>
     <item>
+      <title>Introducing GNOME 51</title>
+      <link>https://release.gnome.org/51/</link>
+      <guid>https://lobste.rs/s/gs10ad</guid>
+      <author>release.gnome.org via uncenter</author>
+      <pubDate>Wed, 16 Sep 2026 13:05:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/gs10ad/introducing_gnome_51</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gs10ad/introducing_gnome_51"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>release</category>
+    </item>
+    <item>
       <title>Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
       <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
       <guid>https://lobste.rs/s/eyg3oe</guid>
@@ -100,15 +111,14 @@
       <category>reversing</category>
     </item>
     <item>
-      <title>Introducing GNOME 51</title>
-      <link>https://release.gnome.org/51/</link>
-      <guid>https://lobste.rs/s/gs10ad</guid>
-      <author>release.gnome.org via uncenter</author>
-      <pubDate>Wed, 16 Sep 2026 13:05:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/gs10ad/introducing_gnome_51</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gs10ad/introducing_gnome_51"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>release</category>
+      <title>We Must Create the Shit Machine</title>
+      <link>https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine</link>
+      <guid>https://lobste.rs/s/vzql1n</guid>
+      <author>mcsweeneys.net via FedericoSchonborn</author>
+      <pubDate>Thu, 17 Sep 2026 19:00:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/vzql1n/we_must_create_shit_machine</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vzql1n/we_must_create_shit_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
     </item>
     <item>
       <title>What blog posts influenced your thinking the most?</title>
@@ -124,26 +134,6 @@
       <category>ask</category>
     </item>
     <item>
-      <title>Watch what you say: Apple opens the door to a nightmare world of always-listening tech</title>
-      <link>https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/</link>
-      <guid>https://lobste.rs/s/yaax1z</guid>
-      <author>this.weekinsecurity.com via lim</author>
-      <pubDate>Sun, 13 Sep 2026 07:10:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-    </item>
-    <item>
-      <title>We Must Create the Shit Machine</title>
-      <link>https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine</link>
-      <guid>https://lobste.rs/s/vzql1n</guid>
-      <author>mcsweeneys.net via FedericoSchonborn</author>
-      <pubDate>Thu, 17 Sep 2026 19:00:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/vzql1n/we_must_create_shit_machine</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vzql1n/we_must_create_shit_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-    </item>
-    <item>
       <title>How can you not be romantic about UNIX domain sockets?</title>
       <link>https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets</link>
       <guid>https://lobste.rs/s/uauns9</guid>
@@ -155,14 +145,15 @@
       <category>unix</category>
     </item>
     <item>
-      <title>Anecdotally, programmers dislike "reduce"</title>
-      <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
-      <guid>https://lobste.rs/s/dhn991</guid>
-      <author>evanhahn.com via aphaelion</author>
-      <pubDate>Sun, 13 Sep 2026 18:59:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
+      <title>Be alert: targeted attacks on prominent Rustaceans</title>
+      <link>https://blog.rust-lang.org/2026/09/17/targeted-attacks/</link>
+      <guid>https://lobste.rs/s/uz30ed</guid>
+      <author>blog.rust-lang.org via itamarst</author>
+      <pubDate>Thu, 17 Sep 2026 13:10:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>rust</category>
     </item>
     <item>
       <title>The end of verygoodsoftwarenotvirus.ru</title>
@@ -173,17 +164,6 @@
       <comments>https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
-    </item>
-    <item>
-      <title>Be alert: targeted attacks on prominent Rustaceans</title>
-      <link>https://blog.rust-lang.org/2026/09/17/targeted-attacks/</link>
-      <guid>https://lobste.rs/s/uz30ed</guid>
-      <author>blog.rust-lang.org via itamarst</author>
-      <pubDate>Thu, 17 Sep 2026 13:10:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>rust</category>
     </item>
     <item>
       <title>I Don't Like LLMs</title>
@@ -214,6 +194,27 @@
       <pubDate>Thu, 17 Sep 2026 05:01:13 -0500</pubDate>
       <comments>https://lobste.rs/s/11uiiv/i_expected_better_from_google</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/11uiiv/i_expected_better_from_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
+    </item>
+    <item>
+      <title>You Know GDPR Is Good Based on Who Hates It</title>
+      <link>https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</link>
+      <guid>https://lobste.rs/s/poeqrk</guid>
+      <author>matduggan.com via siddhartha_golu</author>
+      <pubDate>Sun, 20 Sep 2026 00:46:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/poeqrk/you_know_gdpr_is_good_based_on_who_hates_it</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/poeqrk/you_know_gdpr_is_good_based_on_who_hates_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>AI Is an Elite Crime Spree</title>
+      <link>https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</link>
+      <guid>https://lobste.rs/s/blmlco</guid>
+      <author>thebignewsletter.com via jcd</author>
+      <pubDate>Sat, 19 Sep 2026 10:44:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/blmlco/ai_is_elite_crime_spree</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blmlco/ai_is_elite_crime_spree"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>law</category>
     </item>
     <item>
@@ -249,14 +250,24 @@
       <category>web</category>
     </item>
     <item>
-      <title>heol</title>
-      <link>https://wiki.xxiivv.com/site/heol.html</link>
-      <guid>https://lobste.rs/s/pr1po9</guid>
-      <author>wiki.xxiivv.com via FedericoSchonborn</author>
-      <pubDate>Sun, 13 Sep 2026 00:59:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/pr1po9/heol</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pr1po9/heol"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lisp</category>
+      <title>I don't like passkeys</title>
+      <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
+      <guid>https://lobste.rs/s/4a7qly</guid>
+      <author>hawksley.dev via eduard</author>
+      <pubDate>Fri, 18 Sep 2026 07:52:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/4a7qly/i_don_t_like_passkeys</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4a7qly/i_don_t_like_passkeys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>The scourge of x86 emulation</title>
+      <link>https://fex-emu.com/Scourge-of-emulation/</link>
+      <guid>https://lobste.rs/s/iq6w6l</guid>
+      <author>fex-emu.com via videah</author>
+      <pubDate>Sat, 19 Sep 2026 00:01:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/iq6w6l/scourge_x86_emulation</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iq6w6l/scourge_x86_emulation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
     <item>
       <title>Some things Veloren does differently</title>
@@ -282,25 +293,14 @@
       <category>programming</category>
     </item>
     <item>
-      <title>I don't like passkeys</title>
-      <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
-      <guid>https://lobste.rs/s/4a7qly</guid>
-      <author>hawksley.dev via eduard</author>
-      <pubDate>Fri, 18 Sep 2026 07:52:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/4a7qly/i_don_t_like_passkeys</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4a7qly/i_don_t_like_passkeys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
-      <title>Homebrew 7.0.0</title>
-      <link>https://brew.sh/2026/09/13/homebrew-7.0.0/</link>
-      <guid>https://lobste.rs/s/vmapye</guid>
-      <author>brew.sh via EvanHahn</author>
-      <pubDate>Sun, 13 Sep 2026 07:22:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/vmapye/homebrew_7_0_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vmapye/homebrew_7_0_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>mac</category>
+      <title>I wish you the best in the Offline</title>
+      <link>https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</link>
+      <guid>https://lobste.rs/s/ede4z0</guid>
+      <author>daverupert.com via skycam</author>
+      <pubDate>Mon, 14 Sep 2026 11:39:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/ede4z0/i_wish_you_best_offline</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ede4z0/i_wish_you_best_offline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
     </item>
   </channel>
 </rss>
