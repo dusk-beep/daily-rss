@@ -18,14 +18,29 @@
       <category>culture</category>
     </item>
     <item>
-      <title>The contagion of fear</title>
-      <link>https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</link>
-      <guid>https://lobste.rs/s/1ifr5f</guid>
-      <author>bcantrill.dtrace.org via rrampage</author>
-      <pubDate>Mon, 14 Sep 2026 11:53:14 -0500</pubDate>
-      <comments>https://lobste.rs/s/1ifr5f/contagion_fear</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1ifr5f/contagion_fear"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
+      <title>What is still exciting in tech?</title>
+      <link>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</link>
+      <guid>https://lobste.rs/s/lcjf7c</guid>
+      <author> by ploum</author>
+      <pubDate>Fri, 18 Sep 2026 03:14:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</comments>
+      <description>&lt;p&gt;A comment on a lobste.rs post about the tech culture stagnating made me think.&lt;/p&gt;
+&lt;p&gt;20-15 or even 10 years ago, tech was really exciting. Sure, monopolies were bad, I was fighting them, but tech by itself was very interesting. New versions of software were expected, we were skimming through changelogs to find novelties, installing beta or alpha versions of totally unknown projects. And I had lived that excitement since the 90’s.&lt;/p&gt;
+&lt;p&gt;When you think about it, today feels really bleak in comparison:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Changelogs of commercial projects now all have that pseudo-humorous tone to tell you that "they improved performance and fixed bugs"&lt;/li&gt;
+&lt;li&gt;The best smartphone I ever had is now 10 years old (and was not an expensive one, see &lt;a href="https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html" rel="ugc"&gt;https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;Around me, at least 3 totally unrelated people left a decade-long career in tech to do woodworking. And they are way happier.&lt;/li&gt;
+&lt;li&gt;My main interest in looking at changelogs is now to see how the projects I use will be enshitified with AI integration&lt;/li&gt;
+&lt;li&gt;Even my beloved Free Software stack is now heavily tainted by slop&lt;/li&gt;
+&lt;li&gt;Lot of people that could have been doing very cool thing (or were doing very cool things) are now outspoken fascist ( see &lt;a href="https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md" rel="ugc"&gt;https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md&lt;/a&gt; or &lt;a href="https://drewdevault.com/weird-guys/" rel="ugc"&gt;https://drewdevault.com/weird-guys/&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;Even if you are interested by AI, the ecological consequences and the way it is used are simply awful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of this makes me wonder: am I just a grumpy already old man? Am I missing something? If so, what?&lt;/p&gt;
+&lt;p&gt;So I would like to ask all lobste.rs: what do you find really exciting in tech today? What are you waiting with impatience? Which project are you following closely? What do you expect from them? What do you hope to see in the next few months or years?&lt;/p&gt;
+</description>
+      <category>ask</category>
+      <category>culture</category>
     </item>
     <item>
       <title>A/I Shuts Down</title>
@@ -53,31 +68,6 @@
       <category>finance</category>
     </item>
     <item>
-      <title>What is still exciting in tech?</title>
-      <link>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</link>
-      <guid>https://lobste.rs/s/lcjf7c</guid>
-      <author> by ploum</author>
-      <pubDate>Fri, 18 Sep 2026 03:14:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</comments>
-      <description>&lt;p&gt;A comment on a lobste.rs post about the tech culture stagnating made me think.&lt;/p&gt;
-&lt;p&gt;20-15 or even 10 years ago, tech was really exciting. Sure, monopolies were bad, I was fighting them, but tech by itself was very interesting. New versions of software were expected, we were skimming through changelogs to find novelties, installing beta or alpha versions of totally unknown projects. And I had lived that excitement since the 90’s.&lt;/p&gt;
-&lt;p&gt;When you think about it, today feels really bleak in comparison:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Changelogs of commercial projects now all have that pseudo-humorous tone to tell you that "they improved performance and fixed bugs"&lt;/li&gt;
-&lt;li&gt;The best smartphone I ever had is now 10 years old (and was not an expensive one, see &lt;a href="https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html" rel="ugc"&gt;https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;Around me, at least 3 totally unrelated people left a decade-long career in tech to do woodworking. And they are way happier.&lt;/li&gt;
-&lt;li&gt;My main interest in looking at changelogs is now to see how the projects I use will be enshitified with AI integration&lt;/li&gt;
-&lt;li&gt;Even my beloved Free Software stack is now heavily tainted by slop&lt;/li&gt;
-&lt;li&gt;Lot of people that could have been doing very cool thing (or were doing very cool things) are now outspoken fascist ( see &lt;a href="https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md" rel="ugc"&gt;https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md&lt;/a&gt; or &lt;a href="https://drewdevault.com/weird-guys/" rel="ugc"&gt;https://drewdevault.com/weird-guys/&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;Even if you are interested by AI, the ecological consequences and the way it is used are simply awful.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;All of this makes me wonder: am I just a grumpy already old man? Am I missing something? If so, what?&lt;/p&gt;
-&lt;p&gt;So I would like to ask all lobste.rs: what do you find really exciting in tech today? What are you waiting with impatience? Which project are you following closely? What do you expect from them? What do you hope to see in the next few months or years?&lt;/p&gt;
-</description>
-      <category>ask</category>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Typst makes big strides</title>
       <link>https://lwn.net/Articles/1092993/</link>
       <guid>https://lobste.rs/s/j4oyxa</guid>
@@ -87,17 +77,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4oyxa/typst_makes_big_strides"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
       <category>a11y</category>
-    </item>
-    <item>
-      <title>Introducing GNOME 51</title>
-      <link>https://release.gnome.org/51/</link>
-      <guid>https://lobste.rs/s/gs10ad</guid>
-      <author>release.gnome.org via uncenter</author>
-      <pubDate>Wed, 16 Sep 2026 13:05:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/gs10ad/introducing_gnome_51</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gs10ad/introducing_gnome_51"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>release</category>
     </item>
     <item>
       <title>Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
@@ -111,6 +90,17 @@
       <category>reversing</category>
     </item>
     <item>
+      <title>Introducing GNOME 51</title>
+      <link>https://release.gnome.org/51/</link>
+      <guid>https://lobste.rs/s/gs10ad</guid>
+      <author>release.gnome.org via uncenter</author>
+      <pubDate>Wed, 16 Sep 2026 13:05:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/gs10ad/introducing_gnome_51</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gs10ad/introducing_gnome_51"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>release</category>
+    </item>
+    <item>
       <title>We Must Create the Shit Machine</title>
       <link>https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine</link>
       <guid>https://lobste.rs/s/vzql1n</guid>
@@ -121,28 +111,24 @@
       <category>satire</category>
     </item>
     <item>
-      <title>What blog posts influenced your thinking the most?</title>
-      <link>https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking</link>
-      <guid>https://lobste.rs/s/lbavmm</guid>
-      <author> by mt</author>
-      <pubDate>Mon, 14 Sep 2026 10:27:32 -0500</pubDate>
-      <comments>https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking</comments>
-      <description>&lt;p&gt;Interested in hearing your opinions, I usually learn a lot from it.&lt;/p&gt;
-&lt;p&gt;For me it has to be Parse, Don’t Validate and early joelonsoftware.&lt;/p&gt;
-</description>
-      <category>practices</category>
-      <category>ask</category>
+      <title>AI Is an Elite Crime Spree</title>
+      <link>https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</link>
+      <guid>https://lobste.rs/s/blmlco</guid>
+      <author>thebignewsletter.com via jcd</author>
+      <pubDate>Sat, 19 Sep 2026 10:44:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/blmlco/ai_is_elite_crime_spree</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blmlco/ai_is_elite_crime_spree"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
     </item>
     <item>
-      <title>How can you not be romantic about UNIX domain sockets?</title>
-      <link>https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets</link>
-      <guid>https://lobste.rs/s/uauns9</guid>
-      <author>yuvalino.com via polywolf</author>
-      <pubDate>Mon, 14 Sep 2026 11:27:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>unix</category>
+      <title>What Sun got wrong</title>
+      <link>https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</link>
+      <guid>https://lobste.rs/s/vwl2kn</guid>
+      <author>bcantrill.dtrace.org via j11g</author>
+      <pubDate>Mon, 21 Sep 2026 02:14:39 -0500</pubDate>
+      <comments>https://lobste.rs/s/vwl2kn/what_sun_got_wrong</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vwl2kn/what_sun_got_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>historical</category>
     </item>
     <item>
       <title>Be alert: targeted attacks on prominent Rustaceans</title>
@@ -197,47 +183,14 @@
       <category>law</category>
     </item>
     <item>
-      <title>You Know GDPR Is Good Based on Who Hates It</title>
-      <link>https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</link>
-      <guid>https://lobste.rs/s/poeqrk</guid>
-      <author>matduggan.com via siddhartha_golu</author>
-      <pubDate>Sun, 20 Sep 2026 00:46:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/poeqrk/you_know_gdpr_is_good_based_on_who_hates_it</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/poeqrk/you_know_gdpr_is_good_based_on_who_hates_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>AI Is an Elite Crime Spree</title>
-      <link>https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</link>
-      <guid>https://lobste.rs/s/blmlco</guid>
-      <author>thebignewsletter.com via jcd</author>
-      <pubDate>Sat, 19 Sep 2026 10:44:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/blmlco/ai_is_elite_crime_spree</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blmlco/ai_is_elite_crime_spree"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-    </item>
-    <item>
-      <title>Why is the x86 undefined instruction called ud2? Why 2?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</link>
-      <guid>https://lobste.rs/s/zbb37v</guid>
-      <author>devblogs.microsoft.com via eranb</author>
-      <pubDate>Sun, 13 Sep 2026 22:34:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-      <category>historical</category>
-    </item>
-    <item>
-      <title>"Do You Still Read the Code?"</title>
-      <link>https://zanlib.dev/blog/do-you-still-read-the-code/</link>
-      <guid>https://lobste.rs/s/qiwlzz</guid>
-      <author>zanlib.dev by zanlib</author>
-      <pubDate>Mon, 14 Sep 2026 15:16:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/qiwlzz/do_you_still_read_code</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qiwlzz/do_you_still_read_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
+      <title>Beyond jj: config &amp; tools ecosystem</title>
+      <link>https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/</link>
+      <guid>https://lobste.rs/s/xgdt4u</guid>
+      <author>andre.arko.net via abhin4v</author>
+      <pubDate>Sun, 20 Sep 2026 05:51:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
     <item>
       <title>How to get a DOI for your blog posts</title>
@@ -293,14 +246,56 @@
       <category>programming</category>
     </item>
     <item>
-      <title>I wish you the best in the Offline</title>
-      <link>https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</link>
-      <guid>https://lobste.rs/s/ede4z0</guid>
-      <author>daverupert.com via skycam</author>
-      <pubDate>Mon, 14 Sep 2026 11:39:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/ede4z0/i_wish_you_best_offline</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ede4z0/i_wish_you_best_offline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
+      <title>Thoughts on the Future of Web Browsers</title>
+      <link>https://sarahjamielewis.com/log/2026/future-of-web-browsers.html</link>
+      <guid>https://lobste.rs/s/96omjg</guid>
+      <author>sarahjamielewis.com via orib</author>
+      <pubDate>Sat, 19 Sep 2026 17:27:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+    </item>
+    <item>
+      <title>Small Programming Tricks</title>
+      <link>https://will-keleher.com/posts/small-programming-tricks-matter/</link>
+      <guid>https://lobste.rs/s/f65fy3</guid>
+      <author>will-keleher.com via bugsmith</author>
+      <pubDate>Tue, 15 Sep 2026 15:50:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/f65fy3/small_programming_tricks</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f65fy3/small_programming_tricks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+    </item>
+    <item>
+      <title>The Golden Spike, and Resurrecting the Vale(n) Programming Language</title>
+      <link>https://verdagon.dev/blog/golden-spike-reviving-vale-valen</link>
+      <guid>https://lobste.rs/s/fjnkn4</guid>
+      <author>verdagon.dev by Verdagon</author>
+      <pubDate>Thu, 17 Sep 2026 10:10:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>plt</category>
+    </item>
+    <item>
+      <title>I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a "Breakthrough"</title>
+      <link>https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me</link>
+      <guid>https://lobste.rs/s/kaqsr5</guid>
+      <author>dev.to via Yogthos</author>
+      <pubDate>Sat, 19 Sep 2026 08:41:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>we have a year to fix security everywhere</title>
+      <link>https://jyn.dev/a-year-to-fix-security/</link>
+      <guid>https://lobste.rs/s/re9wk8</guid>
+      <author>jyn.dev via apropos</author>
+      <pubDate>Sat, 19 Sep 2026 14:27:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
