@@ -79,6 +79,16 @@
       <category>a11y</category>
     </item>
     <item>
+      <title>What Sun got wrong</title>
+      <link>https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</link>
+      <guid>https://lobste.rs/s/vwl2kn</guid>
+      <author>bcantrill.dtrace.org via j11g</author>
+      <pubDate>Mon, 21 Sep 2026 02:14:39 -0500</pubDate>
+      <comments>https://lobste.rs/s/vwl2kn/what_sun_got_wrong</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vwl2kn/what_sun_got_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>historical</category>
+    </item>
+    <item>
       <title>Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
       <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
       <guid>https://lobste.rs/s/eyg3oe</guid>
@@ -88,6 +98,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>reversing</category>
+    </item>
+    <item>
+      <title>We Must Create the Shit Machine</title>
+      <link>https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine</link>
+      <guid>https://lobste.rs/s/vzql1n</guid>
+      <author>mcsweeneys.net via FedericoSchonborn</author>
+      <pubDate>Thu, 17 Sep 2026 19:00:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/vzql1n/we_must_create_shit_machine</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vzql1n/we_must_create_shit_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
     </item>
     <item>
       <title>Introducing GNOME 51</title>
@@ -101,16 +121,6 @@
       <category>release</category>
     </item>
     <item>
-      <title>We Must Create the Shit Machine</title>
-      <link>https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine</link>
-      <guid>https://lobste.rs/s/vzql1n</guid>
-      <author>mcsweeneys.net via FedericoSchonborn</author>
-      <pubDate>Thu, 17 Sep 2026 19:00:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/vzql1n/we_must_create_shit_machine</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vzql1n/we_must_create_shit_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-    </item>
-    <item>
       <title>AI Is an Elite Crime Spree</title>
       <link>https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</link>
       <guid>https://lobste.rs/s/blmlco</guid>
@@ -119,16 +129,6 @@
       <comments>https://lobste.rs/s/blmlco/ai_is_elite_crime_spree</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blmlco/ai_is_elite_crime_spree"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>law</category>
-    </item>
-    <item>
-      <title>What Sun got wrong</title>
-      <link>https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</link>
-      <guid>https://lobste.rs/s/vwl2kn</guid>
-      <author>bcantrill.dtrace.org via j11g</author>
-      <pubDate>Mon, 21 Sep 2026 02:14:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/vwl2kn/what_sun_got_wrong</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vwl2kn/what_sun_got_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>historical</category>
     </item>
     <item>
       <title>Be alert: targeted attacks on prominent Rustaceans</title>
@@ -161,16 +161,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pkj7mf/i_don_t_like_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>GEFS on OpenBSD: A very early preview</title>
-      <link>https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</link>
-      <guid>https://lobste.rs/s/buzdkb</guid>
-      <author>marc.info via jbauer</author>
-      <pubDate>Tue, 15 Sep 2026 12:21:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>openbsd</category>
     </item>
     <item>
       <title>I expected better from Google</title>
@@ -235,15 +225,14 @@
       <category>graphics</category>
     </item>
     <item>
-      <title>Coreutils - rejected feature requests</title>
-      <link>https://www.gnu.org/software/coreutils/rejected_requests.html</link>
-      <guid>https://lobste.rs/s/zbcua4</guid>
-      <author>gnu.org via ryan-duve</author>
-      <pubDate>Tue, 15 Sep 2026 04:06:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>unix</category>
-      <category>programming</category>
+      <title>Looking forward to Git 2.56 - and 3.0</title>
+      <link>https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</link>
+      <guid>https://lobste.rs/s/liey8q</guid>
+      <author>lwn.net via dimonomid</author>
+      <pubDate>Tue, 22 Sep 2026 00:23:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
     <item>
       <title>Thoughts on the Future of Web Browsers</title>
@@ -254,16 +243,6 @@
       <comments>https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
-    </item>
-    <item>
-      <title>Small Programming Tricks</title>
-      <link>https://will-keleher.com/posts/small-programming-tricks-matter/</link>
-      <guid>https://lobste.rs/s/f65fy3</guid>
-      <author>will-keleher.com via bugsmith</author>
-      <pubDate>Tue, 15 Sep 2026 15:50:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/f65fy3/small_programming_tricks</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f65fy3/small_programming_tricks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
     </item>
     <item>
       <title>The Golden Spike, and Resurrecting the Vale(n) Programming Language</title>
@@ -296,6 +275,28 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>ChatGPT now knows what you do on other websites via ad collector</title>
+      <link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/</link>
+      <guid>https://lobste.rs/s/jbnmj9</guid>
+      <author>buchodi.com via jrgtt</author>
+      <pubDate>Sun, 20 Sep 2026 12:43:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Named and Optional Arguments are Awesome</title>
+      <link>https://botahamec.dev/named-optional-args</link>
+      <guid>https://lobste.rs/s/xlbphk</guid>
+      <author>botahamec.dev via jado</author>
+      <pubDate>Mon, 21 Sep 2026 16:16:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>plt</category>
     </item>
   </channel>
 </rss>
