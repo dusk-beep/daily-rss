@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Thu, 17 Sep 2026 10:06:08 -0500</pubDate>
+    <pubDate>Fri, 18 Sep 2026 03:14:52 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Everybody's Lost Their Minds</title>
-      <link>https://www.netmeister.org/blog/everybodys-lost-their-minds.html</link>
-      <guid>https://lobste.rs/s/rok1za</guid>
-      <author>netmeister.org via j11g</author>
-      <pubDate>Thu, 17 Sep 2026 10:06:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/rok1za/everybody_s_lost_their_minds</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rok1za/everybody_s_lost_their_minds"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
     <item>
       <title>What is still exciting in tech?</title>
       <link>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</link>
@@ -43,6 +33,18 @@
       <category>culture</category>
     </item>
     <item>
+      <title>Radicle: Disclosure of Vulnerability in the Network Protocol</title>
+      <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
+      <guid>https://lobste.rs/s/ad5vwg</guid>
+      <author>radicle.dev via tuxes</author>
+      <pubDate>Wed, 23 Sep 2026 09:34:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>vcs</category>
+      <category>distributed</category>
+    </item>
+    <item>
       <title>Typst makes big strides</title>
       <link>https://lwn.net/Articles/1092993/</link>
       <guid>https://lobste.rs/s/j4oyxa</guid>
@@ -64,27 +66,6 @@
       <category>historical</category>
     </item>
     <item>
-      <title>Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
-      <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
-      <guid>https://lobste.rs/s/eyg3oe</guid>
-      <author>micahflee.com via robey</author>
-      <pubDate>Thu, 17 Sep 2026 16:21:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>reversing</category>
-    </item>
-    <item>
-      <title>We Must Create the Shit Machine</title>
-      <link>https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine</link>
-      <guid>https://lobste.rs/s/vzql1n</guid>
-      <author>mcsweeneys.net via FedericoSchonborn</author>
-      <pubDate>Thu, 17 Sep 2026 19:00:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/vzql1n/we_must_create_shit_machine</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vzql1n/we_must_create_shit_machine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-    </item>
-    <item>
       <title>AI Is an Elite Crime Spree</title>
       <link>https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</link>
       <guid>https://lobste.rs/s/blmlco</guid>
@@ -92,38 +73,6 @@
       <pubDate>Sat, 19 Sep 2026 10:44:52 -0500</pubDate>
       <comments>https://lobste.rs/s/blmlco/ai_is_elite_crime_spree</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blmlco/ai_is_elite_crime_spree"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-    </item>
-    <item>
-      <title>Be alert: targeted attacks on prominent Rustaceans</title>
-      <link>https://blog.rust-lang.org/2026/09/17/targeted-attacks/</link>
-      <guid>https://lobste.rs/s/uz30ed</guid>
-      <author>blog.rust-lang.org via itamarst</author>
-      <pubDate>Thu, 17 Sep 2026 13:10:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>I Don't Like LLMs</title>
-      <link>https://martinfowler.com/articles/2026-dont-like-llms.html</link>
-      <guid>https://lobste.rs/s/pkj7mf</guid>
-      <author>martinfowler.com via cameron</author>
-      <pubDate>Thu, 17 Sep 2026 10:25:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/pkj7mf/i_don_t_like_llms</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pkj7mf/i_don_t_like_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>I expected better from Google</title>
-      <link>https://www.minitap.ai/blog/i-expected-better-from-google</link>
-      <guid>https://lobste.rs/s/11uiiv</guid>
-      <author>minitap.ai via FedericoSchonborn</author>
-      <pubDate>Thu, 17 Sep 2026 05:01:13 -0500</pubDate>
-      <comments>https://lobste.rs/s/11uiiv/i_expected_better_from_google</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/11uiiv/i_expected_better_from_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>law</category>
     </item>
     <item>
@@ -137,6 +86,16 @@
       <category>vcs</category>
     </item>
     <item>
+      <title>No Sloptober</title>
+      <link>https://no-sloptober.com/</link>
+      <guid>https://lobste.rs/s/hburvt</guid>
+      <author>no-sloptober.com via jeremiahlee</author>
+      <pubDate>Tue, 22 Sep 2026 16:06:34 -0500</pubDate>
+      <comments>https://lobste.rs/s/hburvt/no_sloptober</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hburvt/no_sloptober"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Looking forward to Git 2.56 - and 3.0</title>
       <link>https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</link>
       <guid>https://lobste.rs/s/liey8q</guid>
@@ -145,18 +104,6 @@
       <comments>https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>Radicle: Disclosure of Vulnerability in the Network Protocol</title>
-      <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
-      <guid>https://lobste.rs/s/ad5vwg</guid>
-      <author>radicle.dev via tuxes</author>
-      <pubDate>Wed, 23 Sep 2026 09:34:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>vcs</category>
-      <category>distributed</category>
     </item>
     <item>
       <title>I don't like passkeys</title>
@@ -169,16 +116,6 @@
       <category>security</category>
     </item>
     <item>
-      <title>No Sloptober</title>
-      <link>https://no-sloptober.com/</link>
-      <guid>https://lobste.rs/s/hburvt</guid>
-      <author>no-sloptober.com via jeremiahlee</author>
-      <pubDate>Tue, 22 Sep 2026 16:06:34 -0500</pubDate>
-      <comments>https://lobste.rs/s/hburvt/no_sloptober</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hburvt/no_sloptober"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>The scourge of x86 emulation</title>
       <link>https://fex-emu.com/Scourge-of-emulation/</link>
       <guid>https://lobste.rs/s/iq6w6l</guid>
@@ -187,38 +124,6 @@
       <comments>https://lobste.rs/s/iq6w6l/scourge_x86_emulation</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iq6w6l/scourge_x86_emulation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
-    </item>
-    <item>
-      <title>Thoughts on the Future of Web Browsers</title>
-      <link>https://sarahjamielewis.com/log/2026/future-of-web-browsers.html</link>
-      <guid>https://lobste.rs/s/96omjg</guid>
-      <author>sarahjamielewis.com via orib</author>
-      <pubDate>Sat, 19 Sep 2026 17:27:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-    </item>
-    <item>
-      <title>Named and Optional Arguments are Awesome</title>
-      <link>https://botahamec.dev/named-optional-args</link>
-      <guid>https://lobste.rs/s/xlbphk</guid>
-      <author>botahamec.dev via jado</author>
-      <pubDate>Mon, 21 Sep 2026 16:16:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>plt</category>
-    </item>
-    <item>
-      <title>Fearless SIMD v1.0 is here</title>
-      <link>https://linebender.org/blog/fearless-simd-1-0/</link>
-      <guid>https://lobste.rs/s/wx3qsm</guid>
-      <author>linebender.org via ohrv</author>
-      <pubDate>Tue, 22 Sep 2026 07:10:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>rust</category>
     </item>
     <item>
       <title>KDE for People</title>
@@ -232,15 +137,68 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>The Golden Spike, and Resurrecting the Vale(n) Programming Language</title>
-      <link>https://verdagon.dev/blog/golden-spike-reviving-vale-valen</link>
-      <guid>https://lobste.rs/s/fjnkn4</guid>
-      <author>verdagon.dev by Verdagon</author>
-      <pubDate>Thu, 17 Sep 2026 10:10:44 -0500</pubDate>
-      <comments>https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Thoughts on the Future of Web Browsers</title>
+      <link>https://sarahjamielewis.com/log/2026/future-of-web-browsers.html</link>
+      <guid>https://lobste.rs/s/96omjg</guid>
+      <author>sarahjamielewis.com via orib</author>
+      <pubDate>Sat, 19 Sep 2026 17:27:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+    </item>
+    <item>
+      <title>Fearless SIMD v1.0 is here</title>
+      <link>https://linebender.org/blog/fearless-simd-1-0/</link>
+      <guid>https://lobste.rs/s/wx3qsm</guid>
+      <author>linebender.org via ohrv</author>
+      <pubDate>Tue, 22 Sep 2026 07:10:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>Breaking Up with Google Play: Why Conversations Is Now Free</title>
+      <link>https://gultsch.de/posts/breaking-up-with-google-play/</link>
+      <guid>https://lobste.rs/s/4jqfz1</guid>
+      <author>gultsch.de via tusharhero</author>
+      <pubDate>Thu, 24 Sep 2026 09:57:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>android</category>
+    </item>
+    <item>
+      <title>Named and Optional Arguments are Awesome</title>
+      <link>https://botahamec.dev/named-optional-args</link>
+      <guid>https://lobste.rs/s/xlbphk</guid>
+      <author>botahamec.dev via jado</author>
+      <pubDate>Mon, 21 Sep 2026 16:16:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
       <category>plt</category>
+    </item>
+    <item>
+      <title>The Story of Mel</title>
+      <link>https://users.cs.utah.edu/~elb/folklore/mel.html</link>
+      <guid>https://lobste.rs/s/wf4wid</guid>
+      <author>users.cs.utah.edu via drmorr</author>
+      <pubDate>Wed, 23 Sep 2026 23:09:40 -0500</pubDate>
+      <comments>https://lobste.rs/s/wf4wid/story_mel</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wf4wid/story_mel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>historical</category>
+    </item>
+    <item>
+      <title>Are we really going to use the same Desktop UX forever?</title>
+      <link>https://www.youtube.com/watch?v=V7AfAcQwLW0</link>
+      <guid>https://lobste.rs/s/vpvdlw</guid>
+      <author>youtube.com via notagoodidea</author>
+      <pubDate>Sun, 20 Sep 2026 15:34:34 -0500</pubDate>
+      <comments>https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>video</category>
     </item>
     <item>
       <title>I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a "Breakthrough"</title>
@@ -251,6 +209,28 @@
       <comments>https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>ai</category>
+    </item>
+    <item>
+      <title>Self-Hosting Behind CGNAT</title>
+      <link>https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/</link>
+      <guid>https://lobste.rs/s/sus08k</guid>
+      <author>david.alvarezrosa.com by dalvrosa</author>
+      <pubDate>Mon, 21 Sep 2026 12:53:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/sus08k/self_hosting_behind_cgnat</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sus08k/self_hosting_behind_cgnat"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>networking</category>
+    </item>
+    <item>
+      <title>Arguing about arguments</title>
+      <link>https://steveklabnik.com/writing/arguing-about-arguments/</link>
+      <guid>https://lobste.rs/s/bvrhgq</guid>
+      <author>steveklabnik.com via abhin4v</author>
+      <pubDate>Mon, 21 Sep 2026 23:29:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/bvrhgq/arguing_about_arguments</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bvrhgq/arguing_about_arguments"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+      <category>rust</category>
     </item>
     <item>
       <title>we have a year to fix security everywhere</title>
@@ -275,15 +255,37 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Self-Hosting Behind CGNAT</title>
-      <link>https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/</link>
-      <guid>https://lobste.rs/s/sus08k</guid>
-      <author>david.alvarezrosa.com by dalvrosa</author>
-      <pubDate>Mon, 21 Sep 2026 12:53:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/sus08k/self_hosting_behind_cgnat</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sus08k/self_hosting_behind_cgnat"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>networking</category>
+      <title>Benchmarking Wild vs Mold</title>
+      <link>https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html</link>
+      <guid>https://lobste.rs/s/gjjizm</guid>
+      <author>davidlattimore.github.io via goldstein</author>
+      <pubDate>Fri, 18 Sep 2026 10:25:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compilers</category>
+      <category>performance</category>
+    </item>
+    <item>
+      <title>Ideas on modernizing the open-source desktop</title>
+      <link>https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</link>
+      <guid>https://lobste.rs/s/aaq59w</guid>
+      <author>lwn.net via lollipopman</author>
+      <pubDate>Wed, 23 Sep 2026 14:49:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+    </item>
+    <item>
+      <title>Software sandboxing: The basics (2025)</title>
+      <link>https://blog.emilua.org/2025/01/12/software-sandboxing-basics/</link>
+      <guid>https://lobste.rs/s/brptxb</guid>
+      <author>blog.emilua.org by vinipsmaker</author>
+      <pubDate>Sun, 20 Sep 2026 09:13:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/brptxb/software_sandboxing_basics_2025</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/brptxb/software_sandboxing_basics_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>unix</category>
+      <category>programming</category>
     </item>
   </channel>
 </rss>
