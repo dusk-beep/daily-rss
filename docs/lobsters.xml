@@ -5,32 +5,17 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Fri, 18 Sep 2026 03:14:52 -0500</pubDate>
+    <pubDate>Thu, 24 Sep 2026 09:57:57 -0500</pubDate>
     <ttl>120</ttl>
     <item>
-      <title>What is still exciting in tech?</title>
-      <link>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</link>
-      <guid>https://lobste.rs/s/lcjf7c</guid>
-      <author> by ploum</author>
-      <pubDate>Fri, 18 Sep 2026 03:14:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech</comments>
-      <description>&lt;p&gt;A comment on a lobste.rs post about the tech culture stagnating made me think.&lt;/p&gt;
-&lt;p&gt;20-15 or even 10 years ago, tech was really exciting. Sure, monopolies were bad, I was fighting them, but tech by itself was very interesting. New versions of software were expected, we were skimming through changelogs to find novelties, installing beta or alpha versions of totally unknown projects. And I had lived that excitement since the 90’s.&lt;/p&gt;
-&lt;p&gt;When you think about it, today feels really bleak in comparison:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Changelogs of commercial projects now all have that pseudo-humorous tone to tell you that "they improved performance and fixed bugs"&lt;/li&gt;
-&lt;li&gt;The best smartphone I ever had is now 10 years old (and was not an expensive one, see &lt;a href="https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html" rel="ugc"&gt;https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;Around me, at least 3 totally unrelated people left a decade-long career in tech to do woodworking. And they are way happier.&lt;/li&gt;
-&lt;li&gt;My main interest in looking at changelogs is now to see how the projects I use will be enshitified with AI integration&lt;/li&gt;
-&lt;li&gt;Even my beloved Free Software stack is now heavily tainted by slop&lt;/li&gt;
-&lt;li&gt;Lot of people that could have been doing very cool thing (or were doing very cool things) are now outspoken fascist ( see &lt;a href="https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md" rel="ugc"&gt;https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md&lt;/a&gt; or &lt;a href="https://drewdevault.com/weird-guys/" rel="ugc"&gt;https://drewdevault.com/weird-guys/&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;Even if you are interested by AI, the ecological consequences and the way it is used are simply awful.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;All of this makes me wonder: am I just a grumpy already old man? Am I missing something? If so, what?&lt;/p&gt;
-&lt;p&gt;So I would like to ask all lobste.rs: what do you find really exciting in tech today? What are you waiting with impatience? Which project are you following closely? What do you expect from them? What do you hope to see in the next few months or years?&lt;/p&gt;
-</description>
-      <category>ask</category>
-      <category>culture</category>
+      <title>Breaking Up with Google Play: Why Conversations Is Now Free</title>
+      <link>https://gultsch.de/posts/breaking-up-with-google-play/</link>
+      <guid>https://lobste.rs/s/4jqfz1</guid>
+      <author>gultsch.de via tusharhero</author>
+      <pubDate>Thu, 24 Sep 2026 09:57:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>android</category>
     </item>
     <item>
       <title>Radicle: Disclosure of Vulnerability in the Network Protocol</title>
@@ -43,17 +28,6 @@
       <category>security</category>
       <category>vcs</category>
       <category>distributed</category>
-    </item>
-    <item>
-      <title>Typst makes big strides</title>
-      <link>https://lwn.net/Articles/1092993/</link>
-      <guid>https://lobste.rs/s/j4oyxa</guid>
-      <author>lwn.net via isuffix</author>
-      <pubDate>Fri, 18 Sep 2026 08:14:17 -0500</pubDate>
-      <comments>https://lobste.rs/s/j4oyxa/typst_makes_big_strides</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4oyxa/typst_makes_big_strides"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>a11y</category>
     </item>
     <item>
       <title>What Sun got wrong</title>
@@ -76,6 +50,16 @@
       <category>law</category>
     </item>
     <item>
+      <title>F-Droid 2.0</title>
+      <link>https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html</link>
+      <guid>https://lobste.rs/s/opt2ma</guid>
+      <author>f-droid.org via dimonomid</author>
+      <pubDate>Thu, 24 Sep 2026 13:43:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/opt2ma/f_droid_2_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opt2ma/f_droid_2_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>android</category>
+    </item>
+    <item>
       <title>Beyond jj: config &amp; tools ecosystem</title>
       <link>https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/</link>
       <guid>https://lobste.rs/s/xgdt4u</guid>
@@ -96,6 +80,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
+      <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
+      <guid>https://lobste.rs/s/ky1cr0</guid>
+      <author>blog.arusekk.pl via winter</author>
+      <pubDate>Thu, 24 Sep 2026 15:38:32 -0500</pubDate>
+      <comments>https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>Looking forward to Git 2.56 - and 3.0</title>
       <link>https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</link>
       <guid>https://lobste.rs/s/liey8q</guid>
@@ -104,16 +98,6 @@
       <comments>https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>I don't like passkeys</title>
-      <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
-      <guid>https://lobste.rs/s/4a7qly</guid>
-      <author>hawksley.dev via eduard</author>
-      <pubDate>Fri, 18 Sep 2026 07:52:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/4a7qly/i_don_t_like_passkeys</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4a7qly/i_don_t_like_passkeys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>The scourge of x86 emulation</title>
@@ -137,6 +121,17 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Goodbye Google</title>
+      <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
+      <guid>https://lobste.rs/s/sxlf4a</guid>
+      <author>robert.ocallahan.org via classichasclass</author>
+      <pubDate>Fri, 25 Sep 2026 00:51:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/sxlf4a/goodbye_google</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxlf4a/goodbye_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Thoughts on the Future of Web Browsers</title>
       <link>https://sarahjamielewis.com/log/2026/future-of-web-browsers.html</link>
       <guid>https://lobste.rs/s/96omjg</guid>
@@ -145,6 +140,16 @@
       <comments>https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
+    </item>
+    <item>
+      <title>I asked Meta’s Muse for its filesystem and it sent me 6.8 GB</title>
+      <link>https://mouse.dev/blog/muse-runtime-export/</link>
+      <guid>https://lobste.rs/s/mdczxv</guid>
+      <author>mouse.dev via Garbi</author>
+      <pubDate>Thu, 24 Sep 2026 09:55:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Fearless SIMD v1.0 is here</title>
@@ -156,16 +161,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>rust</category>
-    </item>
-    <item>
-      <title>Breaking Up with Google Play: Why Conversations Is Now Free</title>
-      <link>https://gultsch.de/posts/breaking-up-with-google-play/</link>
-      <guid>https://lobste.rs/s/4jqfz1</guid>
-      <author>gultsch.de via tusharhero</author>
-      <pubDate>Thu, 24 Sep 2026 09:57:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>android</category>
     </item>
     <item>
       <title>Named and Optional Arguments are Awesome</title>
@@ -190,6 +185,17 @@
       <category>historical</category>
     </item>
     <item>
+      <title>Lobsters: Rename vibecoding to llms (Greasemonkey script)</title>
+      <link>https://greasyfork.org/en/scripts?by=1646191</link>
+      <guid>https://lobste.rs/s/68n22g</guid>
+      <author>greasyfork.org by joshka</author>
+      <pubDate>Fri, 25 Sep 2026 00:33:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>meta</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Are we really going to use the same Desktop UX forever?</title>
       <link>https://www.youtube.com/watch?v=V7AfAcQwLW0</link>
       <guid>https://lobste.rs/s/vpvdlw</guid>
@@ -199,6 +205,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>design</category>
       <category>video</category>
+    </item>
+    <item>
+      <title>Arguing about arguments</title>
+      <link>https://steveklabnik.com/writing/arguing-about-arguments/</link>
+      <guid>https://lobste.rs/s/bvrhgq</guid>
+      <author>steveklabnik.com via abhin4v</author>
+      <pubDate>Mon, 21 Sep 2026 23:29:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/bvrhgq/arguing_about_arguments</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bvrhgq/arguing_about_arguments"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+      <category>rust</category>
     </item>
     <item>
       <title>I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a "Breakthrough"</title>
@@ -220,17 +237,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sus08k/self_hosting_behind_cgnat"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
       <category>networking</category>
-    </item>
-    <item>
-      <title>Arguing about arguments</title>
-      <link>https://steveklabnik.com/writing/arguing-about-arguments/</link>
-      <guid>https://lobste.rs/s/bvrhgq</guid>
-      <author>steveklabnik.com via abhin4v</author>
-      <pubDate>Mon, 21 Sep 2026 23:29:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/bvrhgq/arguing_about_arguments</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bvrhgq/arguing_about_arguments"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>rust</category>
     </item>
     <item>
       <title>we have a year to fix security everywhere</title>
@@ -255,17 +261,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Benchmarking Wild vs Mold</title>
-      <link>https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html</link>
-      <guid>https://lobste.rs/s/gjjizm</guid>
-      <author>davidlattimore.github.io via goldstein</author>
-      <pubDate>Fri, 18 Sep 2026 10:25:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compilers</category>
-      <category>performance</category>
-    </item>
-    <item>
       <title>Ideas on modernizing the open-source desktop</title>
       <link>https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</link>
       <guid>https://lobste.rs/s/aaq59w</guid>
@@ -274,18 +269,6 @@
       <comments>https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>design</category>
-    </item>
-    <item>
-      <title>Software sandboxing: The basics (2025)</title>
-      <link>https://blog.emilua.org/2025/01/12/software-sandboxing-basics/</link>
-      <guid>https://lobste.rs/s/brptxb</guid>
-      <author>blog.emilua.org by vinipsmaker</author>
-      <pubDate>Sun, 20 Sep 2026 09:13:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/brptxb/software_sandboxing_basics_2025</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/brptxb/software_sandboxing_basics_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>unix</category>
-      <category>programming</category>
     </item>
   </channel>
 </rss>
