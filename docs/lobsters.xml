@@ -30,6 +30,16 @@
       <category>distributed</category>
     </item>
     <item>
+      <title>If we do not stop to help each other, what do we become?</title>
+      <link>https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</link>
+      <guid>https://lobste.rs/s/p3iq7v</guid>
+      <author>blog.codinghorror.com via j11g</author>
+      <pubDate>Sat, 26 Sep 2026 06:02:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
       <title>What Sun got wrong</title>
       <link>https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</link>
       <guid>https://lobste.rs/s/vwl2kn</guid>
@@ -40,16 +50,6 @@
       <category>historical</category>
     </item>
     <item>
-      <title>AI Is an Elite Crime Spree</title>
-      <link>https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</link>
-      <guid>https://lobste.rs/s/blmlco</guid>
-      <author>thebignewsletter.com via jcd</author>
-      <pubDate>Sat, 19 Sep 2026 10:44:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/blmlco/ai_is_elite_crime_spree</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/blmlco/ai_is_elite_crime_spree"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-    </item>
-    <item>
       <title>F-Droid 2.0</title>
       <link>https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html</link>
       <guid>https://lobste.rs/s/opt2ma</guid>
@@ -58,6 +58,27 @@
       <comments>https://lobste.rs/s/opt2ma/f_droid_2_0</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opt2ma/f_droid_2_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>android</category>
+    </item>
+    <item>
+      <title>Goodbye Google</title>
+      <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
+      <guid>https://lobste.rs/s/sxlf4a</guid>
+      <author>robert.ocallahan.org via classichasclass</author>
+      <pubDate>Fri, 25 Sep 2026 00:51:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/sxlf4a/goodbye_google</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxlf4a/goodbye_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
+      <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
+      <guid>https://lobste.rs/s/ky1cr0</guid>
+      <author>blog.arusekk.pl via winter</author>
+      <pubDate>Thu, 24 Sep 2026 15:38:32 -0500</pubDate>
+      <comments>https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Beyond jj: config &amp; tools ecosystem</title>
@@ -80,16 +101,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
-      <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
-      <guid>https://lobste.rs/s/ky1cr0</guid>
-      <author>blog.arusekk.pl via winter</author>
-      <pubDate>Thu, 24 Sep 2026 15:38:32 -0500</pubDate>
-      <comments>https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>Looking forward to Git 2.56 - and 3.0</title>
       <link>https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</link>
       <guid>https://lobste.rs/s/liey8q</guid>
@@ -98,16 +109,6 @@
       <comments>https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>The scourge of x86 emulation</title>
-      <link>https://fex-emu.com/Scourge-of-emulation/</link>
-      <guid>https://lobste.rs/s/iq6w6l</guid>
-      <author>fex-emu.com via videah</author>
-      <pubDate>Sat, 19 Sep 2026 00:01:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/iq6w6l/scourge_x86_emulation</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iq6w6l/scourge_x86_emulation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
     </item>
     <item>
       <title>KDE for People</title>
@@ -121,27 +122,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Goodbye Google</title>
-      <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
-      <guid>https://lobste.rs/s/sxlf4a</guid>
-      <author>robert.ocallahan.org via classichasclass</author>
-      <pubDate>Fri, 25 Sep 2026 00:51:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/sxlf4a/goodbye_google</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxlf4a/goodbye_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Thoughts on the Future of Web Browsers</title>
-      <link>https://sarahjamielewis.com/log/2026/future-of-web-browsers.html</link>
-      <guid>https://lobste.rs/s/96omjg</guid>
-      <author>sarahjamielewis.com via orib</author>
-      <pubDate>Sat, 19 Sep 2026 17:27:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-    </item>
-    <item>
       <title>I asked Meta’s Muse for its filesystem and it sent me 6.8 GB</title>
       <link>https://mouse.dev/blog/muse-runtime-export/</link>
       <guid>https://lobste.rs/s/mdczxv</guid>
@@ -149,6 +129,17 @@
       <pubDate>Thu, 24 Sep 2026 09:55:45 -0500</pubDate>
       <comments>https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Lobsters: Rename vibecoding to llms (Greasemonkey script)</title>
+      <link>https://greasyfork.org/en/scripts?by=1646191</link>
+      <guid>https://lobste.rs/s/68n22g</guid>
+      <author>greasyfork.org by joshka</author>
+      <pubDate>Fri, 25 Sep 2026 00:33:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>meta</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -185,15 +176,15 @@
       <category>historical</category>
     </item>
     <item>
-      <title>Lobsters: Rename vibecoding to llms (Greasemonkey script)</title>
-      <link>https://greasyfork.org/en/scripts?by=1646191</link>
-      <guid>https://lobste.rs/s/68n22g</guid>
-      <author>greasyfork.org by joshka</author>
-      <pubDate>Fri, 25 Sep 2026 00:33:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>meta</category>
-      <category>vibecoding</category>
+      <title>Arguing about arguments</title>
+      <link>https://steveklabnik.com/writing/arguing-about-arguments/</link>
+      <guid>https://lobste.rs/s/bvrhgq</guid>
+      <author>steveklabnik.com via abhin4v</author>
+      <pubDate>Mon, 21 Sep 2026 23:29:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/bvrhgq/arguing_about_arguments</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bvrhgq/arguing_about_arguments"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+      <category>rust</category>
     </item>
     <item>
       <title>Are we really going to use the same Desktop UX forever?</title>
@@ -207,27 +198,6 @@
       <category>video</category>
     </item>
     <item>
-      <title>Arguing about arguments</title>
-      <link>https://steveklabnik.com/writing/arguing-about-arguments/</link>
-      <guid>https://lobste.rs/s/bvrhgq</guid>
-      <author>steveklabnik.com via abhin4v</author>
-      <pubDate>Mon, 21 Sep 2026 23:29:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/bvrhgq/arguing_about_arguments</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bvrhgq/arguing_about_arguments"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a "Breakthrough"</title>
-      <link>https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me</link>
-      <guid>https://lobste.rs/s/kaqsr5</guid>
-      <author>dev.to via Yogthos</author>
-      <pubDate>Sat, 19 Sep 2026 08:41:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Self-Hosting Behind CGNAT</title>
       <link>https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/</link>
       <guid>https://lobste.rs/s/sus08k</guid>
@@ -239,14 +209,24 @@
       <category>networking</category>
     </item>
     <item>
-      <title>we have a year to fix security everywhere</title>
-      <link>https://jyn.dev/a-year-to-fix-security/</link>
-      <guid>https://lobste.rs/s/re9wk8</guid>
-      <author>jyn.dev via apropos</author>
-      <pubDate>Sat, 19 Sep 2026 14:27:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>Ideas on modernizing the open-source desktop</title>
+      <link>https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</link>
+      <guid>https://lobste.rs/s/aaq59w</guid>
+      <author>lwn.net via lollipopman</author>
+      <pubDate>Wed, 23 Sep 2026 14:49:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+    </item>
+    <item>
+      <title>What About Rails?</title>
+      <link>https://jardo.dev/what-about-rails</link>
+      <guid>https://lobste.rs/s/rvvqos</guid>
+      <author>jardo.dev via nick4</author>
+      <pubDate>Fri, 25 Sep 2026 09:44:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/rvvqos/what_about_rails</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rvvqos/what_about_rails"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -261,14 +241,36 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Ideas on modernizing the open-source desktop</title>
-      <link>https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</link>
-      <guid>https://lobste.rs/s/aaq59w</guid>
-      <author>lwn.net via lollipopman</author>
-      <pubDate>Wed, 23 Sep 2026 14:49:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
+      <title>Commodified Intelligence</title>
+      <link>https://herecomesthemoon.net/2026/09/commodified-intelligence/</link>
+      <guid>https://lobste.rs/s/nidcls</guid>
+      <author>herecomesthemoon.net by mond</author>
+      <pubDate>Fri, 25 Sep 2026 13:24:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/nidcls/commodified_intelligence</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nidcls/commodified_intelligence"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Attention is all you have</title>
+      <link>https://alicegg.tech/2026/09/21/attention</link>
+      <guid>https://lobste.rs/s/fbo41b</guid>
+      <author>alicegg.tech via dustyweb</author>
+      <pubDate>Mon, 21 Sep 2026 14:06:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/fbo41b/attention_is_all_you_have</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fbo41b/attention_is_all_you_have"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>The GNOME LLM Policy That I Want</title>
+      <link>https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/</link>
+      <guid>https://lobste.rs/s/kras1h</guid>
+      <author>blogs.gnome.org via joshsharp</author>
+      <pubDate>Wed, 23 Sep 2026 05:28:14 -0500</pubDate>
+      <comments>https://lobste.rs/s/kras1h/gnome_llm_policy_i_want</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kras1h/gnome_llm_policy_i_want"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>practices</category>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
