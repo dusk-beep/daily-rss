@@ -5,8 +5,18 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Thu, 24 Sep 2026 09:57:57 -0500</pubDate>
+    <pubDate>Sat, 26 Sep 2026 06:02:48 -0500</pubDate>
     <ttl>120</ttl>
+    <item>
+      <title>If we do not stop to help each other, what do we become?</title>
+      <link>https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</link>
+      <guid>https://lobste.rs/s/p3iq7v</guid>
+      <author>blog.codinghorror.com via j11g</author>
+      <pubDate>Sat, 26 Sep 2026 06:02:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
     <item>
       <title>Breaking Up with Google Play: Why Conversations Is Now Free</title>
       <link>https://gultsch.de/posts/breaking-up-with-google-play/</link>
@@ -30,16 +40,6 @@
       <category>distributed</category>
     </item>
     <item>
-      <title>If we do not stop to help each other, what do we become?</title>
-      <link>https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</link>
-      <guid>https://lobste.rs/s/p3iq7v</guid>
-      <author>blog.codinghorror.com via j11g</author>
-      <pubDate>Sat, 26 Sep 2026 06:02:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
       <title>What Sun got wrong</title>
       <link>https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</link>
       <guid>https://lobste.rs/s/vwl2kn</guid>
@@ -48,6 +48,16 @@
       <comments>https://lobste.rs/s/vwl2kn/what_sun_got_wrong</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vwl2kn/what_sun_got_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>historical</category>
+    </item>
+    <item>
+      <title>“They had no concept of a duty of care to their users.”</title>
+      <link>https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</link>
+      <guid>https://lobste.rs/s/1colyy</guid>
+      <author>unsung.aresluna.org via raymii</author>
+      <pubDate>Sun, 27 Sep 2026 09:44:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vim</category>
     </item>
     <item>
       <title>F-Droid 2.0</title>
@@ -79,16 +89,6 @@
       <comments>https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-    </item>
-    <item>
-      <title>Beyond jj: config &amp; tools ecosystem</title>
-      <link>https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/</link>
-      <guid>https://lobste.rs/s/xgdt4u</guid>
-      <author>andre.arko.net via abhin4v</author>
-      <pubDate>Sun, 20 Sep 2026 05:51:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
     </item>
     <item>
       <title>No Sloptober</title>
@@ -143,6 +143,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>One month without AI</title>
+      <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
+      <guid>https://lobste.rs/s/ivbx5f</guid>
+      <author>blog.bustikiller.com via Jackevansevo</author>
+      <pubDate>Sun, 27 Sep 2026 01:22:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/ivbx5f/one_month_without_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ivbx5f/one_month_without_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Fearless SIMD v1.0 is here</title>
       <link>https://linebender.org/blog/fearless-simd-1-0/</link>
       <guid>https://lobste.rs/s/wx3qsm</guid>
@@ -187,15 +197,15 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Are we really going to use the same Desktop UX forever?</title>
-      <link>https://www.youtube.com/watch?v=V7AfAcQwLW0</link>
-      <guid>https://lobste.rs/s/vpvdlw</guid>
-      <author>youtube.com via notagoodidea</author>
-      <pubDate>Sun, 20 Sep 2026 15:34:34 -0500</pubDate>
-      <comments>https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-      <category>video</category>
+      <title>What About Rails?</title>
+      <link>https://jardo.dev/what-about-rails</link>
+      <guid>https://lobste.rs/s/rvvqos</guid>
+      <author>jardo.dev via nick4</author>
+      <pubDate>Fri, 25 Sep 2026 09:44:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/rvvqos/what_about_rails</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rvvqos/what_about_rails"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Self-Hosting Behind CGNAT</title>
@@ -219,28 +229,6 @@
       <category>design</category>
     </item>
     <item>
-      <title>What About Rails?</title>
-      <link>https://jardo.dev/what-about-rails</link>
-      <guid>https://lobste.rs/s/rvvqos</guid>
-      <author>jardo.dev via nick4</author>
-      <pubDate>Fri, 25 Sep 2026 09:44:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/rvvqos/what_about_rails</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rvvqos/what_about_rails"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ruby</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>ChatGPT now knows what you do on other websites via ad collector</title>
-      <link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/</link>
-      <guid>https://lobste.rs/s/jbnmj9</guid>
-      <author>buchodi.com via jrgtt</author>
-      <pubDate>Sun, 20 Sep 2026 12:43:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jbnmj9/chatgpt_now_knows_what_you_do_on_other"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Commodified Intelligence</title>
       <link>https://herecomesthemoon.net/2026/09/commodified-intelligence/</link>
       <guid>https://lobste.rs/s/nidcls</guid>
@@ -248,6 +236,18 @@
       <pubDate>Fri, 25 Sep 2026 13:24:29 -0500</pubDate>
       <comments>https://lobste.rs/s/nidcls/commodified_intelligence</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nidcls/commodified_intelligence"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>This is a modern motherfucking website</title>
+      <link>https://modernmotherfuckingwebsite.dreamstation.systems/</link>
+      <guid>https://lobste.rs/s/zoproh</guid>
+      <author>modernmotherfuckingwebsite.dreamstation.systems via FedericoSchonborn</author>
+      <pubDate>Sat, 26 Sep 2026 19:04:56 -0500</pubDate>
+      <comments>https://lobste.rs/s/zoproh/this_is_modern_motherfucking_website</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zoproh/this_is_modern_motherfucking_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>satire</category>
       <category>vibecoding</category>
     </item>
     <item>
