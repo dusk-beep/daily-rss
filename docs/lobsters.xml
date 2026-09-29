@@ -18,6 +18,16 @@
       <category>culture</category>
     </item>
     <item>
+      <title>“They had no concept of a duty of care to their users.”</title>
+      <link>https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</link>
+      <guid>https://lobste.rs/s/1colyy</guid>
+      <author>unsung.aresluna.org via raymii</author>
+      <pubDate>Sun, 27 Sep 2026 09:44:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vim</category>
+    </item>
+    <item>
       <title>Breaking Up with Google Play: Why Conversations Is Now Free</title>
       <link>https://gultsch.de/posts/breaking-up-with-google-play/</link>
       <guid>https://lobste.rs/s/4jqfz1</guid>
@@ -40,24 +50,15 @@
       <category>distributed</category>
     </item>
     <item>
-      <title>What Sun got wrong</title>
-      <link>https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</link>
-      <guid>https://lobste.rs/s/vwl2kn</guid>
-      <author>bcantrill.dtrace.org via j11g</author>
-      <pubDate>Mon, 21 Sep 2026 02:14:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/vwl2kn/what_sun_got_wrong</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vwl2kn/what_sun_got_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>historical</category>
-    </item>
-    <item>
-      <title>“They had no concept of a duty of care to their users.”</title>
-      <link>https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</link>
-      <guid>https://lobste.rs/s/1colyy</guid>
-      <author>unsung.aresluna.org via raymii</author>
-      <pubDate>Sun, 27 Sep 2026 09:44:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vim</category>
+      <title>Yes, no AI is now a feature</title>
+      <link>https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/</link>
+      <guid>https://lobste.rs/s/sxcz4v</guid>
+      <author>blog.documentfoundation.org via johnolinda</author>
+      <pubDate>Mon, 28 Sep 2026 04:58:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>F-Droid 2.0</title>
@@ -79,6 +80,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxlf4a/goodbye_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>person</category>
       <category>ai</category>
+    </item>
+    <item>
+      <title>One month without AI</title>
+      <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
+      <guid>https://lobste.rs/s/ivbx5f</guid>
+      <author>blog.bustikiller.com via Jackevansevo</author>
+      <pubDate>Sun, 27 Sep 2026 01:22:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/ivbx5f/one_month_without_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ivbx5f/one_month_without_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
@@ -111,6 +122,16 @@
       <category>vcs</category>
     </item>
     <item>
+      <title>postmarketOS rebrands as Nura</title>
+      <link>https://nura.eco/blog/2026/09/27/nura-rename/</link>
+      <guid>https://lobste.rs/s/msjitj</guid>
+      <author>nura.eco via lobo</author>
+      <pubDate>Sun, 27 Sep 2026 12:34:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+    </item>
+    <item>
       <title>KDE for People</title>
       <link>https://kdeforpeople.com</link>
       <guid>https://lobste.rs/s/b39503</guid>
@@ -119,16 +140,6 @@
       <comments>https://lobste.rs/s/b39503/kde_for_people</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b39503/kde_for_people"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>culture</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>I asked Meta’s Muse for its filesystem and it sent me 6.8 GB</title>
-      <link>https://mouse.dev/blog/muse-runtime-export/</link>
-      <guid>https://lobste.rs/s/mdczxv</guid>
-      <author>mouse.dev via Garbi</author>
-      <pubDate>Thu, 24 Sep 2026 09:55:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
     </item>
     <item>
@@ -143,13 +154,13 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>One month without AI</title>
-      <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
-      <guid>https://lobste.rs/s/ivbx5f</guid>
-      <author>blog.bustikiller.com via Jackevansevo</author>
-      <pubDate>Sun, 27 Sep 2026 01:22:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/ivbx5f/one_month_without_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ivbx5f/one_month_without_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>I asked Meta’s Muse for its filesystem and it sent me 6.8 GB</title>
+      <link>https://mouse.dev/blog/muse-runtime-export/</link>
+      <guid>https://lobste.rs/s/mdczxv</guid>
+      <author>mouse.dev via Garbi</author>
+      <pubDate>Thu, 24 Sep 2026 09:55:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
     </item>
     <item>
@@ -162,17 +173,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>rust</category>
-    </item>
-    <item>
-      <title>Named and Optional Arguments are Awesome</title>
-      <link>https://botahamec.dev/named-optional-args</link>
-      <guid>https://lobste.rs/s/xlbphk</guid>
-      <author>botahamec.dev via jado</author>
-      <pubDate>Mon, 21 Sep 2026 16:16:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>plt</category>
     </item>
     <item>
       <title>The Story of Mel</title>
@@ -197,48 +197,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>What About Rails?</title>
-      <link>https://jardo.dev/what-about-rails</link>
-      <guid>https://lobste.rs/s/rvvqos</guid>
-      <author>jardo.dev via nick4</author>
-      <pubDate>Fri, 25 Sep 2026 09:44:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/rvvqos/what_about_rails</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rvvqos/what_about_rails"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ruby</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Self-Hosting Behind CGNAT</title>
-      <link>https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/</link>
-      <guid>https://lobste.rs/s/sus08k</guid>
-      <author>david.alvarezrosa.com by dalvrosa</author>
-      <pubDate>Mon, 21 Sep 2026 12:53:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/sus08k/self_hosting_behind_cgnat</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sus08k/self_hosting_behind_cgnat"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>networking</category>
-    </item>
-    <item>
-      <title>Ideas on modernizing the open-source desktop</title>
-      <link>https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</link>
-      <guid>https://lobste.rs/s/aaq59w</guid>
-      <author>lwn.net via lollipopman</author>
-      <pubDate>Wed, 23 Sep 2026 14:49:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-    </item>
-    <item>
-      <title>Commodified Intelligence</title>
-      <link>https://herecomesthemoon.net/2026/09/commodified-intelligence/</link>
-      <guid>https://lobste.rs/s/nidcls</guid>
-      <author>herecomesthemoon.net by mond</author>
-      <pubDate>Fri, 25 Sep 2026 13:24:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/nidcls/commodified_intelligence</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nidcls/commodified_intelligence"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>This is a modern motherfucking website</title>
       <link>https://modernmotherfuckingwebsite.dreamstation.systems/</link>
       <guid>https://lobste.rs/s/zoproh</guid>
@@ -251,26 +209,65 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Attention is all you have</title>
-      <link>https://alicegg.tech/2026/09/21/attention</link>
-      <guid>https://lobste.rs/s/fbo41b</guid>
-      <author>alicegg.tech via dustyweb</author>
-      <pubDate>Mon, 21 Sep 2026 14:06:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/fbo41b/attention_is_all_you_have</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fbo41b/attention_is_all_you_have"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
+      <title>What makes Lisp difficult to read?</title>
+      <link>https://paultm.nl/paren-thesis</link>
+      <guid>https://lobste.rs/s/fqype1</guid>
+      <author>paultm.nl via veqq</author>
+      <pubDate>Sun, 27 Sep 2026 23:44:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>plt</category>
     </item>
     <item>
-      <title>The GNOME LLM Policy That I Want</title>
-      <link>https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/</link>
-      <guid>https://lobste.rs/s/kras1h</guid>
-      <author>blogs.gnome.org via joshsharp</author>
-      <pubDate>Wed, 23 Sep 2026 05:28:14 -0500</pubDate>
-      <comments>https://lobste.rs/s/kras1h/gnome_llm_policy_i_want</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kras1h/gnome_llm_policy_i_want"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>practices</category>
+      <title>Commodified Intelligence</title>
+      <link>https://herecomesthemoon.net/2026/09/commodified-intelligence/</link>
+      <guid>https://lobste.rs/s/nidcls</guid>
+      <author>herecomesthemoon.net by mond</author>
+      <pubDate>Fri, 25 Sep 2026 13:24:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/nidcls/commodified_intelligence</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nidcls/commodified_intelligence"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Ideas on modernizing the open-source desktop</title>
+      <link>https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</link>
+      <guid>https://lobste.rs/s/aaq59w</guid>
+      <author>lwn.net via lollipopman</author>
+      <pubDate>Wed, 23 Sep 2026 14:49:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aaq59w/ideas_on_modernizing_open_source_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+    </item>
+    <item>
+      <title>Ten Lines Of Code That Changed My World</title>
+      <link>https://pixelambacht.nl/2026/ten-lines-of-code/</link>
+      <guid>https://lobste.rs/s/fpk9gq</guid>
+      <author>pixelambacht.nl via carlana</author>
+      <pubDate>Sun, 27 Sep 2026 08:05:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+    </item>
+    <item>
+      <title>Bill Gates tries to install Movie Maker</title>
+      <link>https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</link>
+      <guid>https://lobste.rs/s/lfqtgh</guid>
+      <author>techemails.com via nrposner</author>
+      <pubDate>Mon, 28 Sep 2026 11:18:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>windows</category>
+    </item>
+    <item>
+      <title>Rusty thoughts on "Parse, don't validate"</title>
+      <link>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</link>
+      <guid>https://lobste.rs/s/uvmajz</guid>
+      <author>eli.thegreenplace.net via carlana</author>
+      <pubDate>Sat, 26 Sep 2026 15:45:24 -0500</pubDate>
+      <comments>https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+      <category>rust</category>
     </item>
   </channel>
 </rss>
