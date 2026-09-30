@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Sat, 26 Sep 2026 06:02:48 -0500</pubDate>
+    <pubDate>Sun, 27 Sep 2026 09:44:53 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>If we do not stop to help each other, what do we become?</title>
-      <link>https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</link>
-      <guid>https://lobste.rs/s/p3iq7v</guid>
-      <author>blog.codinghorror.com via j11g</author>
-      <pubDate>Sat, 26 Sep 2026 06:02:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
     <item>
       <title>“They had no concept of a duty of care to their users.”</title>
       <link>https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</link>
@@ -26,6 +16,16 @@
       <comments>https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vim</category>
+    </item>
+    <item>
+      <title>If we do not stop to help each other, what do we become?</title>
+      <link>https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</link>
+      <guid>https://lobste.rs/s/p3iq7v</guid>
+      <author>blog.codinghorror.com via j11g</author>
+      <pubDate>Sat, 26 Sep 2026 06:02:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
     </item>
     <item>
       <title>Breaking Up with Google Play: Why Conversations Is Now Free</title>
@@ -48,6 +48,16 @@
       <category>security</category>
       <category>vcs</category>
       <category>distributed</category>
+    </item>
+    <item>
+      <title>Bill Gates tries to install Movie Maker</title>
+      <link>https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</link>
+      <guid>https://lobste.rs/s/lfqtgh</guid>
+      <author>techemails.com via nrposner</author>
+      <pubDate>Mon, 28 Sep 2026 11:18:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>windows</category>
     </item>
     <item>
       <title>Yes, no AI is now a feature</title>
@@ -82,6 +92,29 @@
       <category>ai</category>
     </item>
     <item>
+      <title>CoW — a stacking window manager for Wayland</title>
+      <link>https://cow-wm.codeberg.page/cow/</link>
+      <guid>https://lobste.rs/s/tyivfg</guid>
+      <author>cow-wm.codeberg.page via hawski</author>
+      <pubDate>Tue, 29 Sep 2026 04:07:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>freebsd</category>
+    </item>
+    <item>
+      <title>What Would A Serious AI Product Look Like?</title>
+      <link>https://blog.glyph.im/2026/09/serious-ai-product.html</link>
+      <guid>https://lobste.rs/s/q2rymh</guid>
+      <author>blog.glyph.im via Corbin</author>
+      <pubDate>Mon, 28 Sep 2026 12:01:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>a11y</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>One month without AI</title>
       <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
       <guid>https://lobste.rs/s/ivbx5f</guid>
@@ -102,26 +135,6 @@
       <category>security</category>
     </item>
     <item>
-      <title>No Sloptober</title>
-      <link>https://no-sloptober.com/</link>
-      <guid>https://lobste.rs/s/hburvt</guid>
-      <author>no-sloptober.com via jeremiahlee</author>
-      <pubDate>Tue, 22 Sep 2026 16:06:34 -0500</pubDate>
-      <comments>https://lobste.rs/s/hburvt/no_sloptober</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hburvt/no_sloptober"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Looking forward to Git 2.56 - and 3.0</title>
-      <link>https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</link>
-      <guid>https://lobste.rs/s/liey8q</guid>
-      <author>lwn.net via dimonomid</author>
-      <pubDate>Tue, 22 Sep 2026 00:23:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
-    </item>
-    <item>
       <title>postmarketOS rebrands as Nura</title>
       <link>https://nura.eco/blog/2026/09/27/nura-rename/</link>
       <guid>https://lobste.rs/s/msjitj</guid>
@@ -130,6 +143,16 @@
       <comments>https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
+    </item>
+    <item>
+      <title>What makes Lisp difficult to read?</title>
+      <link>https://paultm.nl/paren-thesis</link>
+      <guid>https://lobste.rs/s/fqype1</guid>
+      <author>paultm.nl via veqq</author>
+      <pubDate>Sun, 27 Sep 2026 23:44:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>plt</category>
     </item>
     <item>
       <title>KDE for People</title>
@@ -164,15 +187,24 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Fearless SIMD v1.0 is here</title>
-      <link>https://linebender.org/blog/fearless-simd-1-0/</link>
-      <guid>https://lobste.rs/s/wx3qsm</guid>
-      <author>linebender.org via ohrv</author>
-      <pubDate>Tue, 22 Sep 2026 07:10:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>rust</category>
+      <title>Leaving them behind</title>
+      <link>https://dbushell.com/2026/09/28/leaving-them-behind/</link>
+      <guid>https://lobste.rs/s/h3igdh</guid>
+      <author>dbushell.com via diktomat</author>
+      <pubDate>Mon, 28 Sep 2026 04:44:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/h3igdh/leaving_them_behind</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h3igdh/leaving_them_behind"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>When did Google get so weird?</title>
+      <link>https://sancho.bearblog.dev/google-weird/</link>
+      <guid>https://lobste.rs/s/aig5tr</guid>
+      <author>sancho.bearblog.dev via dimonomid</author>
+      <pubDate>Mon, 28 Sep 2026 04:16:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/aig5tr/when_did_google_get_so_weird</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aig5tr/when_did_google_get_so_weird"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>The Story of Mel</title>
@@ -184,17 +216,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wf4wid/story_mel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>assembly</category>
       <category>historical</category>
-    </item>
-    <item>
-      <title>Arguing about arguments</title>
-      <link>https://steveklabnik.com/writing/arguing-about-arguments/</link>
-      <guid>https://lobste.rs/s/bvrhgq</guid>
-      <author>steveklabnik.com via abhin4v</author>
-      <pubDate>Mon, 21 Sep 2026 23:29:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/bvrhgq/arguing_about_arguments</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bvrhgq/arguing_about_arguments"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>rust</category>
     </item>
     <item>
       <title>This is a modern motherfucking website</title>
@@ -209,14 +230,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>What makes Lisp difficult to read?</title>
-      <link>https://paultm.nl/paren-thesis</link>
-      <guid>https://lobste.rs/s/fqype1</guid>
-      <author>paultm.nl via veqq</author>
-      <pubDate>Sun, 27 Sep 2026 23:44:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>plt</category>
+      <title>Ten Lines Of Code That Changed My World</title>
+      <link>https://pixelambacht.nl/2026/ten-lines-of-code/</link>
+      <guid>https://lobste.rs/s/fpk9gq</guid>
+      <author>pixelambacht.nl via carlana</author>
+      <pubDate>Sun, 27 Sep 2026 08:05:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>Commodified Intelligence</title>
@@ -239,35 +260,14 @@
       <category>design</category>
     </item>
     <item>
-      <title>Ten Lines Of Code That Changed My World</title>
-      <link>https://pixelambacht.nl/2026/ten-lines-of-code/</link>
-      <guid>https://lobste.rs/s/fpk9gq</guid>
-      <author>pixelambacht.nl via carlana</author>
-      <pubDate>Sun, 27 Sep 2026 08:05:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-    </item>
-    <item>
-      <title>Bill Gates tries to install Movie Maker</title>
-      <link>https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</link>
-      <guid>https://lobste.rs/s/lfqtgh</guid>
-      <author>techemails.com via nrposner</author>
-      <pubDate>Mon, 28 Sep 2026 11:18:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>windows</category>
-    </item>
-    <item>
-      <title>Rusty thoughts on "Parse, don't validate"</title>
-      <link>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</link>
-      <guid>https://lobste.rs/s/uvmajz</guid>
-      <author>eli.thegreenplace.net via carlana</author>
-      <pubDate>Sat, 26 Sep 2026 15:45:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>rust</category>
+      <title>Hijacking the PS5's RTMP Stream</title>
+      <link>https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/</link>
+      <guid>https://lobste.rs/s/8oyww7</guid>
+      <author>yashgarg.dev by yashgarg</author>
+      <pubDate>Mon, 28 Sep 2026 06:45:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
   </channel>
 </rss>
