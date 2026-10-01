@@ -80,17 +80,6 @@
       <category>android</category>
     </item>
     <item>
-      <title>Goodbye Google</title>
-      <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
-      <guid>https://lobste.rs/s/sxlf4a</guid>
-      <author>robert.ocallahan.org via classichasclass</author>
-      <pubDate>Fri, 25 Sep 2026 00:51:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/sxlf4a/goodbye_google</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxlf4a/goodbye_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-      <category>ai</category>
-    </item>
-    <item>
       <title>What Would A Serious AI Product Look Like?</title>
       <link>https://blog.glyph.im/2026/09/serious-ai-product.html</link>
       <guid>https://lobste.rs/s/q2rymh</guid>
@@ -101,6 +90,17 @@
       <category>design</category>
       <category>a11y</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Goodbye Google</title>
+      <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
+      <guid>https://lobste.rs/s/sxlf4a</guid>
+      <author>robert.ocallahan.org via classichasclass</author>
+      <pubDate>Fri, 25 Sep 2026 00:51:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/sxlf4a/goodbye_google</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxlf4a/goodbye_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+      <category>ai</category>
     </item>
     <item>
       <title>One month without AI</title>
@@ -184,17 +184,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>The Story of Mel</title>
-      <link>https://users.cs.utah.edu/~elb/folklore/mel.html</link>
-      <guid>https://lobste.rs/s/wf4wid</guid>
-      <author>users.cs.utah.edu via drmorr</author>
-      <pubDate>Wed, 23 Sep 2026 23:09:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/wf4wid/story_mel</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wf4wid/story_mel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-      <category>historical</category>
-    </item>
-    <item>
       <title>How to speed up the Rust compiler in September 2026</title>
       <link>https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html</link>
       <guid>https://lobste.rs/s/odrfgk</guid>
@@ -229,6 +218,16 @@
       <category>programming</category>
     </item>
     <item>
+      <title>Pining for Arc Downcasting in Rust</title>
+      <link>https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/</link>
+      <guid>https://lobste.rs/s/dayzwt</guid>
+      <author>wolfgirl.dev by polywolf</author>
+      <pubDate>Tue, 29 Sep 2026 10:35:14 -0500</pubDate>
+      <comments>https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
       <title>Commodified Intelligence</title>
       <link>https://herecomesthemoon.net/2026/09/commodified-intelligence/</link>
       <guid>https://lobste.rs/s/nidcls</guid>
@@ -249,16 +248,6 @@
       <category>networking</category>
     </item>
     <item>
-      <title>Pining for Arc Downcasting in Rust</title>
-      <link>https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/</link>
-      <guid>https://lobste.rs/s/dayzwt</guid>
-      <author>wolfgirl.dev by polywolf</author>
-      <pubDate>Tue, 29 Sep 2026 10:35:14 -0500</pubDate>
-      <comments>https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-    </item>
-    <item>
       <title>Rusty thoughts on "Parse, don't validate"</title>
       <link>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</link>
       <guid>https://lobste.rs/s/uvmajz</guid>
@@ -268,6 +257,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
       <category>rust</category>
+    </item>
+    <item>
+      <title>State of the (Tagged) Union Address by Andrew Kelley</title>
+      <link>https://www.youtube.com/watch?v=zwi5b5xSsKA</link>
+      <guid>https://lobste.rs/s/okds3e</guid>
+      <author>youtube.com via trousers</author>
+      <pubDate>Mon, 28 Sep 2026 15:35:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>zig</category>
     </item>
   </channel>
 </rss>
