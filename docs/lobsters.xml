@@ -28,16 +28,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Breaking Up with Google Play: Why Conversations Is Now Free</title>
-      <link>https://gultsch.de/posts/breaking-up-with-google-play/</link>
-      <guid>https://lobste.rs/s/4jqfz1</guid>
-      <author>gultsch.de via tusharhero</author>
-      <pubDate>Thu, 24 Sep 2026 09:57:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>android</category>
-    </item>
-    <item>
       <title>Bill Gates tries to install Movie Maker</title>
       <link>https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</link>
       <guid>https://lobste.rs/s/lfqtgh</guid>
@@ -70,14 +60,15 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>F-Droid 2.0</title>
-      <link>https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html</link>
-      <guid>https://lobste.rs/s/opt2ma</guid>
-      <author>f-droid.org via dimonomid</author>
-      <pubDate>Thu, 24 Sep 2026 13:43:01 -0500</pubDate>
-      <comments>https://lobste.rs/s/opt2ma/f_droid_2_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opt2ma/f_droid_2_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>android</category>
+      <title>IANA's email about why example.com changed</title>
+      <link>https://www.oliverdunk.com/2026/09/30/iana-reply</link>
+      <guid>https://lobste.rs/s/qgd17n</guid>
+      <author>oliverdunk.com via videah</author>
+      <pubDate>Thu, 01 Oct 2026 03:47:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
+      <category>web</category>
     </item>
     <item>
       <title>What Would A Serious AI Product Look Like?</title>
@@ -111,16 +102,6 @@
       <comments>https://lobste.rs/s/ivbx5f/one_month_without_ai</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ivbx5f/one_month_without_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
-      <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
-      <guid>https://lobste.rs/s/ky1cr0</guid>
-      <author>blog.arusekk.pl via winter</author>
-      <pubDate>Thu, 24 Sep 2026 15:38:32 -0500</pubDate>
-      <comments>https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>postmarketOS rebrands as Nura</title>
@@ -161,16 +142,6 @@
       <comments>https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>meta</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>I asked Meta’s Muse for its filesystem and it sent me 6.8 GB</title>
-      <link>https://mouse.dev/blog/muse-runtime-export/</link>
-      <guid>https://lobste.rs/s/mdczxv</guid>
-      <author>mouse.dev via Garbi</author>
-      <pubDate>Thu, 24 Sep 2026 09:55:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
     </item>
     <item>
@@ -248,6 +219,17 @@
       <category>networking</category>
     </item>
     <item>
+      <title>State of the (Tagged) Union Address by Andrew Kelley</title>
+      <link>https://www.youtube.com/watch?v=zwi5b5xSsKA</link>
+      <guid>https://lobste.rs/s/okds3e</guid>
+      <author>youtube.com via trousers</author>
+      <pubDate>Mon, 28 Sep 2026 15:35:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>zig</category>
+    </item>
+    <item>
       <title>Rusty thoughts on "Parse, don't validate"</title>
       <link>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</link>
       <guid>https://lobste.rs/s/uvmajz</guid>
@@ -259,15 +241,36 @@
       <category>rust</category>
     </item>
     <item>
-      <title>State of the (Tagged) Union Address by Andrew Kelley</title>
-      <link>https://www.youtube.com/watch?v=zwi5b5xSsKA</link>
-      <guid>https://lobste.rs/s/okds3e</guid>
-      <author>youtube.com via trousers</author>
-      <pubDate>Mon, 28 Sep 2026 15:35:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>video</category>
-      <category>zig</category>
+      <title>Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming</title>
+      <link>https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave</link>
+      <guid>https://lobste.rs/s/hq6xj2</guid>
+      <author>phoronix.com via AviKav</author>
+      <pubDate>Sat, 26 Sep 2026 22:41:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>graphics</category>
+    </item>
+    <item>
+      <title>The Cuckoo's Egg</title>
+      <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
+      <guid>https://lobste.rs/s/nicozi</guid>
+      <author>en.wikipedia.org via atmosx</author>
+      <pubDate>Wed, 30 Sep 2026 03:48:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/nicozi/cuckoo_s_egg</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nicozi/cuckoo_s_egg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>book</category>
+    </item>
+    <item>
+      <title>Grieving the loss of details</title>
+      <link>https://purplesyringa.moe/blog/grieving-the-loss-of-details/</link>
+      <guid>https://lobste.rs/s/jmlnak</guid>
+      <author>purplesyringa.moe via bal-e</author>
+      <pubDate>Fri, 25 Sep 2026 06:29:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/jmlnak/grieving_loss_details</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jmlnak/grieving_loss_details"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
