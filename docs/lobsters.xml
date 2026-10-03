@@ -49,17 +49,6 @@
       <category>freebsd</category>
     </item>
     <item>
-      <title>Yes, no AI is now a feature</title>
-      <link>https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/</link>
-      <guid>https://lobste.rs/s/sxcz4v</guid>
-      <author>blog.documentfoundation.org via johnolinda</author>
-      <pubDate>Mon, 28 Sep 2026 04:58:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>IANA's email about why example.com changed</title>
       <link>https://www.oliverdunk.com/2026/09/30/iana-reply</link>
       <guid>https://lobste.rs/s/qgd17n</guid>
@@ -69,6 +58,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>networking</category>
       <category>web</category>
+    </item>
+    <item>
+      <title>Yes, no AI is now a feature</title>
+      <link>https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/</link>
+      <guid>https://lobste.rs/s/sxcz4v</guid>
+      <author>blog.documentfoundation.org via johnolinda</author>
+      <pubDate>Mon, 28 Sep 2026 04:58:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>What Would A Serious AI Product Look Like?</title>
@@ -81,17 +81,6 @@
       <category>design</category>
       <category>a11y</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Goodbye Google</title>
-      <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
-      <guid>https://lobste.rs/s/sxlf4a</guid>
-      <author>robert.ocallahan.org via classichasclass</author>
-      <pubDate>Fri, 25 Sep 2026 00:51:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/sxlf4a/goodbye_google</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxlf4a/goodbye_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-      <category>ai</category>
     </item>
     <item>
       <title>One month without AI</title>
@@ -134,17 +123,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Lobsters: Rename vibecoding to llms (Greasemonkey script)</title>
-      <link>https://greasyfork.org/en/scripts?by=1646191</link>
-      <guid>https://lobste.rs/s/68n22g</guid>
-      <author>greasyfork.org by joshka</author>
-      <pubDate>Fri, 25 Sep 2026 00:33:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>meta</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>When did Google get so weird?</title>
       <link>https://sancho.bearblog.dev/google-weird/</link>
       <guid>https://lobste.rs/s/aig5tr</guid>
@@ -153,6 +131,27 @@
       <comments>https://lobste.rs/s/aig5tr/when_did_google_get_so_weird</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aig5tr/when_did_google_get_so_weird"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Announcing Rust 1.99.0</title>
+      <link>https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/</link>
+      <guid>https://lobste.rs/s/dfvxvs</guid>
+      <author>blog.rust-lang.org via itamarst</author>
+      <pubDate>Thu, 01 Oct 2026 08:08:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
+      <link>https://blog.gitbutler.com/git-3-sha-256</link>
+      <guid>https://lobste.rs/s/bytzgl</guid>
+      <author>blog.gitbutler.com via mort</author>
+      <pubDate>Thu, 01 Oct 2026 13:26:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
     <item>
       <title>How to speed up the Rust compiler in September 2026</title>
@@ -199,16 +198,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Commodified Intelligence</title>
-      <link>https://herecomesthemoon.net/2026/09/commodified-intelligence/</link>
-      <guid>https://lobste.rs/s/nidcls</guid>
-      <author>herecomesthemoon.net by mond</author>
-      <pubDate>Fri, 25 Sep 2026 13:24:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/nidcls/commodified_intelligence</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nidcls/commodified_intelligence"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Hijacking the PS5's RTMP Stream</title>
       <link>https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/</link>
       <guid>https://lobste.rs/s/8oyww7</guid>
@@ -216,6 +205,16 @@
       <pubDate>Mon, 28 Sep 2026 06:45:16 -0500</pubDate>
       <comments>https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
+    </item>
+    <item>
+      <title>Actual RFC1149 packet being auctioned</title>
+      <link>https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216</link>
+      <guid>https://lobste.rs/s/wqqkws</guid>
+      <author>onlineonly.christies.com via dsr</author>
+      <pubDate>Fri, 02 Oct 2026 09:17:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>networking</category>
     </item>
     <item>
@@ -241,16 +240,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming</title>
-      <link>https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave</link>
-      <guid>https://lobste.rs/s/hq6xj2</guid>
-      <author>phoronix.com via AviKav</author>
-      <pubDate>Sat, 26 Sep 2026 22:41:44 -0500</pubDate>
-      <comments>https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>graphics</category>
-    </item>
-    <item>
       <title>The Cuckoo's Egg</title>
       <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
       <guid>https://lobste.rs/s/nicozi</guid>
@@ -262,15 +251,40 @@
       <category>book</category>
     </item>
     <item>
-      <title>Grieving the loss of details</title>
-      <link>https://purplesyringa.moe/blog/grieving-the-loss-of-details/</link>
-      <guid>https://lobste.rs/s/jmlnak</guid>
-      <author>purplesyringa.moe via bal-e</author>
-      <pubDate>Fri, 25 Sep 2026 06:29:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/jmlnak/grieving_loss_details</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jmlnak/grieving_loss_details"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-      <category>vibecoding</category>
+      <title>Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming</title>
+      <link>https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave</link>
+      <guid>https://lobste.rs/s/hq6xj2</guid>
+      <author>phoronix.com via AviKav</author>
+      <pubDate>Sat, 26 Sep 2026 22:41:44 -0500</pubDate>
+      <comments>https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>graphics</category>
+    </item>
+    <item>
+      <title>Who's hiring? Q4 2026</title>
+      <link>https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026</link>
+      <guid>https://lobste.rs/s/bmcnwp</guid>
+      <author> by makishimu</author>
+      <pubDate>Thu, 01 Oct 2026 05:03:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026</comments>
+      <description>&lt;p&gt;There was interest in expanding the scope of "Who's hiring" posts to non-software engineering positions &lt;a href="https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026" rel="ugc"&gt;[link1]&lt;/a&gt; &lt;a href="https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026" rel="ugc"&gt;[link2]&lt;/a&gt;. Some discussion took place, however no actual jobs were posted. I suggest to include that intention into this post and share non-engineering vacancies such as customer support, data entry, field technician, etc. Although, I'd like to remind you this is a computing-focused community, so the jobs should fall into that realm too.&lt;/p&gt;
+&lt;p&gt;Please, use the following template for your job postings and as you see fit:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;**Company:** [NAME](URL)
+
+**Position(s):** job title and level
+
+**Location:** remote or onsite, and where (worldwide/US/EU/etc.)
+
+**Description:** description of the company, mission, culture, job position, duties, necessary experience &amp;amp; skills, etc.
+
+**Tech stack:** the nitty-gritty details
+
+**Compensation:** salary, equity, vacation, major benefits
+
+**Contacts:** a posting page, your email, etc.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+      <category>job</category>
     </item>
   </channel>
 </rss>
