@@ -18,16 +18,6 @@
       <category>vim</category>
     </item>
     <item>
-      <title>If we do not stop to help each other, what do we become?</title>
-      <link>https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</link>
-      <guid>https://lobste.rs/s/p3iq7v</guid>
-      <author>blog.codinghorror.com via j11g</author>
-      <pubDate>Sat, 26 Sep 2026 06:02:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Bill Gates tries to install Movie Maker</title>
       <link>https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</link>
       <guid>https://lobste.rs/s/lfqtgh</guid>
@@ -36,17 +26,6 @@
       <comments>https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>windows</category>
-    </item>
-    <item>
-      <title>CoW — a stacking window manager for Wayland</title>
-      <link>https://cow-wm.codeberg.page/cow/</link>
-      <guid>https://lobste.rs/s/tyivfg</guid>
-      <author>cow-wm.codeberg.page via hawski</author>
-      <pubDate>Tue, 29 Sep 2026 04:07:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>freebsd</category>
     </item>
     <item>
       <title>IANA's email about why example.com changed</title>
@@ -60,6 +39,17 @@
       <category>web</category>
     </item>
     <item>
+      <title>CoW — a stacking window manager for Wayland</title>
+      <link>https://cow-wm.codeberg.page/cow/</link>
+      <guid>https://lobste.rs/s/tyivfg</guid>
+      <author>cow-wm.codeberg.page via hawski</author>
+      <pubDate>Tue, 29 Sep 2026 04:07:37 -0500</pubDate>
+      <comments>https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>freebsd</category>
+    </item>
+    <item>
       <title>Yes, no AI is now a feature</title>
       <link>https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/</link>
       <guid>https://lobste.rs/s/sxcz4v</guid>
@@ -69,6 +59,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Zig 0.17.0 Release Notes</title>
+      <link>https://ziglang.org/download/0.17.0/release-notes.html</link>
+      <guid>https://lobste.rs/s/wcmfft</guid>
+      <author>ziglang.org via saccharin</author>
+      <pubDate>Fri, 02 Oct 2026 16:10:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
     </item>
     <item>
       <title>What Would A Serious AI Product Look Like?</title>
@@ -83,6 +83,17 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>I got targeted: Trying to get your credentials via a git post-checkout hook</title>
+      <link>https://frankwiles.com/posts/i-got-targeted/</link>
+      <guid>https://lobste.rs/s/cd5gdk</guid>
+      <author>frankwiles.com by frankwiles</author>
+      <pubDate>Fri, 02 Oct 2026 17:19:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>vcs</category>
+    </item>
+    <item>
       <title>One month without AI</title>
       <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
       <guid>https://lobste.rs/s/ivbx5f</guid>
@@ -91,6 +102,16 @@
       <comments>https://lobste.rs/s/ivbx5f/one_month_without_ai</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ivbx5f/one_month_without_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Actual RFC1149 packet being auctioned</title>
+      <link>https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216</link>
+      <guid>https://lobste.rs/s/wqqkws</guid>
+      <author>onlineonly.christies.com via dsr</author>
+      <pubDate>Fri, 02 Oct 2026 09:17:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
     <item>
       <title>postmarketOS rebrands as Nura</title>
@@ -123,14 +144,14 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>When did Google get so weird?</title>
-      <link>https://sancho.bearblog.dev/google-weird/</link>
-      <guid>https://lobste.rs/s/aig5tr</guid>
-      <author>sancho.bearblog.dev via dimonomid</author>
-      <pubDate>Mon, 28 Sep 2026 04:16:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/aig5tr/when_did_google_get_so_weird</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aig5tr/when_did_google_get_so_weird"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
+      <title>Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
+      <link>https://blog.gitbutler.com/git-3-sha-256</link>
+      <guid>https://lobste.rs/s/bytzgl</guid>
+      <author>blog.gitbutler.com via mort</author>
+      <pubDate>Thu, 01 Oct 2026 13:26:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
     <item>
       <title>Announcing Rust 1.99.0</title>
@@ -144,14 +165,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
-      <link>https://blog.gitbutler.com/git-3-sha-256</link>
-      <guid>https://lobste.rs/s/bytzgl</guid>
-      <author>blog.gitbutler.com via mort</author>
-      <pubDate>Thu, 01 Oct 2026 13:26:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
+      <title>When did Google get so weird?</title>
+      <link>https://sancho.bearblog.dev/google-weird/</link>
+      <guid>https://lobste.rs/s/aig5tr</guid>
+      <author>sancho.bearblog.dev via dimonomid</author>
+      <pubDate>Mon, 28 Sep 2026 04:16:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/aig5tr/when_did_google_get_so_weird</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aig5tr/when_did_google_get_so_weird"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>How to speed up the Rust compiler in September 2026</title>
@@ -163,18 +184,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
       <category>compilers</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>This is a modern motherfucking website</title>
-      <link>https://modernmotherfuckingwebsite.dreamstation.systems/</link>
-      <guid>https://lobste.rs/s/zoproh</guid>
-      <author>modernmotherfuckingwebsite.dreamstation.systems via FedericoSchonborn</author>
-      <pubDate>Sat, 26 Sep 2026 19:04:56 -0500</pubDate>
-      <comments>https://lobste.rs/s/zoproh/this_is_modern_motherfucking_website</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zoproh/this_is_modern_motherfucking_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>satire</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -208,14 +217,27 @@
       <category>networking</category>
     </item>
     <item>
-      <title>Actual RFC1149 packet being auctioned</title>
-      <link>https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216</link>
-      <guid>https://lobste.rs/s/wqqkws</guid>
-      <author>onlineonly.christies.com via dsr</author>
-      <pubDate>Fri, 02 Oct 2026 09:17:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
+      <title>Waterfox 6.7.5 Adds a Built-in Feed Reader</title>
+      <link>https://www.waterfox.com/releases/6.7.5/</link>
+      <guid>https://lobste.rs/s/gmjegm</guid>
+      <author>waterfox.com via chai</author>
+      <pubDate>Thu, 01 Oct 2026 21:17:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>release</category>
+    </item>
+    <item>
+      <title>The forgetful CPU (Linux on M4)</title>
+      <link>https://yuka.dev/blog-2026-10-02-linux-m4.html</link>
+      <guid>https://lobste.rs/s/s4wm69</guid>
+      <author>yuka.dev via calvin</author>
+      <pubDate>Fri, 02 Oct 2026 09:01:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>hardware</category>
+      <category>reversing</category>
     </item>
     <item>
       <title>State of the (Tagged) Union Address by Andrew Kelley</title>
@@ -227,17 +249,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>video</category>
       <category>zig</category>
-    </item>
-    <item>
-      <title>Rusty thoughts on "Parse, don't validate"</title>
-      <link>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</link>
-      <guid>https://lobste.rs/s/uvmajz</guid>
-      <author>eli.thegreenplace.net via carlana</author>
-      <pubDate>Sat, 26 Sep 2026 15:45:24 -0500</pubDate>
-      <comments>https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-      <category>rust</category>
     </item>
     <item>
       <title>The Cuckoo's Egg</title>
@@ -259,32 +270,6 @@
       <comments>https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>graphics</category>
-    </item>
-    <item>
-      <title>Who's hiring? Q4 2026</title>
-      <link>https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026</link>
-      <guid>https://lobste.rs/s/bmcnwp</guid>
-      <author> by makishimu</author>
-      <pubDate>Thu, 01 Oct 2026 05:03:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026</comments>
-      <description>&lt;p&gt;There was interest in expanding the scope of "Who's hiring" posts to non-software engineering positions &lt;a href="https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026" rel="ugc"&gt;[link1]&lt;/a&gt; &lt;a href="https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026" rel="ugc"&gt;[link2]&lt;/a&gt;. Some discussion took place, however no actual jobs were posted. I suggest to include that intention into this post and share non-engineering vacancies such as customer support, data entry, field technician, etc. Although, I'd like to remind you this is a computing-focused community, so the jobs should fall into that realm too.&lt;/p&gt;
-&lt;p&gt;Please, use the following template for your job postings and as you see fit:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;**Company:** [NAME](URL)
-
-**Position(s):** job title and level
-
-**Location:** remote or onsite, and where (worldwide/US/EU/etc.)
-
-**Description:** description of the company, mission, culture, job position, duties, necessary experience &amp;amp; skills, etc.
-
-**Tech stack:** the nitty-gritty details
-
-**Compensation:** salary, equity, vacation, major benefits
-
-**Contacts:** a posting page, your email, etc.
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-      <category>job</category>
     </item>
   </channel>
 </rss>
