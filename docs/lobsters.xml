@@ -222,6 +222,16 @@
       <category>networking</category>
     </item>
     <item>
+      <title>Rust's derive often implies inline</title>
+      <link>https://yossarian.net/til/post/rust-s-derive-often-implies-inline/</link>
+      <guid>https://lobste.rs/s/dldhpw</guid>
+      <author>yossarian.net by yossarian</author>
+      <pubDate>Sat, 03 Oct 2026 20:41:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
       <title>State of the (Tagged) Union Address by Andrew Kelley</title>
       <link>https://www.youtube.com/watch?v=zwi5b5xSsKA</link>
       <guid>https://lobste.rs/s/okds3e</guid>
@@ -231,16 +241,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>video</category>
       <category>zig</category>
-    </item>
-    <item>
-      <title>Rust's derive often implies inline</title>
-      <link>https://yossarian.net/til/post/rust-s-derive-often-implies-inline/</link>
-      <guid>https://lobste.rs/s/dldhpw</guid>
-      <author>yossarian.net by yossarian</author>
-      <pubDate>Sat, 03 Oct 2026 20:41:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
     </item>
     <item>
       <title>The Cuckoo's Egg</title>
