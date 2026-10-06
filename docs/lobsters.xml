@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Mon, 28 Sep 2026 11:18:16 -0500</pubDate>
+    <pubDate>Thu, 01 Oct 2026 03:47:50 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Bill Gates tries to install Movie Maker</title>
-      <link>https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</link>
-      <guid>https://lobste.rs/s/lfqtgh</guid>
-      <author>techemails.com via nrposner</author>
-      <pubDate>Mon, 28 Sep 2026 11:18:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>windows</category>
-    </item>
     <item>
       <title>IANA's email about why example.com changed</title>
       <link>https://www.oliverdunk.com/2026/09/30/iana-reply</link>
@@ -38,17 +28,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
       <category>freebsd</category>
-    </item>
-    <item>
-      <title>Yes, no AI is now a feature</title>
-      <link>https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/</link>
-      <guid>https://lobste.rs/s/sxcz4v</guid>
-      <author>blog.documentfoundation.org via johnolinda</author>
-      <pubDate>Mon, 28 Sep 2026 04:58:26 -0500</pubDate>
-      <comments>https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>I got targeted: Trying to get your credentials via a git post-checkout hook</title>
@@ -73,18 +52,6 @@
       <category>zig</category>
     </item>
     <item>
-      <title>What Would A Serious AI Product Look Like?</title>
-      <link>https://blog.glyph.im/2026/09/serious-ai-product.html</link>
-      <guid>https://lobste.rs/s/q2rymh</guid>
-      <author>blog.glyph.im via Corbin</author>
-      <pubDate>Mon, 28 Sep 2026 12:01:01 -0500</pubDate>
-      <comments>https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-      <category>a11y</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Actual RFC1149 packet being auctioned</title>
       <link>https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216</link>
       <guid>https://lobste.rs/s/wqqkws</guid>
@@ -93,16 +60,7 @@
       <comments>https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>networking</category>
-    </item>
-    <item>
-      <title>What makes Lisp difficult to read?</title>
-      <link>https://paultm.nl/paren-thesis</link>
-      <guid>https://lobste.rs/s/fqype1</guid>
-      <author>paultm.nl via veqq</author>
-      <pubDate>Sun, 27 Sep 2026 23:44:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>plt</category>
+      <category>art</category>
     </item>
     <item>
       <title>Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
@@ -115,14 +73,16 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>Leaving them behind</title>
-      <link>https://dbushell.com/2026/09/28/leaving-them-behind/</link>
-      <guid>https://lobste.rs/s/h3igdh</guid>
-      <author>dbushell.com via diktomat</author>
-      <pubDate>Mon, 28 Sep 2026 04:44:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/h3igdh/leaving_them_behind</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h3igdh/leaving_them_behind"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
+      <title>Gleam doesn't compile to Erlang source anymore</title>
+      <link>https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</link>
+      <guid>https://lobste.rs/s/2svplr</guid>
+      <author>gleam.run via novedevo</author>
+      <pubDate>Mon, 05 Oct 2026 12:29:17 -0500</pubDate>
+      <comments>https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>erlang</category>
+      <category>compilers</category>
+      <category>gleam</category>
     </item>
     <item>
       <title>Announcing Rust 1.99.0</title>
@@ -136,14 +96,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>When did Google get so weird?</title>
-      <link>https://sancho.bearblog.dev/google-weird/</link>
-      <guid>https://lobste.rs/s/aig5tr</guid>
-      <author>sancho.bearblog.dev via dimonomid</author>
-      <pubDate>Mon, 28 Sep 2026 04:16:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/aig5tr/when_did_google_get_so_weird</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aig5tr/when_did_google_get_so_weird"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
+      <title>Rust's derive often implies inline</title>
+      <link>https://yossarian.net/til/post/rust-s-derive-often-implies-inline/</link>
+      <guid>https://lobste.rs/s/dldhpw</guid>
+      <author>yossarian.net by yossarian</author>
+      <pubDate>Sat, 03 Oct 2026 20:41:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
     </item>
     <item>
       <title>How to speed up the Rust compiler in September 2026</title>
@@ -156,6 +116,16 @@
       <category>rust</category>
       <category>compilers</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Why don’t more developers "use the platform"?</title>
+      <link>https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</link>
+      <guid>https://lobste.rs/s/srduzv</guid>
+      <author>nolanlawson.com by nolan</author>
+      <pubDate>Sat, 03 Oct 2026 16:35:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>The Four Horsemen of Agentic Coding</title>
@@ -181,16 +151,6 @@
       <category>reversing</category>
     </item>
     <item>
-      <title>Why don’t more developers "use the platform"?</title>
-      <link>https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</link>
-      <guid>https://lobste.rs/s/srduzv</guid>
-      <author>nolanlawson.com by nolan</author>
-      <pubDate>Sat, 03 Oct 2026 16:35:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-    </item>
-    <item>
       <title>Pining for Arc Downcasting in Rust</title>
       <link>https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/</link>
       <guid>https://lobste.rs/s/dayzwt</guid>
@@ -212,46 +172,24 @@
       <category>release</category>
     </item>
     <item>
-      <title>Hijacking the PS5's RTMP Stream</title>
-      <link>https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/</link>
-      <guid>https://lobste.rs/s/8oyww7</guid>
-      <author>yashgarg.dev by yashgarg</author>
-      <pubDate>Mon, 28 Sep 2026 06:45:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
+      <title>Another step towards elm v1</title>
+      <link>https://elm-lang.org/news/another-step-towards-elm-v1</link>
+      <guid>https://lobste.rs/s/fks4pf</guid>
+      <author>elm-lang.org via Jackevansevo</author>
+      <pubDate>Mon, 05 Oct 2026 08:20:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/fks4pf/another_step_towards_elm_v1</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fks4pf/another_step_towards_elm_v1"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>elm</category>
     </item>
     <item>
-      <title>Rust's derive often implies inline</title>
-      <link>https://yossarian.net/til/post/rust-s-derive-often-implies-inline/</link>
-      <guid>https://lobste.rs/s/dldhpw</guid>
-      <author>yossarian.net by yossarian</author>
-      <pubDate>Sat, 03 Oct 2026 20:41:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>State of the (Tagged) Union Address by Andrew Kelley</title>
-      <link>https://www.youtube.com/watch?v=zwi5b5xSsKA</link>
-      <guid>https://lobste.rs/s/okds3e</guid>
-      <author>youtube.com via trousers</author>
-      <pubDate>Mon, 28 Sep 2026 15:35:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>video</category>
-      <category>zig</category>
-    </item>
-    <item>
-      <title>The Cuckoo's Egg</title>
-      <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
-      <guid>https://lobste.rs/s/nicozi</guid>
-      <author>en.wikipedia.org via atmosx</author>
-      <pubDate>Wed, 30 Sep 2026 03:48:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/nicozi/cuckoo_s_egg</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nicozi/cuckoo_s_egg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>book</category>
+      <title>Iroh global content discovery</title>
+      <link>https://www.iroh.computer/blog/iroh-global-content-discovery</link>
+      <guid>https://lobste.rs/s/eoibah</guid>
+      <author>iroh.computer via sanqui</author>
+      <pubDate>Sun, 04 Oct 2026 14:19:42 -0500</pubDate>
+      <comments>https://lobste.rs/s/eoibah/iroh_global_content_discovery</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>distributed</category>
     </item>
     <item>
       <title>Lobsters Interview with Sjamaan</title>
@@ -346,6 +284,17 @@
       <category>interview</category>
     </item>
     <item>
+      <title>The Cuckoo's Egg</title>
+      <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
+      <guid>https://lobste.rs/s/nicozi</guid>
+      <author>en.wikipedia.org via atmosx</author>
+      <pubDate>Wed, 30 Sep 2026 03:48:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/nicozi/cuckoo_s_egg</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nicozi/cuckoo_s_egg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>book</category>
+    </item>
+    <item>
       <title>Who's hiring? Q4 2026</title>
       <link>https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026</link>
       <guid>https://lobste.rs/s/bmcnwp</guid>
@@ -370,6 +319,56 @@
 &lt;/code&gt;&lt;/pre&gt;
 </description>
       <category>job</category>
+    </item>
+    <item>
+      <title>Reducing the cognitive load of AI changes</title>
+      <link>https://amoffat.github.io/blog/cognitive-load.html</link>
+      <guid>https://lobste.rs/s/iwvjr0</guid>
+      <author>amoffat.github.io by amoffat</author>
+      <pubDate>Thu, 01 Oct 2026 07:57:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Aho-Corasick Algorithm</title>
+      <link>https://compiler.club/aho-corasick/</link>
+      <guid>https://lobste.rs/s/s0x5nd</guid>
+      <author>compiler.club via abhin4v</author>
+      <pubDate>Tue, 29 Sep 2026 09:49:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/s0x5nd/aho_corasick_algorithm</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s0x5nd/aho_corasick_algorithm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compsci</category>
+    </item>
+    <item>
+      <title>gVisor is being donated to CNCF</title>
+      <link>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/</link>
+      <guid>https://lobste.rs/s/asoxjl</guid>
+      <author>gvisor.dev via carlana</author>
+      <pubDate>Fri, 02 Oct 2026 21:41:38 -0500</pubDate>
+      <comments>https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>devops</category>
+    </item>
+    <item>
+      <title>Differences between `foldl` and `foldr`</title>
+      <link>https://blog.haskell.org/foldl-and-foldr/</link>
+      <guid>https://lobste.rs/s/irijoi</guid>
+      <author>blog.haskell.org via eatonphil</author>
+      <pubDate>Wed, 30 Sep 2026 07:47:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/irijoi/differences_between_foldl_foldr</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/irijoi/differences_between_foldl_foldr"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>haskell</category>
+    </item>
+    <item>
+      <title>Hanami, Why?: Introductions</title>
+      <link>https://aaronmallen.me/writing/hanami-why-introductions</link>
+      <guid>https://lobste.rs/s/bag41j</guid>
+      <author>aaronmallen.me by aaronmallen</author>
+      <pubDate>Wed, 30 Sep 2026 10:55:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/bag41j/hanami_why_introductions</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bag41j/hanami_why_introductions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
     </item>
   </channel>
 </rss>
