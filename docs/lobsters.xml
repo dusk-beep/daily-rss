@@ -19,17 +19,6 @@
       <category>web</category>
     </item>
     <item>
-      <title>CoW — a stacking window manager for Wayland</title>
-      <link>https://cow-wm.codeberg.page/cow/</link>
-      <guid>https://lobste.rs/s/tyivfg</guid>
-      <author>cow-wm.codeberg.page via hawski</author>
-      <pubDate>Tue, 29 Sep 2026 04:07:37 -0500</pubDate>
-      <comments>https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>freebsd</category>
-    </item>
-    <item>
       <title>I got targeted: Trying to get your credentials via a git post-checkout hook</title>
       <link>https://frankwiles.com/posts/i-got-targeted/</link>
       <guid>https://lobste.rs/s/cd5gdk</guid>
@@ -52,6 +41,18 @@
       <category>zig</category>
     </item>
     <item>
+      <title>Gleam doesn't compile to Erlang source anymore</title>
+      <link>https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</link>
+      <guid>https://lobste.rs/s/2svplr</guid>
+      <author>gleam.run via novedevo</author>
+      <pubDate>Mon, 05 Oct 2026 12:29:17 -0500</pubDate>
+      <comments>https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>erlang</category>
+      <category>compilers</category>
+      <category>gleam</category>
+    </item>
+    <item>
       <title>Actual RFC1149 packet being auctioned</title>
       <link>https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216</link>
       <guid>https://lobste.rs/s/wqqkws</guid>
@@ -63,6 +64,16 @@
       <category>art</category>
     </item>
     <item>
+      <title>Another step towards elm v1</title>
+      <link>https://elm-lang.org/news/another-step-towards-elm-v1</link>
+      <guid>https://lobste.rs/s/fks4pf</guid>
+      <author>elm-lang.org via Jackevansevo</author>
+      <pubDate>Mon, 05 Oct 2026 08:20:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/fks4pf/another_step_towards_elm_v1</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fks4pf/another_step_towards_elm_v1"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>elm</category>
+    </item>
+    <item>
       <title>Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
       <link>https://blog.gitbutler.com/git-3-sha-256</link>
       <guid>https://lobste.rs/s/bytzgl</guid>
@@ -71,18 +82,6 @@
       <comments>https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>Gleam doesn't compile to Erlang source anymore</title>
-      <link>https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</link>
-      <guid>https://lobste.rs/s/2svplr</guid>
-      <author>gleam.run via novedevo</author>
-      <pubDate>Mon, 05 Oct 2026 12:29:17 -0500</pubDate>
-      <comments>https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>erlang</category>
-      <category>compilers</category>
-      <category>gleam</category>
     </item>
     <item>
       <title>Announcing Rust 1.99.0</title>
@@ -106,18 +105,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>How to speed up the Rust compiler in September 2026</title>
-      <link>https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html</link>
-      <guid>https://lobste.rs/s/odrfgk</guid>
-      <author>nnethercote.github.io via patchunwrap</author>
-      <pubDate>Tue, 29 Sep 2026 21:08:22 -0500</pubDate>
-      <comments>https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>compilers</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>Why don’t more developers "use the platform"?</title>
       <link>https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</link>
       <guid>https://lobste.rs/s/srduzv</guid>
@@ -139,6 +126,29 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Email Self Hosters - what are you using?</title>
+      <link>https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using</link>
+      <guid>https://lobste.rs/s/rwloew</guid>
+      <author> by vetch</author>
+      <pubDate>Tue, 06 Oct 2026 03:09:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using</comments>
+      <description>&lt;p&gt;At the moment I self host using &lt;a href="https://maddy.email" rel="ugc"&gt;maddy&lt;/a&gt; for a bunch of domains that need a mailbox or catch all. There are some minor issues with it - some are me, some are who knows. The biggest bug bear is that the native email client on iOS takes an age to connect and download messages which causes some issues with OTP emails.&lt;/p&gt;
+&lt;p&gt;So for those out there that do host their own email - what are you running, what would you change?&lt;/p&gt;
+</description>
+      <category>ask</category>
+      <category>email</category>
+    </item>
+    <item>
+      <title>Iroh global content discovery</title>
+      <link>https://www.iroh.computer/blog/iroh-global-content-discovery</link>
+      <guid>https://lobste.rs/s/eoibah</guid>
+      <author>iroh.computer via sanqui</author>
+      <pubDate>Sun, 04 Oct 2026 14:19:42 -0500</pubDate>
+      <comments>https://lobste.rs/s/eoibah/iroh_global_content_discovery</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>distributed</category>
+    </item>
+    <item>
       <title>The forgetful CPU (Linux on M4)</title>
       <link>https://yuka.dev/blog-2026-10-02-linux-m4.html</link>
       <guid>https://lobste.rs/s/s4wm69</guid>
@@ -151,16 +161,6 @@
       <category>reversing</category>
     </item>
     <item>
-      <title>Pining for Arc Downcasting in Rust</title>
-      <link>https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/</link>
-      <guid>https://lobste.rs/s/dayzwt</guid>
-      <author>wolfgirl.dev by polywolf</author>
-      <pubDate>Tue, 29 Sep 2026 10:35:14 -0500</pubDate>
-      <comments>https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-    </item>
-    <item>
       <title>Waterfox 6.7.5 Adds a Built-in Feed Reader</title>
       <link>https://www.waterfox.com/releases/6.7.5/</link>
       <guid>https://lobste.rs/s/gmjegm</guid>
@@ -170,26 +170,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
       <category>release</category>
-    </item>
-    <item>
-      <title>Another step towards elm v1</title>
-      <link>https://elm-lang.org/news/another-step-towards-elm-v1</link>
-      <guid>https://lobste.rs/s/fks4pf</guid>
-      <author>elm-lang.org via Jackevansevo</author>
-      <pubDate>Mon, 05 Oct 2026 08:20:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/fks4pf/another_step_towards_elm_v1</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fks4pf/another_step_towards_elm_v1"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>elm</category>
-    </item>
-    <item>
-      <title>Iroh global content discovery</title>
-      <link>https://www.iroh.computer/blog/iroh-global-content-discovery</link>
-      <guid>https://lobste.rs/s/eoibah</guid>
-      <author>iroh.computer via sanqui</author>
-      <pubDate>Sun, 04 Oct 2026 14:19:42 -0500</pubDate>
-      <comments>https://lobste.rs/s/eoibah/iroh_global_content_discovery</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>distributed</category>
     </item>
     <item>
       <title>Lobsters Interview with Sjamaan</title>
@@ -284,6 +264,16 @@
       <category>interview</category>
     </item>
     <item>
+      <title>Async Rust: Where does the scheduler live?</title>
+      <link>https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/</link>
+      <guid>https://lobste.rs/s/okk4bg</guid>
+      <author>herecomesthemoon.net by mond</author>
+      <pubDate>Mon, 05 Oct 2026 13:31:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
       <title>The Cuckoo's Egg</title>
       <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
       <guid>https://lobste.rs/s/nicozi</guid>
@@ -293,6 +283,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nicozi/cuckoo_s_egg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>book</category>
+    </item>
+    <item>
+      <title>Friendship ended with Deno, now Node is my best friend</title>
+      <link>https://dbushell.com/2026/10/03/deno-to-node/</link>
+      <guid>https://lobste.rs/s/a9kwzv</guid>
+      <author>dbushell.com via FedericoSchonborn</author>
+      <pubDate>Mon, 05 Oct 2026 05:01:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>nodejs</category>
     </item>
     <item>
       <title>Who's hiring? Q4 2026</title>
@@ -331,16 +331,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Aho-Corasick Algorithm</title>
-      <link>https://compiler.club/aho-corasick/</link>
-      <guid>https://lobste.rs/s/s0x5nd</guid>
-      <author>compiler.club via abhin4v</author>
-      <pubDate>Tue, 29 Sep 2026 09:49:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/s0x5nd/aho_corasick_algorithm</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s0x5nd/aho_corasick_algorithm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compsci</category>
-    </item>
-    <item>
       <title>gVisor is being donated to CNCF</title>
       <link>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/</link>
       <guid>https://lobste.rs/s/asoxjl</guid>
@@ -369,6 +359,16 @@
       <comments>https://lobste.rs/s/bag41j/hanami_why_introductions</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bag41j/hanami_why_introductions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>ruby</category>
+    </item>
+    <item>
+      <title>Tcl/Tk 9.1</title>
+      <link>https://www.tcl-lang.org/software/tcltk/9.1.html</link>
+      <guid>https://lobste.rs/s/kbdf4q</guid>
+      <author>tcl-lang.org via fanf</author>
+      <pubDate>Wed, 30 Sep 2026 10:27:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/kbdf4q/tcl_tk_9_1</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kbdf4q/tcl_tk_9_1"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
     </item>
   </channel>
 </rss>
