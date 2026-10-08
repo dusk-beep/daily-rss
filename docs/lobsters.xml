@@ -30,17 +30,6 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>Zig 0.17.0 Release Notes</title>
-      <link>https://ziglang.org/download/0.17.0/release-notes.html</link>
-      <guid>https://lobste.rs/s/wcmfft</guid>
-      <author>ziglang.org via saccharin</author>
-      <pubDate>Fri, 02 Oct 2026 16:10:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>zig</category>
-    </item>
-    <item>
       <title>Gleam doesn't compile to Erlang source anymore</title>
       <link>https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</link>
       <guid>https://lobste.rs/s/2svplr</guid>
@@ -53,6 +42,17 @@
       <category>gleam</category>
     </item>
     <item>
+      <title>Zig 0.17.0 Release Notes</title>
+      <link>https://ziglang.org/download/0.17.0/release-notes.html</link>
+      <guid>https://lobste.rs/s/wcmfft</guid>
+      <author>ziglang.org via saccharin</author>
+      <pubDate>Fri, 02 Oct 2026 16:10:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>zig</category>
+    </item>
+    <item>
       <title>Actual RFC1149 packet being auctioned</title>
       <link>https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216</link>
       <guid>https://lobste.rs/s/wqqkws</guid>
@@ -62,6 +62,29 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>networking</category>
       <category>art</category>
+    </item>
+    <item>
+      <title>Email Self Hosters - what are you using?</title>
+      <link>https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using</link>
+      <guid>https://lobste.rs/s/rwloew</guid>
+      <author> by vetch</author>
+      <pubDate>Tue, 06 Oct 2026 03:09:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using</comments>
+      <description>&lt;p&gt;At the moment I self host using &lt;a href="https://maddy.email" rel="ugc"&gt;maddy&lt;/a&gt; for a bunch of domains that need a mailbox or catch all. There are some minor issues with it - some are me, some are who knows. The biggest bug bear is that the native email client on iOS takes an age to connect and download messages which causes some issues with OTP emails.&lt;/p&gt;
+&lt;p&gt;So for those out there that do host their own email - what are you running, what would you change?&lt;/p&gt;
+</description>
+      <category>ask</category>
+      <category>email</category>
+    </item>
+    <item>
+      <title>That Time I Worked With a Laptop Thief (2025)</title>
+      <link>https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/</link>
+      <guid>https://lobste.rs/s/0slgpl</guid>
+      <author>blog.pipetogrep.org via jeanthomas</author>
+      <pubDate>Tue, 06 Oct 2026 15:16:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Another step towards elm v1</title>
@@ -105,6 +128,16 @@
       <category>rust</category>
     </item>
     <item>
+      <title>Anti-Patterns in Software Blogging</title>
+      <link>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</link>
+      <guid>https://lobste.rs/s/rwdufq</guid>
+      <author>refactoringenglish.com by mtlynch</author>
+      <pubDate>Wed, 07 Oct 2026 08:09:33 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwdufq/anti_patterns_software_blogging</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdufq/anti_patterns_software_blogging"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
+    </item>
+    <item>
       <title>Why don’t more developers "use the platform"?</title>
       <link>https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</link>
       <guid>https://lobste.rs/s/srduzv</guid>
@@ -124,19 +157,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wevegu/four_horsemen_agentic_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Email Self Hosters - what are you using?</title>
-      <link>https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using</link>
-      <guid>https://lobste.rs/s/rwloew</guid>
-      <author> by vetch</author>
-      <pubDate>Tue, 06 Oct 2026 03:09:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using</comments>
-      <description>&lt;p&gt;At the moment I self host using &lt;a href="https://maddy.email" rel="ugc"&gt;maddy&lt;/a&gt; for a bunch of domains that need a mailbox or catch all. There are some minor issues with it - some are me, some are who knows. The biggest bug bear is that the native email client on iOS takes an age to connect and download messages which causes some issues with OTP emails.&lt;/p&gt;
-&lt;p&gt;So for those out there that do host their own email - what are you running, what would you change?&lt;/p&gt;
-</description>
-      <category>ask</category>
-      <category>email</category>
     </item>
     <item>
       <title>Iroh global content discovery</title>
@@ -161,6 +181,17 @@
       <category>reversing</category>
     </item>
     <item>
+      <title>Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM</title>
+      <link>https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/</link>
+      <guid>https://lobste.rs/s/am1cuw</guid>
+      <author>alexalejandre.com by veqq</author>
+      <pubDate>Tue, 06 Oct 2026 17:26:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>performance</category>
+    </item>
+    <item>
       <title>Waterfox 6.7.5 Adds a Built-in Feed Reader</title>
       <link>https://www.waterfox.com/releases/6.7.5/</link>
       <guid>https://lobste.rs/s/gmjegm</guid>
@@ -170,6 +201,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
       <category>release</category>
+    </item>
+    <item>
+      <title>Async Rust: Where does the scheduler live?</title>
+      <link>https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/</link>
+      <guid>https://lobste.rs/s/okk4bg</guid>
+      <author>herecomesthemoon.net by mond</author>
+      <pubDate>Mon, 05 Oct 2026 13:31:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
     </item>
     <item>
       <title>Lobsters Interview with Sjamaan</title>
@@ -264,27 +305,6 @@
       <category>interview</category>
     </item>
     <item>
-      <title>Async Rust: Where does the scheduler live?</title>
-      <link>https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/</link>
-      <guid>https://lobste.rs/s/okk4bg</guid>
-      <author>herecomesthemoon.net by mond</author>
-      <pubDate>Mon, 05 Oct 2026 13:31:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>The Cuckoo's Egg</title>
-      <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
-      <guid>https://lobste.rs/s/nicozi</guid>
-      <author>en.wikipedia.org via atmosx</author>
-      <pubDate>Wed, 30 Sep 2026 03:48:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/nicozi/cuckoo_s_egg</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nicozi/cuckoo_s_egg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>book</category>
-    </item>
-    <item>
       <title>Friendship ended with Deno, now Node is my best friend</title>
       <link>https://dbushell.com/2026/10/03/deno-to-node/</link>
       <guid>https://lobste.rs/s/a9kwzv</guid>
@@ -293,6 +313,28 @@
       <comments>https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>nodejs</category>
+    </item>
+    <item>
+      <title>Last rites for Gentoo's Chromium package</title>
+      <link>https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/</link>
+      <guid>https://lobste.rs/s/fpcicg</guid>
+      <author>lwn.net via calvin</author>
+      <pubDate>Tue, 06 Oct 2026 12:46:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>linux</category>
+      <category>practices</category>
+    </item>
+    <item>
+      <title>Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90</title>
+      <link>https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</link>
+      <guid>https://lobste.rs/s/9qtgrm</guid>
+      <author>news.mit.edu via lorddimwit</author>
+      <pubDate>Wed, 07 Oct 2026 16:38:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
     </item>
     <item>
       <title>Who's hiring? Q4 2026</title>
@@ -329,46 +371,6 @@
       <comments>https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>gVisor is being donated to CNCF</title>
-      <link>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/</link>
-      <guid>https://lobste.rs/s/asoxjl</guid>
-      <author>gvisor.dev via carlana</author>
-      <pubDate>Fri, 02 Oct 2026 21:41:38 -0500</pubDate>
-      <comments>https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>devops</category>
-    </item>
-    <item>
-      <title>Differences between `foldl` and `foldr`</title>
-      <link>https://blog.haskell.org/foldl-and-foldr/</link>
-      <guid>https://lobste.rs/s/irijoi</guid>
-      <author>blog.haskell.org via eatonphil</author>
-      <pubDate>Wed, 30 Sep 2026 07:47:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/irijoi/differences_between_foldl_foldr</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/irijoi/differences_between_foldl_foldr"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>haskell</category>
-    </item>
-    <item>
-      <title>Hanami, Why?: Introductions</title>
-      <link>https://aaronmallen.me/writing/hanami-why-introductions</link>
-      <guid>https://lobste.rs/s/bag41j</guid>
-      <author>aaronmallen.me by aaronmallen</author>
-      <pubDate>Wed, 30 Sep 2026 10:55:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/bag41j/hanami_why_introductions</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bag41j/hanami_why_introductions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ruby</category>
-    </item>
-    <item>
-      <title>Tcl/Tk 9.1</title>
-      <link>https://www.tcl-lang.org/software/tcltk/9.1.html</link>
-      <guid>https://lobste.rs/s/kbdf4q</guid>
-      <author>tcl-lang.org via fanf</author>
-      <pubDate>Wed, 30 Sep 2026 10:27:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/kbdf4q/tcl_tk_9_1</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kbdf4q/tcl_tk_9_1"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
     </item>
   </channel>
 </rss>
