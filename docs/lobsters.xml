@@ -51,6 +51,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>I'm still around.. I'm just not writing here</title>
+      <link>https://rachelbythebay.com/w/2026/10/08/idle/</link>
+      <guid>https://lobste.rs/s/4ehrkn</guid>
+      <author>rachelbythebay.com via jcd</author>
+      <pubDate>Sun, 11 Oct 2026 09:44:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
       <title>The people holding up the internet</title>
       <link>https://sheets.works/data-viz/holding-up-the-internet</link>
       <guid>https://lobste.rs/s/lhr4oy</guid>
@@ -116,6 +126,17 @@
       <category>rust</category>
     </item>
     <item>
+      <title>Python 3.15.0</title>
+      <link>https://www.python.org/downloads/release/python-3150/</link>
+      <guid>https://lobste.rs/s/rpiwtb</guid>
+      <author>python.org via kaycebasques</author>
+      <pubDate>Fri, 09 Oct 2026 12:07:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/rpiwtb/python_3_15_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpiwtb/python_3_15_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
+      <category>release</category>
+    </item>
+    <item>
       <title>Calling a function in C without naming it</title>
       <link>https://wiro.world/posts/calling-c-func-without-naming-it/</link>
       <guid>https://lobste.rs/s/ucwapn</guid>
@@ -138,14 +159,35 @@
       <category>performance</category>
     </item>
     <item>
-      <title>Iroh global content discovery</title>
-      <link>https://www.iroh.computer/blog/iroh-global-content-discovery</link>
-      <guid>https://lobste.rs/s/eoibah</guid>
-      <author>iroh.computer via sanqui</author>
-      <pubDate>Sun, 04 Oct 2026 14:19:42 -0500</pubDate>
-      <comments>https://lobste.rs/s/eoibah/iroh_global_content_discovery</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>distributed</category>
+      <title>No Man Is an Island</title>
+      <link>https://borretti.me/article/no-man-is-an-island</link>
+      <guid>https://lobste.rs/s/nxspz6</guid>
+      <author>borretti.me via facundoolano</author>
+      <pubDate>Fri, 09 Oct 2026 20:37:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/nxspz6/no_man_is_island</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxspz6/no_man_is_island"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>philosophy</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>The Lightbulb Computer: Reimagining Spatial &amp; Ambient Computing with Projectors</title>
+      <link>https://lightbulbcomputer.com/</link>
+      <guid>https://lobste.rs/s/0g9ctg</guid>
+      <author>lightbulbcomputer.com via pyfisch</author>
+      <pubDate>Sat, 10 Oct 2026 06:53:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+    </item>
+    <item>
+      <title>Unison Cloud is now open source</title>
+      <link>https://www.unison-lang.org/blog/unison-cloud-open-source/</link>
+      <guid>https://lobste.rs/s/zubabn</guid>
+      <author>unison-lang.org via bontaq</author>
+      <pubDate>Fri, 09 Oct 2026 10:32:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
     </item>
     <item>
       <title>Async Rust: Where does the scheduler live?</title>
@@ -156,17 +198,6 @@
       <comments>https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
-    </item>
-    <item>
-      <title>Python 3.15.0</title>
-      <link>https://www.python.org/downloads/release/python-3150/</link>
-      <guid>https://lobste.rs/s/rpiwtb</guid>
-      <author>python.org via kaycebasques</author>
-      <pubDate>Fri, 09 Oct 2026 12:07:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/rpiwtb/python_3_15_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpiwtb/python_3_15_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
-      <category>release</category>
     </item>
     <item>
       <title>Bevy 0.20</title>
@@ -181,14 +212,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>I've Been Deindexed by Google</title>
-      <link>https://kennyqin.com/deindexed-by-google/</link>
-      <guid>https://lobste.rs/s/en3vgh</guid>
-      <author>kennyqin.com via brn</author>
-      <pubDate>Thu, 08 Oct 2026 02:59:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
+      <title>oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c</title>
+      <link>https://sebsite.pw/w/20261009-strtod.html</link>
+      <guid>https://lobste.rs/s/rb2ulg</guid>
+      <author>sebsite.pw by seb</author>
+      <pubDate>Sat, 10 Oct 2026 00:37:18 -0500</pubDate>
+      <comments>https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
     </item>
     <item>
       <title>Friendship ended with Deno, now Node is my best friend</title>
@@ -199,6 +230,27 @@
       <comments>https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>nodejs</category>
+    </item>
+    <item>
+      <title>C for Rust Programmers</title>
+      <link>https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/</link>
+      <guid>https://lobste.rs/s/lgdxtw</guid>
+      <author>bd103.dev by BD103</author>
+      <pubDate>Wed, 07 Oct 2026 09:30:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/lgdxtw/c_for_rust_programmers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lgdxtw/c_for_rust_programmers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>I've Been Deindexed by Google</title>
+      <link>https://kennyqin.com/deindexed-by-google/</link>
+      <guid>https://lobste.rs/s/en3vgh</guid>
+      <author>kennyqin.com via brn</author>
+      <pubDate>Thu, 08 Oct 2026 02:59:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
     </item>
     <item>
       <title>Last rites for Gentoo's Chromium package</title>
@@ -213,27 +265,6 @@
       <category>practices</category>
     </item>
     <item>
-      <title>C for Rust Programmers</title>
-      <link>https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/</link>
-      <guid>https://lobste.rs/s/lgdxtw</guid>
-      <author>bd103.dev by BD103</author>
-      <pubDate>Wed, 07 Oct 2026 09:30:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/lgdxtw/c_for_rust_programmers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lgdxtw/c_for_rust_programmers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>Unison Cloud is now open source</title>
-      <link>https://www.unison-lang.org/blog/unison-cloud-open-source/</link>
-      <guid>https://lobste.rs/s/zubabn</guid>
-      <author>unison-lang.org via bontaq</author>
-      <pubDate>Fri, 09 Oct 2026 10:32:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-    </item>
-    <item>
       <title>Cloudflare shutting down Deno is news, not just PR</title>
       <link>https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not</link>
       <guid>https://lobste.rs/s/8rrtma</guid>
@@ -245,37 +276,6 @@
 &lt;p&gt;Is this not the best place to discuss the ramifications of companies acting in this manner?&lt;/p&gt;
 </description>
       <category>meta</category>
-    </item>
-    <item>
-      <title>Ending the Casuarina Linux Experiment</title>
-      <link>https://casuarina.org/news/ending-the-casuarina-linux-experiment/</link>
-      <guid>https://lobste.rs/s/sdlhhs</guid>
-      <author>casuarina.org via FedericoSchonborn</author>
-      <pubDate>Thu, 08 Oct 2026 08:08:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdlhhs/ending_casuarina_linux_experiment"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-    </item>
-    <item>
-      <title>No Man Is an Island</title>
-      <link>https://borretti.me/article/no-man-is-an-island</link>
-      <guid>https://lobste.rs/s/nxspz6</guid>
-      <author>borretti.me via facundoolano</author>
-      <pubDate>Fri, 09 Oct 2026 20:37:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/nxspz6/no_man_is_island</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxspz6/no_man_is_island"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>philosophy</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c</title>
-      <link>https://sebsite.pw/w/20261009-strtod.html</link>
-      <guid>https://lobste.rs/s/rb2ulg</guid>
-      <author>sebsite.pw by seb</author>
-      <pubDate>Sat, 10 Oct 2026 00:37:18 -0500</pubDate>
-      <comments>https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
     </item>
   </channel>
 </rss>

@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>REA Reverse – Engineer Anything</title>
-      <link>https://rea.tools/</link>
-      <description>717 points • 310 comments • by modinfo&#xA;https://news.ycombinator.com/item?id=50028275</description>
-      <pubDate>Sun, 11 Oct 2026 02:31:27 +0000</pubDate>
-      <guid>50028275</guid>
+      <title>Bot traffic from Yandex</title>
+      <link>https://radar.cloudflare.com/bots/as13238?dateRange=7d</link>
+      <description>590 points • 239 comments • by walrus01&#xA;https://news.ycombinator.com/item?id=50041619</description>
+      <pubDate>Mon, 12 Oct 2026 02:55:47 +0000</pubDate>
+      <guid>50041619</guid>
     </item>
     <item>
-      <title>Lobbying is corruption</title>
-      <link>https://carette.xyz/posts/lobbying_and_corruption/</link>
-      <description>470 points • 261 comments • by LucidLynx&#xA;https://news.ycombinator.com/item?id=50032556</description>
-      <pubDate>Sun, 11 Oct 2026 02:30:27 +0000</pubDate>
-      <guid>50032556</guid>
+      <title>3rd Yandex Cloud Data Center Was Hit</title>
+      <link>https://status.yandex.cloud/en/incidents/2136</link>
+      <description>555 points • 678 comments • by defly&#xA;https://news.ycombinator.com/item?id=50040547</description>
+      <pubDate>Mon, 12 Oct 2026 02:54:47 +0000</pubDate>
+      <guid>50040547</guid>
     </item>
     <item>
-      <title>Telegram Desktop vulnerability allowed any user&#39;s file to be stolen</title>
-      <link>https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</link>
-      <description>422 points • 272 comments • by g-b-r&#xA;https://news.ycombinator.com/item?id=50029123</description>
-      <pubDate>Sun, 11 Oct 2026 02:29:27 +0000</pubDate>
-      <guid>50029123</guid>
+      <title>Nitter: Update Oct 10th seeking funding and legal help</title>
+      <link>https://nitter.net</link>
+      <description>420 points • 225 comments • by ForHackernews&#xA;https://news.ycombinator.com/item?id=50041682</description>
+      <pubDate>Mon, 12 Oct 2026 02:53:47 +0000</pubDate>
+      <guid>50041682</guid>
     </item>
     <item>
-      <title>`123456&#39; password used in Danish CPR data breach</title>
-      <link>https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/</link>
-      <description>380 points • 194 comments • by baal80spam&#xA;https://news.ycombinator.com/item?id=50031269</description>
-      <pubDate>Sun, 11 Oct 2026 02:28:27 +0000</pubDate>
-      <guid>50031269</guid>
+      <title>LineageOS 24</title>
+      <link>https://lineageos.org/Changelog-32/</link>
+      <description>412 points • 168 comments • by timschumi&#xA;https://news.ycombinator.com/item?id=50040276</description>
+      <pubDate>Mon, 12 Oct 2026 02:52:47 +0000</pubDate>
+      <guid>50040276</guid>
     </item>
     <item>
-      <title>Bitwarden Dual License Model</title>
-      <link>https://community.bitwarden.com/t/published-version-update-in-app-stores/102750</link>
-      <description>354 points • 254 comments • by Cider9986&#xA;https://news.ycombinator.com/item?id=50033407</description>
-      <pubDate>Sun, 11 Oct 2026 02:27:27 +0000</pubDate>
-      <guid>50033407</guid>
+      <title>Documents add to evidence in climate deception case against ExxonMobil</title>
+      <link>https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/</link>
+      <description>391 points • 211 comments • by gumby&#xA;https://news.ycombinator.com/item?id=50043682</description>
+      <pubDate>Mon, 12 Oct 2026 02:51:47 +0000</pubDate>
+      <guid>50043682</guid>
     </item>
     <item>
-      <title>The Lightbulb Computer</title>
-      <link>https://lightbulbcomputer.com/</link>
-      <description>265 points • 45 comments • by oskarth&#xA;https://news.ycombinator.com/item?id=50029487</description>
-      <pubDate>Sun, 11 Oct 2026 02:26:27 +0000</pubDate>
-      <guid>50029487</guid>
+      <title>Total Annihilation, rebuilt for modern computers</title>
+      <link>https://nanolathe.gg</link>
+      <description>386 points • 163 comments • by jttnr&#xA;https://news.ycombinator.com/item?id=50045984</description>
+      <pubDate>Mon, 12 Oct 2026 02:50:47 +0000</pubDate>
+      <guid>50045984</guid>
     </item>
     <item>
-      <title>Apple/macOS removed from official Unix registry</title>
-      <link>https://www.opengroup.org//openbrand/register/</link>
-      <description>262 points • 221 comments • by john_alan&#xA;https://news.ycombinator.com/item?id=50031653</description>
-      <pubDate>Sun, 11 Oct 2026 02:25:27 +0000</pubDate>
-      <guid>50031653</guid>
+      <title>NYC&#39;s &#34;Click to Cancel&#34; rule is now in effect</title>
+      <link>https://www.nyc.gov/main/click-to-cancel</link>
+      <description>374 points • 184 comments • by gregsadetsky&#xA;https://news.ycombinator.com/item?id=50045946</description>
+      <pubDate>Mon, 12 Oct 2026 02:49:47 +0000</pubDate>
+      <guid>50045946</guid>
     </item>
     <item>
-      <title>Talorys – A self-hosted personal AI agent on Cloudflare&#39;s free tier</title>
-      <link>https://github.com/rociiu/talorys</link>
-      <description>258 points • 123 comments • by rociiu&#xA;https://news.ycombinator.com/item?id=50031614</description>
-      <pubDate>Sun, 11 Oct 2026 02:24:27 +0000</pubDate>
-      <guid>50031614</guid>
+      <title>I paid people to try and follow my README</title>
+      <link>https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</link>
+      <description>372 points • 190 comments • by edent&#xA;https://news.ycombinator.com/item?id=50042219</description>
+      <pubDate>Mon, 12 Oct 2026 02:48:47 +0000</pubDate>
+      <guid>50042219</guid>
     </item>
     <item>
-      <title>I would like the value of my home to rise, while my property taxes fall</title>
-      <link>https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</link>
-      <description>221 points • 518 comments • by colinprince&#xA;https://news.ycombinator.com/item?id=50032758</description>
-      <pubDate>Sun, 11 Oct 2026 02:23:27 +0000</pubDate>
-      <guid>50032758</guid>
+      <title>IRCv3</title>
+      <link>https://ircv3.net/</link>
+      <description>360 points • 307 comments • by basilikum&#xA;https://news.ycombinator.com/item?id=50041540</description>
+      <pubDate>Mon, 12 Oct 2026 02:47:47 +0000</pubDate>
+      <guid>50041540</guid>
     </item>
     <item>
-      <title>Computers Cannot Make Decisions</title>
-      <link>https://wiki.cateat.fish/art:computers_cannot_make_decisions</link>
-      <description>196 points • 179 comments • by heavensteeth&#xA;https://news.ycombinator.com/item?id=50029982</description>
-      <pubDate>Sun, 11 Oct 2026 02:22:27 +0000</pubDate>
-      <guid>50029982</guid>
+      <title>Terence Tao: Math 2.0 [pdf]</title>
+      <link>https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</link>
+      <description>329 points • 381 comments • by Anon84&#xA;https://news.ycombinator.com/item?id=50043026</description>
+      <pubDate>Mon, 12 Oct 2026 02:46:47 +0000</pubDate>
+      <guid>50043026</guid>
     </item>
   </channel>
 </rss>
