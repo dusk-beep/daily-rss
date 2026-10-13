@@ -18,6 +18,17 @@
       <category>person</category>
     </item>
     <item>
+      <title>I'm still around.. I'm just not writing here</title>
+      <link>https://rachelbythebay.com/w/2026/10/08/idle/</link>
+      <guid>https://lobste.rs/s/4ehrkn</guid>
+      <author>rachelbythebay.com via jcd</author>
+      <pubDate>Sun, 11 Oct 2026 09:44:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Anti-Patterns in Software Blogging</title>
       <link>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</link>
       <guid>https://lobste.rs/s/rwdufq</guid>
@@ -26,18 +37,6 @@
       <comments>https://lobste.rs/s/rwdufq/anti_patterns_software_blogging</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdufq/anti_patterns_software_blogging"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
-    </item>
-    <item>
-      <title>Gleam doesn't compile to Erlang source anymore</title>
-      <link>https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</link>
-      <guid>https://lobste.rs/s/2svplr</guid>
-      <author>gleam.run via novedevo</author>
-      <pubDate>Mon, 05 Oct 2026 12:29:17 -0500</pubDate>
-      <comments>https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>erlang</category>
-      <category>compilers</category>
-      <category>gleam</category>
     </item>
     <item>
       <title>Software developers are not okay</title>
@@ -51,14 +50,15 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>I'm still around.. I'm just not writing here</title>
-      <link>https://rachelbythebay.com/w/2026/10/08/idle/</link>
-      <guid>https://lobste.rs/s/4ehrkn</guid>
-      <author>rachelbythebay.com via jcd</author>
-      <pubDate>Sun, 11 Oct 2026 09:44:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
+      <title>D-Bus Hell</title>
+      <link>https://dbushell.com/2026/10/11/d-bus-hell/</link>
+      <guid>https://lobste.rs/s/qgybwb</guid>
+      <author>dbushell.com via isuffix</author>
+      <pubDate>Sun, 11 Oct 2026 15:36:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/qgybwb/d_bus_hell</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qgybwb/d_bus_hell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+      <category>satire</category>
     </item>
     <item>
       <title>The people holding up the internet</title>
@@ -72,6 +72,16 @@
       <category>historical</category>
     </item>
     <item>
+      <title>I'm sorry, but you still have to think</title>
+      <link>https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/</link>
+      <guid>https://lobste.rs/s/k2natg</guid>
+      <author>itsallaboutthebit.com via dimonomid</author>
+      <pubDate>Sun, 11 Oct 2026 13:09:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>That Time I Worked With a Laptop Thief (2025)</title>
       <link>https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/</link>
       <guid>https://lobste.rs/s/0slgpl</guid>
@@ -80,6 +90,16 @@
       <comments>https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
+    </item>
+    <item>
+      <title>'AI' is Not a Tool</title>
+      <link>https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e</link>
+      <guid>https://lobste.rs/s/ikk8ie</guid>
+      <author>linkedin.com via regulator</author>
+      <pubDate>Sun, 11 Oct 2026 20:18:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/ikk8ie/ai_is_not_tool</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikk8ie/ai_is_not_tool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Email Self Hosters - what are you using?</title>
@@ -93,16 +113,6 @@
 </description>
       <category>ask</category>
       <category>email</category>
-    </item>
-    <item>
-      <title>Another step towards elm v1</title>
-      <link>https://elm-lang.org/news/another-step-towards-elm-v1</link>
-      <guid>https://lobste.rs/s/fks4pf</guid>
-      <author>elm-lang.org via Jackevansevo</author>
-      <pubDate>Mon, 05 Oct 2026 08:20:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/fks4pf/another_step_towards_elm_v1</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fks4pf/another_step_towards_elm_v1"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>elm</category>
     </item>
     <item>
       <title>Programming Isn’t Special</title>
@@ -137,6 +147,27 @@
       <category>release</category>
     </item>
     <item>
+      <title>No Man Is an Island</title>
+      <link>https://borretti.me/article/no-man-is-an-island</link>
+      <guid>https://lobste.rs/s/nxspz6</guid>
+      <author>borretti.me via facundoolano</author>
+      <pubDate>Fri, 09 Oct 2026 20:37:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/nxspz6/no_man_is_island</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxspz6/no_man_is_island"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>philosophy</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>The Lightbulb Computer: Reimagining Spatial &amp; Ambient Computing with Projectors</title>
+      <link>https://lightbulbcomputer.com/</link>
+      <guid>https://lobste.rs/s/0g9ctg</guid>
+      <author>lightbulbcomputer.com via pyfisch</author>
+      <pubDate>Sat, 10 Oct 2026 06:53:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+    </item>
+    <item>
       <title>Calling a function in C without naming it</title>
       <link>https://wiro.world/posts/calling-c-func-without-naming-it/</link>
       <guid>https://lobste.rs/s/ucwapn</guid>
@@ -159,27 +190,6 @@
       <category>performance</category>
     </item>
     <item>
-      <title>No Man Is an Island</title>
-      <link>https://borretti.me/article/no-man-is-an-island</link>
-      <guid>https://lobste.rs/s/nxspz6</guid>
-      <author>borretti.me via facundoolano</author>
-      <pubDate>Fri, 09 Oct 2026 20:37:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/nxspz6/no_man_is_island</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxspz6/no_man_is_island"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>philosophy</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>The Lightbulb Computer: Reimagining Spatial &amp; Ambient Computing with Projectors</title>
-      <link>https://lightbulbcomputer.com/</link>
-      <guid>https://lobste.rs/s/0g9ctg</guid>
-      <author>lightbulbcomputer.com via pyfisch</author>
-      <pubDate>Sat, 10 Oct 2026 06:53:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-    </item>
-    <item>
       <title>Unison Cloud is now open source</title>
       <link>https://www.unison-lang.org/blog/unison-cloud-open-source/</link>
       <guid>https://lobste.rs/s/zubabn</guid>
@@ -188,16 +198,6 @@
       <comments>https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
-    </item>
-    <item>
-      <title>Async Rust: Where does the scheduler live?</title>
-      <link>https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/</link>
-      <guid>https://lobste.rs/s/okk4bg</guid>
-      <author>herecomesthemoon.net by mond</author>
-      <pubDate>Mon, 05 Oct 2026 13:31:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
     </item>
     <item>
       <title>Bevy 0.20</title>
@@ -220,16 +220,6 @@
       <comments>https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rb2ulg/oh_apparently_it_s_not_possible_portably"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
-    </item>
-    <item>
-      <title>Friendship ended with Deno, now Node is my best friend</title>
-      <link>https://dbushell.com/2026/10/03/deno-to-node/</link>
-      <guid>https://lobste.rs/s/a9kwzv</guid>
-      <author>dbushell.com via FedericoSchonborn</author>
-      <pubDate>Mon, 05 Oct 2026 05:01:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>nodejs</category>
     </item>
     <item>
       <title>C for Rust Programmers</title>
@@ -276,6 +266,16 @@
 &lt;p&gt;Is this not the best place to discuss the ramifications of companies acting in this manner?&lt;/p&gt;
 </description>
       <category>meta</category>
+    </item>
+    <item>
+      <title>What's Wrong with GitHub</title>
+      <link>https://www.gnu.org/philosophy/whats-wrong-with-github.html</link>
+      <guid>https://lobste.rs/s/u9ue6c</guid>
+      <author>gnu.org via tusharhero</author>
+      <pubDate>Sun, 11 Oct 2026 04:37:56 -0500</pubDate>
+      <comments>https://lobste.rs/s/u9ue6c/what_s_wrong_with_github</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
   </channel>
 </rss>
