@@ -39,17 +39,6 @@
       <category>programming</category>
     </item>
     <item>
-      <title>Software developers are not okay</title>
-      <link>https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/</link>
-      <guid>https://lobste.rs/s/0gvyif</guid>
-      <author>baldurbjarnason.com via aloys</author>
-      <pubDate>Wed, 07 Oct 2026 14:35:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/0gvyif/software_developers_are_not_okay</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0gvyif/software_developers_are_not_okay"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>philosophy</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>D-Bus Hell</title>
       <link>https://dbushell.com/2026/10/11/d-bus-hell/</link>
       <guid>https://lobste.rs/s/qgybwb</guid>
@@ -59,6 +48,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qgybwb/d_bus_hell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>person</category>
       <category>satire</category>
+    </item>
+    <item>
+      <title>Software developers are not okay</title>
+      <link>https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/</link>
+      <guid>https://lobste.rs/s/0gvyif</guid>
+      <author>baldurbjarnason.com via aloys</author>
+      <pubDate>Wed, 07 Oct 2026 14:35:08 -0500</pubDate>
+      <comments>https://lobste.rs/s/0gvyif/software_developers_are_not_okay</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0gvyif/software_developers_are_not_okay"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>philosophy</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>The people holding up the internet</title>
@@ -82,16 +82,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>That Time I Worked With a Laptop Thief (2025)</title>
-      <link>https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/</link>
-      <guid>https://lobste.rs/s/0slgpl</guid>
-      <author>blog.pipetogrep.org via jeanthomas</author>
-      <pubDate>Tue, 06 Oct 2026 15:16:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>'AI' is Not a Tool</title>
       <link>https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e</link>
       <guid>https://lobste.rs/s/ikk8ie</guid>
@@ -102,17 +92,15 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Email Self Hosters - what are you using?</title>
-      <link>https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using</link>
-      <guid>https://lobste.rs/s/rwloew</guid>
-      <author> by vetch</author>
-      <pubDate>Tue, 06 Oct 2026 03:09:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using</comments>
-      <description>&lt;p&gt;At the moment I self host using &lt;a href="https://maddy.email" rel="ugc"&gt;maddy&lt;/a&gt; for a bunch of domains that need a mailbox or catch all. There are some minor issues with it - some are me, some are who knows. The biggest bug bear is that the native email client on iOS takes an age to connect and download messages which causes some issues with OTP emails.&lt;/p&gt;
-&lt;p&gt;So for those out there that do host their own email - what are you running, what would you change?&lt;/p&gt;
-</description>
-      <category>ask</category>
-      <category>email</category>
+      <title>Vi Hart's Big Navier-Stokes Post</title>
+      <link>https://www.patreon.com/vihart/posts/vi-harts-big-171939430</link>
+      <guid>https://lobste.rs/s/j30pg4</guid>
+      <author>patreon.com via archagon</author>
+      <pubDate>Mon, 12 Oct 2026 20:29:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>math</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Programming Isn’t Special</title>
@@ -136,17 +124,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Python 3.15.0</title>
-      <link>https://www.python.org/downloads/release/python-3150/</link>
-      <guid>https://lobste.rs/s/rpiwtb</guid>
-      <author>python.org via kaycebasques</author>
-      <pubDate>Fri, 09 Oct 2026 12:07:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/rpiwtb/python_3_15_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpiwtb/python_3_15_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
-      <category>release</category>
-    </item>
-    <item>
       <title>No Man Is an Island</title>
       <link>https://borretti.me/article/no-man-is-an-island</link>
       <guid>https://lobste.rs/s/nxspz6</guid>
@@ -156,6 +133,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxspz6/no_man_is_island"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>philosophy</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Python 3.15.0</title>
+      <link>https://www.python.org/downloads/release/python-3150/</link>
+      <guid>https://lobste.rs/s/rpiwtb</guid>
+      <author>python.org via kaycebasques</author>
+      <pubDate>Fri, 09 Oct 2026 12:07:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/rpiwtb/python_3_15_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpiwtb/python_3_15_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
+      <category>release</category>
     </item>
     <item>
       <title>The Lightbulb Computer: Reimagining Spatial &amp; Ambient Computing with Projectors</title>
@@ -179,15 +167,34 @@
       <category>c</category>
     </item>
     <item>
-      <title>Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM</title>
-      <link>https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/</link>
-      <guid>https://lobste.rs/s/am1cuw</guid>
-      <author>alexalejandre.com by veqq</author>
-      <pubDate>Tue, 06 Oct 2026 17:26:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>performance</category>
+      <title>Who is vfmaddrnd231pd??</title>
+      <link>https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/</link>
+      <guid>https://lobste.rs/s/2h9opx</guid>
+      <author>purplesyringa.moe via valdemar</author>
+      <pubDate>Mon, 12 Oct 2026 23:43:34 -0500</pubDate>
+      <comments>https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+    </item>
+    <item>
+      <title>(Post-Quantum) Cryptographic Right Answers</title>
+      <link>https://words.filippo.io/right-answers/</link>
+      <guid>https://lobste.rs/s/sozl9e</guid>
+      <author>words.filippo.io via jtdowney</author>
+      <pubDate>Mon, 12 Oct 2026 08:44:38 -0500</pubDate>
+      <comments>https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>cryptography</category>
+    </item>
+    <item>
+      <title>Did Ente Locker copy my code without attribution?</title>
+      <link>https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/</link>
+      <guid>https://lobste.rs/s/uiulqe</guid>
+      <author>fairscan.org via tusharhero</author>
+      <pubDate>Tue, 13 Oct 2026 08:44:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
     </item>
     <item>
       <title>Unison Cloud is now open source</title>
@@ -198,6 +205,17 @@
       <comments>https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
+    </item>
+    <item>
+      <title>A plea not to use uv-build</title>
+      <link>https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</link>
+      <guid>https://lobste.rs/s/73ssw1</guid>
+      <author>blogs.gentoo.org via lim</author>
+      <pubDate>Tue, 13 Oct 2026 09:36:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/73ssw1/plea_not_use_uv_build</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
+      <category>devops</category>
     </item>
     <item>
       <title>Bevy 0.20</title>
@@ -243,39 +261,15 @@
       <category>practices</category>
     </item>
     <item>
-      <title>Last rites for Gentoo's Chromium package</title>
-      <link>https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/</link>
-      <guid>https://lobste.rs/s/fpcicg</guid>
-      <author>lwn.net via calvin</author>
-      <pubDate>Tue, 06 Oct 2026 12:46:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
+      <title>Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code</title>
+      <link>https://www.phoronix.com/news/Linus-Torvalds-Claude-Code</link>
+      <guid>https://lobste.rs/s/iq5xtw</guid>
+      <author>phoronix.com via oceanhaiyang</author>
+      <pubDate>Mon, 12 Oct 2026 05:11:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
-      <category>practices</category>
-    </item>
-    <item>
-      <title>Cloudflare shutting down Deno is news, not just PR</title>
-      <link>https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not</link>
-      <guid>https://lobste.rs/s/8rrtma</guid>
-      <author> by conartist6</author>
-      <pubDate>Fri, 09 Oct 2026 16:20:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not</comments>
-      <description>&lt;p&gt;Requesting the currently-removed post for &lt;a href="https://deno.com/blog/cloudflare" rel="ugc"&gt;https://deno.com/blog/cloudflare&lt;/a&gt; be restored. Thread: &lt;a href="https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare" rel="ugc"&gt;https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;My reasoning: It isn't just PR, but significant tech news that Cloudflare is buying up open source teams while dismantling the projects they maintain.&lt;/p&gt;
-&lt;p&gt;Is this not the best place to discuss the ramifications of companies acting in this manner?&lt;/p&gt;
-</description>
-      <category>meta</category>
-    </item>
-    <item>
-      <title>What's Wrong with GitHub</title>
-      <link>https://www.gnu.org/philosophy/whats-wrong-with-github.html</link>
-      <guid>https://lobste.rs/s/u9ue6c</guid>
-      <author>gnu.org via tusharhero</author>
-      <pubDate>Sun, 11 Oct 2026 04:37:56 -0500</pubDate>
-      <comments>https://lobste.rs/s/u9ue6c/what_s_wrong_with_github</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
+      <category>vibecoding</category>
     </item>
   </channel>
 </rss>
