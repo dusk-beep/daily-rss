@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Wed, 07 Oct 2026 16:38:09 -0500</pubDate>
+    <pubDate>Sun, 11 Oct 2026 09:44:03 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90</title>
-      <link>https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</link>
-      <guid>https://lobste.rs/s/9qtgrm</guid>
-      <author>news.mit.edu via lorddimwit</author>
-      <pubDate>Wed, 07 Oct 2026 16:38:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-    </item>
     <item>
       <title>I'm still around.. I'm just not writing here</title>
       <link>https://rachelbythebay.com/w/2026/10/08/idle/</link>
@@ -27,16 +17,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>culture</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Anti-Patterns in Software Blogging</title>
-      <link>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</link>
-      <guid>https://lobste.rs/s/rwdufq</guid>
-      <author>refactoringenglish.com by mtlynch</author>
-      <pubDate>Wed, 07 Oct 2026 08:09:33 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwdufq/anti_patterns_software_blogging</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwdufq/anti_patterns_software_blogging"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
     </item>
     <item>
       <title>D-Bus Hell</title>
@@ -50,15 +30,37 @@
       <category>satire</category>
     </item>
     <item>
-      <title>Software developers are not okay</title>
-      <link>https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/</link>
-      <guid>https://lobste.rs/s/0gvyif</guid>
-      <author>baldurbjarnason.com via aloys</author>
-      <pubDate>Wed, 07 Oct 2026 14:35:08 -0500</pubDate>
-      <comments>https://lobste.rs/s/0gvyif/software_developers_are_not_okay</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0gvyif/software_developers_are_not_okay"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>philosophy</category>
+      <title>Vi Hart's Big Navier-Stokes Post</title>
+      <link>https://www.patreon.com/vihart/posts/vi-harts-big-171939430</link>
+      <guid>https://lobste.rs/s/j30pg4</guid>
+      <author>patreon.com via archagon</author>
+      <pubDate>Mon, 12 Oct 2026 20:29:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>math</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>I'm sorry, but you still have to think</title>
+      <link>https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/</link>
+      <guid>https://lobste.rs/s/k2natg</guid>
+      <author>itsallaboutthebit.com via dimonomid</author>
+      <pubDate>Sun, 11 Oct 2026 13:09:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Introducing Firefox Enterprise</title>
+      <link>https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/</link>
+      <guid>https://lobste.rs/s/7xg9rm</guid>
+      <author>blog.mozilla.org via viccuad</author>
+      <pubDate>Wed, 14 Oct 2026 06:06:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>release</category>
+      <category>web</category>
     </item>
     <item>
       <title>The people holding up the internet</title>
@@ -72,16 +74,6 @@
       <category>historical</category>
     </item>
     <item>
-      <title>I'm sorry, but you still have to think</title>
-      <link>https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/</link>
-      <guid>https://lobste.rs/s/k2natg</guid>
-      <author>itsallaboutthebit.com via dimonomid</author>
-      <pubDate>Sun, 11 Oct 2026 13:09:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>'AI' is Not a Tool</title>
       <link>https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e</link>
       <guid>https://lobste.rs/s/ikk8ie</guid>
@@ -92,15 +84,25 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Vi Hart's Big Navier-Stokes Post</title>
-      <link>https://www.patreon.com/vihart/posts/vi-harts-big-171939430</link>
-      <guid>https://lobste.rs/s/j30pg4</guid>
-      <author>patreon.com via archagon</author>
-      <pubDate>Mon, 12 Oct 2026 20:29:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>math</category>
-      <category>vibecoding</category>
+      <title>A plea not to use uv-build</title>
+      <link>https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</link>
+      <guid>https://lobste.rs/s/73ssw1</guid>
+      <author>blogs.gentoo.org via lim</author>
+      <pubDate>Tue, 13 Oct 2026 09:36:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/73ssw1/plea_not_use_uv_build</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
+      <category>devops</category>
+    </item>
+    <item>
+      <title>Did Ente Locker copy my code without attribution?</title>
+      <link>https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/</link>
+      <guid>https://lobste.rs/s/uiulqe</guid>
+      <author>fairscan.org via tusharhero</author>
+      <pubDate>Tue, 13 Oct 2026 08:44:47 -0500</pubDate>
+      <comments>https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
     </item>
     <item>
       <title>Programming Isn’t Special</title>
@@ -112,6 +114,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ily7as/programming_isn_t_special"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>art</category>
       <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Who is vfmaddrnd231pd??</title>
+      <link>https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/</link>
+      <guid>https://lobste.rs/s/2h9opx</guid>
+      <author>purplesyringa.moe via valdemar</author>
+      <pubDate>Mon, 12 Oct 2026 23:43:34 -0500</pubDate>
+      <comments>https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
     </item>
     <item>
       <title>The Missing Piece in Rust Error Handling</title>
@@ -156,27 +168,6 @@
       <category>design</category>
     </item>
     <item>
-      <title>Calling a function in C without naming it</title>
-      <link>https://wiro.world/posts/calling-c-func-without-naming-it/</link>
-      <guid>https://lobste.rs/s/ucwapn</guid>
-      <author>wiro.world by mrnossiom</author>
-      <pubDate>Wed, 07 Oct 2026 13:15:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>c</category>
-    </item>
-    <item>
-      <title>Who is vfmaddrnd231pd??</title>
-      <link>https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/</link>
-      <guid>https://lobste.rs/s/2h9opx</guid>
-      <author>purplesyringa.moe via valdemar</author>
-      <pubDate>Mon, 12 Oct 2026 23:43:34 -0500</pubDate>
-      <comments>https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-    </item>
-    <item>
       <title>(Post-Quantum) Cryptographic Right Answers</title>
       <link>https://words.filippo.io/right-answers/</link>
       <guid>https://lobste.rs/s/sozl9e</guid>
@@ -187,35 +178,15 @@
       <category>cryptography</category>
     </item>
     <item>
-      <title>Did Ente Locker copy my code without attribution?</title>
-      <link>https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/</link>
-      <guid>https://lobste.rs/s/uiulqe</guid>
-      <author>fairscan.org via tusharhero</author>
-      <pubDate>Tue, 13 Oct 2026 08:44:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-    </item>
-    <item>
-      <title>Unison Cloud is now open source</title>
-      <link>https://www.unison-lang.org/blog/unison-cloud-open-source/</link>
-      <guid>https://lobste.rs/s/zubabn</guid>
-      <author>unison-lang.org via bontaq</author>
-      <pubDate>Fri, 09 Oct 2026 10:32:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-    </item>
-    <item>
-      <title>A plea not to use uv-build</title>
-      <link>https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</link>
-      <guid>https://lobste.rs/s/73ssw1</guid>
-      <author>blogs.gentoo.org via lim</author>
-      <pubDate>Tue, 13 Oct 2026 09:36:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/73ssw1/plea_not_use_uv_build</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
-      <category>devops</category>
+      <title>Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code</title>
+      <link>https://www.phoronix.com/news/Linus-Torvalds-Claude-Code</link>
+      <guid>https://lobste.rs/s/iq5xtw</guid>
+      <author>phoronix.com via oceanhaiyang</author>
+      <pubDate>Mon, 12 Oct 2026 05:11:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>Bevy 0.20</title>
@@ -230,6 +201,16 @@
       <category>rust</category>
     </item>
     <item>
+      <title>Unison Cloud is now open source</title>
+      <link>https://www.unison-lang.org/blog/unison-cloud-open-source/</link>
+      <guid>https://lobste.rs/s/zubabn</guid>
+      <author>unison-lang.org via bontaq</author>
+      <pubDate>Fri, 09 Oct 2026 10:32:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+    </item>
+    <item>
       <title>oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c</title>
       <link>https://sebsite.pw/w/20261009-strtod.html</link>
       <guid>https://lobste.rs/s/rb2ulg</guid>
@@ -240,15 +221,14 @@
       <category>c</category>
     </item>
     <item>
-      <title>C for Rust Programmers</title>
-      <link>https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/</link>
-      <guid>https://lobste.rs/s/lgdxtw</guid>
-      <author>bd103.dev by BD103</author>
-      <pubDate>Wed, 07 Oct 2026 09:30:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/lgdxtw/c_for_rust_programmers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lgdxtw/c_for_rust_programmers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>rust</category>
+      <title>The reverts will continue until morale improves</title>
+      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
+      <guid>https://lobste.rs/s/aasanp</guid>
+      <author>peter.eisentraut.org via kngl</author>
+      <pubDate>Tue, 13 Oct 2026 06:37:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/aasanp/reverts_will_continue_until_morale</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aasanp/reverts_will_continue_until_morale"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
     </item>
     <item>
       <title>I've Been Deindexed by Google</title>
@@ -261,15 +241,38 @@
       <category>practices</category>
     </item>
     <item>
-      <title>Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code</title>
-      <link>https://www.phoronix.com/news/Linus-Torvalds-Claude-Code</link>
-      <guid>https://lobste.rs/s/iq5xtw</guid>
-      <author>phoronix.com via oceanhaiyang</author>
-      <pubDate>Mon, 12 Oct 2026 05:11:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iq5xtw/linus_torvalds_working_on_hefty_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Finding a $90,000 Remote Code Execution Vulnerability in Google</title>
+      <link>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce</link>
+      <guid>https://lobste.rs/s/mldt0o</guid>
+      <author>simonkoeck.com via hoistbypetard</author>
+      <pubDate>Mon, 12 Oct 2026 09:40:35 -0500</pubDate>
+      <comments>https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>Cloudflare shutting down Deno is news, not just PR</title>
+      <link>https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not</link>
+      <guid>https://lobste.rs/s/8rrtma</guid>
+      <author> by conartist6</author>
+      <pubDate>Fri, 09 Oct 2026 16:20:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not</comments>
+      <description>&lt;p&gt;Requesting the currently-removed post for &lt;a href="https://deno.com/blog/cloudflare" rel="ugc"&gt;https://deno.com/blog/cloudflare&lt;/a&gt; be restored. Thread: &lt;a href="https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare" rel="ugc"&gt;https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My reasoning: It isn't just PR, but significant tech news that Cloudflare is buying up open source teams while dismantling the projects they maintain.&lt;/p&gt;
+&lt;p&gt;Is this not the best place to discuss the ramifications of companies acting in this manner?&lt;/p&gt;
+</description>
+      <category>meta</category>
+    </item>
+    <item>
+      <title>Plasma 6.8 released (KDE's 30th birthday)</title>
+      <link>https://kde.org/announcements/plasma/6/6.8.0/</link>
+      <guid>https://lobste.rs/s/d1c8zn</guid>
+      <author>kde.org via joshsharp</author>
+      <pubDate>Wed, 14 Oct 2026 06:29:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
-      <category>vibecoding</category>
+      <category>release</category>
     </item>
   </channel>
 </rss>
