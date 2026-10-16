@@ -19,6 +19,29 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Anthropic's Scion is heavily inspired by Mononoke</title>
+      <link>https://sunshowers.io/posts/anthropic-mononoke/</link>
+      <guid>https://lobste.rs/s/plcgps</guid>
+      <author>sunshowers.io via mitsuhiko</author>
+      <pubDate>Wed, 14 Oct 2026 15:56:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Introducing Firefox Enterprise</title>
+      <link>https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/</link>
+      <guid>https://lobste.rs/s/7xg9rm</guid>
+      <author>blog.mozilla.org via viccuad</author>
+      <pubDate>Wed, 14 Oct 2026 06:06:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>release</category>
+      <category>web</category>
+    </item>
+    <item>
       <title>D-Bus Hell</title>
       <link>https://dbushell.com/2026/10/11/d-bus-hell/</link>
       <guid>https://lobste.rs/s/qgybwb</guid>
@@ -49,29 +72,6 @@
       <comments>https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Introducing Firefox Enterprise</title>
-      <link>https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/</link>
-      <guid>https://lobste.rs/s/7xg9rm</guid>
-      <author>blog.mozilla.org via viccuad</author>
-      <pubDate>Wed, 14 Oct 2026 06:06:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>release</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>The people holding up the internet</title>
-      <link>https://sheets.works/data-viz/holding-up-the-internet</link>
-      <guid>https://lobste.rs/s/lhr4oy</guid>
-      <author>sheets.works via eaj</author>
-      <pubDate>Thu, 08 Oct 2026 03:18:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/lhr4oy/people_holding_up_internet</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lhr4oy/people_holding_up_internet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>historical</category>
     </item>
     <item>
       <title>'AI' is Not a Tool</title>
@@ -116,6 +116,17 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Plasma 6.8 released (KDE's 30th birthday)</title>
+      <link>https://kde.org/announcements/plasma/6/6.8.0/</link>
+      <guid>https://lobste.rs/s/d1c8zn</guid>
+      <author>kde.org via joshsharp</author>
+      <pubDate>Wed, 14 Oct 2026 06:29:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>release</category>
+    </item>
+    <item>
       <title>Who is vfmaddrnd231pd??</title>
       <link>https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/</link>
       <guid>https://lobste.rs/s/2h9opx</guid>
@@ -126,14 +137,14 @@
       <category>assembly</category>
     </item>
     <item>
-      <title>The Missing Piece in Rust Error Handling</title>
-      <link>https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/</link>
-      <guid>https://lobste.rs/s/3vfu09</guid>
-      <author>mcmah309.github.io via snej</author>
-      <pubDate>Thu, 08 Oct 2026 09:43:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>What I Self-Host</title>
+      <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
+      <guid>https://lobste.rs/s/j4tlzg</guid>
+      <author>viceconsole.fyi via tonymet</author>
+      <pubDate>Wed, 14 Oct 2026 10:32:48 -0500</pubDate>
+      <comments>https://lobste.rs/s/j4tlzg/what_i_self_host</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4tlzg/what_i_self_host"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>devops</category>
     </item>
     <item>
       <title>No Man Is an Island</title>
@@ -189,18 +200,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Bevy 0.20</title>
-      <link>https://bevy.org/news/bevy-0-20/</link>
-      <guid>https://lobste.rs/s/3gikyb</guid>
-      <author>bevy.org via BD103</author>
-      <pubDate>Thu, 08 Oct 2026 18:21:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/3gikyb/bevy_0_20</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3gikyb/bevy_0_20"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>games</category>
-      <category>rust</category>
-    </item>
-    <item>
       <title>Unison Cloud is now open source</title>
       <link>https://www.unison-lang.org/blog/unison-cloud-open-source/</link>
       <guid>https://lobste.rs/s/zubabn</guid>
@@ -231,16 +230,6 @@
       <category>databases</category>
     </item>
     <item>
-      <title>I've Been Deindexed by Google</title>
-      <link>https://kennyqin.com/deindexed-by-google/</link>
-      <guid>https://lobste.rs/s/en3vgh</guid>
-      <author>kennyqin.com via brn</author>
-      <pubDate>Thu, 08 Oct 2026 02:59:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-    </item>
-    <item>
       <title>Finding a $90,000 Remote Code Execution Vulnerability in Google</title>
       <link>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce</link>
       <guid>https://lobste.rs/s/mldt0o</guid>
@@ -264,15 +253,24 @@
       <category>meta</category>
     </item>
     <item>
-      <title>Plasma 6.8 released (KDE's 30th birthday)</title>
-      <link>https://kde.org/announcements/plasma/6/6.8.0/</link>
-      <guid>https://lobste.rs/s/d1c8zn</guid>
-      <author>kde.org via joshsharp</author>
-      <pubDate>Wed, 14 Oct 2026 06:29:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>release</category>
+      <title>Fancy Curl Sites</title>
+      <link>https://nytpu.com/gemlog/2026-03-18</link>
+      <guid>https://lobste.rs/s/zitobg</guid>
+      <author>nytpu.com via seb</author>
+      <pubDate>Wed, 14 Oct 2026 01:24:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/zitobg/fancy_curl_sites</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zitobg/fancy_curl_sites"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+    </item>
+    <item>
+      <title>What's Wrong with GitHub</title>
+      <link>https://www.gnu.org/philosophy/whats-wrong-with-github.html</link>
+      <guid>https://lobste.rs/s/u9ue6c</guid>
+      <author>gnu.org via tusharhero</author>
+      <pubDate>Sun, 11 Oct 2026 04:37:56 -0500</pubDate>
+      <comments>https://lobste.rs/s/u9ue6c/what_s_wrong_with_github</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
   </channel>
 </rss>
