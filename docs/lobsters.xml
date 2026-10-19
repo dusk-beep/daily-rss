@@ -5,17 +5,21 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Sun, 11 Oct 2026 09:44:03 -0500</pubDate>
+    <pubDate>Sun, 18 Oct 2026 05:35:11 -0500</pubDate>
     <ttl>120</ttl>
     <item>
-      <title>I'm still around.. I'm just not writing here</title>
-      <link>https://rachelbythebay.com/w/2026/10/08/idle/</link>
-      <guid>https://lobste.rs/s/4ehrkn</guid>
-      <author>rachelbythebay.com via jcd</author>
-      <pubDate>Sun, 11 Oct 2026 09:44:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4ehrkn/i_m_still_around_i_m_just_not_writing_here"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
+      <title>It's enough - vibecoding tag crossed from useless to harmful</title>
+      <link>https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from</link>
+      <guid>https://lobste.rs/s/ggpwfi</guid>
+      <author> by viraptor</author>
+      <pubDate>Sun, 18 Oct 2026 05:35:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from</comments>
+      <description>&lt;p&gt;The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns away very valuable members &lt;a href="https://lobste.rs/c/vecuxj" rel="ugc"&gt;https://lobste.rs/c/vecuxj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I sighed and moved on for a while now as almost everything gets tagged - you can skip a word. But now it not only carries no signal whatsoever, it turns away people creating original technical content - which is what I assume anti-vibecoding people would actually like to see more of.&lt;/p&gt;
+&lt;p&gt;Please split it or kill it. But we'd be better off without what exists today.&lt;/p&gt;
+&lt;p&gt;Added: To be clear, I totally support people filtering out llm-generated or llm-centric posts. But right now everyone loses. And every day we lose a little bit more. Whether it's an original, interesting article that turns out to be nth-degree related to llms and filtered out, or a community member annoyed by this recurring problem and leaving us with even fewer actual non-llm-centric entries.&lt;/p&gt;
+</description>
+      <category>meta</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -27,6 +31,17 @@
       <comments>https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>Why are we even doing all this?</title>
+      <link>https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/</link>
+      <guid>https://lobste.rs/s/qvomvk</guid>
+      <author>terrytao.wordpress.com via dcao</author>
+      <pubDate>Fri, 16 Oct 2026 00:28:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>math</category>
       <category>vibecoding</category>
     </item>
     <item>
@@ -42,26 +57,15 @@
       <category>web</category>
     </item>
     <item>
-      <title>Why are we even doing all this?</title>
-      <link>https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/</link>
-      <guid>https://lobste.rs/s/qvomvk</guid>
-      <author>terrytao.wordpress.com via dcao</author>
-      <pubDate>Fri, 16 Oct 2026 00:28:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>math</category>
+      <title>The NIST Elliptic Curves Seeds Bounty Has Been Claimed</title>
+      <link>https://words.filippo.io/seeds-solved/</link>
+      <guid>https://lobste.rs/s/ddtqtn</guid>
+      <author>words.filippo.io by FiloSottile</author>
+      <pubDate>Fri, 16 Oct 2026 15:18:36 -0500</pubDate>
+      <comments>https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>cryptography</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>D-Bus Hell</title>
-      <link>https://dbushell.com/2026/10/11/d-bus-hell/</link>
-      <guid>https://lobste.rs/s/qgybwb</guid>
-      <author>dbushell.com via isuffix</author>
-      <pubDate>Sun, 11 Oct 2026 15:36:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/qgybwb/d_bus_hell</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qgybwb/d_bus_hell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-      <category>satire</category>
     </item>
     <item>
       <title>Vi Hart's Big Navier-Stokes Post</title>
@@ -84,37 +88,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>compsci</category>
       <category>web</category>
-    </item>
-    <item>
-      <title>I'm sorry, but you still have to think</title>
-      <link>https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/</link>
-      <guid>https://lobste.rs/s/k2natg</guid>
-      <author>itsallaboutthebit.com via dimonomid</author>
-      <pubDate>Sun, 11 Oct 2026 13:09:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>The NIST Elliptic Curves Seeds Bounty Has Been Claimed</title>
-      <link>https://words.filippo.io/seeds-solved/</link>
-      <guid>https://lobste.rs/s/ddtqtn</guid>
-      <author>words.filippo.io by FiloSottile</author>
-      <pubDate>Fri, 16 Oct 2026 15:18:36 -0500</pubDate>
-      <comments>https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>cryptography</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>'AI' is Not a Tool</title>
-      <link>https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e</link>
-      <guid>https://lobste.rs/s/ikk8ie</guid>
-      <author>linkedin.com via regulator</author>
-      <pubDate>Sun, 11 Oct 2026 20:18:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/ikk8ie/ai_is_not_tool</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikk8ie/ai_is_not_tool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
     </item>
     <item>
       <title>A plea not to use uv-build</title>
@@ -202,6 +175,16 @@
       <category>cryptography</category>
     </item>
     <item>
+      <title>The road to iroh 1.0</title>
+      <link>https://www.iroh.computer/blog/the-road-to-iroh-1-0</link>
+      <guid>https://lobste.rs/s/6laoto</guid>
+      <author>iroh.computer via Frando</author>
+      <pubDate>Fri, 16 Oct 2026 07:02:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/6laoto/road_iroh_1_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6laoto/road_iroh_1_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
+    </item>
+    <item>
       <title>Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code</title>
       <link>https://www.phoronix.com/news/Linus-Torvalds-Claude-Code</link>
       <guid>https://lobste.rs/s/iq5xtw</guid>
@@ -243,26 +226,6 @@
       <category>security</category>
     </item>
     <item>
-      <title>The road to iroh 1.0</title>
-      <link>https://www.iroh.computer/blog/the-road-to-iroh-1-0</link>
-      <guid>https://lobste.rs/s/6laoto</guid>
-      <author>iroh.computer via Frando</author>
-      <pubDate>Fri, 16 Oct 2026 07:02:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/6laoto/road_iroh_1_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6laoto/road_iroh_1_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-    </item>
-    <item>
-      <title>What's Wrong with GitHub</title>
-      <link>https://www.gnu.org/philosophy/whats-wrong-with-github.html</link>
-      <guid>https://lobste.rs/s/u9ue6c</guid>
-      <author>gnu.org via tusharhero</author>
-      <pubDate>Sun, 11 Oct 2026 04:37:56 -0500</pubDate>
-      <comments>https://lobste.rs/s/u9ue6c/what_s_wrong_with_github</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
-    </item>
-    <item>
       <title>Fancy Curl Sites</title>
       <link>https://nytpu.com/gemlog/2026-03-18</link>
       <guid>https://lobste.rs/s/zitobg</guid>
@@ -271,6 +234,49 @@
       <comments>https://lobste.rs/s/zitobg/fancy_curl_sites</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zitobg/fancy_curl_sites"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
+    </item>
+    <item>
+      <title>Living in the Weimar era of Ruby</title>
+      <link>https://blog.julik.nl/2026/10/the-weimar-of-ruby</link>
+      <guid>https://lobste.rs/s/lfen2h</guid>
+      <author>blog.julik.nl by julik</author>
+      <pubDate>Mon, 12 Oct 2026 05:59:26 -0500</pubDate>
+      <comments>https://lobste.rs/s/lfen2h/living_weimar_era_ruby</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfen2h/living_weimar_era_ruby"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ruby</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>The Costa GUI</title>
+      <link>https://costa.jacobpalm.dk</link>
+      <guid>https://lobste.rs/s/uqugjk</guid>
+      <author>costa.jacobpalm.dk via FedericoSchonborn</author>
+      <pubDate>Thu, 15 Oct 2026 07:06:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/uqugjk/costa_gui</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uqugjk/costa_gui"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>retrocomputing</category>
+    </item>
+    <item>
+      <title>Men in tech #YesAllMen</title>
+      <link>https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen</link>
+      <guid>https://lobste.rs/s/mp8qye</guid>
+      <author>media.ccc.de via gmem</author>
+      <pubDate>Sun, 18 Oct 2026 13:35:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/mp8qye/men_tech_yesallmen</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mp8qye/men_tech_yesallmen"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Forgejo v17.0 is available</title>
+      <link>https://forgejo.org/2026-10-release-v17-0/</link>
+      <guid>https://lobste.rs/s/vemho2</guid>
+      <author>forgejo.org via hugoarnal</author>
+      <pubDate>Thu, 15 Oct 2026 14:43:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/vemho2/forgejo_v17_0_is_available</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vemho2/forgejo_v17_0_is_available"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>vcs</category>
     </item>
   </channel>
 </rss>
