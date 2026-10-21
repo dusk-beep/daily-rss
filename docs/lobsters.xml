@@ -5,23 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Sun, 18 Oct 2026 05:35:11 -0500</pubDate>
+    <pubDate>Sun, 18 Oct 2026 20:28:53 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>It's enough - vibecoding tag crossed from useless to harmful</title>
-      <link>https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from</link>
-      <guid>https://lobste.rs/s/ggpwfi</guid>
-      <author> by viraptor</author>
-      <pubDate>Sun, 18 Oct 2026 05:35:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from</comments>
-      <description>&lt;p&gt;The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns away very valuable members &lt;a href="https://lobste.rs/c/vecuxj" rel="ugc"&gt;https://lobste.rs/c/vecuxj&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I sighed and moved on for a while now as almost everything gets tagged - you can skip a word. But now it not only carries no signal whatsoever, it turns away people creating original technical content - which is what I assume anti-vibecoding people would actually like to see more of.&lt;/p&gt;
-&lt;p&gt;Please split it or kill it. But we'd be better off without what exists today.&lt;/p&gt;
-&lt;p&gt;Added: To be clear, I totally support people filtering out llm-generated or llm-centric posts. But right now everyone loses. And every day we lose a little bit more. Whether it's an original, interesting article that turns out to be nth-degree related to llms and filtered out, or a community member annoyed by this recurring problem and leaving us with even fewer actual non-llm-centric entries.&lt;/p&gt;
-</description>
-      <category>meta</category>
-      <category>vibecoding</category>
-    </item>
     <item>
       <title>Updates to site guidelines and AI/LLM tags</title>
       <link>https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags</link>
@@ -82,6 +67,21 @@
       <category>announce</category>
     </item>
     <item>
+      <title>It's enough - vibecoding tag crossed from useless to harmful</title>
+      <link>https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from</link>
+      <guid>https://lobste.rs/s/ggpwfi</guid>
+      <author> by viraptor</author>
+      <pubDate>Sun, 18 Oct 2026 05:35:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from</comments>
+      <description>&lt;p&gt;The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns away very valuable members &lt;a href="https://lobste.rs/c/vecuxj" rel="ugc"&gt;https://lobste.rs/c/vecuxj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I sighed and moved on for a while now as almost everything gets tagged - you can skip a word. But now it not only carries no signal whatsoever, it turns away people creating original technical content - which is what I assume anti-vibecoding people would actually like to see more of.&lt;/p&gt;
+&lt;p&gt;Please split it or kill it. But we'd be better off without what exists today.&lt;/p&gt;
+&lt;p&gt;Added: To be clear, I totally support people filtering out llm-generated or llm-centric posts. But right now everyone loses. And every day we lose a little bit more. Whether it's an original, interesting article that turns out to be nth-degree related to llms and filtered out, or a community member annoyed by this recurring problem and leaving us with even fewer actual non-llm-centric entries.&lt;/p&gt;
+</description>
+      <category>meta</category>
+      <category>vibecoding</category>
+    </item>
+    <item>
       <title>Men in tech #YesAllMen</title>
       <link>https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen</link>
       <guid>https://lobste.rs/s/mp8qye</guid>
@@ -138,6 +138,26 @@
       <category>web</category>
     </item>
     <item>
+      <title>Protecting Firefox users following the compromise of eMudhra intermediate certificates</title>
+      <link>https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/</link>
+      <guid>https://lobste.rs/s/gqyvn5</guid>
+      <author>blog.mozilla.org via freddyb</author>
+      <pubDate>Tue, 20 Oct 2026 08:00:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/gqyvn5/protecting_firefox_users_following</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>Wine ported to OpenBSD</title>
+      <link>https://marc.info/?l=openbsd-ports&amp;m=179236125692175</link>
+      <guid>https://lobste.rs/s/gqepzd</guid>
+      <author>marc.info via nbyqvist</author>
+      <pubDate>Mon, 19 Oct 2026 09:44:02 -0500</pubDate>
+      <comments>https://lobste.rs/s/gqepzd/wine_ported_openbsd</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqepzd/wine_ported_openbsd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>openbsd</category>
+    </item>
+    <item>
       <title>JPEG XL vs AVIF for web use-cases</title>
       <link>https://jakearchibald.com/2026/jpeg-xl-vs-avif/</link>
       <guid>https://lobste.rs/s/uejdwj</guid>
@@ -149,25 +169,15 @@
       <category>web</category>
     </item>
     <item>
-      <title>A plea not to use uv-build</title>
-      <link>https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</link>
-      <guid>https://lobste.rs/s/73ssw1</guid>
-      <author>blogs.gentoo.org via lim</author>
-      <pubDate>Tue, 13 Oct 2026 09:36:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/73ssw1/plea_not_use_uv_build</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
-      <category>devops</category>
-    </item>
-    <item>
-      <title>Did Ente Locker copy my code without attribution?</title>
-      <link>https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/</link>
-      <guid>https://lobste.rs/s/uiulqe</guid>
-      <author>fairscan.org via tusharhero</author>
-      <pubDate>Tue, 13 Oct 2026 08:44:47 -0500</pubDate>
-      <comments>https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
+      <title>OpenBSD 8.0</title>
+      <link>https://www.openbsd.org/80.html</link>
+      <guid>https://lobste.rs/s/sqdhu7</guid>
+      <author>openbsd.org via dgv</author>
+      <pubDate>Mon, 19 Oct 2026 20:46:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/sqdhu7/openbsd_8_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sqdhu7/openbsd_8_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>openbsd</category>
+      <category>release</category>
     </item>
     <item>
       <title>Linus Torvalds on AI-assisted kernel contributions</title>
@@ -181,17 +191,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Plasma 6.8 released (KDE's 30th birthday)</title>
-      <link>https://kde.org/announcements/plasma/6/6.8.0/</link>
-      <guid>https://lobste.rs/s/d1c8zn</guid>
-      <author>kde.org via joshsharp</author>
-      <pubDate>Wed, 14 Oct 2026 06:29:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>release</category>
-    </item>
-    <item>
       <title>What I Self-Host</title>
       <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
       <guid>https://lobste.rs/s/j4tlzg</guid>
@@ -202,24 +201,15 @@
       <category>devops</category>
     </item>
     <item>
-      <title>Who is vfmaddrnd231pd??</title>
-      <link>https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/</link>
-      <guid>https://lobste.rs/s/2h9opx</guid>
-      <author>purplesyringa.moe via valdemar</author>
-      <pubDate>Mon, 12 Oct 2026 23:43:34 -0500</pubDate>
-      <comments>https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>assembly</category>
-    </item>
-    <item>
-      <title>Wine ported to OpenBSD</title>
-      <link>https://marc.info/?l=openbsd-ports&amp;m=179236125692175</link>
-      <guid>https://lobste.rs/s/gqepzd</guid>
-      <author>marc.info via nbyqvist</author>
-      <pubDate>Mon, 19 Oct 2026 09:44:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/gqepzd/wine_ported_openbsd</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqepzd/wine_ported_openbsd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>openbsd</category>
+      <title>Plasma 6.8 released (KDE's 30th birthday)</title>
+      <link>https://kde.org/announcements/plasma/6/6.8.0/</link>
+      <guid>https://lobste.rs/s/d1c8zn</guid>
+      <author>kde.org via joshsharp</author>
+      <pubDate>Wed, 14 Oct 2026 06:29:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>release</category>
     </item>
     <item>
       <title>Sunsetting decomp.dev</title>
@@ -244,6 +234,17 @@
       <category>networking</category>
     </item>
     <item>
+      <title>Making all divisions slower to fix a bug in 0.000000000000000000542% of cases</title>
+      <link>https://futhark-lang.org/blog/2026-10-14-defining-division.html</link>
+      <guid>https://lobste.rs/s/a9f6z1</guid>
+      <author>futhark-lang.org via NoaBogart</author>
+      <pubDate>Mon, 19 Oct 2026 11:42:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>compilers</category>
+    </item>
+    <item>
       <title>My C23 Conventions</title>
       <link>https://abner.page/post/c23-conventions-1/</link>
       <guid>https://lobste.rs/s/umdbht</guid>
@@ -254,14 +255,27 @@
       <category>c</category>
     </item>
     <item>
-      <title>The reverts will continue until morale improves</title>
-      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <guid>https://lobste.rs/s/aasanp</guid>
-      <author>peter.eisentraut.org via kngl</author>
-      <pubDate>Tue, 13 Oct 2026 06:37:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/aasanp/reverts_will_continue_until_morale</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aasanp/reverts_will_continue_until_morale"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>One Hash Bloom Filters</title>
+      <link>https://www.calabro.io/ohbf</link>
+      <guid>https://lobste.rs/s/mpytbn</guid>
+      <author>calabro.io via pushcx</author>
+      <pubDate>Mon, 19 Oct 2026 10:47:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/mpytbn/one_hash_bloom_filters</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mpytbn/one_hash_bloom_filters"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compsci</category>
       <category>databases</category>
+    </item>
+    <item>
+      <title>The Netherlands is building its own Linux OS to break free from Microsoft</title>
+      <link>https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html</link>
+      <guid>https://lobste.rs/s/nne5uh</guid>
+      <author>techspot.com via pocket_walrus</author>
+      <pubDate>Mon, 19 Oct 2026 15:10:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>windows</category>
+      <category>nix</category>
     </item>
     <item>
       <title>Outside the Scope of Our Support</title>
@@ -273,6 +287,27 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/brrnpm/outside_scope_our_support"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>android</category>
       <category>a11y</category>
+    </item>
+    <item>
+      <title>The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise</title>
+      <link>https://maevyn.codes/decoherence</link>
+      <guid>https://lobste.rs/s/vjmn84</guid>
+      <author>maevyn.codes by maevyn</author>
+      <pubDate>Fri, 16 Oct 2026 11:36:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
+    </item>
+    <item>
+      <title>2026 is an exciting year for the Rust compiler (and me)</title>
+      <link>https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</link>
+      <guid>https://lobste.rs/s/c2ouz0</guid>
+      <author>yoyo-code.com via novedevo</author>
+      <pubDate>Mon, 19 Oct 2026 12:52:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>compilers</category>
     </item>
     <item>
       <title>Fancy Curl Sites</title>
@@ -293,37 +328,6 @@
       <comments>https://lobste.rs/s/uqugjk/costa_gui</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uqugjk/costa_gui"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>retrocomputing</category>
-    </item>
-    <item>
-      <title>The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise</title>
-      <link>https://maevyn.codes/decoherence</link>
-      <guid>https://lobste.rs/s/vjmn84</guid>
-      <author>maevyn.codes by maevyn</author>
-      <pubDate>Fri, 16 Oct 2026 11:36:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Forgejo v17.0 is available</title>
-      <link>https://forgejo.org/2026-10-release-v17-0/</link>
-      <guid>https://lobste.rs/s/vemho2</guid>
-      <author>forgejo.org via hugoarnal</author>
-      <pubDate>Thu, 15 Oct 2026 14:43:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/vemho2/forgejo_v17_0_is_available</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vemho2/forgejo_v17_0_is_available"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>vcs</category>
-    </item>
-    <item>
-      <title>Making a 88x31 button book using ImageMagick</title>
-      <link>https://k.sosnierz.me/08-11-24/</link>
-      <guid>https://lobste.rs/s/v6hhdr</guid>
-      <author>k.sosnierz.me via nathell</author>
-      <pubDate>Fri, 16 Oct 2026 06:21:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/v6hhdr/making_88x31_button_book_using</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v6hhdr/making_88x31_button_book_using"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>art</category>
     </item>
   </channel>
 </rss>
