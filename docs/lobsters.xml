@@ -93,15 +93,25 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Anthropic's Scion is heavily inspired by Mononoke</title>
-      <link>https://sunshowers.io/posts/anthropic-mononoke/</link>
-      <guid>https://lobste.rs/s/plcgps</guid>
-      <author>sunshowers.io via mitsuhiko</author>
-      <pubDate>Wed, 14 Oct 2026 15:56:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
-      <category>vibecoding</category>
+      <title>Upcoming Critical PHP Security Release</title>
+      <link>https://www.php.net/archive/2026.php#2026-10-20-1</link>
+      <guid>https://lobste.rs/s/ekxoyt</guid>
+      <author>php.net via pushcx</author>
+      <pubDate>Tue, 20 Oct 2026 17:23:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>php</category>
+      <category>security</category>
+    </item>
+    <item>
+      <title>Protecting Firefox users following the compromise of eMudhra intermediate certificates</title>
+      <link>https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/</link>
+      <guid>https://lobste.rs/s/gqyvn5</guid>
+      <author>blog.mozilla.org via freddyb</author>
+      <pubDate>Tue, 20 Oct 2026 08:00:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/gqyvn5/protecting_firefox_users_following</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Why are we even doing all this?</title>
@@ -124,28 +134,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ddtqtn/nist_elliptic_curves_seeds_bounty_has"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>cryptography</category>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Introducing Firefox Enterprise</title>
-      <link>https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/</link>
-      <guid>https://lobste.rs/s/7xg9rm</guid>
-      <author>blog.mozilla.org via viccuad</author>
-      <pubDate>Wed, 14 Oct 2026 06:06:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7xg9rm/introducing_firefox_enterprise"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>release</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Protecting Firefox users following the compromise of eMudhra intermediate certificates</title>
-      <link>https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/</link>
-      <guid>https://lobste.rs/s/gqyvn5</guid>
-      <author>blog.mozilla.org via freddyb</author>
-      <pubDate>Tue, 20 Oct 2026 08:00:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/gqyvn5/protecting_firefox_users_following</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>Wine ported to OpenBSD</title>
@@ -191,25 +179,27 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>What I Self-Host</title>
-      <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
-      <guid>https://lobste.rs/s/j4tlzg</guid>
-      <author>viceconsole.fyi via tonymet</author>
-      <pubDate>Wed, 14 Oct 2026 10:32:48 -0500</pubDate>
-      <comments>https://lobste.rs/s/j4tlzg/what_i_self_host</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4tlzg/what_i_self_host"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>devops</category>
+      <title>The Netherlands is building its own Linux OS to break free from Microsoft</title>
+      <link>https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html</link>
+      <guid>https://lobste.rs/s/nne5uh</guid>
+      <author>techspot.com via pocket_walrus</author>
+      <pubDate>Mon, 19 Oct 2026 15:10:46 -0500</pubDate>
+      <comments>https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>windows</category>
+      <category>nix</category>
     </item>
     <item>
-      <title>Plasma 6.8 released (KDE's 30th birthday)</title>
-      <link>https://kde.org/announcements/plasma/6/6.8.0/</link>
-      <guid>https://lobste.rs/s/d1c8zn</guid>
-      <author>kde.org via joshsharp</author>
-      <pubDate>Wed, 14 Oct 2026 06:29:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>release</category>
+      <title>Making all divisions slower to fix a bug in 0.000000000000000000542% of cases</title>
+      <link>https://futhark-lang.org/blog/2026-10-14-defining-division.html</link>
+      <guid>https://lobste.rs/s/a9f6z1</guid>
+      <author>futhark-lang.org via NoaBogart</author>
+      <pubDate>Mon, 19 Oct 2026 11:42:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>compilers</category>
     </item>
     <item>
       <title>Sunsetting decomp.dev</title>
@@ -224,6 +214,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Firefox Local Mode</title>
+      <link>https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html</link>
+      <guid>https://lobste.rs/s/w9sxxq</guid>
+      <author>firefox-source-docs.mozilla.org via lim</author>
+      <pubDate>Wed, 21 Oct 2026 10:47:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/w9sxxq/firefox_local_mode</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9sxxq/firefox_local_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+    </item>
+    <item>
       <title>The road to iroh 1.0</title>
       <link>https://www.iroh.computer/blog/the-road-to-iroh-1-0</link>
       <guid>https://lobste.rs/s/6laoto</guid>
@@ -232,27 +232,6 @@
       <comments>https://lobste.rs/s/6laoto/road_iroh_1_0</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6laoto/road_iroh_1_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>networking</category>
-    </item>
-    <item>
-      <title>Making all divisions slower to fix a bug in 0.000000000000000000542% of cases</title>
-      <link>https://futhark-lang.org/blog/2026-10-14-defining-division.html</link>
-      <guid>https://lobste.rs/s/a9f6z1</guid>
-      <author>futhark-lang.org via NoaBogart</author>
-      <pubDate>Mon, 19 Oct 2026 11:42:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>compilers</category>
-    </item>
-    <item>
-      <title>My C23 Conventions</title>
-      <link>https://abner.page/post/c23-conventions-1/</link>
-      <guid>https://lobste.rs/s/umdbht</guid>
-      <author>abner.page by abnercoimbre</author>
-      <pubDate>Thu, 15 Oct 2026 10:32:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/umdbht/my_c23_conventions</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/umdbht/my_c23_conventions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
     </item>
     <item>
       <title>One Hash Bloom Filters</title>
@@ -266,16 +245,26 @@
       <category>databases</category>
     </item>
     <item>
-      <title>The Netherlands is building its own Linux OS to break free from Microsoft</title>
-      <link>https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html</link>
-      <guid>https://lobste.rs/s/nne5uh</guid>
-      <author>techspot.com via pocket_walrus</author>
-      <pubDate>Mon, 19 Oct 2026 15:10:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>windows</category>
-      <category>nix</category>
+      <title>My C23 Conventions</title>
+      <link>https://abner.page/post/c23-conventions-1/</link>
+      <guid>https://lobste.rs/s/umdbht</guid>
+      <author>abner.page by abnercoimbre</author>
+      <pubDate>Thu, 15 Oct 2026 10:32:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/umdbht/my_c23_conventions</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/umdbht/my_c23_conventions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+    </item>
+    <item>
+      <title>Setting up SSH keys on macOS with Touch ID</title>
+      <link>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</link>
+      <guid>https://lobste.rs/s/d7m5j1</guid>
+      <author>nmattia.com by nmattia</author>
+      <pubDate>Tue, 20 Oct 2026 05:23:58 -0500</pubDate>
+      <comments>https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>mac</category>
+      <category>cryptography</category>
     </item>
     <item>
       <title>Outside the Scope of Our Support</title>
@@ -289,16 +278,6 @@
       <category>a11y</category>
     </item>
     <item>
-      <title>The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise</title>
-      <link>https://maevyn.codes/decoherence</link>
-      <guid>https://lobste.rs/s/vjmn84</guid>
-      <author>maevyn.codes by maevyn</author>
-      <pubDate>Fri, 16 Oct 2026 11:36:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vibecoding</category>
-    </item>
-    <item>
       <title>2026 is an exciting year for the Rust compiler (and me)</title>
       <link>https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</link>
       <guid>https://lobste.rs/s/c2ouz0</guid>
@@ -310,14 +289,35 @@
       <category>compilers</category>
     </item>
     <item>
-      <title>Fancy Curl Sites</title>
-      <link>https://nytpu.com/gemlog/2026-03-18</link>
-      <guid>https://lobste.rs/s/zitobg</guid>
-      <author>nytpu.com via seb</author>
-      <pubDate>Wed, 14 Oct 2026 01:24:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/zitobg/fancy_curl_sites</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zitobg/fancy_curl_sites"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
+      <title>NixOS is making me less afraid</title>
+      <link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
+      <guid>https://lobste.rs/s/7d1swo</guid>
+      <author>entropicthoughts.com via LolPython</author>
+      <pubDate>Tue, 20 Oct 2026 08:44:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>nix</category>
+    </item>
+    <item>
+      <title>How I got over 300 Tor exit nodes removed</title>
+      <link>https://kaba.cx/posts/20261020_Tor/</link>
+      <guid>https://lobste.rs/s/9h14un</guid>
+      <author>kaba.cx via atmosx</author>
+      <pubDate>Tue, 20 Oct 2026 13:44:42 -0500</pubDate>
+      <comments>https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>privacy</category>
+    </item>
+    <item>
+      <title>The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise</title>
+      <link>https://maevyn.codes/decoherence</link>
+      <guid>https://lobste.rs/s/vjmn84</guid>
+      <author>maevyn.codes by maevyn</author>
+      <pubDate>Fri, 16 Oct 2026 11:36:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vibecoding</category>
     </item>
     <item>
       <title>The Costa GUI</title>
