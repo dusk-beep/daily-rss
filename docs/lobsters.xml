@@ -82,17 +82,6 @@
       <category>vibecoding</category>
     </item>
     <item>
-      <title>Men in tech #YesAllMen</title>
-      <link>https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen</link>
-      <guid>https://lobste.rs/s/mp8qye</guid>
-      <author>media.ccc.de via gmem</author>
-      <pubDate>Sun, 18 Oct 2026 13:35:01 -0500</pubDate>
-      <comments>https://lobste.rs/s/mp8qye/men_tech_yesallmen</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mp8qye/men_tech_yesallmen"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>video</category>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Upcoming Critical PHP Security Release</title>
       <link>https://www.php.net/archive/2026.php#2026-10-20-1</link>
       <guid>https://lobste.rs/s/ekxoyt</guid>
@@ -102,6 +91,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>php</category>
       <category>security</category>
+    </item>
+    <item>
+      <title>Men in tech #YesAllMen</title>
+      <link>https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen</link>
+      <guid>https://lobste.rs/s/mp8qye</guid>
+      <author>media.ccc.de via gmem</author>
+      <pubDate>Sun, 18 Oct 2026 13:35:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/mp8qye/men_tech_yesallmen</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mp8qye/men_tech_yesallmen"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>culture</category>
     </item>
     <item>
       <title>Protecting Firefox users following the compromise of eMudhra intermediate certificates</title>
@@ -125,6 +125,16 @@
       <category>vibecoding</category>
     </item>
     <item>
+      <title>Firefox Local Mode</title>
+      <link>https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html</link>
+      <guid>https://lobste.rs/s/w9sxxq</guid>
+      <author>firefox-source-docs.mozilla.org via lim</author>
+      <pubDate>Wed, 21 Oct 2026 10:47:59 -0500</pubDate>
+      <comments>https://lobste.rs/s/w9sxxq/firefox_local_mode</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9sxxq/firefox_local_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+    </item>
+    <item>
       <title>The NIST Elliptic Curves Seeds Bounty Has Been Claimed</title>
       <link>https://words.filippo.io/seeds-solved/</link>
       <guid>https://lobste.rs/s/ddtqtn</guid>
@@ -144,17 +154,6 @@
       <comments>https://lobste.rs/s/gqepzd/wine_ported_openbsd</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqepzd/wine_ported_openbsd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>openbsd</category>
-    </item>
-    <item>
-      <title>JPEG XL vs AVIF for web use-cases</title>
-      <link>https://jakearchibald.com/2026/jpeg-xl-vs-avif/</link>
-      <guid>https://lobste.rs/s/uejdwj</guid>
-      <author>jakearchibald.com by jaffathecake</author>
-      <pubDate>Thu, 15 Oct 2026 09:42:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compsci</category>
-      <category>web</category>
     </item>
     <item>
       <title>OpenBSD 8.0</title>
@@ -202,26 +201,15 @@
       <category>compilers</category>
     </item>
     <item>
-      <title>Sunsetting decomp.dev</title>
-      <link>https://decomp.dev/</link>
-      <guid>https://lobste.rs/s/kaerns</guid>
-      <author>decomp.dev via FedericoSchonborn</author>
-      <pubDate>Thu, 15 Oct 2026 08:27:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/kaerns/sunsetting_decomp_dev</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kaerns/sunsetting_decomp_dev"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>reversing</category>
-      <category>games</category>
-      <category>vibecoding</category>
-    </item>
-    <item>
-      <title>Firefox Local Mode</title>
-      <link>https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html</link>
-      <guid>https://lobste.rs/s/w9sxxq</guid>
-      <author>firefox-source-docs.mozilla.org via lim</author>
-      <pubDate>Wed, 21 Oct 2026 10:47:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/w9sxxq/firefox_local_mode</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9sxxq/firefox_local_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
+      <title>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
+      <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
+      <guid>https://lobste.rs/s/ebsqsp</guid>
+      <author>scotthelme.co.uk via pims</author>
+      <pubDate>Wed, 21 Oct 2026 08:50:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>cryptography</category>
     </item>
     <item>
       <title>The road to iroh 1.0</title>
@@ -245,14 +233,15 @@
       <category>databases</category>
     </item>
     <item>
-      <title>My C23 Conventions</title>
-      <link>https://abner.page/post/c23-conventions-1/</link>
-      <guid>https://lobste.rs/s/umdbht</guid>
-      <author>abner.page by abnercoimbre</author>
-      <pubDate>Thu, 15 Oct 2026 10:32:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/umdbht/my_c23_conventions</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/umdbht/my_c23_conventions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
+      <title>zls 0.17.0</title>
+      <link>https://zigtools.org/zls/releases/0.17.0/</link>
+      <guid>https://lobste.rs/s/hty1qk</guid>
+      <author>zigtools.org via FedericoSchonborn</author>
+      <pubDate>Wed, 21 Oct 2026 10:24:05 -0500</pubDate>
+      <comments>https://lobste.rs/s/hty1qk/zls_0_17_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hty1qk/zls_0_17_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>zig</category>
     </item>
     <item>
       <title>Setting up SSH keys on macOS with Touch ID</title>
@@ -265,6 +254,37 @@
       <category>security</category>
       <category>mac</category>
       <category>cryptography</category>
+    </item>
+    <item>
+      <title>NixOS is making me less afraid</title>
+      <link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
+      <guid>https://lobste.rs/s/7d1swo</guid>
+      <author>entropicthoughts.com via LolPython</author>
+      <pubDate>Tue, 20 Oct 2026 08:44:53 -0500</pubDate>
+      <comments>https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>nix</category>
+    </item>
+    <item>
+      <title>How I got over 300 Tor exit nodes removed</title>
+      <link>https://kaba.cx/posts/20261020_Tor/</link>
+      <guid>https://lobste.rs/s/9h14un</guid>
+      <author>kaba.cx via atmosx</author>
+      <pubDate>Tue, 20 Oct 2026 13:44:42 -0500</pubDate>
+      <comments>https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>privacy</category>
+    </item>
+    <item>
+      <title>The Future of CSS</title>
+      <link>https://www.joshwcomeau.com/css/interop-2027/</link>
+      <guid>https://lobste.rs/s/vidyh0</guid>
+      <author>joshwcomeau.com via typesanitizer</author>
+      <pubDate>Wed, 21 Oct 2026 01:16:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/vidyh0/future_css</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vidyh0/future_css"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>css</category>
     </item>
     <item>
       <title>Outside the Scope of Our Support</title>
@@ -289,25 +309,15 @@
       <category>compilers</category>
     </item>
     <item>
-      <title>NixOS is making me less afraid</title>
-      <link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
-      <guid>https://lobste.rs/s/7d1swo</guid>
-      <author>entropicthoughts.com via LolPython</author>
-      <pubDate>Tue, 20 Oct 2026 08:44:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>nix</category>
-    </item>
-    <item>
-      <title>How I got over 300 Tor exit nodes removed</title>
-      <link>https://kaba.cx/posts/20261020_Tor/</link>
-      <guid>https://lobste.rs/s/9h14un</guid>
-      <author>kaba.cx via atmosx</author>
-      <pubDate>Tue, 20 Oct 2026 13:44:42 -0500</pubDate>
-      <comments>https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>privacy</category>
+      <title>Unikernels in OCaml</title>
+      <link>https://uniker.nl/</link>
+      <guid>https://lobste.rs/s/mfserj</guid>
+      <author>uniker.nl via xvw</author>
+      <pubDate>Wed, 21 Oct 2026 02:51:20 -0500</pubDate>
+      <comments>https://lobste.rs/s/mfserj/unikernels_ocaml</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mfserj/unikernels_ocaml"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ml</category>
+      <category>osdev</category>
     </item>
     <item>
       <title>The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise</title>
@@ -318,16 +328,6 @@
       <comments>https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vibecoding</category>
-    </item>
-    <item>
-      <title>The Costa GUI</title>
-      <link>https://costa.jacobpalm.dk</link>
-      <guid>https://lobste.rs/s/uqugjk</guid>
-      <author>costa.jacobpalm.dk via FedericoSchonborn</author>
-      <pubDate>Thu, 15 Oct 2026 07:06:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/uqugjk/costa_gui</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uqugjk/costa_gui"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>retrocomputing</category>
     </item>
   </channel>
 </rss>
