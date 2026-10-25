@@ -145,15 +145,14 @@
       <category>law</category>
     </item>
     <item>
-      <title>OpenBSD 8.0</title>
-      <link>https://www.openbsd.org/80.html</link>
-      <guid>https://lobste.rs/s/sqdhu7</guid>
-      <author>openbsd.org via dgv</author>
-      <pubDate>Mon, 19 Oct 2026 20:46:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/sqdhu7/openbsd_8_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sqdhu7/openbsd_8_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>openbsd</category>
-      <category>release</category>
+      <title>Please don't mess with links</title>
+      <link>https://maurycyz.com/misc/real_links/</link>
+      <guid>https://lobste.rs/s/mucay8</guid>
+      <author>maurycyz.com via gavinmorrow</author>
+      <pubDate>Thu, 22 Oct 2026 19:37:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/mucay8/please_don_t_mess_with_links</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mucay8/please_don_t_mess_with_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>Docker is weird</title>
@@ -166,14 +165,26 @@
       <category>programming</category>
     </item>
     <item>
-      <title>Please don't mess with links</title>
-      <link>https://maurycyz.com/misc/real_links/</link>
-      <guid>https://lobste.rs/s/mucay8</guid>
-      <author>maurycyz.com via gavinmorrow</author>
-      <pubDate>Thu, 22 Oct 2026 19:37:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/mucay8/please_don_t_mess_with_links</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mucay8/please_don_t_mess_with_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
+      <title>OpenBSD 8.0</title>
+      <link>https://www.openbsd.org/80.html</link>
+      <guid>https://lobste.rs/s/sqdhu7</guid>
+      <author>openbsd.org via dgv</author>
+      <pubDate>Mon, 19 Oct 2026 20:46:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/sqdhu7/openbsd_8_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sqdhu7/openbsd_8_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>openbsd</category>
+      <category>release</category>
+    </item>
+    <item>
+      <title>I want my Wednesday back</title>
+      <link>https://blog.luitjes.it/posts/i-want-my-wednesday-back/</link>
+      <guid>https://lobste.rs/s/xgih2x</guid>
+      <author>blog.luitjes.it by lucasluitjes</author>
+      <pubDate>Sat, 24 Oct 2026 05:09:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/xgih2x/i_want_my_wednesday_back</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>php</category>
+      <category>security</category>
     </item>
     <item>
       <title>The Netherlands is building its own Linux OS to break free from Microsoft</title>
@@ -188,17 +199,6 @@
       <category>nix</category>
     </item>
     <item>
-      <title>Making all divisions slower to fix a bug in 0.000000000000000000542% of cases</title>
-      <link>https://futhark-lang.org/blog/2026-10-14-defining-division.html</link>
-      <guid>https://lobste.rs/s/a9f6z1</guid>
-      <author>futhark-lang.org via NoaBogart</author>
-      <pubDate>Mon, 19 Oct 2026 11:42:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>compilers</category>
-    </item>
-    <item>
       <title>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
       <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
       <guid>https://lobste.rs/s/ebsqsp</guid>
@@ -208,6 +208,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>cryptography</category>
+    </item>
+    <item>
+      <title>Making all divisions slower to fix a bug in 0.000000000000000000542% of cases</title>
+      <link>https://futhark-lang.org/blog/2026-10-14-defining-division.html</link>
+      <guid>https://lobste.rs/s/a9f6z1</guid>
+      <author>futhark-lang.org via NoaBogart</author>
+      <pubDate>Mon, 19 Oct 2026 11:42:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>compilers</category>
     </item>
     <item>
       <title>One Hash Bloom Filters</title>
@@ -242,6 +253,28 @@
       <category>security</category>
       <category>mac</category>
       <category>cryptography</category>
+    </item>
+    <item>
+      <title>2026 is an exciting year for the Rust compiler (and me)</title>
+      <link>https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</link>
+      <guid>https://lobste.rs/s/c2ouz0</guid>
+      <author>yoyo-code.com via novedevo</author>
+      <pubDate>Mon, 19 Oct 2026 12:52:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>compilers</category>
+    </item>
+    <item>
+      <title>Attention people who think UB is fine</title>
+      <link>https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html</link>
+      <guid>https://lobste.rs/s/5xzuff</guid>
+      <author>blog.habets.se via abareplace</author>
+      <pubDate>Fri, 23 Oct 2026 15:47:58 -0500</pubDate>
+      <comments>https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>c++</category>
     </item>
     <item>
       <title>NixOS is making me less afraid</title>
@@ -286,17 +319,6 @@
       <category>a11y</category>
     </item>
     <item>
-      <title>2026 is an exciting year for the Rust compiler (and me)</title>
-      <link>https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</link>
-      <guid>https://lobste.rs/s/c2ouz0</guid>
-      <author>yoyo-code.com via novedevo</author>
-      <pubDate>Mon, 19 Oct 2026 12:52:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>compilers</category>
-    </item>
-    <item>
       <title>Unikernels in OCaml</title>
       <link>https://uniker.nl/</link>
       <guid>https://lobste.rs/s/mfserj</guid>
@@ -306,27 +328,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mfserj/unikernels_ocaml"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>ml</category>
       <category>osdev</category>
-    </item>
-    <item>
-      <title>examining the macOS gcc binary</title>
-      <link>https://zoey-on-github.github.io/blog/macgcc.html</link>
-      <guid>https://lobste.rs/s/hplfis</guid>
-      <author>zoey-on-github.github.io by juliethefoxcoon</author>
-      <pubDate>Thu, 22 Oct 2026 01:45:58 -0500</pubDate>
-      <comments>https://lobste.rs/s/hplfis/examining_macos_gcc_binary</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hplfis/examining_macos_gcc_binary"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>reversing</category>
-      <category>mac</category>
-    </item>
-    <item>
-      <title>Do minor curl vulnerabilities in the open</title>
-      <link>https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/</link>
-      <guid>https://lobste.rs/s/nryxzd</guid>
-      <author>daniel.haxx.se via robalex</author>
-      <pubDate>Tue, 20 Oct 2026 14:47:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
   </channel>
 </rss>
