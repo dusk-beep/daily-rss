@@ -39,25 +39,15 @@
       <category>browsers</category>
     </item>
     <item>
-      <title>Wine ported to OpenBSD</title>
-      <link>https://marc.info/?l=openbsd-ports&amp;m=179236125692175</link>
-      <guid>https://lobste.rs/s/gqepzd</guid>
-      <author>marc.info via nbyqvist</author>
-      <pubDate>Mon, 19 Oct 2026 09:44:02 -0500</pubDate>
-      <comments>https://lobste.rs/s/gqepzd/wine_ported_openbsd</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqepzd/wine_ported_openbsd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>openbsd</category>
-    </item>
-    <item>
-      <title>Quad9 DNS Resolver to exit France</title>
-      <link>https://quad9.net/news/blog/au-revoir-france/</link>
-      <guid>https://lobste.rs/s/s0aktw</guid>
-      <author>quad9.net via mond</author>
-      <pubDate>Thu, 22 Oct 2026 14:47:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-      <category>law</category>
+      <title>The Slurptop: A home-built luggable that runs on power tool batteries</title>
+      <link>https://slurpburgers.com/slurpbuilds/the-slurptop/</link>
+      <guid>https://lobste.rs/s/zfoiw1</guid>
+      <author>slurpburgers.com via hoistbypetard</author>
+      <pubDate>Sun, 25 Oct 2026 08:43:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+      <category>art</category>
     </item>
     <item>
       <title>I want my Wednesday back</title>
@@ -69,6 +59,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>php</category>
       <category>security</category>
+    </item>
+    <item>
+      <title>Quad9 DNS Resolver to exit France</title>
+      <link>https://quad9.net/news/blog/au-revoir-france/</link>
+      <guid>https://lobste.rs/s/s0aktw</guid>
+      <author>quad9.net via mond</author>
+      <pubDate>Thu, 22 Oct 2026 14:47:39 -0500</pubDate>
+      <comments>https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
+      <category>law</category>
     </item>
     <item>
       <title>Please don't mess with links</title>
@@ -91,40 +92,6 @@
       <category>programming</category>
     </item>
     <item>
-      <title>OpenBSD 8.0</title>
-      <link>https://www.openbsd.org/80.html</link>
-      <guid>https://lobste.rs/s/sqdhu7</guid>
-      <author>openbsd.org via dgv</author>
-      <pubDate>Mon, 19 Oct 2026 20:46:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/sqdhu7/openbsd_8_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sqdhu7/openbsd_8_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>openbsd</category>
-      <category>release</category>
-    </item>
-    <item>
-      <title>The Slurptop: A home-built luggable that runs on power tool batteries</title>
-      <link>https://slurpburgers.com/slurpbuilds/the-slurptop/</link>
-      <guid>https://lobste.rs/s/zfoiw1</guid>
-      <author>slurpburgers.com via hoistbypetard</author>
-      <pubDate>Sun, 25 Oct 2026 08:43:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-      <category>art</category>
-    </item>
-    <item>
-      <title>The Netherlands is building its own Linux OS to break free from Microsoft</title>
-      <link>https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html</link>
-      <guid>https://lobste.rs/s/nne5uh</guid>
-      <author>techspot.com via pocket_walrus</author>
-      <pubDate>Mon, 19 Oct 2026 15:10:46 -0500</pubDate>
-      <comments>https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>windows</category>
-      <category>nix</category>
-    </item>
-    <item>
       <title>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
       <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
       <guid>https://lobste.rs/s/ebsqsp</guid>
@@ -136,15 +103,26 @@
       <category>cryptography</category>
     </item>
     <item>
-      <title>Making all divisions slower to fix a bug in 0.000000000000000000542% of cases</title>
-      <link>https://futhark-lang.org/blog/2026-10-14-defining-division.html</link>
-      <guid>https://lobste.rs/s/a9f6z1</guid>
-      <author>futhark-lang.org via NoaBogart</author>
-      <pubDate>Mon, 19 Oct 2026 11:42:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a9f6z1/making_all_divisions_slower_fix_bug_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>POSIX wordexp(3) is dangerous</title>
+      <link>https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/</link>
+      <guid>https://lobste.rs/s/tbbiqb</guid>
+      <author>yossarian.net by yossarian</author>
+      <pubDate>Sun, 25 Oct 2026 10:09:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
       <category>c</category>
-      <category>compilers</category>
+    </item>
+    <item>
+      <title>Vim Classic</title>
+      <link>https://vim-classic.org/</link>
+      <guid>https://lobste.rs/s/cxwpil</guid>
+      <author>vim-classic.org via datboi</author>
+      <pubDate>Sun, 25 Oct 2026 10:05:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/cxwpil/vim_classic</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxwpil/vim_classic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vim</category>
+      <category>editors</category>
     </item>
     <item>
       <title>Attention people who think UB is fine</title>
@@ -158,15 +136,14 @@
       <category>c++</category>
     </item>
     <item>
-      <title>One Hash Bloom Filters</title>
-      <link>https://www.calabro.io/ohbf</link>
-      <guid>https://lobste.rs/s/mpytbn</guid>
-      <author>calabro.io via pushcx</author>
-      <pubDate>Mon, 19 Oct 2026 10:47:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/mpytbn/one_hash_bloom_filters</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mpytbn/one_hash_bloom_filters"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compsci</category>
-      <category>databases</category>
+      <title>Indian government sites are serving revoked eMudhra certificates</title>
+      <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
+      <guid>https://lobste.rs/s/zug8xv</guid>
+      <author>captnemo.in via adityaathalye</author>
+      <pubDate>Fri, 23 Oct 2026 23:06:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/zug8xv/indian_government_sites_are_serving</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>zls 0.17.0</title>
@@ -178,16 +155,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hty1qk/zls_0_17_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>zig</category>
-    </item>
-    <item>
-      <title>Indian government sites are serving revoked eMudhra certificates</title>
-      <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
-      <guid>https://lobste.rs/s/zug8xv</guid>
-      <author>captnemo.in via adityaathalye</author>
-      <pubDate>Fri, 23 Oct 2026 23:06:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/zug8xv/indian_government_sites_are_serving</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>Setting up SSH keys on macOS with Touch ID</title>
@@ -202,15 +169,16 @@
       <category>cryptography</category>
     </item>
     <item>
-      <title>2026 is an exciting year for the Rust compiler (and me)</title>
-      <link>https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</link>
-      <guid>https://lobste.rs/s/c2ouz0</guid>
-      <author>yoyo-code.com via novedevo</author>
-      <pubDate>Mon, 19 Oct 2026 12:52:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>The glorious @xkcdRandom Zig builtin</title>
+      <link>https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/</link>
+      <guid>https://lobste.rs/s/5hoqzj</guid>
+      <author>ochagavia.nl by wofo</author>
+      <pubDate>Fri, 23 Oct 2026 09:30:57 -0500</pubDate>
+      <comments>https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
       <category>compilers</category>
+      <category>zig</category>
     </item>
     <item>
       <title>NixOS is making me less afraid</title>
@@ -244,16 +212,25 @@
       <category>css</category>
     </item>
     <item>
-      <title>The glorious @xkcdRandom Zig builtin</title>
-      <link>https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/</link>
-      <guid>https://lobste.rs/s/5hoqzj</guid>
-      <author>ochagavia.nl by wofo</author>
-      <pubDate>Fri, 23 Oct 2026 09:30:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-      <category>compilers</category>
+      <title>Partial Operator Precedence</title>
+      <link>https://ziglang.org/devlog/2026/#2026-10-24</link>
+      <guid>https://lobste.rs/s/kiivg2</guid>
+      <author>ziglang.org via liberty</author>
+      <pubDate>Sun, 25 Oct 2026 09:18:21 -0500</pubDate>
+      <comments>https://lobste.rs/s/kiivg2/partial_operator_precedence</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kiivg2/partial_operator_precedence"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>zig</category>
+    </item>
+    <item>
+      <title>Websites Should Be Printable</title>
+      <link>https://brennenputh.me/blog/printable-websites/</link>
+      <guid>https://lobste.rs/s/olnqh2</guid>
+      <author>brennenputh.me via zk</author>
+      <pubDate>Mon, 26 Oct 2026 07:02:58 -0500</pubDate>
+      <comments>https://lobste.rs/s/olnqh2/websites_should_be_printable</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/olnqh2/websites_should_be_printable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>css</category>
     </item>
     <item>
       <title>Unikernels in OCaml</title>
@@ -276,6 +253,26 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hplfis/examining_macos_gcc_binary"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>reversing</category>
       <category>mac</category>
+    </item>
+    <item>
+      <title>Do minor curl vulnerabilities in the open</title>
+      <link>https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/</link>
+      <guid>https://lobste.rs/s/nryxzd</guid>
+      <author>daniel.haxx.se via robalex</author>
+      <pubDate>Tue, 20 Oct 2026 14:47:54 -0500</pubDate>
+      <comments>https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>We have Traits at Home</title>
+      <link>https://www.axelmagn.com/blog/202610-zig-traits/</link>
+      <guid>https://lobste.rs/s/05xrj8</guid>
+      <author>axelmagn.com via Defelo</author>
+      <pubDate>Thu, 22 Oct 2026 16:52:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/05xrj8/we_have_traits_at_home</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/05xrj8/we_have_traits_at_home"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
     </item>
   </channel>
 </rss>
