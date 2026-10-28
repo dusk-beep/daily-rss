@@ -5,29 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Tue, 20 Oct 2026 17:23:54 -0500</pubDate>
+    <pubDate>Wed, 21 Oct 2026 10:47:59 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Upcoming Critical PHP Security Release</title>
-      <link>https://www.php.net/archive/2026.php#2026-10-20-1</link>
-      <guid>https://lobste.rs/s/ekxoyt</guid>
-      <author>php.net via pushcx</author>
-      <pubDate>Tue, 20 Oct 2026 17:23:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>php</category>
-      <category>security</category>
-    </item>
-    <item>
-      <title>Protecting Firefox users following the compromise of eMudhra intermediate certificates</title>
-      <link>https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/</link>
-      <guid>https://lobste.rs/s/gqyvn5</guid>
-      <author>blog.mozilla.org via freddyb</author>
-      <pubDate>Tue, 20 Oct 2026 08:00:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/gqyvn5/protecting_firefox_users_following</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
     <item>
       <title>Firefox Local Mode</title>
       <link>https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html</link>
@@ -82,6 +61,16 @@
       <category>web</category>
     </item>
     <item>
+      <title>CSS-Tricks has a new owner</title>
+      <link>https://css-tricks.com/css-tricks-has-a-new-owner/</link>
+      <guid>https://lobste.rs/s/6ntoqr</guid>
+      <author>css-tricks.com via seb</author>
+      <pubDate>Mon, 26 Oct 2026 12:55:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+    </item>
+    <item>
       <title>Docker is weird</title>
       <link>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</link>
       <guid>https://lobste.rs/s/xsz9sc</guid>
@@ -90,17 +79,6 @@
       <comments>https://lobste.rs/s/xsz9sc/docker_is_weird</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xsz9sc/docker_is_weird"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>programming</category>
-    </item>
-    <item>
-      <title>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
-      <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
-      <guid>https://lobste.rs/s/ebsqsp</guid>
-      <author>scotthelme.co.uk via pims</author>
-      <pubDate>Wed, 21 Oct 2026 08:50:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>cryptography</category>
     </item>
     <item>
       <title>POSIX wordexp(3) is dangerous</title>
@@ -114,6 +92,27 @@
       <category>c</category>
     </item>
     <item>
+      <title>Python's experimental JIT to be removed</title>
+      <link>https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</link>
+      <guid>https://lobste.rs/s/cajuq6</guid>
+      <author>lwn.net via val</author>
+      <pubDate>Tue, 27 Oct 2026 01:20:38 -0500</pubDate>
+      <comments>https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
+    </item>
+    <item>
+      <title>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
+      <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
+      <guid>https://lobste.rs/s/ebsqsp</guid>
+      <author>scotthelme.co.uk via pims</author>
+      <pubDate>Wed, 21 Oct 2026 08:50:10 -0500</pubDate>
+      <comments>https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>cryptography</category>
+    </item>
+    <item>
       <title>Vim Classic</title>
       <link>https://vim-classic.org/</link>
       <guid>https://lobste.rs/s/cxwpil</guid>
@@ -125,6 +124,17 @@
       <category>editors</category>
     </item>
     <item>
+      <title>Websites Should Be Printable</title>
+      <link>https://brennenputh.me/blog/printable-websites/</link>
+      <guid>https://lobste.rs/s/olnqh2</guid>
+      <author>brennenputh.me via zk</author>
+      <pubDate>Mon, 26 Oct 2026 07:02:58 -0500</pubDate>
+      <comments>https://lobste.rs/s/olnqh2/websites_should_be_printable</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/olnqh2/websites_should_be_printable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>css</category>
+    </item>
+    <item>
       <title>Attention people who think UB is fine</title>
       <link>https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html</link>
       <guid>https://lobste.rs/s/5xzuff</guid>
@@ -134,6 +144,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
       <category>c++</category>
+    </item>
+    <item>
+      <title>Shitty Screenshare</title>
+      <link>http://shittyscreenshare.com</link>
+      <guid>https://lobste.rs/s/cxxcik</guid>
+      <author>shittyscreenshare.com by Sean-Der</author>
+      <pubDate>Mon, 26 Oct 2026 19:12:16 -0500</pubDate>
+      <comments>https://lobste.rs/s/cxxcik/shitty_screenshare</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxxcik/shitty_screenshare"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>web</category>
     </item>
     <item>
       <title>Indian government sites are serving revoked eMudhra certificates</title>
@@ -157,16 +178,15 @@
       <category>zig</category>
     </item>
     <item>
-      <title>Setting up SSH keys on macOS with Touch ID</title>
-      <link>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</link>
-      <guid>https://lobste.rs/s/d7m5j1</guid>
-      <author>nmattia.com by nmattia</author>
-      <pubDate>Tue, 20 Oct 2026 05:23:58 -0500</pubDate>
-      <comments>https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>mac</category>
-      <category>cryptography</category>
+      <title>Gram 3.4.0 released</title>
+      <link>https://gram-editor.com/posts/release-3.4.0/</link>
+      <guid>https://lobste.rs/s/p9obkt</guid>
+      <author>gram-editor.com via FedericoSchonborn</author>
+      <pubDate>Mon, 26 Oct 2026 06:47:25 -0500</pubDate>
+      <comments>https://lobste.rs/s/p9obkt/gram_3_4_0_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p9obkt/gram_3_4_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>editors</category>
     </item>
     <item>
       <title>The glorious @xkcdRandom Zig builtin</title>
@@ -181,35 +201,15 @@
       <category>zig</category>
     </item>
     <item>
-      <title>NixOS is making me less afraid</title>
-      <link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
-      <guid>https://lobste.rs/s/7d1swo</guid>
-      <author>entropicthoughts.com via LolPython</author>
-      <pubDate>Tue, 20 Oct 2026 08:44:53 -0500</pubDate>
-      <comments>https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>nix</category>
-    </item>
-    <item>
-      <title>How I got over 300 Tor exit nodes removed</title>
-      <link>https://kaba.cx/posts/20261020_Tor/</link>
-      <guid>https://lobste.rs/s/9h14un</guid>
-      <author>kaba.cx via atmosx</author>
-      <pubDate>Tue, 20 Oct 2026 13:44:42 -0500</pubDate>
-      <comments>https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>privacy</category>
-    </item>
-    <item>
-      <title>The Future of CSS</title>
-      <link>https://www.joshwcomeau.com/css/interop-2027/</link>
-      <guid>https://lobste.rs/s/vidyh0</guid>
-      <author>joshwcomeau.com via typesanitizer</author>
-      <pubDate>Wed, 21 Oct 2026 01:16:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/vidyh0/future_css</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vidyh0/future_css"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>css</category>
+      <title>Oldest GUI application that still runs on Windows 11</title>
+      <link>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</link>
+      <guid>https://lobste.rs/s/rwubks</guid>
+      <author>blog.enlyth.com via technetium</author>
+      <pubDate>Mon, 26 Oct 2026 14:49:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>windows</category>
+      <category>historical</category>
     </item>
     <item>
       <title>Partial Operator Precedence</title>
@@ -222,15 +222,24 @@
       <category>zig</category>
     </item>
     <item>
-      <title>Websites Should Be Printable</title>
-      <link>https://brennenputh.me/blog/printable-websites/</link>
-      <guid>https://lobste.rs/s/olnqh2</guid>
-      <author>brennenputh.me via zk</author>
-      <pubDate>Mon, 26 Oct 2026 07:02:58 -0500</pubDate>
-      <comments>https://lobste.rs/s/olnqh2/websites_should_be_printable</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/olnqh2/websites_should_be_printable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
+      <title>The Future of CSS</title>
+      <link>https://www.joshwcomeau.com/css/interop-2027/</link>
+      <guid>https://lobste.rs/s/vidyh0</guid>
+      <author>joshwcomeau.com via typesanitizer</author>
+      <pubDate>Wed, 21 Oct 2026 01:16:50 -0500</pubDate>
+      <comments>https://lobste.rs/s/vidyh0/future_css</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vidyh0/future_css"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>css</category>
+    </item>
+    <item>
+      <title>Why is it so expensive to send an email?</title>
+      <link>https://evancz.dev/why-is-it-so-expensive-to-send-an-email</link>
+      <guid>https://lobste.rs/s/ryjnyi</guid>
+      <author>evancz.dev via wolfadex</author>
+      <pubDate>Mon, 26 Oct 2026 08:25:41 -0500</pubDate>
+      <comments>https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>email</category>
     </item>
     <item>
       <title>Unikernels in OCaml</title>
@@ -253,16 +262,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hplfis/examining_macos_gcc_binary"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>reversing</category>
       <category>mac</category>
-    </item>
-    <item>
-      <title>Do minor curl vulnerabilities in the open</title>
-      <link>https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/</link>
-      <guid>https://lobste.rs/s/nryxzd</guid>
-      <author>daniel.haxx.se via robalex</author>
-      <pubDate>Tue, 20 Oct 2026 14:47:54 -0500</pubDate>
-      <comments>https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>We have Traits at Home</title>
