@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Wed, 21 Oct 2026 10:47:59 -0500</pubDate>
+    <pubDate>Sun, 25 Oct 2026 08:43:11 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Firefox Local Mode</title>
-      <link>https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html</link>
-      <guid>https://lobste.rs/s/w9sxxq</guid>
-      <author>firefox-source-docs.mozilla.org via lim</author>
-      <pubDate>Wed, 21 Oct 2026 10:47:59 -0500</pubDate>
-      <comments>https://lobste.rs/s/w9sxxq/firefox_local_mode</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9sxxq/firefox_local_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-    </item>
     <item>
       <title>The Slurptop: A home-built luggable that runs on power tool batteries</title>
       <link>https://slurpburgers.com/slurpbuilds/the-slurptop/</link>
@@ -37,6 +27,16 @@
       <comments>https://lobste.rs/s/xgih2x/i_want_my_wednesday_back</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>php</category>
+      <category>security</category>
+    </item>
+    <item>
+      <title>This is not sustainable</title>
+      <link>https://www.netmeister.org/blog/defense-ddos.html</link>
+      <guid>https://lobste.rs/s/cpaibp</guid>
+      <author>netmeister.org via binjip978</author>
+      <pubDate>Tue, 27 Oct 2026 22:56:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/cpaibp/this_is_not_sustainable</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
     </item>
     <item>
@@ -81,17 +81,6 @@
       <category>programming</category>
     </item>
     <item>
-      <title>POSIX wordexp(3) is dangerous</title>
-      <link>https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/</link>
-      <guid>https://lobste.rs/s/tbbiqb</guid>
-      <author>yossarian.net by yossarian</author>
-      <pubDate>Sun, 25 Oct 2026 10:09:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>c</category>
-    </item>
-    <item>
       <title>Python's experimental JIT to be removed</title>
       <link>https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</link>
       <guid>https://lobste.rs/s/cajuq6</guid>
@@ -102,26 +91,15 @@
       <category>python</category>
     </item>
     <item>
-      <title>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
-      <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
-      <guid>https://lobste.rs/s/ebsqsp</guid>
-      <author>scotthelme.co.uk via pims</author>
-      <pubDate>Wed, 21 Oct 2026 08:50:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>Apple's git still trusts the compromised eMudhra certificates</title>
+      <link>https://emudhra.we-have-a-problem.com/apple.html</link>
+      <guid>https://lobste.rs/s/xybmsj</guid>
+      <author>emudhra.we-have-a-problem.com by galadran</author>
+      <pubDate>Wed, 28 Oct 2026 06:03:56 -0500</pubDate>
+      <comments>https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>mac</category>
       <category>cryptography</category>
-    </item>
-    <item>
-      <title>Vim Classic</title>
-      <link>https://vim-classic.org/</link>
-      <guid>https://lobste.rs/s/cxwpil</guid>
-      <author>vim-classic.org via datboi</author>
-      <pubDate>Sun, 25 Oct 2026 10:05:45 -0500</pubDate>
-      <comments>https://lobste.rs/s/cxwpil/vim_classic</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxwpil/vim_classic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vim</category>
-      <category>editors</category>
     </item>
     <item>
       <title>Websites Should Be Printable</title>
@@ -135,6 +113,49 @@
       <category>css</category>
     </item>
     <item>
+      <title>POSIX wordexp(3) is dangerous</title>
+      <link>https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/</link>
+      <guid>https://lobste.rs/s/tbbiqb</guid>
+      <author>yossarian.net by yossarian</author>
+      <pubDate>Sun, 25 Oct 2026 10:09:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>c</category>
+    </item>
+    <item>
+      <title>Vim Classic</title>
+      <link>https://vim-classic.org/</link>
+      <guid>https://lobste.rs/s/cxwpil</guid>
+      <author>vim-classic.org via datboi</author>
+      <pubDate>Sun, 25 Oct 2026 10:05:45 -0500</pubDate>
+      <comments>https://lobste.rs/s/cxwpil/vim_classic</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxwpil/vim_classic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vim</category>
+      <category>editors</category>
+    </item>
+    <item>
+      <title>A fast and secure tar parser for the Rust ecosystem</title>
+      <link>https://astral.sh/blog/tar-codec</link>
+      <guid>https://lobste.rs/s/q7arzy</guid>
+      <author>astral.sh by yossarian</author>
+      <pubDate>Tue, 27 Oct 2026 11:59:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
+      <category>rust</category>
+    </item>
+    <item>
+      <title>Ghostty 1.4.0</title>
+      <link>https://ghostty.org/docs/install/release-notes/1-4-0</link>
+      <guid>https://lobste.rs/s/o6vpqb</guid>
+      <author>ghostty.org via BD103</author>
+      <pubDate>Tue, 27 Oct 2026 17:06:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/o6vpqb/ghostty_1_4_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/o6vpqb/ghostty_1_4_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+    </item>
+    <item>
       <title>Attention people who think UB is fine</title>
       <link>https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html</link>
       <guid>https://lobste.rs/s/5xzuff</guid>
@@ -144,6 +165,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
       <category>c++</category>
+    </item>
+    <item>
+      <title>Gram 3.4.0 released</title>
+      <link>https://gram-editor.com/posts/release-3.4.0/</link>
+      <guid>https://lobste.rs/s/p9obkt</guid>
+      <author>gram-editor.com via FedericoSchonborn</author>
+      <pubDate>Mon, 26 Oct 2026 06:47:25 -0500</pubDate>
+      <comments>https://lobste.rs/s/p9obkt/gram_3_4_0_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p9obkt/gram_3_4_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>editors</category>
     </item>
     <item>
       <title>Shitty Screenshare</title>
@@ -167,26 +199,15 @@
       <category>security</category>
     </item>
     <item>
-      <title>zls 0.17.0</title>
-      <link>https://zigtools.org/zls/releases/0.17.0/</link>
-      <guid>https://lobste.rs/s/hty1qk</guid>
-      <author>zigtools.org via FedericoSchonborn</author>
-      <pubDate>Wed, 21 Oct 2026 10:24:05 -0500</pubDate>
-      <comments>https://lobste.rs/s/hty1qk/zls_0_17_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hty1qk/zls_0_17_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>zig</category>
-    </item>
-    <item>
-      <title>Gram 3.4.0 released</title>
-      <link>https://gram-editor.com/posts/release-3.4.0/</link>
-      <guid>https://lobste.rs/s/p9obkt</guid>
-      <author>gram-editor.com via FedericoSchonborn</author>
-      <pubDate>Mon, 26 Oct 2026 06:47:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/p9obkt/gram_3_4_0_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p9obkt/gram_3_4_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>editors</category>
+      <title>Oldest GUI application that still runs on Windows 11</title>
+      <link>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</link>
+      <guid>https://lobste.rs/s/rwubks</guid>
+      <author>blog.enlyth.com via technetium</author>
+      <pubDate>Mon, 26 Oct 2026 14:49:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>windows</category>
+      <category>historical</category>
     </item>
     <item>
       <title>The glorious @xkcdRandom Zig builtin</title>
@@ -201,17 +222,6 @@
       <category>zig</category>
     </item>
     <item>
-      <title>Oldest GUI application that still runs on Windows 11</title>
-      <link>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</link>
-      <guid>https://lobste.rs/s/rwubks</guid>
-      <author>blog.enlyth.com via technetium</author>
-      <pubDate>Mon, 26 Oct 2026 14:49:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>windows</category>
-      <category>historical</category>
-    </item>
-    <item>
       <title>Partial Operator Precedence</title>
       <link>https://ziglang.org/devlog/2026/#2026-10-24</link>
       <guid>https://lobste.rs/s/kiivg2</guid>
@@ -222,14 +232,14 @@
       <category>zig</category>
     </item>
     <item>
-      <title>The Future of CSS</title>
-      <link>https://www.joshwcomeau.com/css/interop-2027/</link>
-      <guid>https://lobste.rs/s/vidyh0</guid>
-      <author>joshwcomeau.com via typesanitizer</author>
-      <pubDate>Wed, 21 Oct 2026 01:16:50 -0500</pubDate>
-      <comments>https://lobste.rs/s/vidyh0/future_css</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vidyh0/future_css"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>css</category>
+      <title>Four Months of Zig</title>
+      <link>https://gracefulliberty.com/articles/four-months-of-zig/</link>
+      <guid>https://lobste.rs/s/qr59sa</guid>
+      <author>gracefulliberty.com via Defelo</author>
+      <pubDate>Tue, 27 Oct 2026 13:46:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/qr59sa/four_months_zig</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qr59sa/four_months_zig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
     </item>
     <item>
       <title>Why is it so expensive to send an email?</title>
@@ -242,36 +252,25 @@
       <category>email</category>
     </item>
     <item>
-      <title>Unikernels in OCaml</title>
-      <link>https://uniker.nl/</link>
-      <guid>https://lobste.rs/s/mfserj</guid>
-      <author>uniker.nl via xvw</author>
-      <pubDate>Wed, 21 Oct 2026 02:51:20 -0500</pubDate>
-      <comments>https://lobste.rs/s/mfserj/unikernels_ocaml</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mfserj/unikernels_ocaml"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ml</category>
-      <category>osdev</category>
+      <title>AlpineBSD</title>
+      <link>https://wiki.alpinebsd.org/</link>
+      <guid>https://lobste.rs/s/yxuvie</guid>
+      <author>wiki.alpinebsd.org via FedericoSchonborn</author>
+      <pubDate>Wed, 28 Oct 2026 05:34:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/yxuvie/alpinebsd</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yxuvie/alpinebsd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>netbsd</category>
     </item>
     <item>
-      <title>examining the macOS gcc binary</title>
-      <link>https://zoey-on-github.github.io/blog/macgcc.html</link>
-      <guid>https://lobste.rs/s/hplfis</guid>
-      <author>zoey-on-github.github.io by juliethefoxcoon</author>
-      <pubDate>Thu, 22 Oct 2026 01:45:58 -0500</pubDate>
-      <comments>https://lobste.rs/s/hplfis/examining_macos_gcc_binary</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hplfis/examining_macos_gcc_binary"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>reversing</category>
+      <title>About the compromised eMudhra intermediate CAs</title>
+      <link>https://support.apple.com/en-us/149555</link>
+      <guid>https://lobste.rs/s/xzp4m0</guid>
+      <author>support.apple.com via freddyb</author>
+      <pubDate>Mon, 26 Oct 2026 04:58:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
       <category>mac</category>
-    </item>
-    <item>
-      <title>We have Traits at Home</title>
-      <link>https://www.axelmagn.com/blog/202610-zig-traits/</link>
-      <guid>https://lobste.rs/s/05xrj8</guid>
-      <author>axelmagn.com via Defelo</author>
-      <pubDate>Thu, 22 Oct 2026 16:52:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/05xrj8/we_have_traits_at_home</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/05xrj8/we_have_traits_at_home"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>zig</category>
     </item>
   </channel>
 </rss>
