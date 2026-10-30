@@ -5,8 +5,18 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Sun, 25 Oct 2026 08:43:11 -0500</pubDate>
+    <pubDate>Tue, 27 Oct 2026 22:56:49 -0500</pubDate>
     <ttl>120</ttl>
+    <item>
+      <title>This is not sustainable</title>
+      <link>https://www.netmeister.org/blog/defense-ddos.html</link>
+      <guid>https://lobste.rs/s/cpaibp</guid>
+      <author>netmeister.org via binjip978</author>
+      <pubDate>Tue, 27 Oct 2026 22:56:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/cpaibp/this_is_not_sustainable</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
     <item>
       <title>The Slurptop: A home-built luggable that runs on power tool batteries</title>
       <link>https://slurpburgers.com/slurpbuilds/the-slurptop/</link>
@@ -30,35 +40,15 @@
       <category>security</category>
     </item>
     <item>
-      <title>This is not sustainable</title>
-      <link>https://www.netmeister.org/blog/defense-ddos.html</link>
-      <guid>https://lobste.rs/s/cpaibp</guid>
-      <author>netmeister.org via binjip978</author>
-      <pubDate>Tue, 27 Oct 2026 22:56:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/cpaibp/this_is_not_sustainable</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
-      <title>Quad9 DNS Resolver to exit France</title>
-      <link>https://quad9.net/news/blog/au-revoir-france/</link>
-      <guid>https://lobste.rs/s/s0aktw</guid>
-      <author>quad9.net via mond</author>
-      <pubDate>Thu, 22 Oct 2026 14:47:39 -0500</pubDate>
-      <comments>https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s0aktw/quad9_dns_resolver_exit_france"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-      <category>law</category>
-    </item>
-    <item>
-      <title>Please don't mess with links</title>
-      <link>https://maurycyz.com/misc/real_links/</link>
-      <guid>https://lobste.rs/s/mucay8</guid>
-      <author>maurycyz.com via gavinmorrow</author>
-      <pubDate>Thu, 22 Oct 2026 19:37:10 -0500</pubDate>
-      <comments>https://lobste.rs/s/mucay8/please_don_t_mess_with_links</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mucay8/please_don_t_mess_with_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
+      <title>Apple's git still trusts the compromised eMudhra certificates</title>
+      <link>https://emudhra.we-have-a-problem.com/apple.html</link>
+      <guid>https://lobste.rs/s/xybmsj</guid>
+      <author>emudhra.we-have-a-problem.com by galadran</author>
+      <pubDate>Wed, 28 Oct 2026 06:03:56 -0500</pubDate>
+      <comments>https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>mac</category>
+      <category>cryptography</category>
     </item>
     <item>
       <title>CSS-Tricks has a new owner</title>
@@ -71,14 +61,14 @@
       <category>web</category>
     </item>
     <item>
-      <title>Docker is weird</title>
-      <link>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</link>
-      <guid>https://lobste.rs/s/xsz9sc</guid>
-      <author>codeandcake.dev by nick4</author>
-      <pubDate>Thu, 22 Oct 2026 15:09:22 -0500</pubDate>
-      <comments>https://lobste.rs/s/xsz9sc/docker_is_weird</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xsz9sc/docker_is_weird"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
+      <title>Why Is This Fingerprinting Script Creating Bioweapons?</title>
+      <link>https://nullpt.rs/fingerprinting-bioweapons</link>
+      <guid>https://lobste.rs/s/gvy5gz</guid>
+      <author>nullpt.rs via haze</author>
+      <pubDate>Wed, 28 Oct 2026 13:55:15 -0500</pubDate>
+      <comments>https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>reversing</category>
     </item>
     <item>
       <title>Python's experimental JIT to be removed</title>
@@ -91,15 +81,15 @@
       <category>python</category>
     </item>
     <item>
-      <title>Apple's git still trusts the compromised eMudhra certificates</title>
-      <link>https://emudhra.we-have-a-problem.com/apple.html</link>
-      <guid>https://lobste.rs/s/xybmsj</guid>
-      <author>emudhra.we-have-a-problem.com by galadran</author>
-      <pubDate>Wed, 28 Oct 2026 06:03:56 -0500</pubDate>
-      <comments>https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>mac</category>
-      <category>cryptography</category>
+      <title>A fast and secure tar parser for the Rust ecosystem</title>
+      <link>https://astral.sh/blog/tar-codec</link>
+      <guid>https://lobste.rs/s/q7arzy</guid>
+      <author>astral.sh by yossarian</author>
+      <pubDate>Tue, 27 Oct 2026 11:59:30 -0500</pubDate>
+      <comments>https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
+      <category>rust</category>
     </item>
     <item>
       <title>Websites Should Be Printable</title>
@@ -124,6 +114,16 @@
       <category>c</category>
     </item>
     <item>
+      <title>Ghostty 1.4.0</title>
+      <link>https://ghostty.org/docs/install/release-notes/1-4-0</link>
+      <guid>https://lobste.rs/s/o6vpqb</guid>
+      <author>ghostty.org via BD103</author>
+      <pubDate>Tue, 27 Oct 2026 17:06:07 -0500</pubDate>
+      <comments>https://lobste.rs/s/o6vpqb/ghostty_1_4_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/o6vpqb/ghostty_1_4_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+    </item>
+    <item>
       <title>Vim Classic</title>
       <link>https://vim-classic.org/</link>
       <guid>https://lobste.rs/s/cxwpil</guid>
@@ -135,25 +135,14 @@
       <category>editors</category>
     </item>
     <item>
-      <title>A fast and secure tar parser for the Rust ecosystem</title>
-      <link>https://astral.sh/blog/tar-codec</link>
-      <guid>https://lobste.rs/s/q7arzy</guid>
-      <author>astral.sh by yossarian</author>
-      <pubDate>Tue, 27 Oct 2026 11:59:30 -0500</pubDate>
-      <comments>https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>Ghostty 1.4.0</title>
-      <link>https://ghostty.org/docs/install/release-notes/1-4-0</link>
-      <guid>https://lobste.rs/s/o6vpqb</guid>
-      <author>ghostty.org via BD103</author>
-      <pubDate>Tue, 27 Oct 2026 17:06:07 -0500</pubDate>
-      <comments>https://lobste.rs/s/o6vpqb/ghostty_1_4_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/o6vpqb/ghostty_1_4_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
+      <title>AlpineBSD</title>
+      <link>https://wiki.alpinebsd.org/</link>
+      <guid>https://lobste.rs/s/yxuvie</guid>
+      <author>wiki.alpinebsd.org via FedericoSchonborn</author>
+      <pubDate>Wed, 28 Oct 2026 05:34:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/yxuvie/alpinebsd</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yxuvie/alpinebsd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>netbsd</category>
     </item>
     <item>
       <title>Attention people who think UB is fine</title>
@@ -189,6 +178,17 @@
       <category>web</category>
     </item>
     <item>
+      <title>Oldest GUI application that still runs on Windows 11</title>
+      <link>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</link>
+      <guid>https://lobste.rs/s/rwubks</guid>
+      <author>blog.enlyth.com via technetium</author>
+      <pubDate>Mon, 26 Oct 2026 14:49:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>windows</category>
+      <category>historical</category>
+    </item>
+    <item>
       <title>Indian government sites are serving revoked eMudhra certificates</title>
       <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
       <guid>https://lobste.rs/s/zug8xv</guid>
@@ -199,15 +199,25 @@
       <category>security</category>
     </item>
     <item>
-      <title>Oldest GUI application that still runs on Windows 11</title>
-      <link>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</link>
-      <guid>https://lobste.rs/s/rwubks</guid>
-      <author>blog.enlyth.com via technetium</author>
-      <pubDate>Mon, 26 Oct 2026 14:49:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>windows</category>
+      <title>EMACS turns 50</title>
+      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
+      <guid>https://lobste.rs/s/uimyck</guid>
+      <author>technologyreview.com via facundoolano</author>
+      <pubDate>Wed, 28 Oct 2026 18:57:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/uimyck/emacs_turns_50</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uimyck/emacs_turns_50"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>emacs</category>
       <category>historical</category>
+    </item>
+    <item>
+      <title>Four Months of Zig</title>
+      <link>https://gracefulliberty.com/articles/four-months-of-zig/</link>
+      <guid>https://lobste.rs/s/qr59sa</guid>
+      <author>gracefulliberty.com via Defelo</author>
+      <pubDate>Tue, 27 Oct 2026 13:46:09 -0500</pubDate>
+      <comments>https://lobste.rs/s/qr59sa/four_months_zig</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qr59sa/four_months_zig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>zig</category>
     </item>
     <item>
       <title>The glorious @xkcdRandom Zig builtin</title>
@@ -232,16 +242,6 @@
       <category>zig</category>
     </item>
     <item>
-      <title>Four Months of Zig</title>
-      <link>https://gracefulliberty.com/articles/four-months-of-zig/</link>
-      <guid>https://lobste.rs/s/qr59sa</guid>
-      <author>gracefulliberty.com via Defelo</author>
-      <pubDate>Tue, 27 Oct 2026 13:46:09 -0500</pubDate>
-      <comments>https://lobste.rs/s/qr59sa/four_months_zig</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qr59sa/four_months_zig"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>zig</category>
-    </item>
-    <item>
       <title>Why is it so expensive to send an email?</title>
       <link>https://evancz.dev/why-is-it-so-expensive-to-send-an-email</link>
       <guid>https://lobste.rs/s/ryjnyi</guid>
@@ -250,16 +250,6 @@
       <comments>https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>email</category>
-    </item>
-    <item>
-      <title>AlpineBSD</title>
-      <link>https://wiki.alpinebsd.org/</link>
-      <guid>https://lobste.rs/s/yxuvie</guid>
-      <author>wiki.alpinebsd.org via FedericoSchonborn</author>
-      <pubDate>Wed, 28 Oct 2026 05:34:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/yxuvie/alpinebsd</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yxuvie/alpinebsd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>netbsd</category>
     </item>
     <item>
       <title>About the compromised eMudhra intermediate CAs</title>
@@ -271,6 +261,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>mac</category>
+    </item>
+    <item>
+      <title>Bringing uv and ty together</title>
+      <link>https://astral.sh/blog/uv-ty-integration</link>
+      <guid>https://lobste.rs/s/dfieqa</guid>
+      <author>astral.sh via uds</author>
+      <pubDate>Sat, 24 Oct 2026 10:27:34 -0500</pubDate>
+      <comments>https://lobste.rs/s/dfieqa/bringing_uv_ty_together</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dfieqa/bringing_uv_ty_together"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>python</category>
     </item>
   </channel>
 </rss>
