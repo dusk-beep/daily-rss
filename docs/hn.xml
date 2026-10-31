@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Patrick Stewart has died</title>
-      <link>https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html</link>
-      <description>2510 points • 536 comments • by j4mie&#xA;https://news.ycombinator.com/item?id=50294702</description>
-      <pubDate>Fri, 30 Oct 2026 03:12:47 +0000</pubDate>
-      <guid>50294702</guid>
+      <title>Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</title>
+      <link>https://phorion.io/blog/offical-claude-code-vsx-compromise/</link>
+      <description>795 points • 499 comments • by _chall&#xA;https://news.ycombinator.com/item?id=50300683</description>
+      <pubDate>Sat, 31 Oct 2026 02:57:32 +0000</pubDate>
+      <guid>50300683</guid>
     </item>
     <item>
-      <title>We&#39;re releasing the weights of Mistral Large 4</title>
-      <link>https://mistral.ai/news/mistral-large-4-oss/</link>
-      <description>1243 points • 347 comments • by kuberwastaken&#xA;https://news.ycombinator.com/item?id=50289418</description>
-      <pubDate>Fri, 30 Oct 2026 03:11:47 +0000</pubDate>
-      <guid>50289418</guid>
+      <title>Backdoors in official Claude Code extensions</title>
+      <link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
+      <description>652 points • 17 comments • by dsr_&#xA;https://news.ycombinator.com/item?id=50302334</description>
+      <pubDate>Sat, 31 Oct 2026 02:56:32 +0000</pubDate>
+      <guid>50302334</guid>
     </item>
     <item>
-      <title>Binance-hacker-1029 – $5.6B stolen from Binance</title>
-      <link>https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</link>
-      <description>827 points • 493 comments • by Tiberium&#xA;https://news.ycombinator.com/item?id=50296470</description>
-      <pubDate>Fri, 30 Oct 2026 03:10:47 +0000</pubDate>
-      <guid>50296470</guid>
+      <title>US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech</title>
+      <link>https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead</link>
+      <description>627 points • 474 comments • by DeepLogin&#xA;https://news.ycombinator.com/item?id=50302814</description>
+      <pubDate>Sat, 31 Oct 2026 02:55:32 +0000</pubDate>
+      <guid>50302814</guid>
     </item>
     <item>
-      <title>Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</title>
-      <link>https://divagr.com/blog/qwenputer</link>
-      <description>680 points • 144 comments • by csmantle&#xA;https://news.ycombinator.com/item?id=50282838</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:47 +0000</pubDate>
-      <guid>50282838</guid>
+      <title>elect.horse</title>
+      <link>https://elect.horse/</link>
+      <description>535 points • 150 comments • by solarist&#xA;https://news.ycombinator.com/item?id=50301462</description>
+      <pubDate>Sat, 31 Oct 2026 02:54:32 +0000</pubDate>
+      <guid>50301462</guid>
     </item>
     <item>
-      <title>Claude Code regularly sends each background agent’s transcript to its model</title>
-      <link>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</link>
-      <description>562 points • 226 comments • by NikZaal&#xA;https://news.ycombinator.com/item?id=50284255</description>
-      <pubDate>Fri, 30 Oct 2026 03:08:47 +0000</pubDate>
-      <guid>50284255</guid>
+      <title>AI isn&#39;t replacing SREs, it&#39;s deskilling them</title>
+      <link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
+      <description>522 points • 387 comments • by dorianniemiec&#xA;https://news.ycombinator.com/item?id=50305693</description>
+      <pubDate>Sat, 31 Oct 2026 02:53:32 +0000</pubDate>
+      <guid>50305693</guid>
     </item>
     <item>
-      <title>DoorDash to acquire Instacart</title>
-      <link>https://about.doordash.com/en-us/news/doordash-to-acquire-instacart</link>
-      <description>440 points • 609 comments • by WalterSobchak&#xA;https://news.ycombinator.com/item?id=50287919</description>
-      <pubDate>Fri, 30 Oct 2026 03:07:47 +0000</pubDate>
-      <guid>50287919</guid>
+      <title>Claude Code VS Code extension with backdoor released on Cursor marketplace</title>
+      <link>https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</link>
+      <description>399 points • 1 comments • by bashtoni&#xA;https://news.ycombinator.com/item?id=50301983</description>
+      <pubDate>Sat, 31 Oct 2026 02:52:32 +0000</pubDate>
+      <guid>50301983</guid>
     </item>
     <item>
-      <title>‘You Are Done’: The letter sent to King by the F.B.I (2014)</title>
-      <link>https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html</link>
-      <description>412 points • 388 comments • by surprisetalk&#xA;https://news.ycombinator.com/item?id=50288867</description>
-      <pubDate>Fri, 30 Oct 2026 03:06:47 +0000</pubDate>
-      <guid>50288867</guid>
+      <title>Northflank Breached</title>
+      <link>https://status.northflank.com</link>
+      <description>370 points • 281 comments • by js4ever&#xA;https://news.ycombinator.com/item?id=50305025</description>
+      <pubDate>Sat, 31 Oct 2026 02:51:32 +0000</pubDate>
+      <guid>50305025</guid>
     </item>
     <item>
-      <title>Google Search is now less than half of Alphabet’s revenue</title>
-      <link>https://www.kadoa.com/companies/insights/google-search-below-half</link>
-      <description>399 points • 337 comments • by hubraumhugo&#xA;https://news.ycombinator.com/item?id=50291945</description>
-      <pubDate>Fri, 30 Oct 2026 03:05:47 +0000</pubDate>
-      <guid>50291945</guid>
+      <title>Herdr has released native app</title>
+      <link>https://github.com/herdrdev/herdr-app</link>
+      <description>350 points • 239 comments • by cherioo&#xA;https://news.ycombinator.com/item?id=50298436</description>
+      <pubDate>Sat, 31 Oct 2026 02:50:32 +0000</pubDate>
+      <guid>50298436</guid>
     </item>
     <item>
-      <title>LLM Voice</title>
-      <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
-      <description>368 points • 195 comments • by ibobev&#xA;https://news.ycombinator.com/item?id=50290177</description>
-      <pubDate>Fri, 30 Oct 2026 03:04:47 +0000</pubDate>
-      <guid>50290177</guid>
+      <title>The $6.3B Binance hack was pulled off in just 20 minutes</title>
+      <link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</link>
+      <description>343 points • 234 comments • by domhudson&#xA;https://news.ycombinator.com/item?id=50303172</description>
+      <pubDate>Sat, 31 Oct 2026 02:49:32 +0000</pubDate>
+      <guid>50303172</guid>
     </item>
     <item>
-      <title>H.264 Is Magic (2016)</title>
-      <link>https://sidbala.com/h-264-is-magic/</link>
-      <description>351 points • 130 comments • by ea016&#xA;https://news.ycombinator.com/item?id=50291054</description>
-      <pubDate>Fri, 30 Oct 2026 03:03:47 +0000</pubDate>
-      <guid>50291054</guid>
+      <title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
+      <link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
+      <description>286 points • 238 comments • by petethomas&#xA;https://news.ycombinator.com/item?id=50307219</description>
+      <pubDate>Sat, 31 Oct 2026 02:48:32 +0000</pubDate>
+      <guid>50307219</guid>
     </item>
   </channel>
 </rss>

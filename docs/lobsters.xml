@@ -18,6 +18,16 @@
       <category>security</category>
     </item>
     <item>
+      <title>Backdoors in Claude Code for VS, Cursor official extensions</title>
+      <link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
+      <guid>https://lobste.rs/s/ttp7aq</guid>
+      <author>cyberplace.social via dsr</author>
+      <pubDate>Fri, 30 Oct 2026 06:04:55 -0500</pubDate>
+      <comments>https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>The Slurptop: A home-built luggable that runs on power tool batteries</title>
       <link>https://slurpburgers.com/slurpbuilds/the-slurptop/</link>
       <guid>https://lobste.rs/s/zfoiw1</guid>
@@ -27,17 +37,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zfoiw1/slurptop_home_built_luggable_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>hardware</category>
       <category>art</category>
-    </item>
-    <item>
-      <title>I want my Wednesday back</title>
-      <link>https://blog.luitjes.it/posts/i-want-my-wednesday-back/</link>
-      <guid>https://lobste.rs/s/xgih2x</guid>
-      <author>blog.luitjes.it by lucasluitjes</author>
-      <pubDate>Sat, 24 Oct 2026 05:09:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/xgih2x/i_want_my_wednesday_back</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>php</category>
-      <category>security</category>
     </item>
     <item>
       <title>Apple's git still trusts the compromised eMudhra certificates</title>
@@ -51,14 +50,15 @@
       <category>cryptography</category>
     </item>
     <item>
-      <title>CSS-Tricks has a new owner</title>
-      <link>https://css-tricks.com/css-tricks-has-a-new-owner/</link>
-      <guid>https://lobste.rs/s/6ntoqr</guid>
-      <author>css-tricks.com via seb</author>
-      <pubDate>Mon, 26 Oct 2026 12:55:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
+      <title>I want my Wednesday back</title>
+      <link>https://blog.luitjes.it/posts/i-want-my-wednesday-back/</link>
+      <guid>https://lobste.rs/s/xgih2x</guid>
+      <author>blog.luitjes.it by lucasluitjes</author>
+      <pubDate>Sat, 24 Oct 2026 05:09:28 -0500</pubDate>
+      <comments>https://lobste.rs/s/xgih2x/i_want_my_wednesday_back</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>php</category>
+      <category>security</category>
     </item>
     <item>
       <title>Why Is This Fingerprinting Script Creating Bioweapons?</title>
@@ -69,6 +69,16 @@
       <comments>https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>reversing</category>
+    </item>
+    <item>
+      <title>CSS-Tricks has a new owner</title>
+      <link>https://css-tricks.com/css-tricks-has-a-new-owner/</link>
+      <guid>https://lobste.rs/s/6ntoqr</guid>
+      <author>css-tricks.com via seb</author>
+      <pubDate>Mon, 26 Oct 2026 12:55:19 -0500</pubDate>
+      <comments>https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
     </item>
     <item>
       <title>Python's experimental JIT to be removed</title>
@@ -124,6 +134,17 @@
       <category>release</category>
     </item>
     <item>
+      <title>EMACS turns 50</title>
+      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
+      <guid>https://lobste.rs/s/uimyck</guid>
+      <author>technologyreview.com via facundoolano</author>
+      <pubDate>Wed, 28 Oct 2026 18:57:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/uimyck/emacs_turns_50</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uimyck/emacs_turns_50"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>emacs</category>
+      <category>historical</category>
+    </item>
+    <item>
       <title>Vim Classic</title>
       <link>https://vim-classic.org/</link>
       <guid>https://lobste.rs/s/cxwpil</guid>
@@ -145,15 +166,14 @@
       <category>netbsd</category>
     </item>
     <item>
-      <title>Attention people who think UB is fine</title>
-      <link>https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html</link>
-      <guid>https://lobste.rs/s/5xzuff</guid>
-      <author>blog.habets.se via abareplace</author>
-      <pubDate>Fri, 23 Oct 2026 15:47:58 -0500</pubDate>
-      <comments>https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>c++</category>
+      <title>Do At-Proto Users Know This Is Public?</title>
+      <link>https://melaniekat.com/blog/public-on-pds/</link>
+      <guid>https://lobste.rs/s/htgcuc</guid>
+      <author>melaniekat.com via robalex</author>
+      <pubDate>Fri, 30 Oct 2026 06:22:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
     </item>
     <item>
       <title>Gram 3.4.0 released</title>
@@ -189,27 +209,6 @@
       <category>historical</category>
     </item>
     <item>
-      <title>Indian government sites are serving revoked eMudhra certificates</title>
-      <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
-      <guid>https://lobste.rs/s/zug8xv</guid>
-      <author>captnemo.in via adityaathalye</author>
-      <pubDate>Fri, 23 Oct 2026 23:06:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/zug8xv/indian_government_sites_are_serving</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
-      <title>EMACS turns 50</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
-      <guid>https://lobste.rs/s/uimyck</guid>
-      <author>technologyreview.com via facundoolano</author>
-      <pubDate>Wed, 28 Oct 2026 18:57:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/uimyck/emacs_turns_50</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uimyck/emacs_turns_50"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>emacs</category>
-      <category>historical</category>
-    </item>
-    <item>
       <title>Four Months of Zig</title>
       <link>https://gracefulliberty.com/articles/four-months-of-zig/</link>
       <guid>https://lobste.rs/s/qr59sa</guid>
@@ -220,16 +219,34 @@
       <category>zig</category>
     </item>
     <item>
-      <title>The glorious @xkcdRandom Zig builtin</title>
-      <link>https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/</link>
-      <guid>https://lobste.rs/s/5hoqzj</guid>
-      <author>ochagavia.nl by wofo</author>
-      <pubDate>Fri, 23 Oct 2026 09:30:57 -0500</pubDate>
-      <comments>https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
-      <category>compilers</category>
-      <category>zig</category>
+      <title>If you love a website, back it up</title>
+      <link>http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
+      <guid>https://lobste.rs/s/6ole9g</guid>
+      <author>blog.mistys-internet.website via calvin</author>
+      <pubDate>Thu, 29 Oct 2026 20:29:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Indian government sites are serving revoked eMudhra certificates</title>
+      <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
+      <guid>https://lobste.rs/s/zug8xv</guid>
+      <author>captnemo.in via adityaathalye</author>
+      <pubDate>Fri, 23 Oct 2026 23:06:06 -0500</pubDate>
+      <comments>https://lobste.rs/s/zug8xv/indian_government_sites_are_serving</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>How curl was accidentally Turing-complete for nine months</title>
+      <link>https://seriot.ch/computation/curl.html</link>
+      <guid>https://lobste.rs/s/f4aqog</guid>
+      <author>seriot.ch via kytta</author>
+      <pubDate>Fri, 30 Oct 2026 02:24:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compsci</category>
     </item>
     <item>
       <title>Partial Operator Precedence</title>
@@ -250,27 +267,6 @@
       <comments>https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>email</category>
-    </item>
-    <item>
-      <title>About the compromised eMudhra intermediate CAs</title>
-      <link>https://support.apple.com/en-us/149555</link>
-      <guid>https://lobste.rs/s/xzp4m0</guid>
-      <author>support.apple.com via freddyb</author>
-      <pubDate>Mon, 26 Oct 2026 04:58:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>mac</category>
-    </item>
-    <item>
-      <title>Bringing uv and ty together</title>
-      <link>https://astral.sh/blog/uv-ty-integration</link>
-      <guid>https://lobste.rs/s/dfieqa</guid>
-      <author>astral.sh via uds</author>
-      <pubDate>Sat, 24 Oct 2026 10:27:34 -0500</pubDate>
-      <comments>https://lobste.rs/s/dfieqa/bringing_uv_ty_together</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dfieqa/bringing_uv_ty_together"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>python</category>
     </item>
   </channel>
 </rss>
