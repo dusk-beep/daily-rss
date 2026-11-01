@@ -5,18 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Tue, 27 Oct 2026 22:56:49 -0500</pubDate>
+    <pubDate>Fri, 30 Oct 2026 06:04:55 -0500</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>This is not sustainable</title>
-      <link>https://www.netmeister.org/blog/defense-ddos.html</link>
-      <guid>https://lobste.rs/s/cpaibp</guid>
-      <author>netmeister.org via binjip978</author>
-      <pubDate>Tue, 27 Oct 2026 22:56:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/cpaibp/this_is_not_sustainable</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
     <item>
       <title>Backdoors in Claude Code for VS, Cursor official extensions</title>
       <link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
@@ -25,6 +15,16 @@
       <pubDate>Fri, 30 Oct 2026 06:04:55 -0500</pubDate>
       <comments>https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>This is not sustainable</title>
+      <link>https://www.netmeister.org/blog/defense-ddos.html</link>
+      <guid>https://lobste.rs/s/cpaibp</guid>
+      <author>netmeister.org via binjip978</author>
+      <pubDate>Tue, 27 Oct 2026 22:56:49 -0500</pubDate>
+      <comments>https://lobste.rs/s/cpaibp/this_is_not_sustainable</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
     </item>
     <item>
@@ -48,17 +48,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>mac</category>
       <category>cryptography</category>
-    </item>
-    <item>
-      <title>I want my Wednesday back</title>
-      <link>https://blog.luitjes.it/posts/i-want-my-wednesday-back/</link>
-      <guid>https://lobste.rs/s/xgih2x</guid>
-      <author>blog.luitjes.it by lucasluitjes</author>
-      <pubDate>Sat, 24 Oct 2026 05:09:28 -0500</pubDate>
-      <comments>https://lobste.rs/s/xgih2x/i_want_my_wednesday_back</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>php</category>
-      <category>security</category>
     </item>
     <item>
       <title>Why Is This Fingerprinting Script Creating Bioweapons?</title>
@@ -102,6 +91,26 @@
       <category>rust</category>
     </item>
     <item>
+      <title>If you love a website, back it up</title>
+      <link>http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
+      <guid>https://lobste.rs/s/6ole9g</guid>
+      <author>blog.mistys-internet.website via calvin</author>
+      <pubDate>Thu, 29 Oct 2026 20:29:00 -0500</pubDate>
+      <comments>https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Do At-Proto Users Know This Is Public?</title>
+      <link>https://melaniekat.com/blog/public-on-pds/</link>
+      <guid>https://lobste.rs/s/htgcuc</guid>
+      <author>melaniekat.com via robalex</author>
+      <pubDate>Fri, 30 Oct 2026 06:22:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+    </item>
+    <item>
       <title>Websites Should Be Printable</title>
       <link>https://brennenputh.me/blog/printable-websites/</link>
       <guid>https://lobste.rs/s/olnqh2</guid>
@@ -111,6 +120,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/olnqh2/websites_should_be_printable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
       <category>css</category>
+    </item>
+    <item>
+      <title>EMACS turns 50</title>
+      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
+      <guid>https://lobste.rs/s/uimyck</guid>
+      <author>technologyreview.com via facundoolano</author>
+      <pubDate>Wed, 28 Oct 2026 18:57:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/uimyck/emacs_turns_50</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uimyck/emacs_turns_50"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>emacs</category>
+      <category>historical</category>
     </item>
     <item>
       <title>POSIX wordexp(3) is dangerous</title>
@@ -134,17 +154,6 @@
       <category>release</category>
     </item>
     <item>
-      <title>EMACS turns 50</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
-      <guid>https://lobste.rs/s/uimyck</guid>
-      <author>technologyreview.com via facundoolano</author>
-      <pubDate>Wed, 28 Oct 2026 18:57:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/uimyck/emacs_turns_50</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uimyck/emacs_turns_50"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>emacs</category>
-      <category>historical</category>
-    </item>
-    <item>
       <title>Vim Classic</title>
       <link>https://vim-classic.org/</link>
       <guid>https://lobste.rs/s/cxwpil</guid>
@@ -166,14 +175,25 @@
       <category>netbsd</category>
     </item>
     <item>
-      <title>Do At-Proto Users Know This Is Public?</title>
-      <link>https://melaniekat.com/blog/public-on-pds/</link>
-      <guid>https://lobste.rs/s/htgcuc</guid>
-      <author>melaniekat.com via robalex</author>
-      <pubDate>Fri, 30 Oct 2026 06:22:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
+      <title>How curl was accidentally Turing-complete for nine months</title>
+      <link>https://seriot.ch/computation/curl.html</link>
+      <guid>https://lobste.rs/s/f4aqog</guid>
+      <author>seriot.ch via kytta</author>
+      <pubDate>Fri, 30 Oct 2026 02:24:01 -0500</pubDate>
+      <comments>https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>compsci</category>
+    </item>
+    <item>
+      <title>Jepsen: ParticleDB 1.1.4</title>
+      <link>https://jepsen.io/analyses/particledb-1.1.4</link>
+      <guid>https://lobste.rs/s/drwd4j</guid>
+      <author>jepsen.io by aphyr</author>
+      <pubDate>Sat, 31 Oct 2026 08:39:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
+      <category>testing</category>
     </item>
     <item>
       <title>Gram 3.4.0 released</title>
@@ -219,36 +239,6 @@
       <category>zig</category>
     </item>
     <item>
-      <title>If you love a website, back it up</title>
-      <link>http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
-      <guid>https://lobste.rs/s/6ole9g</guid>
-      <author>blog.mistys-internet.website via calvin</author>
-      <pubDate>Thu, 29 Oct 2026 20:29:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Indian government sites are serving revoked eMudhra certificates</title>
-      <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
-      <guid>https://lobste.rs/s/zug8xv</guid>
-      <author>captnemo.in via adityaathalye</author>
-      <pubDate>Fri, 23 Oct 2026 23:06:06 -0500</pubDate>
-      <comments>https://lobste.rs/s/zug8xv/indian_government_sites_are_serving</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
-      <title>How curl was accidentally Turing-complete for nine months</title>
-      <link>https://seriot.ch/computation/curl.html</link>
-      <guid>https://lobste.rs/s/f4aqog</guid>
-      <author>seriot.ch via kytta</author>
-      <pubDate>Fri, 30 Oct 2026 02:24:01 -0500</pubDate>
-      <comments>https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compsci</category>
-    </item>
-    <item>
       <title>Partial Operator Precedence</title>
       <link>https://ziglang.org/devlog/2026/#2026-10-24</link>
       <guid>https://lobste.rs/s/kiivg2</guid>
@@ -267,6 +257,21 @@
       <comments>https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>email</category>
+    </item>
+    <item>
+      <title>London meetup</title>
+      <link>https://lobste.rs/s/dsrruj/london_meetup</link>
+      <guid>https://lobste.rs/s/dsrruj</guid>
+      <author> by prole</author>
+      <pubDate>Thu, 29 Oct 2026 15:56:43 -0500</pubDate>
+      <comments>https://lobste.rs/s/dsrruj/london_meetup</comments>
+      <description>&lt;p&gt;Hi everyone,&lt;/p&gt;
+&lt;p&gt;I recently saw a post about an NYC lobsters meetup, and am wondering how many people here could make it to a London meetup.&lt;/p&gt;
+&lt;p&gt;If more than a couple of people here are based in London and can make it, I'll organise one in central London.&lt;/p&gt;
+&lt;p&gt;If you could also let me know which day of the week works best for you, that would be great too!&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
+      <category>event</category>
     </item>
   </channel>
 </rss>
