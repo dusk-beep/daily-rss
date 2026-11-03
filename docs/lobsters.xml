@@ -5,8 +5,19 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Fri, 30 Oct 2026 06:04:55 -0500</pubDate>
+    <pubDate>Sat, 31 Oct 2026 08:39:52 -0500</pubDate>
     <ttl>120</ttl>
+    <item>
+      <title>Jepsen: ParticleDB 1.1.4</title>
+      <link>https://jepsen.io/analyses/particledb-1.1.4</link>
+      <guid>https://lobste.rs/s/drwd4j</guid>
+      <author>jepsen.io by aphyr</author>
+      <pubDate>Sat, 31 Oct 2026 08:39:52 -0500</pubDate>
+      <comments>https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
+      <category>testing</category>
+    </item>
     <item>
       <title>Backdoors in Claude Code for VS, Cursor official extensions</title>
       <link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
@@ -28,15 +39,24 @@
       <category>security</category>
     </item>
     <item>
-      <title>Jepsen: ParticleDB 1.1.4</title>
-      <link>https://jepsen.io/analyses/particledb-1.1.4</link>
-      <guid>https://lobste.rs/s/drwd4j</guid>
-      <author>jepsen.io by aphyr</author>
-      <pubDate>Sat, 31 Oct 2026 08:39:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
-      <category>testing</category>
+      <title>Introducing Kwi, a new KDE terminal emulator</title>
+      <link>https://blogs.kde.org/2026/11/01/introducing-kwi/</link>
+      <guid>https://lobste.rs/s/lt44rt</guid>
+      <author>blogs.kde.org via cesarandreu</author>
+      <pubDate>Sat, 31 Oct 2026 21:56:29 -0500</pubDate>
+      <comments>https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+    </item>
+    <item>
+      <title>An outsider's perspective on Scion and Mononoke</title>
+      <link>https://typesanitizer.com/blog/scion.html</link>
+      <guid>https://lobste.rs/s/s2qeww</guid>
+      <author>typesanitizer.com by typesanitizer</author>
+      <pubDate>Sun, 01 Nov 2026 09:22:36 -0600</pubDate>
+      <comments>https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
     <item>
       <title>Apple's git still trusts the compromised eMudhra certificates</title>
@@ -60,24 +80,15 @@
       <category>reversing</category>
     </item>
     <item>
-      <title>CSS-Tricks has a new owner</title>
-      <link>https://css-tricks.com/css-tricks-has-a-new-owner/</link>
-      <guid>https://lobste.rs/s/6ntoqr</guid>
-      <author>css-tricks.com via seb</author>
-      <pubDate>Mon, 26 Oct 2026 12:55:19 -0500</pubDate>
-      <comments>https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ntoqr/css_tricks_has_new_owner"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Introducing Kwi, a new KDE terminal emulator</title>
-      <link>https://blogs.kde.org/2026/11/01/introducing-kwi/</link>
-      <guid>https://lobste.rs/s/lt44rt</guid>
-      <author>blogs.kde.org via cesarandreu</author>
-      <pubDate>Sat, 31 Oct 2026 21:56:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
+      <title>Avoid Public Functions Calling Other Public Functions</title>
+      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
+      <guid>https://lobste.rs/s/k508we</guid>
+      <author>matklad.github.io via telemachus</author>
+      <pubDate>Sat, 31 Oct 2026 13:05:03 -0500</pubDate>
+      <comments>https://lobste.rs/s/k508we/avoid_public_functions_calling_other</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k508we/avoid_public_functions_calling_other"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>api</category>
+      <category>programming</category>
     </item>
     <item>
       <title>Do At-Proto Users Know This Is Public?</title>
@@ -121,15 +132,15 @@
       <category>web</category>
     </item>
     <item>
-      <title>Websites Should Be Printable</title>
-      <link>https://brennenputh.me/blog/printable-websites/</link>
-      <guid>https://lobste.rs/s/olnqh2</guid>
-      <author>brennenputh.me via zk</author>
-      <pubDate>Mon, 26 Oct 2026 07:02:58 -0500</pubDate>
-      <comments>https://lobste.rs/s/olnqh2/websites_should_be_printable</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/olnqh2/websites_should_be_printable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>css</category>
+      <title>EMACS turns 50</title>
+      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
+      <guid>https://lobste.rs/s/uimyck</guid>
+      <author>technologyreview.com via facundoolano</author>
+      <pubDate>Wed, 28 Oct 2026 18:57:12 -0500</pubDate>
+      <comments>https://lobste.rs/s/uimyck/emacs_turns_50</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uimyck/emacs_turns_50"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>emacs</category>
+      <category>historical</category>
     </item>
     <item>
       <title>Ghostty 1.4.0</title>
@@ -142,26 +153,14 @@
       <category>release</category>
     </item>
     <item>
-      <title>EMACS turns 50</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
-      <guid>https://lobste.rs/s/uimyck</guid>
-      <author>technologyreview.com via facundoolano</author>
-      <pubDate>Wed, 28 Oct 2026 18:57:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/uimyck/emacs_turns_50</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uimyck/emacs_turns_50"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>emacs</category>
-      <category>historical</category>
-    </item>
-    <item>
-      <title>Avoid Public Functions Calling Other Public Functions</title>
-      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
-      <guid>https://lobste.rs/s/k508we</guid>
-      <author>matklad.github.io via telemachus</author>
-      <pubDate>Sat, 31 Oct 2026 13:05:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/k508we/avoid_public_functions_calling_other</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k508we/avoid_public_functions_calling_other"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>api</category>
-      <category>programming</category>
+      <title>Work on GEFS (the Good Enough File System) for OpenBSD progresses</title>
+      <link>https://www.undeadly.org/cgi?action=article;sid=20261101115637</link>
+      <guid>https://lobste.rs/s/zjjvbo</guid>
+      <author>undeadly.org via jbauer</author>
+      <pubDate>Sun, 01 Nov 2026 14:13:29 -0600</pubDate>
+      <comments>https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zjjvbo/work_on_gefs_good_enough_file_system_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>openbsd</category>
     </item>
     <item>
       <title>AlpineBSD</title>
@@ -174,6 +173,18 @@
       <category>netbsd</category>
     </item>
     <item>
+      <title>Jailbreaking my car's navigation system just so I can change the time</title>
+      <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
+      <guid>https://lobste.rs/s/qvdatp</guid>
+      <author>blog.nns.ee by xx</author>
+      <pubDate>Mon, 02 Nov 2026 10:30:58 -0600</pubDate>
+      <comments>https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>linux</category>
+      <category>reversing</category>
+    </item>
+    <item>
       <title>How curl was accidentally Turing-complete for nine months</title>
       <link>https://seriot.ch/computation/curl.html</link>
       <guid>https://lobste.rs/s/f4aqog</guid>
@@ -184,37 +195,14 @@
       <category>compsci</category>
     </item>
     <item>
-      <title>Gram 3.4.0 released</title>
-      <link>https://gram-editor.com/posts/release-3.4.0/</link>
-      <guid>https://lobste.rs/s/p9obkt</guid>
-      <author>gram-editor.com via FedericoSchonborn</author>
-      <pubDate>Mon, 26 Oct 2026 06:47:25 -0500</pubDate>
-      <comments>https://lobste.rs/s/p9obkt/gram_3_4_0_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p9obkt/gram_3_4_0_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>editors</category>
-    </item>
-    <item>
-      <title>Shitty Screenshare</title>
-      <link>http://shittyscreenshare.com</link>
-      <guid>https://lobste.rs/s/cxxcik</guid>
-      <author>shittyscreenshare.com by Sean-Der</author>
-      <pubDate>Mon, 26 Oct 2026 19:12:16 -0500</pubDate>
-      <comments>https://lobste.rs/s/cxxcik/shitty_screenshare</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxxcik/shitty_screenshare"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Oldest GUI application that still runs on Windows 11</title>
-      <link>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</link>
-      <guid>https://lobste.rs/s/rwubks</guid>
-      <author>blog.enlyth.com via technetium</author>
-      <pubDate>Mon, 26 Oct 2026 14:49:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>windows</category>
-      <category>historical</category>
+      <title>Mystery of 60-Second Fluctuations in Power Grids Solved</title>
+      <link>https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved</link>
+      <guid>https://lobste.rs/s/qwou15</guid>
+      <author>fz-juelich.de via robalex</author>
+      <pubDate>Sat, 31 Oct 2026 14:50:11 -0500</pubDate>
+      <comments>https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>science</category>
     </item>
     <item>
       <title>The support case of a customer who said that all they could see was a black screen</title>
@@ -238,26 +226,6 @@
       <category>zig</category>
     </item>
     <item>
-      <title>Mystery of 60-Second Fluctuations in Power Grids Solved</title>
-      <link>https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved</link>
-      <guid>https://lobste.rs/s/qwou15</guid>
-      <author>fz-juelich.de via robalex</author>
-      <pubDate>Sat, 31 Oct 2026 14:50:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>science</category>
-    </item>
-    <item>
-      <title>Why is it so expensive to send an email?</title>
-      <link>https://evancz.dev/why-is-it-so-expensive-to-send-an-email</link>
-      <guid>https://lobste.rs/s/ryjnyi</guid>
-      <author>evancz.dev via wolfadex</author>
-      <pubDate>Mon, 26 Oct 2026 08:25:41 -0500</pubDate>
-      <comments>https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>email</category>
-    </item>
-    <item>
       <title>London meetup</title>
       <link>https://lobste.rs/s/dsrruj/london_meetup</link>
       <guid>https://lobste.rs/s/dsrruj</guid>
@@ -271,6 +239,45 @@
 &lt;p&gt;Cheers!&lt;/p&gt;
 </description>
       <category>event</category>
+    </item>
+    <item>
+      <title>What the fox say?</title>
+      <link>https://entropicthoughts.com/what-the-fox-say</link>
+      <guid>https://lobste.rs/s/7qaac6</guid>
+      <author>entropicthoughts.com by kqr</author>
+      <pubDate>Thu, 29 Oct 2026 01:42:40 -0500</pubDate>
+      <comments>https://lobste.rs/s/7qaac6/what_fox_say</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7qaac6/what_fox_say"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>games</category>
+    </item>
+    <item>
+      <title>Shared password manager for families?</title>
+      <link>https://lobste.rs/s/eccbci/shared_password_manager_for_families</link>
+      <guid>https://lobste.rs/s/eccbci</guid>
+      <author> by icefox</author>
+      <pubDate>Thu, 29 Oct 2026 09:39:51 -0500</pubDate>
+      <comments>https://lobste.rs/s/eccbci/shared_password_manager_for_families</comments>
+      <description>&lt;p&gt;Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shared over long distances; just having each of us have our own password manager won't work well&lt;/li&gt;
+&lt;li&gt;Usable for non-techie people, so no command line stuff&lt;/li&gt;
+&lt;li&gt;I can self-host a web thing if necessary&lt;/li&gt;
+&lt;li&gt;Works on Linux and MacOS/iOS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I &lt;em&gt;would&lt;/em&gt; just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?&lt;/p&gt;
+</description>
+      <category>security</category>
+      <category>ask</category>
+    </item>
+    <item>
+      <title>The Kluever Maneuver</title>
+      <link>https://jordi.inversethought.com/blog/the-kluever-maneuver/</link>
+      <guid>https://lobste.rs/s/rpiu3w</guid>
+      <author>jordi.inversethought.com by JordiGH</author>
+      <pubDate>Sat, 31 Oct 2026 10:05:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/rpiu3w/kluever_maneuver</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpiu3w/kluever_maneuver"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>testing</category>
     </item>
   </channel>
 </rss>
