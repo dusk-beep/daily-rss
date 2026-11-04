@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Astra can read and write weights to improve Qwen</title>
-      <link>https://rikiyat.github.io/blog/weight-space-programming/</link>
-      <description>2148 points • 698 comments • by dbreunig&#xA;https://news.ycombinator.com/item?id=50341174</description>
-      <pubDate>Tue, 03 Nov 2026 04:18:11 +0000</pubDate>
-      <guid>50341174</guid>
+      <title>Postman silently auto-installs AI plugins and attempts to share all API data</title>
+      <link>https://github.com/postmanlabs/postman-app-support/issues/14370</link>
+      <description>1084 points • 359 comments • by sidgarimella&#xA;https://news.ycombinator.com/item?id=50354960</description>
+      <pubDate>Wed, 04 Nov 2026 03:36:56 +0000</pubDate>
+      <guid>50354960</guid>
     </item>
     <item>
-      <title>WTF Ubuntu?</title>
-      <link>https://chalmovsky.com/posts/wtf-ubuntu</link>
-      <description>1382 points • 595 comments • by chalmovsky&#xA;https://news.ycombinator.com/item?id=50337608</description>
-      <pubDate>Tue, 03 Nov 2026 04:17:11 +0000</pubDate>
-      <guid>50337608</guid>
+      <title>The &#39;Astra can read and write weights to improve Qwen&#39; post is misleading</title>
+      <link>https://honnibal.dev/blog/astra-read-write-misleading</link>
+      <description>922 points • 192 comments • by syllogism&#xA;https://news.ycombinator.com/item?id=50351111</description>
+      <pubDate>Wed, 04 Nov 2026 03:35:56 +0000</pubDate>
+      <guid>50351111</guid>
     </item>
     <item>
-      <title>Show HN: Subvocal – Talk to your computer without making noise</title>
-      <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>597 points • 319 comments • by aarushyadav&#xA;https://news.ycombinator.com/item?id=50340088</description>
-      <pubDate>Tue, 03 Nov 2026 04:16:11 +0000</pubDate>
-      <guid>50340088</guid>
+      <title>Google will turn off search for schools that reject AI</title>
+      <link>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</link>
+      <description>569 points • 417 comments • by ceejayoz&#xA;https://news.ycombinator.com/item?id=50353192</description>
+      <pubDate>Wed, 04 Nov 2026 03:34:56 +0000</pubDate>
+      <guid>50353192</guid>
     </item>
     <item>
-      <title>OccupySaaS</title>
-      <link>https://occupysaas.com/</link>
-      <description>495 points • 308 comments • by misswaterfairy&#xA;https://news.ycombinator.com/item?id=50331402</description>
-      <pubDate>Tue, 03 Nov 2026 04:15:11 +0000</pubDate>
-      <guid>50331402</guid>
+      <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
+      <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
+      <description>516 points • 165 comments • by theanonymousone&#xA;https://news.ycombinator.com/item?id=50355251</description>
+      <pubDate>Wed, 04 Nov 2026 03:33:56 +0000</pubDate>
+      <guid>50355251</guid>
     </item>
     <item>
-      <title>If you love a website, back it up</title>
-      <link>https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
-      <description>443 points • 100 comments • by ingve&#xA;https://news.ycombinator.com/item?id=50336518</description>
-      <pubDate>Tue, 03 Nov 2026 04:14:11 +0000</pubDate>
-      <guid>50336518</guid>
+      <title>Could a modern chess engine on a Pentium have defeated Kasparov in 1996?</title>
+      <link>https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</link>
+      <description>461 points • 225 comments • by markusw&#xA;https://news.ycombinator.com/item?id=50349276</description>
+      <pubDate>Wed, 04 Nov 2026 03:32:56 +0000</pubDate>
+      <guid>50349276</guid>
     </item>
     <item>
-      <title>Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks</title>
-      <link>https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432</link>
-      <description>385 points • 107 comments • by majorchord&#xA;https://news.ycombinator.com/item?id=50341462</description>
-      <pubDate>Tue, 03 Nov 2026 04:13:11 +0000</pubDate>
-      <guid>50341462</guid>
+      <title>Kalshi and its co-founders face felony charges for violating Utah gambling laws</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/</link>
+      <description>453 points • 443 comments • by rbanffy&#xA;https://news.ycombinator.com/item?id=50353229</description>
+      <pubDate>Wed, 04 Nov 2026 03:31:56 +0000</pubDate>
+      <guid>50353229</guid>
     </item>
     <item>
-      <title>Supermarket freezers across Europe hit by second suspected cyber-attack</title>
-      <link>https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack</link>
-      <description>378 points • 421 comments • by fergie&#xA;https://news.ycombinator.com/item?id=50335615</description>
-      <pubDate>Tue, 03 Nov 2026 04:12:11 +0000</pubDate>
-      <guid>50335615</guid>
+      <title>Show HN: Hacker Times, a New York Times-inspired version of Hacker News</title>
+      <link>https://hackertimes.ca/</link>
+      <description>451 points • 145 comments • by polpenn&#xA;https://news.ycombinator.com/item?id=50346981</description>
+      <pubDate>Wed, 04 Nov 2026 03:30:56 +0000</pubDate>
+      <guid>50346981</guid>
     </item>
     <item>
-      <title>Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN</title>
-      <link>https://wikihack.netlify.app</link>
-      <description>333 points • 103 comments • by aizk&#xA;https://news.ycombinator.com/item?id=50333339</description>
-      <pubDate>Tue, 03 Nov 2026 04:11:11 +0000</pubDate>
-      <guid>50333339</guid>
+      <title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
+      <link>https://news.ycombinator.com/item?id=50352757</link>
+      <description>443 points • 140 comments • by user052919&#xA;https://news.ycombinator.com/item?id=50352757</description>
+      <pubDate>Wed, 04 Nov 2026 03:29:56 +0000</pubDate>
+      <guid>50352757</guid>
     </item>
     <item>
-      <title>US boy names that became girl names and vice versa</title>
-      <link>https://namedaisy.com/blog/boy-names-that-became-girl-names</link>
-      <description>326 points • 328 comments • by xoobdev&#xA;https://news.ycombinator.com/item?id=50339397</description>
-      <pubDate>Tue, 03 Nov 2026 04:10:11 +0000</pubDate>
-      <guid>50339397</guid>
+      <title>Stringman, an $800 open-source room scale gripper robot</title>
+      <link>https://neufangled.com/</link>
+      <description>434 points • 158 comments • by nharada&#xA;https://news.ycombinator.com/item?id=50354358</description>
+      <pubDate>Wed, 04 Nov 2026 03:28:56 +0000</pubDate>
+      <guid>50354358</guid>
     </item>
     <item>
-      <title>Bones may release proteins that slow aging and extend life span</title>
-      <link>https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span</link>
-      <description>324 points • 130 comments • by EA-3167&#xA;https://news.ycombinator.com/item?id=50331957</description>
-      <pubDate>Tue, 03 Nov 2026 04:09:11 +0000</pubDate>
-      <guid>50331957</guid>
+      <title>DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs</title>
+      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
+      <description>345 points • 77 comments • by bpierre&#xA;https://news.ycombinator.com/item?id=50346849</description>
+      <pubDate>Wed, 04 Nov 2026 03:27:56 +0000</pubDate>
+      <guid>50346849</guid>
     </item>
   </channel>
 </rss>
