@@ -41,16 +41,6 @@
       <category>reversing</category>
     </item>
     <item>
-      <title>This is not sustainable</title>
-      <link>https://www.netmeister.org/blog/defense-ddos.html</link>
-      <guid>https://lobste.rs/s/cpaibp</guid>
-      <author>netmeister.org via binjip978</author>
-      <pubDate>Tue, 27 Oct 2026 22:56:49 -0500</pubDate>
-      <comments>https://lobste.rs/s/cpaibp/this_is_not_sustainable</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>An outsider's perspective on Scion and Mononoke</title>
       <link>https://typesanitizer.com/blog/scion.html</link>
       <guid>https://lobste.rs/s/s2qeww</guid>
@@ -71,25 +61,27 @@
       <category>linux</category>
     </item>
     <item>
-      <title>Apple's git still trusts the compromised eMudhra certificates</title>
-      <link>https://emudhra.we-have-a-problem.com/apple.html</link>
-      <guid>https://lobste.rs/s/xybmsj</guid>
-      <author>emudhra.we-have-a-problem.com by galadran</author>
-      <pubDate>Wed, 28 Oct 2026 06:03:56 -0500</pubDate>
-      <comments>https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>mac</category>
-      <category>cryptography</category>
+      <title>A Decade of Kill Bugs</title>
+      <link>https://alangrow.com/blog/a-decade-of-kill-bugs</link>
+      <guid>https://lobste.rs/s/wgoato</guid>
+      <author>alangrow.com by acg</author>
+      <pubDate>Mon, 02 Nov 2026 15:23:24 -0600</pubDate>
+      <comments>https://lobste.rs/s/wgoato/decade_kill_bugs</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wgoato/decade_kill_bugs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>unix</category>
+      <category>historical</category>
     </item>
     <item>
-      <title>Why Is This Fingerprinting Script Creating Bioweapons?</title>
-      <link>https://nullpt.rs/fingerprinting-bioweapons</link>
-      <guid>https://lobste.rs/s/gvy5gz</guid>
-      <author>nullpt.rs via haze</author>
-      <pubDate>Wed, 28 Oct 2026 13:55:15 -0500</pubDate>
-      <comments>https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>reversing</category>
+      <title>Observations from Running stealmybitcoin.com</title>
+      <link>https://pavursec.com/blog/stealmybitcoin/</link>
+      <guid>https://lobste.rs/s/fgucra</guid>
+      <author>pavursec.com via wezm</author>
+      <pubDate>Tue, 03 Nov 2026 17:45:21 -0600</pubDate>
+      <comments>https://lobste.rs/s/fgucra/observations_from_running</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgucra/observations_from_running"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>php</category>
+      <category>security</category>
     </item>
     <item>
       <title>Avoid Public Functions Calling Other Public Functions</title>
@@ -103,16 +95,27 @@
       <category>programming</category>
     </item>
     <item>
-      <title>A Decade of Kill Bugs</title>
-      <link>https://alangrow.com/blog/a-decade-of-kill-bugs</link>
-      <guid>https://lobste.rs/s/wgoato</guid>
-      <author>alangrow.com by acg</author>
-      <pubDate>Mon, 02 Nov 2026 15:23:24 -0600</pubDate>
-      <comments>https://lobste.rs/s/wgoato/decade_kill_bugs</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wgoato/decade_kill_bugs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>unix</category>
-      <category>historical</category>
+      <title>This background sound leaks your exact location</title>
+      <link>https://youtu.be/UytYrhYLOKI</link>
+      <guid>https://lobste.rs/s/s1btqo</guid>
+      <author>youtu.be via fanf</author>
+      <pubDate>Mon, 02 Nov 2026 13:42:32 -0600</pubDate>
+      <comments>https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>video</category>
+      <category>security</category>
+      <category>math</category>
+    </item>
+    <item>
+      <title>Death comes for XSLT</title>
+      <link>https://dbushell.com/2026/11/03/xslt-rip/</link>
+      <guid>https://lobste.rs/s/chypzr</guid>
+      <author>dbushell.com via nytpu</author>
+      <pubDate>Tue, 03 Nov 2026 09:19:50 -0600</pubDate>
+      <comments>https://lobste.rs/s/chypzr/death_comes_for_xslt</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/chypzr/death_comes_for_xslt"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>web</category>
     </item>
     <item>
       <title>Do At-Proto Users Know This Is Public?</title>
@@ -135,18 +138,6 @@
       <category>openbsd</category>
     </item>
     <item>
-      <title>This background sound leaks your exact location</title>
-      <link>https://youtu.be/UytYrhYLOKI</link>
-      <guid>https://lobste.rs/s/s1btqo</guid>
-      <author>youtu.be via fanf</author>
-      <pubDate>Mon, 02 Nov 2026 13:42:32 -0600</pubDate>
-      <comments>https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>video</category>
-      <category>security</category>
-      <category>math</category>
-    </item>
-    <item>
       <title>If you love a website, back it up</title>
       <link>http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
       <guid>https://lobste.rs/s/6ole9g</guid>
@@ -155,27 +146,6 @@
       <comments>https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
-    </item>
-    <item>
-      <title>EMACS turns 50</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
-      <guid>https://lobste.rs/s/uimyck</guid>
-      <author>technologyreview.com via facundoolano</author>
-      <pubDate>Wed, 28 Oct 2026 18:57:12 -0500</pubDate>
-      <comments>https://lobste.rs/s/uimyck/emacs_turns_50</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uimyck/emacs_turns_50"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>emacs</category>
-      <category>historical</category>
-    </item>
-    <item>
-      <title>AlpineBSD</title>
-      <link>https://wiki.alpinebsd.org/</link>
-      <guid>https://lobste.rs/s/yxuvie</guid>
-      <author>wiki.alpinebsd.org via FedericoSchonborn</author>
-      <pubDate>Wed, 28 Oct 2026 05:34:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/yxuvie/alpinebsd</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yxuvie/alpinebsd"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>netbsd</category>
     </item>
     <item>
       <title>How curl was accidentally Turing-complete for nine months</title>
@@ -198,6 +168,17 @@
       <category>science</category>
     </item>
     <item>
+      <title>The Ubuntu 26.04 Rust sudo is not compatible with standard sudo</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible</link>
+      <guid>https://lobste.rs/s/e201eb</guid>
+      <author>utcc.utoronto.ca via twp</author>
+      <pubDate>Tue, 03 Nov 2026 09:23:21 -0600</pubDate>
+      <comments>https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>rust</category>
+    </item>
+    <item>
       <title>The support case of a customer who said that all they could see was a black screen</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/</link>
       <guid>https://lobste.rs/s/soosuu</guid>
@@ -209,15 +190,36 @@
       <category>historical</category>
     </item>
     <item>
-      <title>Death comes for XSLT</title>
-      <link>https://dbushell.com/2026/11/03/xslt-rip/</link>
-      <guid>https://lobste.rs/s/chypzr</guid>
-      <author>dbushell.com via nytpu</author>
-      <pubDate>Tue, 03 Nov 2026 09:19:50 -0600</pubDate>
-      <comments>https://lobste.rs/s/chypzr/death_comes_for_xslt</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/chypzr/death_comes_for_xslt"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>web</category>
+      <title>So my ISP was hijacking my DNS</title>
+      <link>https://karthihegde.dev/posts/dns_tampering</link>
+      <guid>https://lobste.rs/s/cozhtg</guid>
+      <author>karthihegde.dev by dracarys_18</author>
+      <pubDate>Wed, 04 Nov 2026 06:06:23 -0600</pubDate>
+      <comments>https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
+    </item>
+    <item>
+      <title>Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower</title>
+      <link>https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/</link>
+      <guid>https://lobste.rs/s/lh1j0e</guid>
+      <author>dennisforbes.ca via ohrv</author>
+      <pubDate>Wed, 04 Nov 2026 09:23:09 -0600</pubDate>
+      <comments>https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>performance</category>
+      <category>zig</category>
+    </item>
+    <item>
+      <title>What the fox say?</title>
+      <link>https://entropicthoughts.com/what-the-fox-say</link>
+      <guid>https://lobste.rs/s/7qaac6</guid>
+      <author>entropicthoughts.com by kqr</author>
+      <pubDate>Thu, 29 Oct 2026 01:42:40 -0500</pubDate>
+      <comments>https://lobste.rs/s/7qaac6/what_fox_say</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7qaac6/what_fox_say"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>games</category>
     </item>
     <item>
       <title>London meetup</title>
@@ -233,16 +235,6 @@
 &lt;p&gt;Cheers!&lt;/p&gt;
 </description>
       <category>event</category>
-    </item>
-    <item>
-      <title>What the fox say?</title>
-      <link>https://entropicthoughts.com/what-the-fox-say</link>
-      <guid>https://lobste.rs/s/7qaac6</guid>
-      <author>entropicthoughts.com by kqr</author>
-      <pubDate>Thu, 29 Oct 2026 01:42:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/7qaac6/what_fox_say</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7qaac6/what_fox_say"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>games</category>
     </item>
     <item>
       <title>Stop Hardcoding Your Timeouts</title>
@@ -272,6 +264,17 @@
 </description>
       <category>security</category>
       <category>ask</category>
+    </item>
+    <item>
+      <title>Could a modern chess engine on a Pentium have defeated Kasparov in 1996?</title>
+      <link>https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</link>
+      <guid>https://lobste.rs/s/1gndxr</guid>
+      <author>nicholas.carlini.com via fanf</author>
+      <pubDate>Tue, 03 Nov 2026 09:44:27 -0600</pubDate>
+      <comments>https://lobste.rs/s/1gndxr/could_modern_chess_engine_on_pentium_have</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1gndxr/could_modern_chess_engine_on_pentium_have"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>games</category>
+      <category>retrocomputing</category>
     </item>
     <item>
       <title>The Kluever Maneuver</title>

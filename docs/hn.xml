@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Postman silently auto-installs AI plugins and attempts to share all API data</title>
-      <link>https://github.com/postmanlabs/postman-app-support/issues/14370</link>
-      <description>1084 points • 359 comments • by sidgarimella&#xA;https://news.ycombinator.com/item?id=50354960</description>
-      <pubDate>Wed, 04 Nov 2026 03:36:56 +0000</pubDate>
-      <guid>50354960</guid>
+      <title>AI is forcing us to pay off 40 years of technical debt</title>
+      <link>https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</link>
+      <description>1113 points • 648 comments • by pseudolus&#xA;https://news.ycombinator.com/item?id=50364336</description>
+      <pubDate>Thu, 05 Nov 2026 03:56:18 +0000</pubDate>
+      <guid>50364336</guid>
     </item>
     <item>
-      <title>The &#39;Astra can read and write weights to improve Qwen&#39; post is misleading</title>
-      <link>https://honnibal.dev/blog/astra-read-write-misleading</link>
-      <description>922 points • 192 comments • by syllogism&#xA;https://news.ycombinator.com/item?id=50351111</description>
-      <pubDate>Wed, 04 Nov 2026 03:35:56 +0000</pubDate>
-      <guid>50351111</guid>
+      <title>Residential proxies detected on White House network</title>
+      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
+      <description>773 points • 242 comments • by Rasbora&#xA;https://news.ycombinator.com/item?id=50371246</description>
+      <pubDate>Thu, 05 Nov 2026 03:55:18 +0000</pubDate>
+      <guid>50371246</guid>
     </item>
     <item>
-      <title>Google will turn off search for schools that reject AI</title>
-      <link>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</link>
-      <description>569 points • 417 comments • by ceejayoz&#xA;https://news.ycombinator.com/item?id=50353192</description>
-      <pubDate>Wed, 04 Nov 2026 03:34:56 +0000</pubDate>
-      <guid>50353192</guid>
+      <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
+      <link>https://news.ycombinator.com/item?id=50363461</link>
+      <description>634 points • 164 comments • by jameslk&#xA;https://news.ycombinator.com/item?id=50363461</description>
+      <pubDate>Thu, 05 Nov 2026 03:54:18 +0000</pubDate>
+      <guid>50363461</guid>
     </item>
     <item>
-      <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
-      <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
-      <description>516 points • 165 comments • by theanonymousone&#xA;https://news.ycombinator.com/item?id=50355251</description>
-      <pubDate>Wed, 04 Nov 2026 03:33:56 +0000</pubDate>
-      <guid>50355251</guid>
+      <title>Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux</title>
+      <link>https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop</link>
+      <description>594 points • 274 comments • by novaRom&#xA;https://news.ycombinator.com/item?id=50362905</description>
+      <pubDate>Thu, 05 Nov 2026 03:53:18 +0000</pubDate>
+      <guid>50362905</guid>
     </item>
     <item>
-      <title>Could a modern chess engine on a Pentium have defeated Kasparov in 1996?</title>
-      <link>https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</link>
-      <description>461 points • 225 comments • by markusw&#xA;https://news.ycombinator.com/item?id=50349276</description>
-      <pubDate>Wed, 04 Nov 2026 03:32:56 +0000</pubDate>
-      <guid>50349276</guid>
+      <title>North Korean fake job interview led to $6.3B Binance heist</title>
+      <link>https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398</link>
+      <description>589 points • 362 comments • by smalltech&#xA;https://news.ycombinator.com/item?id=50365755</description>
+      <pubDate>Thu, 05 Nov 2026 03:52:18 +0000</pubDate>
+      <guid>50365755</guid>
     </item>
     <item>
-      <title>Kalshi and its co-founders face felony charges for violating Utah gambling laws</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/</link>
-      <description>453 points • 443 comments • by rbanffy&#xA;https://news.ycombinator.com/item?id=50353229</description>
-      <pubDate>Wed, 04 Nov 2026 03:31:56 +0000</pubDate>
-      <guid>50353229</guid>
+      <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
+      <description>500 points • 179 comments • by rbanffy&#xA;https://news.ycombinator.com/item?id=50367125</description>
+      <pubDate>Thu, 05 Nov 2026 03:51:18 +0000</pubDate>
+      <guid>50367125</guid>
     </item>
     <item>
-      <title>Show HN: Hacker Times, a New York Times-inspired version of Hacker News</title>
-      <link>https://hackertimes.ca/</link>
-      <description>451 points • 145 comments • by polpenn&#xA;https://news.ycombinator.com/item?id=50346981</description>
-      <pubDate>Wed, 04 Nov 2026 03:30:56 +0000</pubDate>
-      <guid>50346981</guid>
+      <title>Jelly Sheet</title>
+      <link>https://mrdoob.github.io/codevember-2026/01/</link>
+      <description>447 points • 113 comments • by memalign&#xA;https://news.ycombinator.com/item?id=50361268</description>
+      <pubDate>Thu, 05 Nov 2026 03:50:18 +0000</pubDate>
+      <guid>50361268</guid>
     </item>
     <item>
-      <title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
-      <link>https://news.ycombinator.com/item?id=50352757</link>
-      <description>443 points • 140 comments • by user052919&#xA;https://news.ycombinator.com/item?id=50352757</description>
-      <pubDate>Wed, 04 Nov 2026 03:29:56 +0000</pubDate>
-      <guid>50352757</guid>
+      <title>Kimi K3.1 Pro model weights are out</title>
+      <link>https://huggingface.co/moonshotai/Kimi-K3.1-Pro</link>
+      <description>415 points • 119 comments • by abrarthought&#xA;https://news.ycombinator.com/item?id=50366999</description>
+      <pubDate>Thu, 05 Nov 2026 03:49:18 +0000</pubDate>
+      <guid>50366999</guid>
     </item>
     <item>
-      <title>Stringman, an $800 open-source room scale gripper robot</title>
-      <link>https://neufangled.com/</link>
-      <description>434 points • 158 comments • by nharada&#xA;https://news.ycombinator.com/item?id=50354358</description>
-      <pubDate>Wed, 04 Nov 2026 03:28:56 +0000</pubDate>
-      <guid>50354358</guid>
+      <title>C++26 Disapproved</title>
+      <link>https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/</link>
+      <description>406 points • 341 comments • by thatxliner&#xA;https://news.ycombinator.com/item?id=50360164</description>
+      <pubDate>Thu, 05 Nov 2026 03:48:18 +0000</pubDate>
+      <guid>50360164</guid>
     </item>
     <item>
-      <title>DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs</title>
-      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
-      <description>345 points • 77 comments • by bpierre&#xA;https://news.ycombinator.com/item?id=50346849</description>
-      <pubDate>Wed, 04 Nov 2026 03:27:56 +0000</pubDate>
-      <guid>50346849</guid>
+      <title>Kitty 0.50</title>
+      <link>https://sw.kovidgoyal.net/kitty/changelog/#</link>
+      <description>363 points • 228 comments • by porridgeraisin&#xA;https://news.ycombinator.com/item?id=50362980</description>
+      <pubDate>Thu, 05 Nov 2026 03:47:18 +0000</pubDate>
+      <guid>50362980</guid>
     </item>
   </channel>
 </rss>
