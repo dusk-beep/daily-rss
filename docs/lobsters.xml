@@ -61,6 +61,28 @@
       <category>linux</category>
     </item>
     <item>
+      <title>sshhole</title>
+      <link>https://sshhole.com/</link>
+      <guid>https://lobste.rs/s/oq5pem</guid>
+      <author>sshhole.com via serce</author>
+      <pubDate>Thu, 05 Nov 2026 06:24:42 -0600</pubDate>
+      <comments>https://lobste.rs/s/oq5pem/sshhole</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oq5pem/sshhole"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>linux</category>
+    </item>
+    <item>
+      <title>Observations from Running stealmybitcoin.com</title>
+      <link>https://pavursec.com/blog/stealmybitcoin/</link>
+      <guid>https://lobste.rs/s/fgucra</guid>
+      <author>pavursec.com via wezm</author>
+      <pubDate>Tue, 03 Nov 2026 17:45:21 -0600</pubDate>
+      <comments>https://lobste.rs/s/fgucra/observations_from_running</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgucra/observations_from_running"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>php</category>
+      <category>security</category>
+    </item>
+    <item>
       <title>A Decade of Kill Bugs</title>
       <link>https://alangrow.com/blog/a-decade-of-kill-bugs</link>
       <guid>https://lobste.rs/s/wgoato</guid>
@@ -73,15 +95,27 @@
       <category>historical</category>
     </item>
     <item>
-      <title>Observations from Running stealmybitcoin.com</title>
-      <link>https://pavursec.com/blog/stealmybitcoin/</link>
-      <guid>https://lobste.rs/s/fgucra</guid>
-      <author>pavursec.com via wezm</author>
-      <pubDate>Tue, 03 Nov 2026 17:45:21 -0600</pubDate>
-      <comments>https://lobste.rs/s/fgucra/observations_from_running</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgucra/observations_from_running"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>php</category>
-      <category>security</category>
+      <title>Declarative Dragging</title>
+      <link>https://declarative-dragging.github.io/</link>
+      <guid>https://lobste.rs/s/jplxxr</guid>
+      <author>declarative-dragging.github.io via edwintorok</author>
+      <pubDate>Wed, 04 Nov 2026 18:35:09 -0600</pubDate>
+      <comments>https://lobste.rs/s/jplxxr/declarative_dragging</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jplxxr/declarative_dragging"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>graphics</category>
+      <category>plt</category>
+    </item>
+    <item>
+      <title>Death comes for XSLT</title>
+      <link>https://dbushell.com/2026/11/03/xslt-rip/</link>
+      <guid>https://lobste.rs/s/chypzr</guid>
+      <author>dbushell.com via nytpu</author>
+      <pubDate>Tue, 03 Nov 2026 09:19:50 -0600</pubDate>
+      <comments>https://lobste.rs/s/chypzr/death_comes_for_xslt</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/chypzr/death_comes_for_xslt"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>web</category>
     </item>
     <item>
       <title>Avoid Public Functions Calling Other Public Functions</title>
@@ -107,15 +141,14 @@
       <category>math</category>
     </item>
     <item>
-      <title>Death comes for XSLT</title>
-      <link>https://dbushell.com/2026/11/03/xslt-rip/</link>
-      <guid>https://lobste.rs/s/chypzr</guid>
-      <author>dbushell.com via nytpu</author>
-      <pubDate>Tue, 03 Nov 2026 09:19:50 -0600</pubDate>
-      <comments>https://lobste.rs/s/chypzr/death_comes_for_xslt</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/chypzr/death_comes_for_xslt"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>web</category>
+      <title>So my ISP was hijacking my DNS</title>
+      <link>https://karthihegde.dev/posts/dns_tampering</link>
+      <guid>https://lobste.rs/s/cozhtg</guid>
+      <author>karthihegde.dev by dracarys_18</author>
+      <pubDate>Wed, 04 Nov 2026 06:06:23 -0600</pubDate>
+      <comments>https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
     <item>
       <title>Do At-Proto Users Know This Is Public?</title>
@@ -128,6 +161,18 @@
       <category>privacy</category>
     </item>
     <item>
+      <title>Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower</title>
+      <link>https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/</link>
+      <guid>https://lobste.rs/s/lh1j0e</guid>
+      <author>dennisforbes.ca via ohrv</author>
+      <pubDate>Wed, 04 Nov 2026 09:23:09 -0600</pubDate>
+      <comments>https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>performance</category>
+      <category>zig</category>
+    </item>
+    <item>
       <title>Work on GEFS (the Good Enough File System) for OpenBSD progresses</title>
       <link>https://www.undeadly.org/cgi?action=article;sid=20261101115637</link>
       <guid>https://lobste.rs/s/zjjvbo</guid>
@@ -138,14 +183,15 @@
       <category>openbsd</category>
     </item>
     <item>
-      <title>If you love a website, back it up</title>
-      <link>http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
-      <guid>https://lobste.rs/s/6ole9g</guid>
-      <author>blog.mistys-internet.website via calvin</author>
-      <pubDate>Thu, 29 Oct 2026 20:29:00 -0500</pubDate>
-      <comments>https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
+      <title>The Ubuntu 26.04 Rust sudo is not compatible with standard sudo</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible</link>
+      <guid>https://lobste.rs/s/e201eb</guid>
+      <author>utcc.utoronto.ca via twp</author>
+      <pubDate>Tue, 03 Nov 2026 09:23:21 -0600</pubDate>
+      <comments>https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>rust</category>
     </item>
     <item>
       <title>How curl was accidentally Turing-complete for nine months</title>
@@ -168,15 +214,14 @@
       <category>science</category>
     </item>
     <item>
-      <title>The Ubuntu 26.04 Rust sudo is not compatible with standard sudo</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible</link>
-      <guid>https://lobste.rs/s/e201eb</guid>
-      <author>utcc.utoronto.ca via twp</author>
-      <pubDate>Tue, 03 Nov 2026 09:23:21 -0600</pubDate>
-      <comments>https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>rust</category>
+      <title>Your Cryptography Conspiracy Theory Is Wrong</title>
+      <link>https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/</link>
+      <guid>https://lobste.rs/s/bqllfe</guid>
+      <author>soatok.blog via fanf</author>
+      <pubDate>Wed, 04 Nov 2026 08:58:11 -0600</pubDate>
+      <comments>https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>cryptography</category>
     </item>
     <item>
       <title>The support case of a customer who said that all they could see was a black screen</title>
@@ -190,53 +235,6 @@
       <category>historical</category>
     </item>
     <item>
-      <title>So my ISP was hijacking my DNS</title>
-      <link>https://karthihegde.dev/posts/dns_tampering</link>
-      <guid>https://lobste.rs/s/cozhtg</guid>
-      <author>karthihegde.dev by dracarys_18</author>
-      <pubDate>Wed, 04 Nov 2026 06:06:23 -0600</pubDate>
-      <comments>https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-    </item>
-    <item>
-      <title>Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower</title>
-      <link>https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/</link>
-      <guid>https://lobste.rs/s/lh1j0e</guid>
-      <author>dennisforbes.ca via ohrv</author>
-      <pubDate>Wed, 04 Nov 2026 09:23:09 -0600</pubDate>
-      <comments>https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>performance</category>
-      <category>zig</category>
-    </item>
-    <item>
-      <title>What the fox say?</title>
-      <link>https://entropicthoughts.com/what-the-fox-say</link>
-      <guid>https://lobste.rs/s/7qaac6</guid>
-      <author>entropicthoughts.com by kqr</author>
-      <pubDate>Thu, 29 Oct 2026 01:42:40 -0500</pubDate>
-      <comments>https://lobste.rs/s/7qaac6/what_fox_say</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7qaac6/what_fox_say"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>games</category>
-    </item>
-    <item>
-      <title>London meetup</title>
-      <link>https://lobste.rs/s/dsrruj/london_meetup</link>
-      <guid>https://lobste.rs/s/dsrruj</guid>
-      <author> by prole</author>
-      <pubDate>Thu, 29 Oct 2026 15:56:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/dsrruj/london_meetup</comments>
-      <description>&lt;p&gt;Hi everyone,&lt;/p&gt;
-&lt;p&gt;I recently saw a post about an NYC lobsters meetup, and am wondering how many people here could make it to a London meetup.&lt;/p&gt;
-&lt;p&gt;If more than a couple of people here are based in London and can make it, I'll organise one in central London.&lt;/p&gt;
-&lt;p&gt;If you could also let me know which day of the week works best for you, that would be great too!&lt;/p&gt;
-&lt;p&gt;Cheers!&lt;/p&gt;
-</description>
-      <category>event</category>
-    </item>
-    <item>
       <title>Stop Hardcoding Your Timeouts</title>
       <link>https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html</link>
       <guid>https://lobste.rs/s/qa0owz</guid>
@@ -245,25 +243,6 @@
       <comments>https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
-    </item>
-    <item>
-      <title>Shared password manager for families?</title>
-      <link>https://lobste.rs/s/eccbci/shared_password_manager_for_families</link>
-      <guid>https://lobste.rs/s/eccbci</guid>
-      <author> by icefox</author>
-      <pubDate>Thu, 29 Oct 2026 09:39:51 -0500</pubDate>
-      <comments>https://lobste.rs/s/eccbci/shared_password_manager_for_families</comments>
-      <description>&lt;p&gt;Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shared over long distances; just having each of us have our own password manager won't work well&lt;/li&gt;
-&lt;li&gt;Usable for non-techie people, so no command line stuff&lt;/li&gt;
-&lt;li&gt;I can self-host a web thing if necessary&lt;/li&gt;
-&lt;li&gt;Works on Linux and MacOS/iOS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I &lt;em&gt;would&lt;/em&gt; just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?&lt;/p&gt;
-</description>
-      <category>security</category>
-      <category>ask</category>
     </item>
     <item>
       <title>Could a modern chess engine on a Pentium have defeated Kasparov in 1996?</title>
@@ -277,14 +256,26 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>The Kluever Maneuver</title>
-      <link>https://jordi.inversethought.com/blog/the-kluever-maneuver/</link>
-      <guid>https://lobste.rs/s/rpiu3w</guid>
-      <author>jordi.inversethought.com by JordiGH</author>
-      <pubDate>Sat, 31 Oct 2026 10:05:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/rpiu3w/kluever_maneuver</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpiu3w/kluever_maneuver"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>testing</category>
+      <title>September in Servo: progress, rounded rectangles, and more</title>
+      <link>https://servo.org/blog/2026/11/05/september-in-servo/</link>
+      <guid>https://lobste.rs/s/u26wki</guid>
+      <author>servo.org via FedericoSchonborn</author>
+      <pubDate>Thu, 05 Nov 2026 07:47:56 -0600</pubDate>
+      <comments>https://lobste.rs/s/u26wki/september_servo_progress_rounded</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u26wki/september_servo_progress_rounded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>release</category>
+    </item>
+    <item>
+      <title>Zig 0.17.1 Released</title>
+      <link>https://ziglang.org/news/0.17.1-released/</link>
+      <guid>https://lobste.rs/s/pa1411</guid>
+      <author>ziglang.org via FedericoSchonborn</author>
+      <pubDate>Wed, 04 Nov 2026 04:57:35 -0600</pubDate>
+      <comments>https://lobste.rs/s/pa1411/zig_0_17_1_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pa1411/zig_0_17_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>zig</category>
     </item>
   </channel>
 </rss>

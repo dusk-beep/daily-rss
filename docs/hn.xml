@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>AI is forcing us to pay off 40 years of technical debt</title>
-      <link>https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</link>
-      <description>1113 points • 648 comments • by pseudolus&#xA;https://news.ycombinator.com/item?id=50364336</description>
-      <pubDate>Thu, 05 Nov 2026 03:56:18 +0000</pubDate>
-      <guid>50364336</guid>
+      <title>sshole</title>
+      <link>https://sshhole.com</link>
+      <description>2410 points • 592 comments • by josemrb&#xA;https://news.ycombinator.com/item?id=50378228</description>
+      <pubDate>Fri, 06 Nov 2026 03:54:23 +0000</pubDate>
+      <guid>50378228</guid>
     </item>
     <item>
-      <title>Residential proxies detected on White House network</title>
-      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
-      <description>773 points • 242 comments • by Rasbora&#xA;https://news.ycombinator.com/item?id=50371246</description>
-      <pubDate>Thu, 05 Nov 2026 03:55:18 +0000</pubDate>
-      <guid>50371246</guid>
+      <title>Claude Code sends your email address to websites</title>
+      <link>https://github.com/anthropics/claude-code/issues/107757</link>
+      <description>670 points • 229 comments • by motoroco&#xA;https://news.ycombinator.com/item?id=50385272</description>
+      <pubDate>Fri, 06 Nov 2026 03:53:23 +0000</pubDate>
+      <guid>50385272</guid>
     </item>
     <item>
-      <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
-      <link>https://news.ycombinator.com/item?id=50363461</link>
-      <description>634 points • 164 comments • by jameslk&#xA;https://news.ycombinator.com/item?id=50363461</description>
-      <pubDate>Thu, 05 Nov 2026 03:54:18 +0000</pubDate>
-      <guid>50363461</guid>
+      <title>Alpine Linux Security Advisory: OpenSSH-server password authentication bypass</title>
+      <link>https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</link>
+      <description>612 points • 128 comments • by pantalaimon&#xA;https://news.ycombinator.com/item?id=50379704</description>
+      <pubDate>Fri, 06 Nov 2026 03:52:23 +0000</pubDate>
+      <guid>50379704</guid>
     </item>
     <item>
-      <title>Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux</title>
-      <link>https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop</link>
-      <description>594 points • 274 comments • by novaRom&#xA;https://news.ycombinator.com/item?id=50362905</description>
-      <pubDate>Thu, 05 Nov 2026 03:53:18 +0000</pubDate>
-      <guid>50362905</guid>
+      <title>Search for everyone</title>
+      <link>https://kagi.com/changelog#11820</link>
+      <description>590 points • 294 comments • by elashri&#xA;https://news.ycombinator.com/item?id=50383740</description>
+      <pubDate>Fri, 06 Nov 2026 03:51:23 +0000</pubDate>
+      <guid>50383740</guid>
     </item>
     <item>
-      <title>North Korean fake job interview led to $6.3B Binance heist</title>
-      <link>https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398</link>
-      <description>589 points • 362 comments • by smalltech&#xA;https://news.ycombinator.com/item?id=50365755</description>
-      <pubDate>Thu, 05 Nov 2026 03:52:18 +0000</pubDate>
-      <guid>50365755</guid>
+      <title>Goodbye from Salon</title>
+      <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
+      <description>489 points • 176 comments • by mkeeter&#xA;https://news.ycombinator.com/item?id=50383739</description>
+      <pubDate>Fri, 06 Nov 2026 03:50:23 +0000</pubDate>
+      <guid>50383739</guid>
     </item>
     <item>
-      <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
-      <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
-      <description>500 points • 179 comments • by rbanffy&#xA;https://news.ycombinator.com/item?id=50367125</description>
-      <pubDate>Thu, 05 Nov 2026 03:51:18 +0000</pubDate>
-      <guid>50367125</guid>
+      <title>Motorola Signature 27 with GrapheneOS support</title>
+      <link>https://motorolanews.com/motorola-signature-27-2/</link>
+      <description>415 points • 311 comments • by monneyboi&#xA;https://news.ycombinator.com/item?id=50380810</description>
+      <pubDate>Fri, 06 Nov 2026 03:49:23 +0000</pubDate>
+      <guid>50380810</guid>
     </item>
     <item>
-      <title>Jelly Sheet</title>
-      <link>https://mrdoob.github.io/codevember-2026/01/</link>
-      <description>447 points • 113 comments • by memalign&#xA;https://news.ycombinator.com/item?id=50361268</description>
-      <pubDate>Thu, 05 Nov 2026 03:50:18 +0000</pubDate>
-      <guid>50361268</guid>
+      <title>Discord is ditching Electron and its new app uses less RAM</title>
+      <link>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</link>
+      <description>405 points • 345 comments • by archb&#xA;https://news.ycombinator.com/item?id=50378625</description>
+      <pubDate>Fri, 06 Nov 2026 03:48:23 +0000</pubDate>
+      <guid>50378625</guid>
     </item>
     <item>
-      <title>Kimi K3.1 Pro model weights are out</title>
-      <link>https://huggingface.co/moonshotai/Kimi-K3.1-Pro</link>
-      <description>415 points • 119 comments • by abrarthought&#xA;https://news.ycombinator.com/item?id=50366999</description>
-      <pubDate>Thu, 05 Nov 2026 03:49:18 +0000</pubDate>
-      <guid>50366999</guid>
+      <title>Lemmings CSS Animation</title>
+      <link>https://markblah.github.io/lemmings/</link>
+      <description>389 points • 77 comments • by MarkBlah&#xA;https://news.ycombinator.com/item?id=50375354</description>
+      <pubDate>Fri, 06 Nov 2026 03:47:23 +0000</pubDate>
+      <guid>50375354</guid>
     </item>
     <item>
-      <title>C++26 Disapproved</title>
-      <link>https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/</link>
-      <description>406 points • 341 comments • by thatxliner&#xA;https://news.ycombinator.com/item?id=50360164</description>
-      <pubDate>Thu, 05 Nov 2026 03:48:18 +0000</pubDate>
-      <guid>50360164</guid>
+      <title>MS Paint Remote Code Execution Vulnerability</title>
+      <link>https://www.cve.org/CVERecord?id=CVE-2026-83844</link>
+      <description>370 points • 137 comments • by kuberwastaken&#xA;https://news.ycombinator.com/item?id=50384233</description>
+      <pubDate>Fri, 06 Nov 2026 03:46:23 +0000</pubDate>
+      <guid>50384233</guid>
     </item>
     <item>
-      <title>Kitty 0.50</title>
-      <link>https://sw.kovidgoyal.net/kitty/changelog/#</link>
-      <description>363 points • 228 comments • by porridgeraisin&#xA;https://news.ycombinator.com/item?id=50362980</description>
-      <pubDate>Thu, 05 Nov 2026 03:47:18 +0000</pubDate>
-      <guid>50362980</guid>
+      <title>I wish tech companies knew more about me</title>
+      <link>https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me</link>
+      <description>333 points • 293 comments • by freetonik&#xA;https://news.ycombinator.com/item?id=50378942</description>
+      <pubDate>Fri, 06 Nov 2026 03:45:23 +0000</pubDate>
+      <guid>50378942</guid>
     </item>
   </channel>
 </rss>
