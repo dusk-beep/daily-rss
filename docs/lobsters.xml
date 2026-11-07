@@ -19,14 +19,15 @@
       <category>testing</category>
     </item>
     <item>
-      <title>Backdoors in Claude Code for VS, Cursor official extensions</title>
-      <link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
-      <guid>https://lobste.rs/s/ttp7aq</guid>
-      <author>cyberplace.social via dsr</author>
-      <pubDate>Fri, 30 Oct 2026 06:04:55 -0500</pubDate>
-      <comments>https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>sshhole</title>
+      <link>https://sshhole.com/</link>
+      <guid>https://lobste.rs/s/oq5pem</guid>
+      <author>sshhole.com via serce</author>
+      <pubDate>Thu, 05 Nov 2026 06:24:42 -0600</pubDate>
+      <comments>https://lobste.rs/s/oq5pem/sshhole</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oq5pem/sshhole"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
+      <category>linux</category>
     </item>
     <item>
       <title>Jailbreaking my car's navigation system just so I can change the time</title>
@@ -61,15 +62,16 @@
       <category>linux</category>
     </item>
     <item>
-      <title>sshhole</title>
-      <link>https://sshhole.com/</link>
-      <guid>https://lobste.rs/s/oq5pem</guid>
-      <author>sshhole.com via serce</author>
-      <pubDate>Thu, 05 Nov 2026 06:24:42 -0600</pubDate>
-      <comments>https://lobste.rs/s/oq5pem/sshhole</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oq5pem/sshhole"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>linux</category>
+      <title>Declarative Dragging</title>
+      <link>https://declarative-dragging.github.io/</link>
+      <guid>https://lobste.rs/s/jplxxr</guid>
+      <author>declarative-dragging.github.io via edwintorok</author>
+      <pubDate>Wed, 04 Nov 2026 18:35:09 -0600</pubDate>
+      <comments>https://lobste.rs/s/jplxxr/declarative_dragging</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jplxxr/declarative_dragging"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>graphics</category>
+      <category>plt</category>
     </item>
     <item>
       <title>Observations from Running stealmybitcoin.com</title>
@@ -93,18 +95,6 @@
       <category>linux</category>
       <category>unix</category>
       <category>historical</category>
-    </item>
-    <item>
-      <title>Declarative Dragging</title>
-      <link>https://declarative-dragging.github.io/</link>
-      <guid>https://lobste.rs/s/jplxxr</guid>
-      <author>declarative-dragging.github.io via edwintorok</author>
-      <pubDate>Wed, 04 Nov 2026 18:35:09 -0600</pubDate>
-      <comments>https://lobste.rs/s/jplxxr/declarative_dragging</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jplxxr/declarative_dragging"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-      <category>graphics</category>
-      <category>plt</category>
     </item>
     <item>
       <title>Death comes for XSLT</title>
@@ -151,14 +141,14 @@
       <category>networking</category>
     </item>
     <item>
-      <title>Do At-Proto Users Know This Is Public?</title>
-      <link>https://melaniekat.com/blog/public-on-pds/</link>
-      <guid>https://lobste.rs/s/htgcuc</guid>
-      <author>melaniekat.com via robalex</author>
-      <pubDate>Fri, 30 Oct 2026 06:22:43 -0500</pubDate>
-      <comments>https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/htgcuc/do_at_proto_users_know_this_is_public"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
+      <title>Software Line Specialist</title>
+      <link>https://lovro-bikic.github.io/software-line-specialist/</link>
+      <guid>https://lobste.rs/s/yoywed</guid>
+      <author>lovro-bikic.github.io by lovro-bikic</author>
+      <pubDate>Thu, 05 Nov 2026 10:32:29 -0600</pubDate>
+      <comments>https://lobste.rs/s/yoywed/software_line_specialist</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yoywed/software_line_specialist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
     </item>
     <item>
       <title>Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower</title>
@@ -194,14 +184,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>How curl was accidentally Turing-complete for nine months</title>
-      <link>https://seriot.ch/computation/curl.html</link>
-      <guid>https://lobste.rs/s/f4aqog</guid>
-      <author>seriot.ch via kytta</author>
-      <pubDate>Fri, 30 Oct 2026 02:24:01 -0500</pubDate>
-      <comments>https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f4aqog/how_curl_was_accidentally_turing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>compsci</category>
+      <title>Your Cryptography Conspiracy Theory Is Wrong</title>
+      <link>https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/</link>
+      <guid>https://lobste.rs/s/bqllfe</guid>
+      <author>soatok.blog via fanf</author>
+      <pubDate>Wed, 04 Nov 2026 08:58:11 -0600</pubDate>
+      <comments>https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>cryptography</category>
     </item>
     <item>
       <title>Mystery of 60-Second Fluctuations in Power Grids Solved</title>
@@ -214,25 +204,15 @@
       <category>science</category>
     </item>
     <item>
-      <title>Your Cryptography Conspiracy Theory Is Wrong</title>
-      <link>https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/</link>
-      <guid>https://lobste.rs/s/bqllfe</guid>
-      <author>soatok.blog via fanf</author>
-      <pubDate>Wed, 04 Nov 2026 08:58:11 -0600</pubDate>
-      <comments>https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>cryptography</category>
-    </item>
-    <item>
-      <title>The support case of a customer who said that all they could see was a black screen</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/</link>
-      <guid>https://lobste.rs/s/soosuu</guid>
-      <author>devblogs.microsoft.com via ubernostrum</author>
-      <pubDate>Fri, 30 Oct 2026 20:01:21 -0500</pubDate>
-      <comments>https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/soosuu/support_case_customer_who_said_all_they"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>windows</category>
-      <category>historical</category>
+      <title>September in Servo: progress, rounded rectangles, and more</title>
+      <link>https://servo.org/blog/2026/11/05/september-in-servo/</link>
+      <guid>https://lobste.rs/s/u26wki</guid>
+      <author>servo.org via FedericoSchonborn</author>
+      <pubDate>Thu, 05 Nov 2026 07:47:56 -0600</pubDate>
+      <comments>https://lobste.rs/s/u26wki/september_servo_progress_rounded</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u26wki/september_servo_progress_rounded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>release</category>
     </item>
     <item>
       <title>Stop Hardcoding Your Timeouts</title>
@@ -256,17 +236,6 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>September in Servo: progress, rounded rectangles, and more</title>
-      <link>https://servo.org/blog/2026/11/05/september-in-servo/</link>
-      <guid>https://lobste.rs/s/u26wki</guid>
-      <author>servo.org via FedericoSchonborn</author>
-      <pubDate>Thu, 05 Nov 2026 07:47:56 -0600</pubDate>
-      <comments>https://lobste.rs/s/u26wki/september_servo_progress_rounded</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u26wki/september_servo_progress_rounded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>release</category>
-    </item>
-    <item>
       <title>Zig 0.17.1 Released</title>
       <link>https://ziglang.org/news/0.17.1-released/</link>
       <guid>https://lobste.rs/s/pa1411</guid>
@@ -276,6 +245,37 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pa1411/zig_0_17_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>zig</category>
+    </item>
+    <item>
+      <title>SourceHut disabled registration bypass | CVE-2026-121728</title>
+      <link>https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/</link>
+      <guid>https://lobste.rs/s/x2hcss</guid>
+      <author>blog.arusekk.pl via mhm</author>
+      <pubDate>Thu, 05 Nov 2026 12:34:41 -0600</pubDate>
+      <comments>https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>The Kluever Maneuver</title>
+      <link>https://jordi.inversethought.com/blog/the-kluever-maneuver/</link>
+      <guid>https://lobste.rs/s/rpiu3w</guid>
+      <author>jordi.inversethought.com by JordiGH</author>
+      <pubDate>Sat, 31 Oct 2026 10:05:04 -0500</pubDate>
+      <comments>https://lobste.rs/s/rpiu3w/kluever_maneuver</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpiu3w/kluever_maneuver"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>testing</category>
+    </item>
+    <item>
+      <title>Postgres 19 is late, and it's AI's fault</title>
+      <link>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</link>
+      <guid>https://lobste.rs/s/0yxkvs</guid>
+      <author>rhaas.blogspot.com via eduard</author>
+      <pubDate>Sun, 01 Nov 2026 20:19:02 -0600</pubDate>
+      <comments>https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
+      <category>practices</category>
     </item>
   </channel>
 </rss>
