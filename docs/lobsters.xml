@@ -19,18 +19,6 @@
       <category>linux</category>
     </item>
     <item>
-      <title>Jailbreaking my car's navigation system just so I can change the time</title>
-      <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
-      <guid>https://lobste.rs/s/qvdatp</guid>
-      <author>blog.nns.ee by xx</author>
-      <pubDate>Mon, 02 Nov 2026 10:30:58 -0600</pubDate>
-      <comments>https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>linux</category>
-      <category>reversing</category>
-    </item>
-    <item>
       <title>Libghostty 1.0</title>
       <link>https://mitchellh.com/writing/libghostty-1-0</link>
       <guid>https://lobste.rs/s/0ouxwf</guid>
@@ -41,6 +29,18 @@
       <category>c</category>
       <category>release</category>
       <category>zig</category>
+    </item>
+    <item>
+      <title>Jailbreaking my car's navigation system just so I can change the time</title>
+      <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
+      <guid>https://lobste.rs/s/qvdatp</guid>
+      <author>blog.nns.ee by xx</author>
+      <pubDate>Mon, 02 Nov 2026 10:30:58 -0600</pubDate>
+      <comments>https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>linux</category>
+      <category>reversing</category>
     </item>
     <item>
       <title>An outsider's perspective on Scion and Mononoke</title>
@@ -185,6 +185,21 @@
       <category>release</category>
     </item>
     <item>
+      <title>How are you dealing with all the negative side effects of AI on the web?</title>
+      <link>https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side</link>
+      <guid>https://lobste.rs/s/ipplhe</guid>
+      <author> by tmcb</author>
+      <pubDate>Sat, 07 Nov 2026 03:47:24 -0600</pubDate>
+      <comments>https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side</comments>
+      <description>&lt;p&gt;It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.&lt;/p&gt;
+&lt;p&gt;Search engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.&lt;/p&gt;
+&lt;p&gt;I also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze.&lt;/em&gt;&lt;/p&gt;
+</description>
+      <category>web</category>
+      <category>ask</category>
+    </item>
+    <item>
       <title>Stop Hardcoding Your Timeouts</title>
       <link>https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html</link>
       <guid>https://lobste.rs/s/qa0owz</guid>
@@ -237,21 +252,6 @@
       <category>zig</category>
     </item>
     <item>
-      <title>How are you dealing with all the negative side effects of AI on the web?</title>
-      <link>https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side</link>
-      <guid>https://lobste.rs/s/ipplhe</guid>
-      <author> by tmcb</author>
-      <pubDate>Sat, 07 Nov 2026 03:47:24 -0600</pubDate>
-      <comments>https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side</comments>
-      <description>&lt;p&gt;It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.&lt;/p&gt;
-&lt;p&gt;Search engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.&lt;/p&gt;
-&lt;p&gt;I also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze.&lt;/em&gt;&lt;/p&gt;
-</description>
-      <category>web</category>
-      <category>ask</category>
-    </item>
-    <item>
       <title>The Port That Does Not Exist</title>
       <link>https://acid.vegas/blog/the-port-that-does-not-exist/</link>
       <guid>https://lobste.rs/s/osqswf</guid>
@@ -260,6 +260,17 @@
       <comments>https://lobste.rs/s/osqswf/port_does_not_exist</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/osqswf/port_does_not_exist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>networking</category>
+    </item>
+    <item>
+      <title>Progress Report: Linux 7.3 - Asahi Linux</title>
+      <link>https://asahilinux.org/2026/11/progress-report-7-3/</link>
+      <guid>https://lobste.rs/s/4qiair</guid>
+      <author>asahilinux.org via signal-11</author>
+      <pubDate>Sat, 07 Nov 2026 00:02:38 -0600</pubDate>
+      <comments>https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>mac</category>
     </item>
     <item>
       <title>Postgres 19 is late, and it's AI's fault</title>
@@ -271,17 +282,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>databases</category>
       <category>practices</category>
-    </item>
-    <item>
-      <title>Man-in-the-middle arbitrary code execution in Debian’s apt</title>
-      <link>https://lists.debian.org/debian-security-announce/2026/msg00526.html</link>
-      <guid>https://lobste.rs/s/h7bvma</guid>
-      <author>lists.debian.org via gnyeki</author>
-      <pubDate>Wed, 04 Nov 2026 07:36:43 -0600</pubDate>
-      <comments>https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>linux</category>
     </item>
   </channel>
 </rss>
