@@ -24,7 +24,7 @@ jobs:
           mkdir -p docs
           go run ./cmd/lobster > docs/lobsters.xml
           go run ./cmd/hn > docs/hn.xml
-          curl https://apkvision.org/rss > docs/apkvision.xml
+          curl https://apkvision.org/feed/ > docs/apkvision.xml
 
       - name: Fetch Ziperto feed
         run: |
