@@ -5,19 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Sat, 31 Oct 2026 08:39:52 -0500</pubDate>
+    <pubDate>Thu, 05 Nov 2026 06:24:42 -0600</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Jepsen: ParticleDB 1.1.4</title>
-      <link>https://jepsen.io/analyses/particledb-1.1.4</link>
-      <guid>https://lobste.rs/s/drwd4j</guid>
-      <author>jepsen.io by aphyr</author>
-      <pubDate>Sat, 31 Oct 2026 08:39:52 -0500</pubDate>
-      <comments>https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/drwd4j/jepsen_particledb_1_1_4"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
-      <category>testing</category>
-    </item>
     <item>
       <title>sshhole</title>
       <link>https://sshhole.com/</link>
@@ -42,6 +31,18 @@
       <category>reversing</category>
     </item>
     <item>
+      <title>Libghostty 1.0</title>
+      <link>https://mitchellh.com/writing/libghostty-1-0</link>
+      <guid>https://lobste.rs/s/0ouxwf</guid>
+      <author>mitchellh.com via dgv</author>
+      <pubDate>Fri, 06 Nov 2026 17:48:03 -0600</pubDate>
+      <comments>https://lobste.rs/s/0ouxwf/libghostty_1_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0ouxwf/libghostty_1_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>c</category>
+      <category>release</category>
+      <category>zig</category>
+    </item>
+    <item>
       <title>An outsider's perspective on Scion and Mononoke</title>
       <link>https://typesanitizer.com/blog/scion.html</link>
       <guid>https://lobste.rs/s/s2qeww</guid>
@@ -50,16 +51,6 @@
       <comments>https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
-    </item>
-    <item>
-      <title>Introducing Kwi, a new KDE terminal emulator</title>
-      <link>https://blogs.kde.org/2026/11/01/introducing-kwi/</link>
-      <guid>https://lobste.rs/s/lt44rt</guid>
-      <author>blogs.kde.org via cesarandreu</author>
-      <pubDate>Sat, 31 Oct 2026 21:56:29 -0500</pubDate>
-      <comments>https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
     </item>
     <item>
       <title>Declarative Dragging</title>
@@ -85,6 +76,16 @@
       <category>security</category>
     </item>
     <item>
+      <title>Software Line Specialist</title>
+      <link>https://lovro-bikic.github.io/software-line-specialist/</link>
+      <guid>https://lobste.rs/s/yoywed</guid>
+      <author>lovro-bikic.github.io by lovro-bikic</author>
+      <pubDate>Thu, 05 Nov 2026 10:32:29 -0600</pubDate>
+      <comments>https://lobste.rs/s/yoywed/software_line_specialist</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yoywed/software_line_specialist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>satire</category>
+    </item>
+    <item>
       <title>A Decade of Kill Bugs</title>
       <link>https://alangrow.com/blog/a-decade-of-kill-bugs</link>
       <guid>https://lobste.rs/s/wgoato</guid>
@@ -108,17 +109,6 @@
       <category>web</category>
     </item>
     <item>
-      <title>Avoid Public Functions Calling Other Public Functions</title>
-      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
-      <guid>https://lobste.rs/s/k508we</guid>
-      <author>matklad.github.io via telemachus</author>
-      <pubDate>Sat, 31 Oct 2026 13:05:03 -0500</pubDate>
-      <comments>https://lobste.rs/s/k508we/avoid_public_functions_calling_other</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k508we/avoid_public_functions_calling_other"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>api</category>
-      <category>programming</category>
-    </item>
-    <item>
       <title>This background sound leaks your exact location</title>
       <link>https://youtu.be/UytYrhYLOKI</link>
       <guid>https://lobste.rs/s/s1btqo</guid>
@@ -139,16 +129,6 @@
       <comments>https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>networking</category>
-    </item>
-    <item>
-      <title>Software Line Specialist</title>
-      <link>https://lovro-bikic.github.io/software-line-specialist/</link>
-      <guid>https://lobste.rs/s/yoywed</guid>
-      <author>lovro-bikic.github.io by lovro-bikic</author>
-      <pubDate>Thu, 05 Nov 2026 10:32:29 -0600</pubDate>
-      <comments>https://lobste.rs/s/yoywed/software_line_specialist</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yoywed/software_line_specialist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
     </item>
     <item>
       <title>Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower</title>
@@ -194,16 +174,6 @@
       <category>cryptography</category>
     </item>
     <item>
-      <title>Mystery of 60-Second Fluctuations in Power Grids Solved</title>
-      <link>https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved</link>
-      <guid>https://lobste.rs/s/qwou15</guid>
-      <author>fz-juelich.de via robalex</author>
-      <pubDate>Sat, 31 Oct 2026 14:50:11 -0500</pubDate>
-      <comments>https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>science</category>
-    </item>
-    <item>
       <title>September in Servo: progress, rounded rectangles, and more</title>
       <link>https://servo.org/blog/2026/11/05/september-in-servo/</link>
       <guid>https://lobste.rs/s/u26wki</guid>
@@ -236,15 +206,14 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>Zig 0.17.1 Released</title>
-      <link>https://ziglang.org/news/0.17.1-released/</link>
-      <guid>https://lobste.rs/s/pa1411</guid>
-      <author>ziglang.org via FedericoSchonborn</author>
-      <pubDate>Wed, 04 Nov 2026 04:57:35 -0600</pubDate>
-      <comments>https://lobste.rs/s/pa1411/zig_0_17_1_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pa1411/zig_0_17_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>zig</category>
+      <title>Making musl and proprietary NVIDIA drivers work together</title>
+      <link>https://chimera-linux.org/news/2026/11/musl-nvidia.html</link>
+      <guid>https://lobste.rs/s/hvxjbb</guid>
+      <author>chimera-linux.org by q66</author>
+      <pubDate>Fri, 06 Nov 2026 07:23:14 -0600</pubDate>
+      <comments>https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
     </item>
     <item>
       <title>SourceHut disabled registration bypass | CVE-2026-121728</title>
@@ -257,14 +226,40 @@
       <category>security</category>
     </item>
     <item>
-      <title>The Kluever Maneuver</title>
-      <link>https://jordi.inversethought.com/blog/the-kluever-maneuver/</link>
-      <guid>https://lobste.rs/s/rpiu3w</guid>
-      <author>jordi.inversethought.com by JordiGH</author>
-      <pubDate>Sat, 31 Oct 2026 10:05:04 -0500</pubDate>
-      <comments>https://lobste.rs/s/rpiu3w/kluever_maneuver</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpiu3w/kluever_maneuver"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>testing</category>
+      <title>Zig 0.17.1 Released</title>
+      <link>https://ziglang.org/news/0.17.1-released/</link>
+      <guid>https://lobste.rs/s/pa1411</guid>
+      <author>ziglang.org via FedericoSchonborn</author>
+      <pubDate>Wed, 04 Nov 2026 04:57:35 -0600</pubDate>
+      <comments>https://lobste.rs/s/pa1411/zig_0_17_1_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pa1411/zig_0_17_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>zig</category>
+    </item>
+    <item>
+      <title>How are you dealing with all the negative side effects of AI on the web?</title>
+      <link>https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side</link>
+      <guid>https://lobste.rs/s/ipplhe</guid>
+      <author> by tmcb</author>
+      <pubDate>Sat, 07 Nov 2026 03:47:24 -0600</pubDate>
+      <comments>https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side</comments>
+      <description>&lt;p&gt;It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.&lt;/p&gt;
+&lt;p&gt;Search engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.&lt;/p&gt;
+&lt;p&gt;I also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze.&lt;/em&gt;&lt;/p&gt;
+</description>
+      <category>web</category>
+      <category>ask</category>
+    </item>
+    <item>
+      <title>The Port That Does Not Exist</title>
+      <link>https://acid.vegas/blog/the-port-that-does-not-exist/</link>
+      <guid>https://lobste.rs/s/osqswf</guid>
+      <author>acid.vegas via drmorr</author>
+      <pubDate>Fri, 06 Nov 2026 17:03:12 -0600</pubDate>
+      <comments>https://lobste.rs/s/osqswf/port_does_not_exist</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/osqswf/port_does_not_exist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
     <item>
       <title>Postgres 19 is late, and it's AI's fault</title>
@@ -276,6 +271,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>databases</category>
       <category>practices</category>
+    </item>
+    <item>
+      <title>Man-in-the-middle arbitrary code execution in Debian’s apt</title>
+      <link>https://lists.debian.org/debian-security-announce/2026/msg00526.html</link>
+      <guid>https://lobste.rs/s/h7bvma</guid>
+      <author>lists.debian.org via gnyeki</author>
+      <pubDate>Wed, 04 Nov 2026 07:36:43 -0600</pubDate>
+      <comments>https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>linux</category>
     </item>
   </channel>
 </rss>
