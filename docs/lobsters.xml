@@ -43,15 +43,25 @@
       <category>plt</category>
     </item>
     <item>
-      <title>Observations from Running stealmybitcoin.com</title>
-      <link>https://pavursec.com/blog/stealmybitcoin/</link>
-      <guid>https://lobste.rs/s/fgucra</guid>
-      <author>pavursec.com via wezm</author>
-      <pubDate>Tue, 03 Nov 2026 17:45:21 -0600</pubDate>
-      <comments>https://lobste.rs/s/fgucra/observations_from_running</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgucra/observations_from_running"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>php</category>
+      <title>Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
+      <link>https://terminal2shell.com/</link>
+      <guid>https://lobste.rs/s/vghqe8</guid>
+      <author>terminal2shell.com via whjms</author>
+      <pubDate>Mon, 09 Nov 2026 09:41:50 -0600</pubDate>
+      <comments>https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
+      <category>satire</category>
+    </item>
+    <item>
+      <title>.name grandfathered</title>
+      <link>https://neil.fraser.name/news/2026/11/10/</link>
+      <guid>https://lobste.rs/s/vkkbwo</guid>
+      <author>neil.fraser.name via classichasclass</author>
+      <pubDate>Tue, 10 Nov 2026 10:52:12 -0600</pubDate>
+      <comments>https://lobste.rs/s/vkkbwo/name_grandfathered</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vkkbwo/name_grandfathered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
     <item>
       <title>Software Line Specialist</title>
@@ -64,15 +74,14 @@
       <category>satire</category>
     </item>
     <item>
-      <title>Death comes for XSLT</title>
-      <link>https://dbushell.com/2026/11/03/xslt-rip/</link>
-      <guid>https://lobste.rs/s/chypzr</guid>
-      <author>dbushell.com via nytpu</author>
-      <pubDate>Tue, 03 Nov 2026 09:19:50 -0600</pubDate>
-      <comments>https://lobste.rs/s/chypzr/death_comes_for_xslt</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/chypzr/death_comes_for_xslt"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>web</category>
+      <title>Horrible public key tricks</title>
+      <link>https://maurycyz.com/projects/badcert/</link>
+      <guid>https://lobste.rs/s/txkq8s</guid>
+      <author>maurycyz.com via rrampage</author>
+      <pubDate>Mon, 09 Nov 2026 06:55:11 -0600</pubDate>
+      <comments>https://lobste.rs/s/txkq8s/horrible_public_key_tricks</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/txkq8s/horrible_public_key_tricks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>cryptography</category>
     </item>
     <item>
       <title>So my ISP was hijacking my DNS</title>
@@ -122,26 +131,15 @@
       <category>linux</category>
     </item>
     <item>
-      <title>The Ubuntu 26.04 Rust sudo is not compatible with standard sudo</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible</link>
-      <guid>https://lobste.rs/s/e201eb</guid>
-      <author>utcc.utoronto.ca via twp</author>
-      <pubDate>Tue, 03 Nov 2026 09:23:21 -0600</pubDate>
-      <comments>https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e201eb/ubuntu_26_04_rust_sudo_is_not_compatible"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>rust</category>
-    </item>
-    <item>
-      <title>Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
-      <link>https://terminal2shell.com/</link>
-      <guid>https://lobste.rs/s/vghqe8</guid>
-      <author>terminal2shell.com via whjms</author>
-      <pubDate>Mon, 09 Nov 2026 09:41:50 -0600</pubDate>
-      <comments>https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>unlocking any car from X brand in most of the world</title>
+      <link>https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</link>
+      <guid>https://lobste.rs/s/kbrpx3</guid>
+      <author>shubs.io via markerz</author>
+      <pubDate>Sun, 08 Nov 2026 22:43:15 -0600</pubDate>
+      <comments>https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-      <category>satire</category>
+      <category>reversing</category>
     </item>
     <item>
       <title>Your Cryptography Conspiracy Theory Is Wrong</title>
@@ -165,35 +163,14 @@
       <category>release</category>
     </item>
     <item>
-      <title>Horrible public key tricks</title>
-      <link>https://maurycyz.com/projects/badcert/</link>
-      <guid>https://lobste.rs/s/txkq8s</guid>
-      <author>maurycyz.com via rrampage</author>
-      <pubDate>Mon, 09 Nov 2026 06:55:11 -0600</pubDate>
-      <comments>https://lobste.rs/s/txkq8s/horrible_public_key_tricks</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/txkq8s/horrible_public_key_tricks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>cryptography</category>
-    </item>
-    <item>
-      <title>unlocking any car from X brand in most of the world</title>
-      <link>https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</link>
-      <guid>https://lobste.rs/s/kbrpx3</guid>
-      <author>shubs.io via markerz</author>
-      <pubDate>Sun, 08 Nov 2026 22:43:15 -0600</pubDate>
-      <comments>https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>reversing</category>
-    </item>
-    <item>
-      <title>The Port That Does Not Exist</title>
-      <link>https://acid.vegas/blog/the-port-that-does-not-exist/</link>
-      <guid>https://lobste.rs/s/osqswf</guid>
-      <author>acid.vegas via drmorr</author>
-      <pubDate>Fri, 06 Nov 2026 17:03:12 -0600</pubDate>
-      <comments>https://lobste.rs/s/osqswf/port_does_not_exist</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/osqswf/port_does_not_exist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
+      <title>Microsoft are rejecting your mail</title>
+      <link>https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/</link>
+      <guid>https://lobste.rs/s/ynik5s</guid>
+      <author>mythic-beasts.com via robalex</author>
+      <pubDate>Mon, 09 Nov 2026 12:36:47 -0600</pubDate>
+      <comments>https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>email</category>
     </item>
     <item>
       <title>Progress Report: Linux 7.3 - Asahi Linux</title>
@@ -207,25 +184,14 @@
       <category>mac</category>
     </item>
     <item>
-      <title>Could a modern chess engine on a Pentium have defeated Kasparov in 1996?</title>
-      <link>https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</link>
-      <guid>https://lobste.rs/s/1gndxr</guid>
-      <author>nicholas.carlini.com via fanf</author>
-      <pubDate>Tue, 03 Nov 2026 09:44:27 -0600</pubDate>
-      <comments>https://lobste.rs/s/1gndxr/could_modern_chess_engine_on_pentium_have</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1gndxr/could_modern_chess_engine_on_pentium_have"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>games</category>
-      <category>retrocomputing</category>
-    </item>
-    <item>
-      <title>Making musl and proprietary NVIDIA drivers work together</title>
-      <link>https://chimera-linux.org/news/2026/11/musl-nvidia.html</link>
-      <guid>https://lobste.rs/s/hvxjbb</guid>
-      <author>chimera-linux.org by q66</author>
-      <pubDate>Fri, 06 Nov 2026 07:23:14 -0600</pubDate>
-      <comments>https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
+      <title>The Port That Does Not Exist</title>
+      <link>https://acid.vegas/blog/the-port-that-does-not-exist/</link>
+      <guid>https://lobste.rs/s/osqswf</guid>
+      <author>acid.vegas via drmorr</author>
+      <pubDate>Fri, 06 Nov 2026 17:03:12 -0600</pubDate>
+      <comments>https://lobste.rs/s/osqswf/port_does_not_exist</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/osqswf/port_does_not_exist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
     <item>
       <title>Meridian — an experimental web browser built on Servo and GPUI</title>
@@ -247,6 +213,16 @@
       <comments>https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
+    </item>
+    <item>
+      <title>Making musl and proprietary NVIDIA drivers work together</title>
+      <link>https://chimera-linux.org/news/2026/11/musl-nvidia.html</link>
+      <guid>https://lobste.rs/s/hvxjbb</guid>
+      <author>chimera-linux.org by q66</author>
+      <pubDate>Fri, 06 Nov 2026 07:23:14 -0600</pubDate>
+      <comments>https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
     </item>
     <item>
       <title>*sshole, or when are we finally going to get rid of C?</title>
@@ -279,6 +255,26 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>pdf</category>
       <category>c++</category>
+    </item>
+    <item>
+      <title>Sure mate, buy me a bloody coffee</title>
+      <link>https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/</link>
+      <guid>https://lobste.rs/s/eeclwg</guid>
+      <author>peateasea.de via classichasclass</author>
+      <pubDate>Mon, 09 Nov 2026 12:35:57 -0600</pubDate>
+      <comments>https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Let’s Talk About Why all This OT Stuff is Connected</title>
+      <link>https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/</link>
+      <guid>https://lobste.rs/s/jxigk6</guid>
+      <author>tisiphone.net via polywolf</author>
+      <pubDate>Mon, 09 Nov 2026 06:22:39 -0600</pubDate>
+      <comments>https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
   </channel>
 </rss>
