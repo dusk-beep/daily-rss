@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Smart home devices should work without the internet</title>
-      <link>https://docodethatmatters.com/home-automation-overnight-success/</link>
-      <description>739 points • 266 comments • by skittleson&#xA;https://news.ycombinator.com/item?id=50441707</description>
-      <pubDate>Wed, 11 Nov 2026 02:54:49 +0000</pubDate>
-      <guid>50441707</guid>
+      <title>Tim Peters has died</title>
+      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
+      <description>953 points • 102 comments • by ayhanfuat&#xA;https://news.ycombinator.com/item?id=50450488</description>
+      <pubDate>Thu, 12 Nov 2026 04:00:25 +0000</pubDate>
+      <guid>50450488</guid>
     </item>
     <item>
-      <title>.name Grandfathered</title>
-      <link>https://neil.fraser.name/news/2026/11/10/</link>
-      <description>701 points • 165 comments • by p4bl0&#xA;https://news.ycombinator.com/item?id=50442736</description>
-      <pubDate>Wed, 11 Nov 2026 02:53:49 +0000</pubDate>
-      <guid>50442736</guid>
+      <title>My AI agents found an unmapped Maya site?</title>
+      <link>https://pietromiotti.com/latest/maya-site</link>
+      <description>946 points • 342 comments • by eyvindn&#xA;https://news.ycombinator.com/item?id=50452455</description>
+      <pubDate>Thu, 12 Nov 2026 03:59:25 +0000</pubDate>
+      <guid>50452455</guid>
     </item>
     <item>
-      <title>Amazon saves millions by replacing Sonnet 4.6 with Strands Decider</title>
-      <link>https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</link>
-      <description>690 points • 242 comments • by aloukissas&#xA;https://news.ycombinator.com/item?id=50436640</description>
-      <pubDate>Wed, 11 Nov 2026 02:52:49 +0000</pubDate>
-      <guid>50436640</guid>
+      <title>AWS emulator</title>
+      <link>https://github.com/aws/aws-emulator</link>
+      <description>739 points • 224 comments • by super_linear&#xA;https://news.ycombinator.com/item?id=50456631</description>
+      <pubDate>Thu, 12 Nov 2026 03:58:25 +0000</pubDate>
+      <guid>50456631</guid>
     </item>
     <item>
-      <title>AlphaProof Code</title>
-      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
-      <description>583 points • 178 comments • by ilreb&#xA;https://news.ycombinator.com/item?id=50439193</description>
-      <pubDate>Wed, 11 Nov 2026 02:51:49 +0000</pubDate>
-      <guid>50439193</guid>
+      <title>Nvidia is preparing to oust Jensen Huang</title>
+      <link>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad</link>
+      <description>677 points • 941 comments • by jbredeche&#xA;https://news.ycombinator.com/item?id=50459703</description>
+      <pubDate>Thu, 12 Nov 2026 03:57:25 +0000</pubDate>
+      <guid>50459703</guid>
     </item>
     <item>
-      <title>Blender 5.3 released with Gaussian Splat support</title>
-      <link>https://www.blender.org/download/releases/5-3/</link>
-      <description>443 points • 68 comments • by amlib&#xA;https://news.ycombinator.com/item?id=50442426</description>
-      <pubDate>Wed, 11 Nov 2026 02:50:49 +0000</pubDate>
-      <guid>50442426</guid>
+      <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
+      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
+      <description>452 points • 432 comments • by herpderperator&#xA;https://news.ycombinator.com/item?id=50458900</description>
+      <pubDate>Thu, 12 Nov 2026 03:56:25 +0000</pubDate>
+      <guid>50458900</guid>
     </item>
     <item>
-      <title>AI usage generates a fragile codebase</title>
-      <link>https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/</link>
-      <description>402 points • 420 comments • by plun9&#xA;https://news.ycombinator.com/item?id=50438318</description>
-      <pubDate>Wed, 11 Nov 2026 02:49:49 +0000</pubDate>
-      <guid>50438318</guid>
+      <title>A false smoke alarm almost drowned Jane Street&#39;s only NYC datacenter</title>
+      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
+      <description>437 points • 223 comments • by mbac32768&#xA;https://news.ycombinator.com/item?id=50455394</description>
+      <pubDate>Thu, 12 Nov 2026 03:55:25 +0000</pubDate>
+      <guid>50455394</guid>
     </item>
     <item>
-      <title>Scion is back and is going to sell a kei truck in America</title>
-      <link>https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/</link>
-      <description>352 points • 261 comments • by NaOH&#xA;https://news.ycombinator.com/item?id=50445401</description>
-      <pubDate>Wed, 11 Nov 2026 02:48:49 +0000</pubDate>
-      <guid>50445401</guid>
+      <title>Protecting SSH Keys with macOS Secure Enclave</title>
+      <link>https://gatezh.com/posts/macos-secure-enclave-ssh-keys/</link>
+      <description>385 points • 137 comments • by js2&#xA;https://news.ycombinator.com/item?id=50449748</description>
+      <pubDate>Thu, 12 Nov 2026 03:54:25 +0000</pubDate>
+      <guid>50449748</guid>
     </item>
     <item>
-      <title>Locating the source of a mysterious beep</title>
-      <link>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</link>
-      <description>319 points • 164 comments • by bigwheels&#xA;https://news.ycombinator.com/item?id=50434310</description>
-      <pubDate>Wed, 11 Nov 2026 02:47:49 +0000</pubDate>
-      <guid>50434310</guid>
+      <title>I asked every TV manufacturer 17 questions about how they spy on you</title>
+      <link>https://www.theverge.com/tech/1012372/tv-privacy-acr-questions</link>
+      <description>343 points • 238 comments • by Brajeshwar&#xA;https://news.ycombinator.com/item?id=50453474</description>
+      <pubDate>Thu, 12 Nov 2026 03:53:25 +0000</pubDate>
+      <guid>50453474</guid>
     </item>
     <item>
-      <title>Val Town is winding down</title>
-      <link>https://blog.val.town/winding-down</link>
-      <description>317 points • 83 comments • by tosh&#xA;https://news.ycombinator.com/item?id=50443427</description>
-      <pubDate>Wed, 11 Nov 2026 02:46:49 +0000</pubDate>
-      <guid>50443427</guid>
+      <title>Hyper-Realistic Sand with WebGL2</title>
+      <link>https://av.github.io/safe-sand/</link>
+      <description>331 points • 66 comments • by everlier&#xA;https://news.ycombinator.com/item?id=50453288</description>
+      <pubDate>Thu, 12 Nov 2026 03:52:25 +0000</pubDate>
+      <guid>50453288</guid>
     </item>
     <item>
-      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
-      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
-      <description>316 points • 172 comments • by speckx&#xA;https://news.ycombinator.com/item?id=50443824</description>
-      <pubDate>Wed, 11 Nov 2026 02:45:49 +0000</pubDate>
-      <guid>50443824</guid>
+      <title>Gemini Decisions API</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <description>312 points • 100 comments • by iamdelirium&#xA;https://news.ycombinator.com/item?id=50456791</description>
+      <pubDate>Thu, 12 Nov 2026 03:51:25 +0000</pubDate>
+      <guid>50456791</guid>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,18 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Fri, 06 Nov 2026 17:48:03 -0600</pubDate>
+    <pubDate>Tue, 10 Nov 2026 10:52:12 -0600</pubDate>
     <ttl>120</ttl>
+    <item>
+      <title>.name grandfathered</title>
+      <link>https://neil.fraser.name/news/2026/11/10/</link>
+      <guid>https://lobste.rs/s/vkkbwo</guid>
+      <author>neil.fraser.name via classichasclass</author>
+      <pubDate>Tue, 10 Nov 2026 10:52:12 -0600</pubDate>
+      <comments>https://lobste.rs/s/vkkbwo/name_grandfathered</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vkkbwo/name_grandfathered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
+    </item>
     <item>
       <title>Libghostty 1.0</title>
       <link>https://mitchellh.com/writing/libghostty-1-0</link>
@@ -31,18 +41,6 @@
       <category>linux</category>
     </item>
     <item>
-      <title>Declarative Dragging</title>
-      <link>https://declarative-dragging.github.io/</link>
-      <guid>https://lobste.rs/s/jplxxr</guid>
-      <author>declarative-dragging.github.io via edwintorok</author>
-      <pubDate>Wed, 04 Nov 2026 18:35:09 -0600</pubDate>
-      <comments>https://lobste.rs/s/jplxxr/declarative_dragging</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jplxxr/declarative_dragging"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>design</category>
-      <category>graphics</category>
-      <category>plt</category>
-    </item>
-    <item>
       <title>Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
       <link>https://terminal2shell.com/</link>
       <guid>https://lobste.rs/s/vghqe8</guid>
@@ -52,16 +50,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>satire</category>
-    </item>
-    <item>
-      <title>.name grandfathered</title>
-      <link>https://neil.fraser.name/news/2026/11/10/</link>
-      <guid>https://lobste.rs/s/vkkbwo</guid>
-      <author>neil.fraser.name via classichasclass</author>
-      <pubDate>Tue, 10 Nov 2026 10:52:12 -0600</pubDate>
-      <comments>https://lobste.rs/s/vkkbwo/name_grandfathered</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vkkbwo/name_grandfathered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
     </item>
     <item>
       <title>Software Line Specialist</title>
@@ -82,28 +70,6 @@
       <comments>https://lobste.rs/s/txkq8s/horrible_public_key_tricks</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/txkq8s/horrible_public_key_tricks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>cryptography</category>
-    </item>
-    <item>
-      <title>So my ISP was hijacking my DNS</title>
-      <link>https://karthihegde.dev/posts/dns_tampering</link>
-      <guid>https://lobste.rs/s/cozhtg</guid>
-      <author>karthihegde.dev by dracarys_18</author>
-      <pubDate>Wed, 04 Nov 2026 06:06:23 -0600</pubDate>
-      <comments>https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cozhtg/so_my_isp_was_hijacking_my_dns"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-    </item>
-    <item>
-      <title>Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower</title>
-      <link>https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/</link>
-      <guid>https://lobste.rs/s/lh1j0e</guid>
-      <author>dennisforbes.ca via ohrv</author>
-      <pubDate>Wed, 04 Nov 2026 09:23:09 -0600</pubDate>
-      <comments>https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh1j0e/shlemiel_painter_is_back_how_zig_s_libc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>performance</category>
-      <category>zig</category>
     </item>
     <item>
       <title>How are you dealing with all the negative side effects of AI on the web?</title>
@@ -131,6 +97,21 @@
       <category>linux</category>
     </item>
     <item>
+      <title>How do you actually self-host securely?</title>
+      <link>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</link>
+      <guid>https://lobste.rs/s/m43bas</guid>
+      <author> by pralkarz</author>
+      <pubDate>Wed, 11 Nov 2026 06:01:19 -0600</pubDate>
+      <comments>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</comments>
+      <description>&lt;p&gt;I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.&lt;/p&gt;
+&lt;p&gt;For some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.&lt;/p&gt;
+&lt;p&gt;Some people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.&lt;/p&gt;
+&lt;p&gt;(Also, feel free to suggest a tag other than &lt;code&gt;devops&lt;/code&gt;, I figured &lt;code&gt;security&lt;/code&gt; doesn't quite apply since it's a question and not a write-up/resource regarding security.)&lt;/p&gt;
+</description>
+      <category>devops</category>
+      <category>ask</category>
+    </item>
+    <item>
       <title>unlocking any car from X brand in most of the world</title>
       <link>https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</link>
       <guid>https://lobste.rs/s/kbrpx3</guid>
@@ -142,14 +123,24 @@
       <category>reversing</category>
     </item>
     <item>
-      <title>Your Cryptography Conspiracy Theory Is Wrong</title>
-      <link>https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/</link>
-      <guid>https://lobste.rs/s/bqllfe</guid>
-      <author>soatok.blog via fanf</author>
-      <pubDate>Wed, 04 Nov 2026 08:58:11 -0600</pubDate>
-      <comments>https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bqllfe/your_cryptography_conspiracy_theory_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>cryptography</category>
+      <title>Microsoft are rejecting your mail</title>
+      <link>https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/</link>
+      <guid>https://lobste.rs/s/ynik5s</guid>
+      <author>mythic-beasts.com via robalex</author>
+      <pubDate>Mon, 09 Nov 2026 12:36:47 -0600</pubDate>
+      <comments>https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>email</category>
+    </item>
+    <item>
+      <title>The hardest tarball</title>
+      <link>https://stoppels.ch/2026/11/07/the-hardest-tarball.html</link>
+      <guid>https://lobste.rs/s/t7qkjb</guid>
+      <author>stoppels.ch by stabbles</author>
+      <pubDate>Tue, 10 Nov 2026 07:47:03 -0600</pubDate>
+      <comments>https://lobste.rs/s/t7qkjb/hardest_tarball</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t7qkjb/hardest_tarball"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>unix</category>
     </item>
     <item>
       <title>September in Servo: progress, rounded rectangles, and more</title>
@@ -163,14 +154,15 @@
       <category>release</category>
     </item>
     <item>
-      <title>Microsoft are rejecting your mail</title>
-      <link>https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/</link>
-      <guid>https://lobste.rs/s/ynik5s</guid>
-      <author>mythic-beasts.com via robalex</author>
-      <pubDate>Mon, 09 Nov 2026 12:36:47 -0600</pubDate>
-      <comments>https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>email</category>
+      <title>In Memoriam: Tim Peters 1952–2026</title>
+      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
+      <guid>https://lobste.rs/s/romf5e</guid>
+      <author>discuss.python.org via dbremner</author>
+      <pubDate>Wed, 11 Nov 2026 08:20:17 -0600</pubDate>
+      <comments>https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+      <category>python</category>
     </item>
     <item>
       <title>Progress Report: Linux 7.3 - Asahi Linux</title>
@@ -184,6 +176,20 @@
       <category>mac</category>
     </item>
     <item>
+      <title>What are some "No AI" apps/companies/resources you know of?</title>
+      <link>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</link>
+      <guid>https://lobste.rs/s/nld6x3</guid>
+      <author> by brn</author>
+      <pubDate>Wed, 11 Nov 2026 07:13:51 -0600</pubDate>
+      <comments>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</comments>
+      <description>&lt;p&gt;Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly "anti", but at least explicitly avoid it) that you know of?&lt;/p&gt;
+&lt;p&gt;I'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position.&lt;/p&gt;
+&lt;p&gt;For example, &lt;a href="https://www.rebeltechalliance.org" rel="ugc"&gt;https://www.rebeltechalliance.org&lt;/a&gt; would be one of those resources.&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;
+</description>
+      <category>ask</category>
+    </item>
+    <item>
       <title>The Port That Does Not Exist</title>
       <link>https://acid.vegas/blog/the-port-that-does-not-exist/</link>
       <guid>https://lobste.rs/s/osqswf</guid>
@@ -192,6 +198,26 @@
       <comments>https://lobste.rs/s/osqswf/port_does_not_exist</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/osqswf/port_does_not_exist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>networking</category>
+    </item>
+    <item>
+      <title>You should try Gleam</title>
+      <link>https://nchagnet.eu/blog/you-should-try-gleam</link>
+      <guid>https://lobste.rs/s/4yqgpu</guid>
+      <author>nchagnet.eu via trousers</author>
+      <pubDate>Mon, 09 Nov 2026 21:33:27 -0600</pubDate>
+      <comments>https://lobste.rs/s/4yqgpu/you_should_try_gleam</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4yqgpu/you_should_try_gleam"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>gleam</category>
+    </item>
+    <item>
+      <title>Making musl and proprietary NVIDIA drivers work together</title>
+      <link>https://chimera-linux.org/news/2026/11/musl-nvidia.html</link>
+      <guid>https://lobste.rs/s/hvxjbb</guid>
+      <author>chimera-linux.org by q66</author>
+      <pubDate>Fri, 06 Nov 2026 07:23:14 -0600</pubDate>
+      <comments>https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
     </item>
     <item>
       <title>Meridian — an experimental web browser built on Servo and GPUI</title>
@@ -215,16 +241,6 @@
       <category>security</category>
     </item>
     <item>
-      <title>Making musl and proprietary NVIDIA drivers work together</title>
-      <link>https://chimera-linux.org/news/2026/11/musl-nvidia.html</link>
-      <guid>https://lobste.rs/s/hvxjbb</guid>
-      <author>chimera-linux.org by q66</author>
-      <pubDate>Fri, 06 Nov 2026 07:23:14 -0600</pubDate>
-      <comments>https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-    </item>
-    <item>
       <title>*sshole, or when are we finally going to get rid of C?</title>
       <link>https://sunshowers.io/posts/sshole/</link>
       <guid>https://lobste.rs/s/owsnms</guid>
@@ -235,15 +251,14 @@
       <category>rant</category>
     </item>
     <item>
-      <title>Zig 0.17.1 Released</title>
-      <link>https://ziglang.org/news/0.17.1-released/</link>
-      <guid>https://lobste.rs/s/pa1411</guid>
-      <author>ziglang.org via FedericoSchonborn</author>
-      <pubDate>Wed, 04 Nov 2026 04:57:35 -0600</pubDate>
-      <comments>https://lobste.rs/s/pa1411/zig_0_17_1_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pa1411/zig_0_17_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>zig</category>
+      <title>Let’s Talk About Why all This OT Stuff is Connected</title>
+      <link>https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/</link>
+      <guid>https://lobste.rs/s/jxigk6</guid>
+      <author>tisiphone.net via polywolf</author>
+      <pubDate>Mon, 09 Nov 2026 06:22:39 -0600</pubDate>
+      <comments>https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward</title>
@@ -265,16 +280,6 @@
       <comments>https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>culture</category>
-    </item>
-    <item>
-      <title>Let’s Talk About Why all This OT Stuff is Connected</title>
-      <link>https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/</link>
-      <guid>https://lobste.rs/s/jxigk6</guid>
-      <author>tisiphone.net via polywolf</author>
-      <pubDate>Mon, 09 Nov 2026 06:22:39 -0600</pubDate>
-      <comments>https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
   </channel>
 </rss>
