@@ -5,8 +5,18 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Tue, 10 Nov 2026 10:52:12 -0600</pubDate>
+    <pubDate>Wed, 11 Nov 2026 15:53:24 -0600</pubDate>
     <ttl>120</ttl>
+    <item>
+      <title>How I accidentally became a millionaire</title>
+      <link>https://lyra.horse/blog/2026/11/disinformation-machine/</link>
+      <guid>https://lobste.rs/s/lnau2d</guid>
+      <author>lyra.horse via hugoarnal</author>
+      <pubDate>Wed, 11 Nov 2026 15:53:24 -0600</pubDate>
+      <comments>https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
     <item>
       <title>.name grandfathered</title>
       <link>https://neil.fraser.name/news/2026/11/10/</link>
@@ -30,17 +40,6 @@
       <category>zig</category>
     </item>
     <item>
-      <title>sshhole</title>
-      <link>https://sshhole.com/</link>
-      <guid>https://lobste.rs/s/oq5pem</guid>
-      <author>sshhole.com via serce</author>
-      <pubDate>Thu, 05 Nov 2026 06:24:42 -0600</pubDate>
-      <comments>https://lobste.rs/s/oq5pem/sshhole</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oq5pem/sshhole"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>linux</category>
-    </item>
-    <item>
       <title>Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
       <link>https://terminal2shell.com/</link>
       <guid>https://lobste.rs/s/vghqe8</guid>
@@ -52,14 +51,30 @@
       <category>satire</category>
     </item>
     <item>
-      <title>Software Line Specialist</title>
-      <link>https://lovro-bikic.github.io/software-line-specialist/</link>
-      <guid>https://lobste.rs/s/yoywed</guid>
-      <author>lovro-bikic.github.io by lovro-bikic</author>
-      <pubDate>Thu, 05 Nov 2026 10:32:29 -0600</pubDate>
-      <comments>https://lobste.rs/s/yoywed/software_line_specialist</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yoywed/software_line_specialist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>satire</category>
+      <title>How do you actually self-host securely?</title>
+      <link>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</link>
+      <guid>https://lobste.rs/s/m43bas</guid>
+      <author> by pralkarz</author>
+      <pubDate>Wed, 11 Nov 2026 06:01:19 -0600</pubDate>
+      <comments>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</comments>
+      <description>&lt;p&gt;I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.&lt;/p&gt;
+&lt;p&gt;For some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.&lt;/p&gt;
+&lt;p&gt;Some people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.&lt;/p&gt;
+&lt;p&gt;(Also, feel free to suggest a tag other than &lt;code&gt;devops&lt;/code&gt;, I figured &lt;code&gt;security&lt;/code&gt; doesn't quite apply since it's a question and not a write-up/resource regarding security.)&lt;/p&gt;
+</description>
+      <category>devops</category>
+      <category>ask</category>
+    </item>
+    <item>
+      <title>In Memoriam: Tim Peters 1952–2026</title>
+      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
+      <guid>https://lobste.rs/s/romf5e</guid>
+      <author>discuss.python.org via dbremner</author>
+      <pubDate>Wed, 11 Nov 2026 08:20:17 -0600</pubDate>
+      <comments>https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+      <category>python</category>
     </item>
     <item>
       <title>Horrible public key tricks</title>
@@ -97,18 +112,17 @@
       <category>linux</category>
     </item>
     <item>
-      <title>How do you actually self-host securely?</title>
-      <link>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</link>
-      <guid>https://lobste.rs/s/m43bas</guid>
-      <author> by pralkarz</author>
-      <pubDate>Wed, 11 Nov 2026 06:01:19 -0600</pubDate>
-      <comments>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</comments>
-      <description>&lt;p&gt;I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.&lt;/p&gt;
-&lt;p&gt;For some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.&lt;/p&gt;
-&lt;p&gt;Some people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.&lt;/p&gt;
-&lt;p&gt;(Also, feel free to suggest a tag other than &lt;code&gt;devops&lt;/code&gt;, I figured &lt;code&gt;security&lt;/code&gt; doesn't quite apply since it's a question and not a write-up/resource regarding security.)&lt;/p&gt;
+      <title>What are some "No AI" apps/companies/resources you know of?</title>
+      <link>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</link>
+      <guid>https://lobste.rs/s/nld6x3</guid>
+      <author> by brn</author>
+      <pubDate>Wed, 11 Nov 2026 07:13:51 -0600</pubDate>
+      <comments>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</comments>
+      <description>&lt;p&gt;Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly "anti", but at least explicitly avoid it) that you know of?&lt;/p&gt;
+&lt;p&gt;I'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position.&lt;/p&gt;
+&lt;p&gt;For example, &lt;a href="https://www.rebeltechalliance.org" rel="ugc"&gt;https://www.rebeltechalliance.org&lt;/a&gt; would be one of those resources.&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;
 </description>
-      <category>devops</category>
       <category>ask</category>
     </item>
     <item>
@@ -143,26 +157,26 @@
       <category>unix</category>
     </item>
     <item>
-      <title>September in Servo: progress, rounded rectangles, and more</title>
-      <link>https://servo.org/blog/2026/11/05/september-in-servo/</link>
-      <guid>https://lobste.rs/s/u26wki</guid>
-      <author>servo.org via FedericoSchonborn</author>
-      <pubDate>Thu, 05 Nov 2026 07:47:56 -0600</pubDate>
-      <comments>https://lobste.rs/s/u26wki/september_servo_progress_rounded</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u26wki/september_servo_progress_rounded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>release</category>
+      <title>How a false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
+      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
+      <guid>https://lobste.rs/s/ii1gzp</guid>
+      <author>michael.bacarella.com by scanner_brightly</author>
+      <pubDate>Wed, 11 Nov 2026 10:27:51 -0600</pubDate>
+      <comments>https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>devops</category>
+      <category>ml</category>
     </item>
     <item>
-      <title>In Memoriam: Tim Peters 1952–2026</title>
-      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
-      <guid>https://lobste.rs/s/romf5e</guid>
-      <author>discuss.python.org via dbremner</author>
-      <pubDate>Wed, 11 Nov 2026 08:20:17 -0600</pubDate>
-      <comments>https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-      <category>python</category>
+      <title>Announcing Rust 1.100.0</title>
+      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
+      <guid>https://lobste.rs/s/81hnjw</guid>
+      <author>blog.rust-lang.org via theelx</author>
+      <pubDate>Thu, 12 Nov 2026 12:43:41 -0600</pubDate>
+      <comments>https://lobste.rs/s/81hnjw/announcing_rust_1_100_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/81hnjw/announcing_rust_1_100_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>rust</category>
     </item>
     <item>
       <title>Progress Report: Linux 7.3 - Asahi Linux</title>
@@ -174,20 +188,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>linux</category>
       <category>mac</category>
-    </item>
-    <item>
-      <title>What are some "No AI" apps/companies/resources you know of?</title>
-      <link>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</link>
-      <guid>https://lobste.rs/s/nld6x3</guid>
-      <author> by brn</author>
-      <pubDate>Wed, 11 Nov 2026 07:13:51 -0600</pubDate>
-      <comments>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</comments>
-      <description>&lt;p&gt;Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly "anti", but at least explicitly avoid it) that you know of?&lt;/p&gt;
-&lt;p&gt;I'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position.&lt;/p&gt;
-&lt;p&gt;For example, &lt;a href="https://www.rebeltechalliance.org" rel="ugc"&gt;https://www.rebeltechalliance.org&lt;/a&gt; would be one of those resources.&lt;/p&gt;
-&lt;p&gt;Thank you!&lt;/p&gt;
-</description>
-      <category>ask</category>
     </item>
     <item>
       <title>The Port That Does Not Exist</title>
@@ -231,16 +231,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>SourceHut disabled registration bypass | CVE-2026-121728</title>
-      <link>https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/</link>
-      <guid>https://lobste.rs/s/x2hcss</guid>
-      <author>blog.arusekk.pl via mhm</author>
-      <pubDate>Thu, 05 Nov 2026 12:34:41 -0600</pubDate>
-      <comments>https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>*sshole, or when are we finally going to get rid of C?</title>
       <link>https://sunshowers.io/posts/sshole/</link>
       <guid>https://lobste.rs/s/owsnms</guid>
@@ -261,15 +251,15 @@
       <category>security</category>
     </item>
     <item>
-      <title>Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward</title>
-      <link>https://isocpp.org/files/papers/P4454R0.pdf</link>
-      <guid>https://lobste.rs/s/vlagyq</guid>
-      <author>isocpp.org via mort</author>
-      <pubDate>Sun, 08 Nov 2026 15:59:26 -0600</pubDate>
-      <comments>https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>pdf</category>
-      <category>c++</category>
+      <title>I deleted all my SSH keys</title>
+      <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
+      <guid>https://lobste.rs/s/sdtcvv</guid>
+      <author>blog.infected.systems via pushcx</author>
+      <pubDate>Tue, 10 Nov 2026 14:49:23 -0600</pubDate>
+      <comments>https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>hardware</category>
     </item>
     <item>
       <title>Sure mate, buy me a bloody coffee</title>
@@ -280,6 +270,16 @@
       <comments>https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>culture</category>
+    </item>
+    <item>
+      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
+      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
+      <guid>https://lobste.rs/s/fdnic2</guid>
+      <author>lwn.net via calvin</author>
+      <pubDate>Tue, 10 Nov 2026 10:57:25 -0600</pubDate>
+      <comments>https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
     </item>
   </channel>
 </rss>

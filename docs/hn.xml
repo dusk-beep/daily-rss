@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Tim Peters has died</title>
-      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
-      <description>953 points • 102 comments • by ayhanfuat&#xA;https://news.ycombinator.com/item?id=50450488</description>
-      <pubDate>Thu, 12 Nov 2026 04:00:25 +0000</pubDate>
-      <guid>50450488</guid>
+      <title>Jensen Huang resigns</title>
+      <link>https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f</link>
+      <description>3088 points • 2896 comments • by lldb&#xA;https://news.ycombinator.com/item?id=50467087</description>
+      <pubDate>Fri, 13 Nov 2026 03:30:34 +0000</pubDate>
+      <guid>50467087</guid>
     </item>
     <item>
-      <title>My AI agents found an unmapped Maya site?</title>
-      <link>https://pietromiotti.com/latest/maya-site</link>
-      <description>946 points • 342 comments • by eyvindn&#xA;https://news.ycombinator.com/item?id=50452455</description>
-      <pubDate>Thu, 12 Nov 2026 03:59:25 +0000</pubDate>
-      <guid>50452455</guid>
+      <title>Anthropic IPO</title>
+      <link>https://ipo.anthropic.com/us/</link>
+      <description>844 points • 822 comments • by josephljohnston&#xA;https://news.ycombinator.com/item?id=50465829</description>
+      <pubDate>Fri, 13 Nov 2026 03:29:34 +0000</pubDate>
+      <guid>50465829</guid>
     </item>
     <item>
-      <title>AWS emulator</title>
-      <link>https://github.com/aws/aws-emulator</link>
-      <description>739 points • 224 comments • by super_linear&#xA;https://news.ycombinator.com/item?id=50456631</description>
-      <pubDate>Thu, 12 Nov 2026 03:58:25 +0000</pubDate>
-      <guid>50456631</guid>
+      <title>Service degradation on Microsoft 365</title>
+      <link>https://status.cloud.microsoft/</link>
+      <description>583 points • 537 comments • by dkpk&#xA;https://news.ycombinator.com/item?id=50471731</description>
+      <pubDate>Fri, 13 Nov 2026 03:28:34 +0000</pubDate>
+      <guid>50471731</guid>
     </item>
     <item>
-      <title>Nvidia is preparing to oust Jensen Huang</title>
-      <link>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad</link>
-      <description>677 points • 941 comments • by jbredeche&#xA;https://news.ycombinator.com/item?id=50459703</description>
-      <pubDate>Thu, 12 Nov 2026 03:57:25 +0000</pubDate>
-      <guid>50459703</guid>
+      <title>Rust 1.100</title>
+      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
+      <description>481 points • 206 comments • by mbStavola&#xA;https://news.ycombinator.com/item?id=50472038</description>
+      <pubDate>Fri, 13 Nov 2026 03:27:34 +0000</pubDate>
+      <guid>50472038</guid>
     </item>
     <item>
-      <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
-      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
-      <description>452 points • 432 comments • by herpderperator&#xA;https://news.ycombinator.com/item?id=50458900</description>
-      <pubDate>Thu, 12 Nov 2026 03:56:25 +0000</pubDate>
-      <guid>50458900</guid>
+      <title>Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <description>480 points • 302 comments • by dvaplima&#xA;https://news.ycombinator.com/item?id=50471431</description>
+      <pubDate>Fri, 13 Nov 2026 03:26:34 +0000</pubDate>
+      <guid>50471431</guid>
     </item>
     <item>
-      <title>A false smoke alarm almost drowned Jane Street&#39;s only NYC datacenter</title>
-      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
-      <description>437 points • 223 comments • by mbac32768&#xA;https://news.ycombinator.com/item?id=50455394</description>
-      <pubDate>Thu, 12 Nov 2026 03:55:25 +0000</pubDate>
-      <guid>50455394</guid>
+      <title>Ask HN: Microsoft/Azure Outage?</title>
+      <link>https://news.ycombinator.com/item?id=50471668</link>
+      <description>401 points • 1 comments • by nazgulsenpai&#xA;https://news.ycombinator.com/item?id=50471668</description>
+      <pubDate>Fri, 13 Nov 2026 03:25:34 +0000</pubDate>
+      <guid>50471668</guid>
     </item>
     <item>
-      <title>Protecting SSH Keys with macOS Secure Enclave</title>
-      <link>https://gatezh.com/posts/macos-secure-enclave-ssh-keys/</link>
-      <description>385 points • 137 comments • by js2&#xA;https://news.ycombinator.com/item?id=50449748</description>
-      <pubDate>Thu, 12 Nov 2026 03:54:25 +0000</pubDate>
-      <guid>50449748</guid>
+      <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
+      <link>https://github.com/simpsoka/zigzag</link>
+      <description>374 points • 147 comments • by simpsoka&#xA;https://news.ycombinator.com/item?id=50470488</description>
+      <pubDate>Fri, 13 Nov 2026 03:24:34 +0000</pubDate>
+      <guid>50470488</guid>
     </item>
     <item>
-      <title>I asked every TV manufacturer 17 questions about how they spy on you</title>
-      <link>https://www.theverge.com/tech/1012372/tv-privacy-acr-questions</link>
-      <description>343 points • 238 comments • by Brajeshwar&#xA;https://news.ycombinator.com/item?id=50453474</description>
-      <pubDate>Thu, 12 Nov 2026 03:53:25 +0000</pubDate>
-      <guid>50453474</guid>
+      <title>Jensen Huang resigns as Nvidia CEO immediately</title>
+      <link>https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/</link>
+      <description>374 points • 14 comments • by ksec&#xA;https://news.ycombinator.com/item?id=50467132</description>
+      <pubDate>Fri, 13 Nov 2026 03:23:34 +0000</pubDate>
+      <guid>50467132</guid>
     </item>
     <item>
-      <title>Hyper-Realistic Sand with WebGL2</title>
-      <link>https://av.github.io/safe-sand/</link>
-      <description>331 points • 66 comments • by everlier&#xA;https://news.ycombinator.com/item?id=50453288</description>
-      <pubDate>Thu, 12 Nov 2026 03:52:25 +0000</pubDate>
-      <guid>50453288</guid>
+      <title>&#34;Humble Bundle just killed most of their security through vibecoding&#34;</title>
+      <link>https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/</link>
+      <description>372 points • 222 comments • by rdmuser&#xA;https://news.ycombinator.com/item?id=50463899</description>
+      <pubDate>Fri, 13 Nov 2026 03:22:34 +0000</pubDate>
+      <guid>50463899</guid>
     </item>
     <item>
-      <title>Gemini Decisions API</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-      <description>312 points • 100 comments • by iamdelirium&#xA;https://news.ycombinator.com/item?id=50456791</description>
-      <pubDate>Thu, 12 Nov 2026 03:51:25 +0000</pubDate>
-      <guid>50456791</guid>
+      <title>Writing correct software is hard and math alone won’t help us (2016)</title>
+      <link>https://pron.github.io/posts/correctness-and-complexity</link>
+      <description>360 points • 172 comments • by AriFordsham&#xA;https://news.ycombinator.com/item?id=50465352</description>
+      <pubDate>Fri, 13 Nov 2026 03:21:34 +0000</pubDate>
+      <guid>50465352</guid>
     </item>
   </channel>
 </rss>
