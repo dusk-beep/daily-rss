@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Jensen Huang resigns</title>
-      <link>https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f</link>
-      <description>3088 points • 2896 comments • by lldb&#xA;https://news.ycombinator.com/item?id=50467087</description>
-      <pubDate>Fri, 13 Nov 2026 03:30:34 +0000</pubDate>
-      <guid>50467087</guid>
+      <title>FAA issues national ground stop</title>
+      <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
+      <description>1379 points • 851 comments • by zulln&#xA;https://news.ycombinator.com/item?id=50489641</description>
+      <pubDate>Sat, 14 Nov 2026 03:27:42 +0000</pubDate>
+      <guid>50489641</guid>
     </item>
     <item>
-      <title>Anthropic IPO</title>
-      <link>https://ipo.anthropic.com/us/</link>
-      <description>844 points • 822 comments • by josephljohnston&#xA;https://news.ycombinator.com/item?id=50465829</description>
-      <pubDate>Fri, 13 Nov 2026 03:29:34 +0000</pubDate>
-      <guid>50465829</guid>
+      <title>LibreOffice actually works 365 days a year</title>
+      <link>https://twitter.com/LibreOffice/status/2121205272479998268</link>
+      <description>842 points • 258 comments • by mksaunders2&#xA;https://news.ycombinator.com/item?id=50486482</description>
+      <pubDate>Sat, 14 Nov 2026 03:26:42 +0000</pubDate>
+      <guid>50486482</guid>
     </item>
     <item>
-      <title>Service degradation on Microsoft 365</title>
-      <link>https://status.cloud.microsoft/</link>
-      <description>583 points • 537 comments • by dkpk&#xA;https://news.ycombinator.com/item?id=50471731</description>
-      <pubDate>Fri, 13 Nov 2026 03:28:34 +0000</pubDate>
-      <guid>50471731</guid>
+      <title>Nvidia employees petition to bring back Jensen Huang</title>
+      <link>https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/</link>
+      <description>794 points • 652 comments • by lavendermon&#xA;https://news.ycombinator.com/item?id=50477231</description>
+      <pubDate>Sat, 14 Nov 2026 03:25:42 +0000</pubDate>
+      <guid>50477231</guid>
     </item>
     <item>
-      <title>Rust 1.100</title>
-      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
-      <description>481 points • 206 comments • by mbStavola&#xA;https://news.ycombinator.com/item?id=50472038</description>
-      <pubDate>Fri, 13 Nov 2026 03:27:34 +0000</pubDate>
-      <guid>50472038</guid>
+      <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
+      <link>https://status.claude.com/incidents/nn11wk485zfn</link>
+      <description>484 points • 383 comments • by __vivek&#xA;https://news.ycombinator.com/item?id=50481187</description>
+      <pubDate>Sat, 14 Nov 2026 03:24:42 +0000</pubDate>
+      <guid>50481187</guid>
     </item>
     <item>
-      <title>Gemini 4 Hydrogen</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <description>480 points • 302 comments • by dvaplima&#xA;https://news.ycombinator.com/item?id=50471431</description>
-      <pubDate>Fri, 13 Nov 2026 03:26:34 +0000</pubDate>
-      <guid>50471431</guid>
+      <title>Doomsday: Friday, 13 November, A.D. 2026 (1960)</title>
+      <link>https://www.science.org/doi/10.1126/science.132.3436.1291</link>
+      <description>464 points • 315 comments • by voxleone&#xA;https://news.ycombinator.com/item?id=50482379</description>
+      <pubDate>Sat, 14 Nov 2026 03:23:42 +0000</pubDate>
+      <guid>50482379</guid>
     </item>
     <item>
-      <title>Ask HN: Microsoft/Azure Outage?</title>
-      <link>https://news.ycombinator.com/item?id=50471668</link>
-      <description>401 points • 1 comments • by nazgulsenpai&#xA;https://news.ycombinator.com/item?id=50471668</description>
-      <pubDate>Fri, 13 Nov 2026 03:25:34 +0000</pubDate>
-      <guid>50471668</guid>
+      <title>Microsoft Outlook/365 still down after 12 hours</title>
+      <link>https://twitter.com/MSFT365Status/status/2121079061774491735</link>
+      <description>463 points • 308 comments • by player85&#xA;https://news.ycombinator.com/item?id=50478609</description>
+      <pubDate>Sat, 14 Nov 2026 03:22:42 +0000</pubDate>
+      <guid>50478609</guid>
     </item>
     <item>
-      <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
-      <link>https://github.com/simpsoka/zigzag</link>
-      <description>374 points • 147 comments • by simpsoka&#xA;https://news.ycombinator.com/item?id=50470488</description>
-      <pubDate>Fri, 13 Nov 2026 03:24:34 +0000</pubDate>
-      <guid>50470488</guid>
+      <title>IceWM</title>
+      <link>https://ice-wm.org/</link>
+      <description>356 points • 217 comments • by inatreecrown2&#xA;https://news.ycombinator.com/item?id=50478515</description>
+      <pubDate>Sat, 14 Nov 2026 03:21:42 +0000</pubDate>
+      <guid>50478515</guid>
     </item>
     <item>
-      <title>Jensen Huang resigns as Nvidia CEO immediately</title>
-      <link>https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/</link>
-      <description>374 points • 14 comments • by ksec&#xA;https://news.ycombinator.com/item?id=50467132</description>
-      <pubDate>Fri, 13 Nov 2026 03:23:34 +0000</pubDate>
-      <guid>50467132</guid>
+      <title>AI unlocks Gödel&#39;s notebooks, said to contain hundreds of proved theorems</title>
+      <link>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</link>
+      <description>347 points • 93 comments • by bookofjoe&#xA;https://news.ycombinator.com/item?id=50486748</description>
+      <pubDate>Sat, 14 Nov 2026 03:20:42 +0000</pubDate>
+      <guid>50486748</guid>
     </item>
     <item>
-      <title>&#34;Humble Bundle just killed most of their security through vibecoding&#34;</title>
-      <link>https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/</link>
-      <description>372 points • 222 comments • by rdmuser&#xA;https://news.ycombinator.com/item?id=50463899</description>
-      <pubDate>Fri, 13 Nov 2026 03:22:34 +0000</pubDate>
-      <guid>50463899</guid>
+      <title>AI is destroying the trust between writers and readers</title>
+      <link>https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/</link>
+      <description>318 points • 196 comments • by FinnLobsien&#xA;https://news.ycombinator.com/item?id=50481870</description>
+      <pubDate>Sat, 14 Nov 2026 03:19:42 +0000</pubDate>
+      <guid>50481870</guid>
     </item>
     <item>
-      <title>Writing correct software is hard and math alone won’t help us (2016)</title>
-      <link>https://pron.github.io/posts/correctness-and-complexity</link>
-      <description>360 points • 172 comments • by AriFordsham&#xA;https://news.ycombinator.com/item?id=50465352</description>
-      <pubDate>Fri, 13 Nov 2026 03:21:34 +0000</pubDate>
-      <guid>50465352</guid>
+      <title>It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad</title>
+      <link>https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/</link>
+      <description>310 points • 157 comments • by BobaFloutist&#xA;https://news.ycombinator.com/item?id=50487522</description>
+      <pubDate>Sat, 14 Nov 2026 03:18:42 +0000</pubDate>
+      <guid>50487522</guid>
     </item>
   </channel>
 </rss>

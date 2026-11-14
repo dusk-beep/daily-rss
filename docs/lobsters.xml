@@ -28,18 +28,6 @@
       <category>networking</category>
     </item>
     <item>
-      <title>Libghostty 1.0</title>
-      <link>https://mitchellh.com/writing/libghostty-1-0</link>
-      <guid>https://lobste.rs/s/0ouxwf</guid>
-      <author>mitchellh.com via dgv</author>
-      <pubDate>Fri, 06 Nov 2026 17:48:03 -0600</pubDate>
-      <comments>https://lobste.rs/s/0ouxwf/libghostty_1_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0ouxwf/libghostty_1_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
-      <category>release</category>
-      <category>zig</category>
-    </item>
-    <item>
       <title>Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
       <link>https://terminal2shell.com/</link>
       <guid>https://lobste.rs/s/vghqe8</guid>
@@ -49,6 +37,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>satire</category>
+    </item>
+    <item>
+      <title>Announcing Rust 1.100.0</title>
+      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
+      <guid>https://lobste.rs/s/81hnjw</guid>
+      <author>blog.rust-lang.org via theelx</author>
+      <pubDate>Thu, 12 Nov 2026 12:43:41 -0600</pubDate>
+      <comments>https://lobste.rs/s/81hnjw/announcing_rust_1_100_0</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/81hnjw/announcing_rust_1_100_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>rust</category>
     </item>
     <item>
       <title>How do you actually self-host securely?</title>
@@ -102,16 +101,6 @@
       <category>ask</category>
     </item>
     <item>
-      <title>How Much Energy Does Building Distro Packages Use</title>
-      <link>https://www.wezm.net/v2/posts/2026/distro-energy-use/</link>
-      <guid>https://lobste.rs/s/ezjewj</guid>
-      <author>wezm.net by wezm</author>
-      <pubDate>Mon, 09 Nov 2026 00:44:59 -0600</pubDate>
-      <comments>https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-    </item>
-    <item>
       <title>What are some "No AI" apps/companies/resources you know of?</title>
       <link>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</link>
       <guid>https://lobste.rs/s/nld6x3</guid>
@@ -126,6 +115,16 @@
       <category>ask</category>
     </item>
     <item>
+      <title>How Much Energy Does Building Distro Packages Use</title>
+      <link>https://www.wezm.net/v2/posts/2026/distro-energy-use/</link>
+      <guid>https://lobste.rs/s/ezjewj</guid>
+      <author>wezm.net by wezm</author>
+      <pubDate>Mon, 09 Nov 2026 00:44:59 -0600</pubDate>
+      <comments>https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezjewj/how_much_energy_does_building_distro"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+    </item>
+    <item>
       <title>unlocking any car from X brand in most of the world</title>
       <link>https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</link>
       <guid>https://lobste.rs/s/kbrpx3</guid>
@@ -135,16 +134,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>reversing</category>
-    </item>
-    <item>
-      <title>Microsoft are rejecting your mail</title>
-      <link>https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/</link>
-      <guid>https://lobste.rs/s/ynik5s</guid>
-      <author>mythic-beasts.com via robalex</author>
-      <pubDate>Mon, 09 Nov 2026 12:36:47 -0600</pubDate>
-      <comments>https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>email</category>
     </item>
     <item>
       <title>The hardest tarball</title>
@@ -168,15 +157,46 @@
       <category>ml</category>
     </item>
     <item>
-      <title>Announcing Rust 1.100.0</title>
-      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
-      <guid>https://lobste.rs/s/81hnjw</guid>
-      <author>blog.rust-lang.org via theelx</author>
-      <pubDate>Thu, 12 Nov 2026 12:43:41 -0600</pubDate>
-      <comments>https://lobste.rs/s/81hnjw/announcing_rust_1_100_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/81hnjw/announcing_rust_1_100_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>rust</category>
+      <title>Microsoft are rejecting your mail</title>
+      <link>https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/</link>
+      <guid>https://lobste.rs/s/ynik5s</guid>
+      <author>mythic-beasts.com via robalex</author>
+      <pubDate>Mon, 09 Nov 2026 12:36:47 -0600</pubDate>
+      <comments>https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>email</category>
+    </item>
+    <item>
+      <title>How Not to Build a Music Player</title>
+      <link>https://alichraghi.github.io/blog/how-not-to-build-a-music-player</link>
+      <guid>https://lobste.rs/s/lh9pwf</guid>
+      <author>alichraghi.github.io by alichraghi</author>
+      <pubDate>Fri, 13 Nov 2026 03:16:28 -0600</pubDate>
+      <comments>https://lobste.rs/s/lh9pwf/how_not_build_music_player</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+      <category>zig</category>
+    </item>
+    <item>
+      <title>Hello Baochip</title>
+      <link>https://ratfactor.com/cards/hello-baochip</link>
+      <guid>https://lobste.rs/s/3gw2f4</guid>
+      <author>ratfactor.com via jbauer</author>
+      <pubDate>Thu, 12 Nov 2026 04:09:16 -0600</pubDate>
+      <comments>https://lobste.rs/s/3gw2f4/hello_baochip</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3gw2f4/hello_baochip"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+    </item>
+    <item>
+      <title>The entirety of "Let Over Lambda" is now freely available online</title>
+      <link>https://letoverlambda.com/</link>
+      <guid>https://lobste.rs/s/ooshl8</guid>
+      <author>letoverlambda.com via nemin</author>
+      <pubDate>Thu, 12 Nov 2026 06:44:34 -0600</pubDate>
+      <comments>https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lisp</category>
+      <category>book</category>
     </item>
     <item>
       <title>Progress Report: Linux 7.3 - Asahi Linux</title>
@@ -190,16 +210,6 @@
       <category>mac</category>
     </item>
     <item>
-      <title>The Port That Does Not Exist</title>
-      <link>https://acid.vegas/blog/the-port-that-does-not-exist/</link>
-      <guid>https://lobste.rs/s/osqswf</guid>
-      <author>acid.vegas via drmorr</author>
-      <pubDate>Fri, 06 Nov 2026 17:03:12 -0600</pubDate>
-      <comments>https://lobste.rs/s/osqswf/port_does_not_exist</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/osqswf/port_does_not_exist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-    </item>
-    <item>
       <title>You should try Gleam</title>
       <link>https://nchagnet.eu/blog/you-should-try-gleam</link>
       <guid>https://lobste.rs/s/4yqgpu</guid>
@@ -208,16 +218,6 @@
       <comments>https://lobste.rs/s/4yqgpu/you_should_try_gleam</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4yqgpu/you_should_try_gleam"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>gleam</category>
-    </item>
-    <item>
-      <title>Making musl and proprietary NVIDIA drivers work together</title>
-      <link>https://chimera-linux.org/news/2026/11/musl-nvidia.html</link>
-      <guid>https://lobste.rs/s/hvxjbb</guid>
-      <author>chimera-linux.org by q66</author>
-      <pubDate>Fri, 06 Nov 2026 07:23:14 -0600</pubDate>
-      <comments>https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hvxjbb/making_musl_proprietary_nvidia_drivers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
     </item>
     <item>
       <title>Meridian — an experimental web browser built on Servo and GPUI</title>
@@ -229,6 +229,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
       <category>rust</category>
+    </item>
+    <item>
+      <title>I deleted all my SSH keys</title>
+      <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
+      <guid>https://lobste.rs/s/sdtcvv</guid>
+      <author>blog.infected.systems via pushcx</author>
+      <pubDate>Tue, 10 Nov 2026 14:49:23 -0600</pubDate>
+      <comments>https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>hardware</category>
     </item>
     <item>
       <title>*sshole, or when are we finally going to get rid of C?</title>
@@ -251,15 +262,14 @@
       <category>security</category>
     </item>
     <item>
-      <title>I deleted all my SSH keys</title>
-      <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
-      <guid>https://lobste.rs/s/sdtcvv</guid>
-      <author>blog.infected.systems via pushcx</author>
-      <pubDate>Tue, 10 Nov 2026 14:49:23 -0600</pubDate>
-      <comments>https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>hardware</category>
+      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
+      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
+      <guid>https://lobste.rs/s/fdnic2</guid>
+      <author>lwn.net via calvin</author>
+      <pubDate>Tue, 10 Nov 2026 10:57:25 -0600</pubDate>
+      <comments>https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
     </item>
     <item>
       <title>Sure mate, buy me a bloody coffee</title>
@@ -270,16 +280,6 @@
       <comments>https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>culture</category>
-    </item>
-    <item>
-      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
-      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
-      <guid>https://lobste.rs/s/fdnic2</guid>
-      <author>lwn.net via calvin</author>
-      <pubDate>Tue, 10 Nov 2026 10:57:25 -0600</pubDate>
-      <comments>https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
     </item>
   </channel>
 </rss>
