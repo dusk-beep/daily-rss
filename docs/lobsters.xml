@@ -28,17 +28,6 @@
       <category>networking</category>
     </item>
     <item>
-      <title>Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
-      <link>https://terminal2shell.com/</link>
-      <guid>https://lobste.rs/s/vghqe8</guid>
-      <author>terminal2shell.com via whjms</author>
-      <pubDate>Mon, 09 Nov 2026 09:41:50 -0600</pubDate>
-      <comments>https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>satire</category>
-    </item>
-    <item>
       <title>Announcing Rust 1.100.0</title>
       <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
       <guid>https://lobste.rs/s/81hnjw</guid>
@@ -48,6 +37,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/81hnjw/announcing_rust_1_100_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>rust</category>
+    </item>
+    <item>
+      <title>Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
+      <link>https://terminal2shell.com/</link>
+      <guid>https://lobste.rs/s/vghqe8</guid>
+      <author>terminal2shell.com via whjms</author>
+      <pubDate>Mon, 09 Nov 2026 09:41:50 -0600</pubDate>
+      <comments>https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>satire</category>
     </item>
     <item>
       <title>How do you actually self-host securely?</title>
@@ -86,19 +86,15 @@
       <category>cryptography</category>
     </item>
     <item>
-      <title>How are you dealing with all the negative side effects of AI on the web?</title>
-      <link>https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side</link>
-      <guid>https://lobste.rs/s/ipplhe</guid>
-      <author> by tmcb</author>
-      <pubDate>Sat, 07 Nov 2026 03:47:24 -0600</pubDate>
-      <comments>https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side</comments>
-      <description>&lt;p&gt;It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.&lt;/p&gt;
-&lt;p&gt;Search engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.&lt;/p&gt;
-&lt;p&gt;I also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze.&lt;/em&gt;&lt;/p&gt;
-</description>
-      <category>web</category>
-      <category>ask</category>
+      <title>How Not to Build a Music Player</title>
+      <link>https://alichraghi.github.io/blog/how-not-to-build-a-music-player</link>
+      <guid>https://lobste.rs/s/lh9pwf</guid>
+      <author>alichraghi.github.io by alichraghi</author>
+      <pubDate>Fri, 13 Nov 2026 03:16:28 -0600</pubDate>
+      <comments>https://lobste.rs/s/lh9pwf/how_not_build_music_player</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>person</category>
+      <category>zig</category>
     </item>
     <item>
       <title>What are some "No AI" apps/companies/resources you know of?</title>
@@ -167,15 +163,16 @@
       <category>email</category>
     </item>
     <item>
-      <title>How Not to Build a Music Player</title>
-      <link>https://alichraghi.github.io/blog/how-not-to-build-a-music-player</link>
-      <guid>https://lobste.rs/s/lh9pwf</guid>
-      <author>alichraghi.github.io by alichraghi</author>
-      <pubDate>Fri, 13 Nov 2026 03:16:28 -0600</pubDate>
-      <comments>https://lobste.rs/s/lh9pwf/how_not_build_music_player</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-      <category>zig</category>
+      <title>The need for at least a third option</title>
+      <link>https://blog.ovalerio.net/archives/3359</link>
+      <guid>https://lobste.rs/s/9oq6fr</guid>
+      <author>blog.ovalerio.net by dethos</author>
+      <pubDate>Fri, 13 Nov 2026 05:36:44 -0600</pubDate>
+      <comments>https://lobste.rs/s/9oq6fr/need_for_at_least_third_option</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9oq6fr/need_for_at_least_third_option"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>mobile</category>
+      <category>android</category>
+      <category>ios</category>
     </item>
     <item>
       <title>Hello Baochip</title>
@@ -199,17 +196,6 @@
       <category>book</category>
     </item>
     <item>
-      <title>Progress Report: Linux 7.3 - Asahi Linux</title>
-      <link>https://asahilinux.org/2026/11/progress-report-7-3/</link>
-      <guid>https://lobste.rs/s/4qiair</guid>
-      <author>asahilinux.org via signal-11</author>
-      <pubDate>Sat, 07 Nov 2026 00:02:38 -0600</pubDate>
-      <comments>https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>mac</category>
-    </item>
-    <item>
       <title>You should try Gleam</title>
       <link>https://nchagnet.eu/blog/you-should-try-gleam</link>
       <guid>https://lobste.rs/s/4yqgpu</guid>
@@ -218,17 +204,6 @@
       <comments>https://lobste.rs/s/4yqgpu/you_should_try_gleam</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4yqgpu/you_should_try_gleam"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>gleam</category>
-    </item>
-    <item>
-      <title>Meridian — an experimental web browser built on Servo and GPUI</title>
-      <link>https://op.tngl.io/meridian/</link>
-      <guid>https://lobste.rs/s/j63dme</guid>
-      <author>op.tngl.io via icy</author>
-      <pubDate>Sat, 07 Nov 2026 03:21:55 -0600</pubDate>
-      <comments>https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j63dme/meridian_experimental_web_browser_built"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
-      <category>rust</category>
     </item>
     <item>
       <title>I deleted all my SSH keys</title>
@@ -240,16 +215,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>hardware</category>
-    </item>
-    <item>
-      <title>*sshole, or when are we finally going to get rid of C?</title>
-      <link>https://sunshowers.io/posts/sshole/</link>
-      <guid>https://lobste.rs/s/owsnms</guid>
-      <author>sunshowers.io via novedevo</author>
-      <pubDate>Sat, 07 Nov 2026 15:05:35 -0600</pubDate>
-      <comments>https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
     </item>
     <item>
       <title>Let’s Talk About Why all This OT Stuff is Connected</title>
@@ -280,6 +245,39 @@
       <comments>https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eeclwg/sure_mate_buy_me_bloody_coffee"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>culture</category>
+    </item>
+    <item>
+      <title>Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward</title>
+      <link>https://isocpp.org/files/papers/P4454R0.pdf</link>
+      <guid>https://lobste.rs/s/vlagyq</guid>
+      <author>isocpp.org via mort</author>
+      <pubDate>Sun, 08 Nov 2026 15:59:26 -0600</pubDate>
+      <comments>https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>pdf</category>
+      <category>c++</category>
+    </item>
+    <item>
+      <title>Probabilistic data structures in Go</title>
+      <link>https://antonz.org/probabilistic-data-structures/</link>
+      <guid>https://lobste.rs/s/xca2qj</guid>
+      <author>antonz.org via cgrinds</author>
+      <pubDate>Fri, 13 Nov 2026 10:03:44 -0600</pubDate>
+      <comments>https://lobste.rs/s/xca2qj/probabilistic_data_structures_go</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+    </item>
+    <item>
+      <title>Terminal borders that don't cost a cell</title>
+      <link>https://www.joshka.net/cell-borders/</link>
+      <guid>https://lobste.rs/s/akdy9z</guid>
+      <author>joshka.net by joshka</author>
+      <pubDate>Fri, 13 Nov 2026 06:03:19 -0600</pubDate>
+      <comments>https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>design</category>
+      <category>programming</category>
+      <category>graphics</category>
     </item>
   </channel>
 </rss>
