@@ -76,16 +76,6 @@
       <category>python</category>
     </item>
     <item>
-      <title>Horrible public key tricks</title>
-      <link>https://maurycyz.com/projects/badcert/</link>
-      <guid>https://lobste.rs/s/txkq8s</guid>
-      <author>maurycyz.com via rrampage</author>
-      <pubDate>Mon, 09 Nov 2026 06:55:11 -0600</pubDate>
-      <comments>https://lobste.rs/s/txkq8s/horrible_public_key_tricks</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/txkq8s/horrible_public_key_tricks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>cryptography</category>
-    </item>
-    <item>
       <title>How Not to Build a Music Player</title>
       <link>https://alichraghi.github.io/blog/how-not-to-build-a-music-player</link>
       <guid>https://lobste.rs/s/lh9pwf</guid>
@@ -95,6 +85,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh9pwf/how_not_build_music_player"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>person</category>
       <category>zig</category>
+    </item>
+    <item>
+      <title>Horrible public key tricks</title>
+      <link>https://maurycyz.com/projects/badcert/</link>
+      <guid>https://lobste.rs/s/txkq8s</guid>
+      <author>maurycyz.com via rrampage</author>
+      <pubDate>Mon, 09 Nov 2026 06:55:11 -0600</pubDate>
+      <comments>https://lobste.rs/s/txkq8s/horrible_public_key_tricks</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/txkq8s/horrible_public_key_tricks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>cryptography</category>
     </item>
     <item>
       <title>What are some "No AI" apps/companies/resources you know of?</title>
@@ -132,6 +132,18 @@
       <category>reversing</category>
     </item>
     <item>
+      <title>The need for at least a third option</title>
+      <link>https://blog.ovalerio.net/archives/3359</link>
+      <guid>https://lobste.rs/s/9oq6fr</guid>
+      <author>blog.ovalerio.net by dethos</author>
+      <pubDate>Fri, 13 Nov 2026 05:36:44 -0600</pubDate>
+      <comments>https://lobste.rs/s/9oq6fr/need_for_at_least_third_option</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9oq6fr/need_for_at_least_third_option"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>mobile</category>
+      <category>android</category>
+      <category>ios</category>
+    </item>
+    <item>
       <title>The hardest tarball</title>
       <link>https://stoppels.ch/2026/11/07/the-hardest-tarball.html</link>
       <guid>https://lobste.rs/s/t7qkjb</guid>
@@ -161,18 +173,6 @@
       <comments>https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>email</category>
-    </item>
-    <item>
-      <title>The need for at least a third option</title>
-      <link>https://blog.ovalerio.net/archives/3359</link>
-      <guid>https://lobste.rs/s/9oq6fr</guid>
-      <author>blog.ovalerio.net by dethos</author>
-      <pubDate>Fri, 13 Nov 2026 05:36:44 -0600</pubDate>
-      <comments>https://lobste.rs/s/9oq6fr/need_for_at_least_third_option</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9oq6fr/need_for_at_least_third_option"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>mobile</category>
-      <category>android</category>
-      <category>ios</category>
     </item>
     <item>
       <title>Hello Baochip</title>
@@ -206,6 +206,16 @@
       <category>gleam</category>
     </item>
     <item>
+      <title>Probabilistic data structures in Go</title>
+      <link>https://antonz.org/probabilistic-data-structures/</link>
+      <guid>https://lobste.rs/s/xca2qj</guid>
+      <author>antonz.org via cgrinds</author>
+      <pubDate>Fri, 13 Nov 2026 10:03:44 -0600</pubDate>
+      <comments>https://lobste.rs/s/xca2qj/probabilistic_data_structures_go</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+    </item>
+    <item>
       <title>I deleted all my SSH keys</title>
       <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
       <guid>https://lobste.rs/s/sdtcvv</guid>
@@ -215,6 +225,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>hardware</category>
+    </item>
+    <item>
+      <title>25 of my favourite modern NES games</title>
+      <link>https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</link>
+      <guid>https://lobste.rs/s/w9j7xs</guid>
+      <author>jordi.inversethought.com by JordiGH</author>
+      <pubDate>Sat, 14 Nov 2026 20:40:40 -0600</pubDate>
+      <comments>https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>games</category>
+      <category>retrocomputing</category>
     </item>
     <item>
       <title>Let’s Talk About Why all This OT Stuff is Connected</title>
@@ -227,16 +248,6 @@
       <category>security</category>
     </item>
     <item>
-      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
-      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
-      <guid>https://lobste.rs/s/fdnic2</guid>
-      <author>lwn.net via calvin</author>
-      <pubDate>Tue, 10 Nov 2026 10:57:25 -0600</pubDate>
-      <comments>https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-    </item>
-    <item>
       <title>Sure mate, buy me a bloody coffee</title>
       <link>https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/</link>
       <guid>https://lobste.rs/s/eeclwg</guid>
@@ -247,25 +258,14 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Herb Sutter: When a language’s creator and its owners strongly disagree: C++26 post-DIS, historical experience, and paths forward</title>
-      <link>https://isocpp.org/files/papers/P4454R0.pdf</link>
-      <guid>https://lobste.rs/s/vlagyq</guid>
-      <author>isocpp.org via mort</author>
-      <pubDate>Sun, 08 Nov 2026 15:59:26 -0600</pubDate>
-      <comments>https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vlagyq/herb_sutter_when_language_s_creator_its"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>pdf</category>
-      <category>c++</category>
-    </item>
-    <item>
-      <title>Probabilistic data structures in Go</title>
-      <link>https://antonz.org/probabilistic-data-structures/</link>
-      <guid>https://lobste.rs/s/xca2qj</guid>
-      <author>antonz.org via cgrinds</author>
-      <pubDate>Fri, 13 Nov 2026 10:03:44 -0600</pubDate>
-      <comments>https://lobste.rs/s/xca2qj/probabilistic_data_structures_go</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
+      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
+      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
+      <guid>https://lobste.rs/s/fdnic2</guid>
+      <author>lwn.net via calvin</author>
+      <pubDate>Tue, 10 Nov 2026 10:57:25 -0600</pubDate>
+      <comments>https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
     </item>
     <item>
       <title>Terminal borders that don't cost a cell</title>
