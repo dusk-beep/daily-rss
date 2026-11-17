@@ -187,16 +187,6 @@
       <category>culture</category>
     </item>
     <item>
-      <title>You should try Gleam</title>
-      <link>https://nchagnet.eu/blog/you-should-try-gleam</link>
-      <guid>https://lobste.rs/s/4yqgpu</guid>
-      <author>nchagnet.eu via trousers</author>
-      <pubDate>Mon, 09 Nov 2026 21:33:27 -0600</pubDate>
-      <comments>https://lobste.rs/s/4yqgpu/you_should_try_gleam</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4yqgpu/you_should_try_gleam"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>gleam</category>
-    </item>
-    <item>
       <title>Probabilistic data structures in Go</title>
       <link>https://antonz.org/probabilistic-data-structures/</link>
       <guid>https://lobste.rs/s/xca2qj</guid>
@@ -215,6 +205,17 @@
       <comments>https://lobste.rs/s/thiekk/paint_memory_other_programs</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/thiekk/paint_memory_other_programs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>visualization</category>
+      <category>programming</category>
+    </item>
+    <item>
+      <title>Migrating from GitHub to Codeberg</title>
+      <link>https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/</link>
+      <guid>https://lobste.rs/s/rhoopo</guid>
+      <author>yorickpeterse.com by yorickpeterse</author>
+      <pubDate>Sun, 15 Nov 2026 23:10:34 -0600</pubDate>
+      <comments>https://lobste.rs/s/rhoopo/migrating_from_github_codeberg</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
       <category>programming</category>
     </item>
     <item>
@@ -237,17 +238,6 @@
       <comments>https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>law</category>
-    </item>
-    <item>
-      <title>Migrating from GitHub to Codeberg</title>
-      <link>https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/</link>
-      <guid>https://lobste.rs/s/rhoopo</guid>
-      <author>yorickpeterse.com by yorickpeterse</author>
-      <pubDate>Sun, 15 Nov 2026 23:10:34 -0600</pubDate>
-      <comments>https://lobste.rs/s/rhoopo/migrating_from_github_codeberg</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
-      <category>programming</category>
     </item>
     <item>
       <title>Terminal borders that don't cost a cell</title>
@@ -280,6 +270,16 @@
       <comments>https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>c</category>
+    </item>
+    <item>
+      <title>Running a law firm on Free software (2026 edition)</title>
+      <link>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</link>
+      <guid>https://lobste.rs/s/ezl1sa</guid>
+      <author>decoded.legal via FedericoSchonborn</author>
+      <pubDate>Fri, 13 Nov 2026 05:20:32 -0600</pubDate>
+      <comments>https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
     </item>
   </channel>
 </rss>

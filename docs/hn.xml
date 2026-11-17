@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Qwen4-Max</title>
-      <link>https://qwen.ai/blog?id=qwen4-max</link>
-      <description>852 points • 470 comments • by ilreb&#xA;https://news.ycombinator.com/item?id=50513215</description>
-      <pubDate>Tue, 17 Nov 2026 01:01:28 +0000</pubDate>
-      <guid>50513215</guid>
-    </item>
-    <item>
-      <title>How to make almost anything</title>
-      <link>https://pub.cba.mit.edu/863.26/site/</link>
-      <description>833 points • 141 comments • by o4c&#xA;https://news.ycombinator.com/item?id=50514470</description>
-      <pubDate>Tue, 17 Nov 2026 01:00:28 +0000</pubDate>
-      <guid>50514470</guid>
+      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
+      <link>https://www.cs.cmu.edu/learn/</link>
+      <description>1028 points • 158 comments • by pcompeau&#xA;https://news.ycombinator.com/item?id=50522980</description>
+      <pubDate>Tue, 17 Nov 2026 05:10:41 +0000</pubDate>
+      <guid>50522980</guid>
     </item>
     <item>
       <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
       <link>http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</link>
-      <description>825 points • 502 comments • by DeepLogin&#xA;https://news.ycombinator.com/item?id=50517488</description>
-      <pubDate>Tue, 17 Nov 2026 00:59:28 +0000</pubDate>
+      <description>868 points • 517 comments • by DeepLogin&#xA;https://news.ycombinator.com/item?id=50517488</description>
+      <pubDate>Tue, 17 Nov 2026 05:09:41 +0000</pubDate>
       <guid>50517488</guid>
+    </item>
+    <item>
+      <title>How to make almost anything</title>
+      <link>https://pub.cba.mit.edu/863.26/site/</link>
+      <description>859 points • 144 comments • by o4c&#xA;https://news.ycombinator.com/item?id=50514470</description>
+      <pubDate>Tue, 17 Nov 2026 05:08:41 +0000</pubDate>
+      <guid>50514470</guid>
+    </item>
+    <item>
+      <title>Qwen4-Max</title>
+      <link>https://qwen.ai/blog?id=qwen4-max</link>
+      <description>856 points • 474 comments • by ilreb&#xA;https://news.ycombinator.com/item?id=50513215</description>
+      <pubDate>Tue, 17 Nov 2026 05:07:41 +0000</pubDate>
+      <guid>50513215</guid>
     </item>
     <item>
       <title>Technical issue at JPMorgan Chase triggers online banking delays for US banks</title>
       <link>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</link>
-      <description>705 points • 582 comments • by samk3nny&#xA;https://news.ycombinator.com/item?id=50521045</description>
-      <pubDate>Tue, 17 Nov 2026 00:58:28 +0000</pubDate>
+      <description>740 points • 620 comments • by samk3nny&#xA;https://news.ycombinator.com/item?id=50521045</description>
+      <pubDate>Tue, 17 Nov 2026 05:06:41 +0000</pubDate>
       <guid>50521045</guid>
-    </item>
-    <item>
-      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
-      <link>https://www.cs.cmu.edu/learn/</link>
-      <description>612 points • 96 comments • by pcompeau&#xA;https://news.ycombinator.com/item?id=50522980</description>
-      <pubDate>Tue, 17 Nov 2026 00:57:28 +0000</pubDate>
-      <guid>50522980</guid>
     </item>
     <item>
       <title>Universal XSS in uBlock Origin from website-driven element picker</title>
       <link>https://iter.ca/post/ubo-uxss/</link>
-      <description>596 points • 173 comments • by zaik&#xA;https://news.ycombinator.com/item?id=50513160</description>
-      <pubDate>Tue, 17 Nov 2026 00:56:28 +0000</pubDate>
+      <description>602 points • 175 comments • by zaik&#xA;https://news.ycombinator.com/item?id=50513160</description>
+      <pubDate>Tue, 17 Nov 2026 05:05:41 +0000</pubDate>
       <guid>50513160</guid>
+    </item>
+    <item>
+      <title>BugMeNot has closed</title>
+      <link>https://www.bugmenot.com/</link>
+      <description>417 points • 200 comments • by lode&#xA;https://news.ycombinator.com/item?id=50523601</description>
+      <pubDate>Tue, 17 Nov 2026 05:04:41 +0000</pubDate>
+      <guid>50523601</guid>
+    </item>
+    <item>
+      <title>Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <description>389 points • 246 comments • by cwaffles&#xA;https://news.ycombinator.com/item?id=50524736</description>
+      <pubDate>Tue, 17 Nov 2026 05:03:41 +0000</pubDate>
+      <guid>50524736</guid>
     </item>
     <item>
       <title>Software is breaking down at a systemic level</title>
       <link>https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/</link>
-      <description>334 points • 212 comments • by zero_shift&#xA;https://news.ycombinator.com/item?id=50520866</description>
-      <pubDate>Tue, 17 Nov 2026 00:55:28 +0000</pubDate>
+      <description>353 points • 223 comments • by zero_shift&#xA;https://news.ycombinator.com/item?id=50520866</description>
+      <pubDate>Tue, 17 Nov 2026 05:02:41 +0000</pubDate>
       <guid>50520866</guid>
     </item>
     <item>
-      <title>What is w2rt6byl5nf1opmc-a.com?</title>
-      <link>https://jack.cab/blog/siterate</link>
-      <description>313 points • 141 comments • by dverlaeckt80&#xA;https://news.ycombinator.com/item?id=50517602</description>
-      <pubDate>Tue, 17 Nov 2026 00:54:28 +0000</pubDate>
-      <guid>50517602</guid>
-    </item>
-    <item>
-      <title>Jiff 1.0: A datetime library for Rust</title>
-      <link>https://burntsushi.net/jiff/</link>
-      <description>300 points • 72 comments • by burntsushi&#xA;https://news.ycombinator.com/item?id=50519744</description>
-      <pubDate>Tue, 17 Nov 2026 00:53:28 +0000</pubDate>
-      <guid>50519744</guid>
-    </item>
-    <item>
-      <title>The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)</title>
-      <link>https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/</link>
-      <description>296 points • 115 comments • by sammatilda&#xA;https://news.ycombinator.com/item?id=50516473</description>
-      <pubDate>Tue, 17 Nov 2026 00:52:28 +0000</pubDate>
-      <guid>50516473</guid>
+      <title>Frame – 31.5&#34; color ePaper display</title>
+      <link>https://trmnl.com/blog/introducing-frame</link>
+      <description>347 points • 244 comments • by geerlingguy&#xA;https://news.ycombinator.com/item?id=50519354</description>
+      <pubDate>Tue, 17 Nov 2026 05:01:41 +0000</pubDate>
+      <guid>50519354</guid>
     </item>
   </channel>
 </rss>
