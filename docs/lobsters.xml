@@ -18,16 +18,6 @@
       <category>security</category>
     </item>
     <item>
-      <title>.name grandfathered</title>
-      <link>https://neil.fraser.name/news/2026/11/10/</link>
-      <guid>https://lobste.rs/s/vkkbwo</guid>
-      <author>neil.fraser.name via classichasclass</author>
-      <pubDate>Tue, 10 Nov 2026 10:52:12 -0600</pubDate>
-      <comments>https://lobste.rs/s/vkkbwo/name_grandfathered</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vkkbwo/name_grandfathered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-    </item>
-    <item>
       <title>Announcing Rust 1.100.0</title>
       <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
       <guid>https://lobste.rs/s/81hnjw</guid>
@@ -112,16 +102,6 @@
       <category>ios</category>
     </item>
     <item>
-      <title>The hardest tarball</title>
-      <link>https://stoppels.ch/2026/11/07/the-hardest-tarball.html</link>
-      <guid>https://lobste.rs/s/t7qkjb</guid>
-      <author>stoppels.ch by stabbles</author>
-      <pubDate>Tue, 10 Nov 2026 07:47:03 -0600</pubDate>
-      <comments>https://lobste.rs/s/t7qkjb/hardest_tarball</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t7qkjb/hardest_tarball"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>unix</category>
-    </item>
-    <item>
       <title>How a false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
       <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
       <guid>https://lobste.rs/s/ii1gzp</guid>
@@ -143,6 +123,17 @@
       <category>hardware</category>
     </item>
     <item>
+      <title>Paint in the memory of other programs</title>
+      <link>https://citrons.xyz/journal/2026-04-13</link>
+      <guid>https://lobste.rs/s/thiekk</guid>
+      <author>citrons.xyz via gavinmorrow</author>
+      <pubDate>Sun, 15 Nov 2026 21:37:36 -0600</pubDate>
+      <comments>https://lobste.rs/s/thiekk/paint_memory_other_programs</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/thiekk/paint_memory_other_programs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>visualization</category>
+      <category>programming</category>
+    </item>
+    <item>
       <title>The entirety of "Let Over Lambda" is now freely available online</title>
       <link>https://letoverlambda.com/</link>
       <guid>https://lobste.rs/s/ooshl8</guid>
@@ -154,25 +145,14 @@
       <category>book</category>
     </item>
     <item>
-      <title>25 of my favourite modern NES games</title>
-      <link>https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</link>
-      <guid>https://lobste.rs/s/w9j7xs</guid>
-      <author>jordi.inversethought.com by JordiGH</author>
-      <pubDate>Sat, 14 Nov 2026 20:40:40 -0600</pubDate>
-      <comments>https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>games</category>
-      <category>retrocomputing</category>
-    </item>
-    <item>
-      <title>All AI-generated code should be Open Source</title>
-      <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
-      <guid>https://lobste.rs/s/ek4fkg</guid>
-      <author>jakub.jankiewicz.org via Yogthos</author>
-      <pubDate>Sun, 15 Nov 2026 10:04:01 -0600</pubDate>
-      <comments>https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
+      <title>Actual curl rewrites in rust</title>
+      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
+      <guid>https://lobste.rs/s/1dj9w1</guid>
+      <author>daniel.haxx.se via dasm</author>
+      <pubDate>Tue, 17 Nov 2026 07:37:05 -0600</pubDate>
+      <comments>https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
     </item>
     <item>
       <title>you won't win at copyright</title>
@@ -187,25 +167,15 @@
       <category>culture</category>
     </item>
     <item>
-      <title>Probabilistic data structures in Go</title>
-      <link>https://antonz.org/probabilistic-data-structures/</link>
-      <guid>https://lobste.rs/s/xca2qj</guid>
-      <author>antonz.org via cgrinds</author>
-      <pubDate>Fri, 13 Nov 2026 10:03:44 -0600</pubDate>
-      <comments>https://lobste.rs/s/xca2qj/probabilistic_data_structures_go</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
-    </item>
-    <item>
-      <title>Paint in the memory of other programs</title>
-      <link>https://citrons.xyz/journal/2026-04-13</link>
-      <guid>https://lobste.rs/s/thiekk</guid>
-      <author>citrons.xyz via gavinmorrow</author>
-      <pubDate>Sun, 15 Nov 2026 21:37:36 -0600</pubDate>
-      <comments>https://lobste.rs/s/thiekk/paint_memory_other_programs</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/thiekk/paint_memory_other_programs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>visualization</category>
-      <category>programming</category>
+      <title>25 of my favourite modern NES games</title>
+      <link>https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</link>
+      <guid>https://lobste.rs/s/w9j7xs</guid>
+      <author>jordi.inversethought.com by JordiGH</author>
+      <pubDate>Sat, 14 Nov 2026 20:40:40 -0600</pubDate>
+      <comments>https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>games</category>
+      <category>retrocomputing</category>
     </item>
     <item>
       <title>Migrating from GitHub to Codeberg</title>
@@ -219,25 +189,44 @@
       <category>programming</category>
     </item>
     <item>
-      <title>I deleted all my SSH keys</title>
-      <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
-      <guid>https://lobste.rs/s/sdtcvv</guid>
-      <author>blog.infected.systems via pushcx</author>
-      <pubDate>Tue, 10 Nov 2026 14:49:23 -0600</pubDate>
-      <comments>https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>hardware</category>
+      <title>All AI-generated code should be Open Source</title>
+      <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
+      <guid>https://lobste.rs/s/ek4fkg</guid>
+      <author>jakub.jankiewicz.org via Yogthos</author>
+      <pubDate>Sun, 15 Nov 2026 10:04:01 -0600</pubDate>
+      <comments>https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
-      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
-      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
-      <guid>https://lobste.rs/s/fdnic2</guid>
-      <author>lwn.net via calvin</author>
-      <pubDate>Tue, 10 Nov 2026 10:57:25 -0600</pubDate>
-      <comments>https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdnic2/synaptics_patent_claims_stop_work_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
+      <title>What is w2rt6byl5nf1opmc-a[.]com?</title>
+      <link>https://jack.cab/blog/siterate.html</link>
+      <guid>https://lobste.rs/s/dgvb5g</guid>
+      <author>jack.cab via robalex</author>
+      <pubDate>Mon, 16 Nov 2026 07:02:11 -0600</pubDate>
+      <comments>https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Probabilistic data structures in Go</title>
+      <link>https://antonz.org/probabilistic-data-structures/</link>
+      <guid>https://lobste.rs/s/xca2qj</guid>
+      <author>antonz.org via cgrinds</author>
+      <pubDate>Fri, 13 Nov 2026 10:03:44 -0600</pubDate>
+      <comments>https://lobste.rs/s/xca2qj/probabilistic_data_structures_go</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
+    </item>
+    <item>
+      <title>Redict is deprecated</title>
+      <link>https://redict.io/posts/2026-11-17-redict-deprecated/</link>
+      <guid>https://lobste.rs/s/z4rhlt</guid>
+      <author>redict.io via val</author>
+      <pubDate>Tue, 17 Nov 2026 02:20:30 -0600</pubDate>
+      <comments>https://lobste.rs/s/z4rhlt/redict_is_deprecated</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z4rhlt/redict_is_deprecated"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
     </item>
     <item>
       <title>Terminal borders that don't cost a cell</title>
@@ -252,16 +241,6 @@
       <category>graphics</category>
     </item>
     <item>
-      <title>Contra "Glue work considered harmful"</title>
-      <link>https://sunshowers.io/posts/glue-work/</link>
-      <guid>https://lobste.rs/s/f6u0cg</guid>
-      <author>sunshowers.io via nrposner</author>
-      <pubDate>Thu, 12 Nov 2026 20:36:05 -0600</pubDate>
-      <comments>https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-    </item>
-    <item>
       <title>Memory management in 40 major C projects, a survey</title>
       <link>https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html</link>
       <guid>https://lobste.rs/s/vdxevp</guid>
@@ -272,6 +251,16 @@
       <category>c</category>
     </item>
     <item>
+      <title>Contra "Glue work considered harmful"</title>
+      <link>https://sunshowers.io/posts/glue-work/</link>
+      <guid>https://lobste.rs/s/f6u0cg</guid>
+      <author>sunshowers.io via nrposner</author>
+      <pubDate>Thu, 12 Nov 2026 20:36:05 -0600</pubDate>
+      <comments>https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+    </item>
+    <item>
       <title>Running a law firm on Free software (2026 edition)</title>
       <link>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</link>
       <guid>https://lobste.rs/s/ezl1sa</guid>
@@ -280,6 +269,16 @@
       <comments>https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>practices</category>
+    </item>
+    <item>
+      <title>Using voltage glitching to unleash the A100 in my mining card</title>
+      <link>https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/</link>
+      <guid>https://lobste.rs/s/zy4p7f</guid>
+      <author>blog.kate.land via wgx</author>
+      <pubDate>Wed, 11 Nov 2026 06:36:57 -0600</pubDate>
+      <comments>https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
   </channel>
 </rss>

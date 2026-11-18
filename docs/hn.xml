@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
-      <link>https://www.cs.cmu.edu/learn/</link>
-      <description>1028 points • 158 comments • by pcompeau&#xA;https://news.ycombinator.com/item?id=50522980</description>
-      <pubDate>Tue, 17 Nov 2026 05:10:41 +0000</pubDate>
-      <guid>50522980</guid>
+      <title>New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</title>
+      <link>https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</link>
+      <description>1181 points • 587 comments • by donohoe&#xA;https://news.ycombinator.com/item?id=50530163</description>
+      <pubDate>Wed, 18 Nov 2026 03:09:37 +0000</pubDate>
+      <guid>50530163</guid>
     </item>
     <item>
-      <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
-      <link>http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</link>
-      <description>868 points • 517 comments • by DeepLogin&#xA;https://news.ycombinator.com/item?id=50517488</description>
-      <pubDate>Tue, 17 Nov 2026 05:09:41 +0000</pubDate>
-      <guid>50517488</guid>
+      <title>GPT‑6.2 Astra and Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+      <description>1123 points • 712 comments • by jasondavies&#xA;https://news.ycombinator.com/item?id=50535230</description>
+      <pubDate>Wed, 18 Nov 2026 03:08:37 +0000</pubDate>
+      <guid>50535230</guid>
     </item>
     <item>
-      <title>How to make almost anything</title>
-      <link>https://pub.cba.mit.edu/863.26/site/</link>
-      <description>859 points • 144 comments • by o4c&#xA;https://news.ycombinator.com/item?id=50514470</description>
-      <pubDate>Tue, 17 Nov 2026 05:08:41 +0000</pubDate>
-      <guid>50514470</guid>
+      <title>Apple Services Down</title>
+      <link>https://developer.apple.com/system-status/</link>
+      <description>642 points • 355 comments • by willy_k&#xA;https://news.ycombinator.com/item?id=50535238</description>
+      <pubDate>Wed, 18 Nov 2026 03:07:37 +0000</pubDate>
+      <guid>50535238</guid>
     </item>
     <item>
-      <title>Qwen4-Max</title>
-      <link>https://qwen.ai/blog?id=qwen4-max</link>
-      <description>856 points • 474 comments • by ilreb&#xA;https://news.ycombinator.com/item?id=50513215</description>
-      <pubDate>Tue, 17 Nov 2026 05:07:41 +0000</pubDate>
-      <guid>50513215</guid>
+      <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
+      <link>https://calif.io/java4shell/</link>
+      <description>593 points • 153 comments • by werrett&#xA;https://news.ycombinator.com/item?id=50538240</description>
+      <pubDate>Wed, 18 Nov 2026 03:06:37 +0000</pubDate>
+      <guid>50538240</guid>
     </item>
     <item>
-      <title>Technical issue at JPMorgan Chase triggers online banking delays for US banks</title>
-      <link>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</link>
-      <description>740 points • 620 comments • by samk3nny&#xA;https://news.ycombinator.com/item?id=50521045</description>
-      <pubDate>Tue, 17 Nov 2026 05:06:41 +0000</pubDate>
-      <guid>50521045</guid>
+      <title>Highly classified US national security communications network goes down</title>
+      <link>https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</link>
+      <description>494 points • 568 comments • by monkeydust&#xA;https://news.ycombinator.com/item?id=50532849</description>
+      <pubDate>Wed, 18 Nov 2026 03:05:37 +0000</pubDate>
+      <guid>50532849</guid>
     </item>
     <item>
-      <title>Universal XSS in uBlock Origin from website-driven element picker</title>
-      <link>https://iter.ca/post/ubo-uxss/</link>
-      <description>602 points • 175 comments • by zaik&#xA;https://news.ycombinator.com/item?id=50513160</description>
-      <pubDate>Tue, 17 Nov 2026 05:05:41 +0000</pubDate>
-      <guid>50513160</guid>
+      <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
+      <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
+      <description>416 points • 200 comments • by louiereederson&#xA;https://news.ycombinator.com/item?id=50534631</description>
+      <pubDate>Wed, 18 Nov 2026 03:04:37 +0000</pubDate>
+      <guid>50534631</guid>
     </item>
     <item>
-      <title>BugMeNot has closed</title>
-      <link>https://www.bugmenot.com/</link>
-      <description>417 points • 200 comments • by lode&#xA;https://news.ycombinator.com/item?id=50523601</description>
-      <pubDate>Tue, 17 Nov 2026 05:04:41 +0000</pubDate>
-      <guid>50523601</guid>
+      <title>We don&#39;t need more apps, we need better open source</title>
+      <link>https://jordankrueger.com/blog/better-open-source-not-more-apps/</link>
+      <description>345 points • 234 comments • by pandemicsoul&#xA;https://news.ycombinator.com/item?id=50532086</description>
+      <pubDate>Wed, 18 Nov 2026 03:03:37 +0000</pubDate>
+      <guid>50532086</guid>
     </item>
     <item>
-      <title>Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</title>
-      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
-      <description>389 points • 246 comments • by cwaffles&#xA;https://news.ycombinator.com/item?id=50524736</description>
-      <pubDate>Tue, 17 Nov 2026 05:03:41 +0000</pubDate>
-      <guid>50524736</guid>
+      <title>What is the best harness for each model?</title>
+      <link>https://runta.com/blog/introducing-frontierharness-eval-v1-1/</link>
+      <description>341 points • 118 comments • by Edward40&#xA;https://news.ycombinator.com/item?id=50532191</description>
+      <pubDate>Wed, 18 Nov 2026 03:02:37 +0000</pubDate>
+      <guid>50532191</guid>
     </item>
     <item>
-      <title>Software is breaking down at a systemic level</title>
-      <link>https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/</link>
-      <description>353 points • 223 comments • by zero_shift&#xA;https://news.ycombinator.com/item?id=50520866</description>
-      <pubDate>Tue, 17 Nov 2026 05:02:41 +0000</pubDate>
-      <guid>50520866</guid>
+      <title>Quad9&#39;s withdrawal from France: A canary in the coal mine</title>
+      <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
+      <description>340 points • 97 comments • by subset&#xA;https://news.ycombinator.com/item?id=50538994</description>
+      <pubDate>Wed, 18 Nov 2026 03:01:37 +0000</pubDate>
+      <guid>50538994</guid>
     </item>
     <item>
-      <title>Frame – 31.5&#34; color ePaper display</title>
-      <link>https://trmnl.com/blog/introducing-frame</link>
-      <description>347 points • 244 comments • by geerlingguy&#xA;https://news.ycombinator.com/item?id=50519354</description>
-      <pubDate>Tue, 17 Nov 2026 05:01:41 +0000</pubDate>
-      <guid>50519354</guid>
+      <title>NSA Internal Network Down</title>
+      <link>https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/</link>
+      <description>334 points • 4 comments • by nodoodles&#xA;https://news.ycombinator.com/item?id=50533089</description>
+      <pubDate>Wed, 18 Nov 2026 03:00:37 +0000</pubDate>
+      <guid>50533089</guid>
     </item>
   </channel>
 </rss>
