@@ -134,6 +134,16 @@
       <category>programming</category>
     </item>
     <item>
+      <title>Actual curl rewrites in rust</title>
+      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
+      <guid>https://lobste.rs/s/1dj9w1</guid>
+      <author>daniel.haxx.se via dasm</author>
+      <pubDate>Tue, 17 Nov 2026 07:37:05 -0600</pubDate>
+      <comments>https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+    </item>
+    <item>
       <title>The entirety of "Let Over Lambda" is now freely available online</title>
       <link>https://letoverlambda.com/</link>
       <guid>https://lobste.rs/s/ooshl8</guid>
@@ -143,16 +153,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>lisp</category>
       <category>book</category>
-    </item>
-    <item>
-      <title>Actual curl rewrites in rust</title>
-      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
-      <guid>https://lobste.rs/s/1dj9w1</guid>
-      <author>daniel.haxx.se via dasm</author>
-      <pubDate>Tue, 17 Nov 2026 07:37:05 -0600</pubDate>
-      <comments>https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
     </item>
     <item>
       <title>you won't win at copyright</title>
@@ -209,16 +209,6 @@
       <category>web</category>
     </item>
     <item>
-      <title>Probabilistic data structures in Go</title>
-      <link>https://antonz.org/probabilistic-data-structures/</link>
-      <guid>https://lobste.rs/s/xca2qj</guid>
-      <author>antonz.org via cgrinds</author>
-      <pubDate>Fri, 13 Nov 2026 10:03:44 -0600</pubDate>
-      <comments>https://lobste.rs/s/xca2qj/probabilistic_data_structures_go</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>go</category>
-    </item>
-    <item>
       <title>Redict is deprecated</title>
       <link>https://redict.io/posts/2026-11-17-redict-deprecated/</link>
       <guid>https://lobste.rs/s/z4rhlt</guid>
@@ -227,6 +217,16 @@
       <comments>https://lobste.rs/s/z4rhlt/redict_is_deprecated</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z4rhlt/redict_is_deprecated"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>databases</category>
+    </item>
+    <item>
+      <title>Probabilistic data structures in Go</title>
+      <link>https://antonz.org/probabilistic-data-structures/</link>
+      <guid>https://lobste.rs/s/xca2qj</guid>
+      <author>antonz.org via cgrinds</author>
+      <pubDate>Fri, 13 Nov 2026 10:03:44 -0600</pubDate>
+      <comments>https://lobste.rs/s/xca2qj/probabilistic_data_structures_go</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>go</category>
     </item>
     <item>
       <title>Terminal borders that don't cost a cell</title>
