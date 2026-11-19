@@ -182,6 +182,16 @@
       <category>go</category>
     </item>
     <item>
+      <title>nginx2root</title>
+      <link>https://xint.io/blog/nginx2root-remote-code-execution</link>
+      <guid>https://lobste.rs/s/wj2svg</guid>
+      <author>xint.io via MountainRose</author>
+      <pubDate>Wed, 18 Nov 2026 09:28:56 -0600</pubDate>
+      <comments>https://lobste.rs/s/wj2svg/nginx2root</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wj2svg/nginx2root"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>Improving the Wii U's Wii Mode</title>
       <link>https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html</link>
       <guid>https://lobste.rs/s/sz6o8w</guid>
@@ -227,16 +237,6 @@
       <category>c</category>
     </item>
     <item>
-      <title>nginx2root</title>
-      <link>https://xint.io/blog/nginx2root-remote-code-execution</link>
-      <guid>https://lobste.rs/s/wj2svg</guid>
-      <author>xint.io via MountainRose</author>
-      <pubDate>Wed, 18 Nov 2026 09:28:56 -0600</pubDate>
-      <comments>https://lobste.rs/s/wj2svg/nginx2root</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wj2svg/nginx2root"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>Contra "Glue work considered harmful"</title>
       <link>https://sunshowers.io/posts/glue-work/</link>
       <guid>https://lobste.rs/s/f6u0cg</guid>
@@ -257,17 +257,6 @@
       <category>practices</category>
     </item>
     <item>
-      <title>Let Me Let You Own Your Data</title>
-      <link>https://www.willett.io/posts/data/</link>
-      <guid>https://lobste.rs/s/fllb0m</guid>
-      <author>willett.io via thomas0</author>
-      <pubDate>Sat, 14 Nov 2026 10:08:27 -0600</pubDate>
-      <comments>https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>privacy</category>
-      <category>databases</category>
-    </item>
-    <item>
       <title>Java4Shell: Write once, RCE everywhere</title>
       <link>https://calif.io/java4shell/</link>
       <guid>https://lobste.rs/s/g0bf9i</guid>
@@ -277,6 +266,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
       <category>java</category>
+    </item>
+    <item>
+      <title>Let Me Let You Own Your Data</title>
+      <link>https://www.willett.io/posts/data/</link>
+      <guid>https://lobste.rs/s/fllb0m</guid>
+      <author>willett.io via thomas0</author>
+      <pubDate>Sat, 14 Nov 2026 10:08:27 -0600</pubDate>
+      <comments>https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>databases</category>
     </item>
   </channel>
 </rss>
