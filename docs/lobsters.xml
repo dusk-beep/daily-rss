@@ -5,17 +5,21 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Wed, 11 Nov 2026 15:53:24 -0600</pubDate>
+    <pubDate>Wed, 18 Nov 2026 02:51:09 -0600</pubDate>
     <ttl>120</ttl>
     <item>
-      <title>How I accidentally became a millionaire</title>
-      <link>https://lyra.horse/blog/2026/11/disinformation-machine/</link>
-      <guid>https://lobste.rs/s/lnau2d</guid>
-      <author>lyra.horse via hugoarnal</author>
-      <pubDate>Wed, 11 Nov 2026 15:53:24 -0600</pubDate>
-      <comments>https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
+      <title>Codeberg's domain suddenly disappeared from their account, site is unreachable</title>
+      <link>https://social.anoxinon.de/@Codeberg/117636454915265360</link>
+      <guid>https://lobste.rs/s/spmgsd</guid>
+      <author>social.anoxinon.de via mort</author>
+      <pubDate>Wed, 18 Nov 2026 02:51:09 -0600</pubDate>
+      <comments>https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared</comments>
+      <description>&lt;p&gt;&lt;del&gt;Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to &lt;code&gt;/etc/hosts&lt;/code&gt;:&lt;/del&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;217.197.84.140 codeberg.org
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Update: it's now up again, and the above workaround is not necessary.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
     <item>
       <title>Announcing Rust 1.100.0</title>
@@ -39,32 +43,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>How do you actually self-host securely?</title>
-      <link>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</link>
-      <guid>https://lobste.rs/s/m43bas</guid>
-      <author> by pralkarz</author>
-      <pubDate>Wed, 11 Nov 2026 06:01:19 -0600</pubDate>
-      <comments>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</comments>
-      <description>&lt;p&gt;I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.&lt;/p&gt;
-&lt;p&gt;For some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.&lt;/p&gt;
-&lt;p&gt;Some people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.&lt;/p&gt;
-&lt;p&gt;(Also, feel free to suggest a tag other than &lt;code&gt;devops&lt;/code&gt;, I figured &lt;code&gt;security&lt;/code&gt; doesn't quite apply since it's a question and not a write-up/resource regarding security.)&lt;/p&gt;
-</description>
-      <category>devops</category>
-      <category>ask</category>
-    </item>
-    <item>
-      <title>In Memoriam: Tim Peters 1952–2026</title>
-      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
-      <guid>https://lobste.rs/s/romf5e</guid>
-      <author>discuss.python.org via dbremner</author>
-      <pubDate>Wed, 11 Nov 2026 08:20:17 -0600</pubDate>
-      <comments>https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/romf5e/memoriam_tim_peters_1952_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>person</category>
-      <category>python</category>
-    </item>
-    <item>
       <title>How Not to Build a Music Player</title>
       <link>https://alichraghi.github.io/blog/how-not-to-build-a-music-player</link>
       <guid>https://lobste.rs/s/lh9pwf</guid>
@@ -76,18 +54,14 @@
       <category>zig</category>
     </item>
     <item>
-      <title>What are some "No AI" apps/companies/resources you know of?</title>
-      <link>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</link>
-      <guid>https://lobste.rs/s/nld6x3</guid>
-      <author> by brn</author>
-      <pubDate>Wed, 11 Nov 2026 07:13:51 -0600</pubDate>
-      <comments>https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies</comments>
-      <description>&lt;p&gt;Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly "anti", but at least explicitly avoid it) that you know of?&lt;/p&gt;
-&lt;p&gt;I'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position.&lt;/p&gt;
-&lt;p&gt;For example, &lt;a href="https://www.rebeltechalliance.org" rel="ugc"&gt;https://www.rebeltechalliance.org&lt;/a&gt; would be one of those resources.&lt;/p&gt;
-&lt;p&gt;Thank you!&lt;/p&gt;
-</description>
-      <category>ask</category>
+      <title>Actual curl rewrites in rust</title>
+      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
+      <guid>https://lobste.rs/s/1dj9w1</guid>
+      <author>daniel.haxx.se via dasm</author>
+      <pubDate>Tue, 17 Nov 2026 07:37:05 -0600</pubDate>
+      <comments>https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
     </item>
     <item>
       <title>The need for at least a third option</title>
@@ -100,17 +74,6 @@
       <category>mobile</category>
       <category>android</category>
       <category>ios</category>
-    </item>
-    <item>
-      <title>How a false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
-      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
-      <guid>https://lobste.rs/s/ii1gzp</guid>
-      <author>michael.bacarella.com by scanner_brightly</author>
-      <pubDate>Wed, 11 Nov 2026 10:27:51 -0600</pubDate>
-      <comments>https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>devops</category>
-      <category>ml</category>
     </item>
     <item>
       <title>Hello Baochip</title>
@@ -134,14 +97,16 @@
       <category>programming</category>
     </item>
     <item>
-      <title>Actual curl rewrites in rust</title>
-      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
-      <guid>https://lobste.rs/s/1dj9w1</guid>
-      <author>daniel.haxx.se via dasm</author>
-      <pubDate>Tue, 17 Nov 2026 07:37:05 -0600</pubDate>
-      <comments>https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>you won't win at copyright</title>
+      <link>https://ingrids.space/posts/you-wont-win-at-copyright/</link>
+      <guid>https://lobste.rs/s/emdfap</guid>
+      <author>ingrids.space via sjamaan</author>
+      <pubDate>Mon, 16 Nov 2026 02:30:13 -0600</pubDate>
+      <comments>https://lobste.rs/s/emdfap/you_won_t_win_at_copyright</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/emdfap/you_won_t_win_at_copyright"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>law</category>
+      <category>philosophy</category>
+      <category>culture</category>
     </item>
     <item>
       <title>The entirety of "Let Over Lambda" is now freely available online</title>
@@ -155,16 +120,15 @@
       <category>book</category>
     </item>
     <item>
-      <title>you won't win at copyright</title>
-      <link>https://ingrids.space/posts/you-wont-win-at-copyright/</link>
-      <guid>https://lobste.rs/s/emdfap</guid>
-      <author>ingrids.space via sjamaan</author>
-      <pubDate>Mon, 16 Nov 2026 02:30:13 -0600</pubDate>
-      <comments>https://lobste.rs/s/emdfap/you_won_t_win_at_copyright</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/emdfap/you_won_t_win_at_copyright"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-      <category>philosophy</category>
-      <category>culture</category>
+      <title>Migrating from GitHub to Codeberg</title>
+      <link>https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/</link>
+      <guid>https://lobste.rs/s/rhoopo</guid>
+      <author>yorickpeterse.com by yorickpeterse</author>
+      <pubDate>Sun, 15 Nov 2026 23:10:34 -0600</pubDate>
+      <comments>https://lobste.rs/s/rhoopo/migrating_from_github_codeberg</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
+      <category>programming</category>
     </item>
     <item>
       <title>25 of my favourite modern NES games</title>
@@ -178,15 +142,14 @@
       <category>retrocomputing</category>
     </item>
     <item>
-      <title>Migrating from GitHub to Codeberg</title>
-      <link>https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/</link>
-      <guid>https://lobste.rs/s/rhoopo</guid>
-      <author>yorickpeterse.com by yorickpeterse</author>
-      <pubDate>Sun, 15 Nov 2026 23:10:34 -0600</pubDate>
-      <comments>https://lobste.rs/s/rhoopo/migrating_from_github_codeberg</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
-      <category>programming</category>
+      <title>Redict is deprecated</title>
+      <link>https://redict.io/posts/2026-11-17-redict-deprecated/</link>
+      <guid>https://lobste.rs/s/z4rhlt</guid>
+      <author>redict.io via val</author>
+      <pubDate>Tue, 17 Nov 2026 02:20:30 -0600</pubDate>
+      <comments>https://lobste.rs/s/z4rhlt/redict_is_deprecated</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z4rhlt/redict_is_deprecated"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
     </item>
     <item>
       <title>All AI-generated code should be Open Source</title>
@@ -209,16 +172,6 @@
       <category>web</category>
     </item>
     <item>
-      <title>Redict is deprecated</title>
-      <link>https://redict.io/posts/2026-11-17-redict-deprecated/</link>
-      <guid>https://lobste.rs/s/z4rhlt</guid>
-      <author>redict.io via val</author>
-      <pubDate>Tue, 17 Nov 2026 02:20:30 -0600</pubDate>
-      <comments>https://lobste.rs/s/z4rhlt/redict_is_deprecated</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z4rhlt/redict_is_deprecated"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
-    </item>
-    <item>
       <title>Probabilistic data structures in Go</title>
       <link>https://antonz.org/probabilistic-data-structures/</link>
       <guid>https://lobste.rs/s/xca2qj</guid>
@@ -227,6 +180,29 @@
       <comments>https://lobste.rs/s/xca2qj/probabilistic_data_structures_go</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xca2qj/probabilistic_data_structures_go"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>go</category>
+    </item>
+    <item>
+      <title>Improving the Wii U's Wii Mode</title>
+      <link>https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html</link>
+      <guid>https://lobste.rs/s/sz6o8w</guid>
+      <author>garyodernichts.blogspot.com via calvin</author>
+      <pubDate>Mon, 16 Nov 2026 16:39:54 -0600</pubDate>
+      <comments>https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
+      <category>reversing</category>
+      <category>graphics</category>
+    </item>
+    <item>
+      <title>Phrack 73</title>
+      <link>https://phrack.org/issues/73/introduction_md.html</link>
+      <guid>https://lobste.rs/s/xu4ajj</guid>
+      <author>phrack.org via lattera</author>
+      <pubDate>Tue, 17 Nov 2026 11:40:32 -0600</pubDate>
+      <comments>https://lobste.rs/s/xu4ajj/phrack_73</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xu4ajj/phrack_73"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>release</category>
     </item>
     <item>
       <title>Terminal borders that don't cost a cell</title>
@@ -251,6 +227,16 @@
       <category>c</category>
     </item>
     <item>
+      <title>nginx2root</title>
+      <link>https://xint.io/blog/nginx2root-remote-code-execution</link>
+      <guid>https://lobste.rs/s/wj2svg</guid>
+      <author>xint.io via MountainRose</author>
+      <pubDate>Wed, 18 Nov 2026 09:28:56 -0600</pubDate>
+      <comments>https://lobste.rs/s/wj2svg/nginx2root</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wj2svg/nginx2root"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>Contra "Glue work considered harmful"</title>
       <link>https://sunshowers.io/posts/glue-work/</link>
       <guid>https://lobste.rs/s/f6u0cg</guid>
@@ -271,14 +257,26 @@
       <category>practices</category>
     </item>
     <item>
-      <title>Using voltage glitching to unleash the A100 in my mining card</title>
-      <link>https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/</link>
-      <guid>https://lobste.rs/s/zy4p7f</guid>
-      <author>blog.kate.land via wgx</author>
-      <pubDate>Wed, 11 Nov 2026 06:36:57 -0600</pubDate>
-      <comments>https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zy4p7f/using_voltage_glitching_unleash_a100_my"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
+      <title>Let Me Let You Own Your Data</title>
+      <link>https://www.willett.io/posts/data/</link>
+      <guid>https://lobste.rs/s/fllb0m</guid>
+      <author>willett.io via thomas0</author>
+      <pubDate>Sat, 14 Nov 2026 10:08:27 -0600</pubDate>
+      <comments>https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>privacy</category>
+      <category>databases</category>
+    </item>
+    <item>
+      <title>Java4Shell: Write once, RCE everywhere</title>
+      <link>https://calif.io/java4shell/</link>
+      <guid>https://lobste.rs/s/g0bf9i</guid>
+      <author>calif.io via unlobito</author>
+      <pubDate>Tue, 17 Nov 2026 15:16:11 -0600</pubDate>
+      <comments>https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>java</category>
     </item>
   </channel>
 </rss>

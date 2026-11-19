@@ -12,14 +12,71 @@
 	<atom:link href="https://apkvision.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://apkvision.org/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Nov 2026 18:18:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Nov 2026 20:30:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.11</generator>
+	<generator>https://wordpress.org/?v=6.6.12</generator>
 	<item>
+		<title>Minecraft Dungeons II</title>
+		<link>https://apkvision.org/games/adventure/minecraft-dungeons-2-135885/</link>
+					<comments>https://apkvision.org/games/adventure/minecraft-dungeons-2-135885/#comments</comments>
+		
+		<dc:creator><![CDATA[ApkVision]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 22:05:45 +0000</pubDate>
+				<category><![CDATA[Adventure]]></category>
+		<guid isPermaLink="false">https://apkvision.org/?p=135885</guid>
+
+					<description><![CDATA[<p><img width="1024" height="1024" src="https://apkvision.org/wp-content/uploads/2026/11/minecraft-dungeons-2.avif" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Minecraft Dungeons 2" decoding="async" fetchpriority="high" loading="lazy" />Minecraft Dungeons II is an action RPG that takes players on a new adventure across the Minecraft universe. Explore mysterious dungeons, battle dangerous mobs, and face the powerful Illager High Council threatening the Overworld. Discover the strange new dimension known as the Sift, collect rare weapons and armor, and customize your hero with powerful abilities</p>
+<p><a href="https://apkvision.org/games/adventure/minecraft-dungeons-2-135885/">Minecraft Dungeons II</a></p>
+]]></description>
+		
+					<wfw:commentRss>https://apkvision.org/games/adventure/minecraft-dungeons-2-135885/feed/</wfw:commentRss>
+			<slash:comments>108</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Divinity Original Sin 2</title>
+		<link>https://apkvision.org/games/role-playing/divinity-original-sin-2-135883/</link>
+					<comments>https://apkvision.org/games/role-playing/divinity-original-sin-2-135883/#comments</comments>
+		
+		<dc:creator><![CDATA[ApkVision]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 21:28:01 +0000</pubDate>
+				<category><![CDATA[Role Playing]]></category>
+		<guid isPermaLink="false">https://apkvision.org/?p=135883</guid>
+
+					<description><![CDATA[<p><img width="288" height="288" src="https://apkvision.org/wp-content/uploads/2026/11/divinity-original-sin-2.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Divinity Original Sin 2" decoding="async" loading="lazy" />Divinity: Original Sin 2 is a fantasy RPG set in the world of Rivellon, where magic, powerful gods, and dangerous creatures shape an epic adventure. Create your own hero or choose from unique origin characters, each with a personal story and abilities. Explore a vast world, complete quests, and engage in tactical turn-based battles using</p>
+<p><a href="https://apkvision.org/games/role-playing/divinity-original-sin-2-135883/">Divinity Original Sin 2</a></p>
+]]></description>
+		
+					<wfw:commentRss>https://apkvision.org/games/role-playing/divinity-original-sin-2-135883/feed/</wfw:commentRss>
+			<slash:comments>85</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Choice of Life: Modern Ages</title>
+		<link>https://apkvision.org/games/card/choice-of-life-modern-ages-135875/</link>
+					<comments>https://apkvision.org/games/card/choice-of-life-modern-ages-135875/#comments</comments>
+		
+		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 16:30:21 +0000</pubDate>
+				<category><![CDATA[Card]]></category>
+		<guid isPermaLink="false">https://apkvision.org/?p=135875</guid>
+
+					<description><![CDATA[<p><img width="512" height="512" src="https://apkvision.org/wp-content/uploads/2026/11/choice-of-life-modern-ages.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Choice Of Life Modern Ages" decoding="async" loading="lazy" />Choice of Life: Modern Ages immerses you in the struggles of a challenging upbringing in Capital City, where your destiny is uncertain. You face pivotal decisions that will define your future, such as whether to pursue education or embrace a life of crime, opt for stable employment or entrepreneurship, and navigate the complexities of politics</p>
+<p><a href="https://apkvision.org/games/card/choice-of-life-modern-ages-135875/">Choice of Life: Modern Ages</a></p>
+]]></description>
+		
+					<wfw:commentRss>https://apkvision.org/games/card/choice-of-life-modern-ages-135875/feed/</wfw:commentRss>
+			<slash:comments>99</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>The Godfather: The Game</title>
 		<link>https://apkvision.org/games/action/the-godfather-the-game-135870/</link>
 					<comments>https://apkvision.org/games/action/the-godfather-the-game-135870/#comments</comments>
@@ -29,12 +86,12 @@
 				<category><![CDATA[Action]]></category>
 		<guid isPermaLink="false">https://apkvision.org/?p=135870</guid>
 
-					<description><![CDATA[<p><img width="1024" height="1024" src="https://apkvision.org/wp-content/uploads/2026/11/the-godfather-the-game.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="The Godfather The Game" decoding="async" fetchpriority="high" loading="lazy" />The Godfather: The Game is an open-world action-adventure game inspired by the legendary crime film. Set in 1940s New York, the story follows a young gangster who joins the powerful Corleone family and rises through the ranks of organized crime. Explore the city, complete dangerous missions, take over rival businesses, and expand the family&#8217;s influence.</p>
+					<description><![CDATA[<p><img width="1024" height="1024" src="https://apkvision.org/wp-content/uploads/2026/11/the-godfather-the-game.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="The Godfather The Game" decoding="async" loading="lazy" />The Godfather: The Game is an open-world action-adventure game inspired by the legendary crime film. Set in 1940s New York, the story follows a young gangster who joins the powerful Corleone family and rises through the ranks of organized crime. Explore the city, complete dangerous missions, take over rival businesses, and expand the family&#8217;s influence.</p>
 <p><a href="https://apkvision.org/games/action/the-godfather-the-game-135870/">The Godfather: The Game</a></p>
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/the-godfather-the-game-135870/feed/</wfw:commentRss>
-			<slash:comments>282</slash:comments>
+			<slash:comments>739</slash:comments>
 		
 		
 			</item>
@@ -53,7 +110,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/gunboat-god-135868/feed/</wfw:commentRss>
-			<slash:comments>68</slash:comments>
+			<slash:comments>133</slash:comments>
 		
 		
 			</item>
@@ -72,7 +129,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/adventure/peak-135853/feed/</wfw:commentRss>
-			<slash:comments>402</slash:comments>
+			<slash:comments>453</slash:comments>
 		
 		
 			</item>
@@ -92,7 +149,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/deus-ex-game-of-the-year-edition-135854/feed/</wfw:commentRss>
-			<slash:comments>192</slash:comments>
+			<slash:comments>221</slash:comments>
 		
 		
 			</item>
@@ -112,7 +169,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/adventure/castleminer-z-135852/feed/</wfw:commentRss>
-			<slash:comments>85</slash:comments>
+			<slash:comments>103</slash:comments>
 		
 		
 			</item>
@@ -131,7 +188,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/blasphemous-2-128400/feed/</wfw:commentRss>
-			<slash:comments>555</slash:comments>
+			<slash:comments>604</slash:comments>
 		
 		
 			</item>
@@ -151,7 +208,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/adventure/rodland-of-pipes-135858/feed/</wfw:commentRss>
-			<slash:comments>30</slash:comments>
+			<slash:comments>34</slash:comments>
 		
 		
 			</item>
@@ -170,7 +227,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/casual/aura-farming-135860/feed/</wfw:commentRss>
-			<slash:comments>126</slash:comments>
+			<slash:comments>149</slash:comments>
 		
 		
 			</item>
@@ -190,7 +247,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/alien-hominid-hd-135845/feed/</wfw:commentRss>
-			<slash:comments>145</slash:comments>
+			<slash:comments>149</slash:comments>
 		
 		
 			</item>
@@ -210,7 +267,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/the-dishwasher-dead-samurai-135843/feed/</wfw:commentRss>
-			<slash:comments>79</slash:comments>
+			<slash:comments>83</slash:comments>
 		
 		
 			</item>
@@ -229,7 +286,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/adventure/crack-135849/feed/</wfw:commentRss>
-			<slash:comments>106</slash:comments>
+			<slash:comments>114</slash:comments>
 		
 		
 			</item>
@@ -249,7 +306,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/megabonk-135840/feed/</wfw:commentRss>
-			<slash:comments>359</slash:comments>
+			<slash:comments>381</slash:comments>
 		
 		
 			</item>
@@ -268,7 +325,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/casual/webfishing-135830/feed/</wfw:commentRss>
-			<slash:comments>169</slash:comments>
+			<slash:comments>172</slash:comments>
 		
 		
 			</item>
@@ -288,7 +345,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/postal-8625/feed/</wfw:commentRss>
-			<slash:comments>150</slash:comments>
+			<slash:comments>151</slash:comments>
 		
 		
 			</item>
@@ -308,7 +365,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/the-dishwasher-vampire-smile-135828/feed/</wfw:commentRss>
-			<slash:comments>164</slash:comments>
+			<slash:comments>168</slash:comments>
 		
 		
 			</item>
@@ -328,7 +385,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/god-of-war-collection-135824/feed/</wfw:commentRss>
-			<slash:comments>771</slash:comments>
+			<slash:comments>808</slash:comments>
 		
 		
 			</item>
@@ -348,65 +405,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/racing/juiced-135822/feed/</wfw:commentRss>
-			<slash:comments>121</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Naruto Shippuden: Ultimate Ninja 5</title>
-		<link>https://apkvision.org/games/action/naruto-shippuden-ultimate-ninja-5-135820/</link>
-					<comments>https://apkvision.org/games/action/naruto-shippuden-ultimate-ninja-5-135820/#comments</comments>
-		
-		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
-		<pubDate>Sun, 15 Nov 2026 12:59:31 +0000</pubDate>
-				<category><![CDATA[Action]]></category>
-		<guid isPermaLink="false">https://apkvision.org/?p=135820</guid>
-
-					<description><![CDATA[<p><img width="560" height="560" src="https://apkvision.org/wp-content/uploads/2026/11/naruto_shippuden_ultimate_ninja_5-square.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Naruto Shippuden Ultimate Ninja 5 Square" decoding="async" loading="lazy" />Naruto Shippuden: Ultimate Ninja 5 is an action-packed fighting game based on the popular Naruto Shippuden anime and manga series. Follow Naruto Uzumaki after his return to the Hidden Leaf Village, as he reunites with his friends and faces new dangers while continuing his journey to become a powerful ninja. Experience an engaging story inspired</p>
-<p><a href="https://apkvision.org/games/action/naruto-shippuden-ultimate-ninja-5-135820/">Naruto Shippuden: Ultimate Ninja 5</a></p>
-]]></description>
-		
-					<wfw:commentRss>https://apkvision.org/games/action/naruto-shippuden-ultimate-ninja-5-135820/feed/</wfw:commentRss>
-			<slash:comments>110</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>DRAGON BALL XENOVERSE</title>
-		<link>https://apkvision.org/games/action/dragon-ball-xenoverse-135815/</link>
-					<comments>https://apkvision.org/games/action/dragon-ball-xenoverse-135815/#comments</comments>
-		
-		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
-		<pubDate>Sun, 15 Nov 2026 11:00:39 +0000</pubDate>
-				<category><![CDATA[Action]]></category>
-		<guid isPermaLink="false">https://apkvision.org/?p=135815</guid>
-
-					<description><![CDATA[<p><img width="560" height="560" src="https://apkvision.org/wp-content/uploads/2026/11/dragon_ball_xenoverse-square.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Dragon Ball Xenoverse Square" decoding="async" loading="lazy" />DRAGON BALL XENOVERSE is an action-packed fighting game that lets you step into the world of Dragon Ball as your very own custom-created warrior. Create your character by choosing from different races, including Saiyans, Earthlings, Namekians, Majins, and the Frieza Clan, then develop your fighting style, learn powerful techniques, and become stronger through intense battles</p>
-<p><a href="https://apkvision.org/games/action/dragon-ball-xenoverse-135815/">DRAGON BALL XENOVERSE</a></p>
-]]></description>
-		
-					<wfw:commentRss>https://apkvision.org/games/action/dragon-ball-xenoverse-135815/feed/</wfw:commentRss>
-			<slash:comments>334</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Changed</title>
-		<link>https://apkvision.org/games/adventure/changed-135816/</link>
-					<comments>https://apkvision.org/games/adventure/changed-135816/#comments</comments>
-		
-		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
-		<pubDate>Sun, 15 Nov 2026 11:00:19 +0000</pubDate>
-				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[Offline]]></category>
-		<guid isPermaLink="false">https://apkvision.org/?p=135816</guid>
-
-					<description><![CDATA[<p><img width="560" height="560" src="https://apkvision.org/wp-content/uploads/2026/11/changed-square.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Changed Square" decoding="async" loading="lazy" />Changed is a challenging psychological horror and puzzle-adventure game that takes place in a mysterious, abandoned laboratory. You awaken in an unfamiliar room with no memory of how you got there, surrounded by strange creatures and countless unanswered questions. As you explore the massive facility, you must solve environmental puzzles, avoid deadly traps, and escape</p>
-<p><a href="https://apkvision.org/games/adventure/changed-135816/">Changed</a></p>
-]]></description>
-		
-					<wfw:commentRss>https://apkvision.org/games/adventure/changed-135816/feed/</wfw:commentRss>
-			<slash:comments>785</slash:comments>
+			<slash:comments>122</slash:comments>
 		
 		
 			</item>
