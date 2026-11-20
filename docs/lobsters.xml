@@ -215,24 +215,15 @@
       <category>c</category>
     </item>
     <item>
-      <title>Contra "Glue work considered harmful"</title>
-      <link>https://sunshowers.io/posts/glue-work/</link>
-      <guid>https://lobste.rs/s/f6u0cg</guid>
-      <author>sunshowers.io via nrposner</author>
-      <pubDate>Thu, 12 Nov 2026 20:36:05 -0600</pubDate>
-      <comments>https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
-    </item>
-    <item>
-      <title>Running a law firm on Free software (2026 edition)</title>
-      <link>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</link>
-      <guid>https://lobste.rs/s/ezl1sa</guid>
-      <author>decoded.legal via FedericoSchonborn</author>
-      <pubDate>Fri, 13 Nov 2026 05:20:32 -0600</pubDate>
-      <comments>https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>practices</category>
+      <title>PostgreSQL 19 Released</title>
+      <link>https://www.postgresql.org/about/news/postgresql-19-released-3449/</link>
+      <guid>https://lobste.rs/s/pqyuhk</guid>
+      <author>postgresql.org via bio</author>
+      <pubDate>Thu, 19 Nov 2026 09:12:08 -0600</pubDate>
+      <comments>https://lobste.rs/s/pqyuhk/postgresql_19_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pqyuhk/postgresql_19_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>databases</category>
     </item>
     <item>
       <title>Java4Shell: Write once, RCE everywhere</title>
@@ -246,6 +237,16 @@
       <category>java</category>
     </item>
     <item>
+      <title>Running a law firm on Free software (2026 edition)</title>
+      <link>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</link>
+      <guid>https://lobste.rs/s/ezl1sa</guid>
+      <author>decoded.legal via FedericoSchonborn</author>
+      <pubDate>Fri, 13 Nov 2026 05:20:32 -0600</pubDate>
+      <comments>https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>practices</category>
+    </item>
+    <item>
       <title>Let Me Let You Own Your Data</title>
       <link>https://www.willett.io/posts/data/</link>
       <guid>https://lobste.rs/s/fllb0m</guid>
@@ -257,16 +258,6 @@
       <category>databases</category>
     </item>
     <item>
-      <title>PostgreSQL 19 Released</title>
-      <link>https://www.postgresql.org/about/news/postgresql-19-released-3449/</link>
-      <guid>https://lobste.rs/s/pqyuhk</guid>
-      <author>postgresql.org via bio</author>
-      <pubDate>Thu, 19 Nov 2026 09:12:08 -0600</pubDate>
-      <comments>https://lobste.rs/s/pqyuhk/postgresql_19_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pqyuhk/postgresql_19_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
-    </item>
-    <item>
       <title>Squircles</title>
       <link>https://linebender.org/wiki/curves/squircle/</link>
       <guid>https://lobste.rs/s/iihw5u</guid>
@@ -275,6 +266,16 @@
       <comments>https://lobste.rs/s/iihw5u/squircles</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iihw5u/squircles"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>graphics</category>
+    </item>
+    <item>
+      <title>Someone's impersonating this blog</title>
+      <link>https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/</link>
+      <guid>https://lobste.rs/s/wqml56</guid>
+      <author>mattbee.mataroa.blog via classichasclass</author>
+      <pubDate>Fri, 13 Nov 2026 14:39:53 -0600</pubDate>
+      <comments>https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
   </channel>
 </rss>
