@@ -22,17 +22,6 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>Announcing Rust 1.100.0</title>
-      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
-      <guid>https://lobste.rs/s/81hnjw</guid>
-      <author>blog.rust-lang.org via theelx</author>
-      <pubDate>Thu, 12 Nov 2026 12:43:41 -0600</pubDate>
-      <comments>https://lobste.rs/s/81hnjw/announcing_rust_1_100_0</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/81hnjw/announcing_rust_1_100_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>rust</category>
-    </item>
-    <item>
       <title>A datetime library for Rust</title>
       <link>https://burntsushi.net/jiff/</link>
       <guid>https://lobste.rs/s/dxxvek</guid>
@@ -41,6 +30,16 @@
       <comments>https://lobste.rs/s/dxxvek/datetime_library_for_rust</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dxxvek/datetime_library_for_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
+    </item>
+    <item>
+      <title>We Need Smart People Who Give a Shit</title>
+      <link>https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</link>
+      <guid>https://lobste.rs/s/rzuasm</guid>
+      <author>violetpixel.com via Jackevansevo</author>
+      <pubDate>Thu, 19 Nov 2026 07:28:49 -0600</pubDate>
+      <comments>https://lobste.rs/s/rzuasm/we_need_smart_people_who_give_shit</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rzuasm/we_need_smart_people_who_give_shit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
     </item>
     <item>
       <title>How Not to Build a Music Player</title>
@@ -76,14 +75,14 @@
       <category>ios</category>
     </item>
     <item>
-      <title>Hello Baochip</title>
-      <link>https://ratfactor.com/cards/hello-baochip</link>
-      <guid>https://lobste.rs/s/3gw2f4</guid>
-      <author>ratfactor.com via jbauer</author>
-      <pubDate>Thu, 12 Nov 2026 04:09:16 -0600</pubDate>
-      <comments>https://lobste.rs/s/3gw2f4/hello_baochip</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3gw2f4/hello_baochip"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
+      <title>nginx2root</title>
+      <link>https://xint.io/blog/nginx2root-remote-code-execution</link>
+      <guid>https://lobste.rs/s/wj2svg</guid>
+      <author>xint.io via MountainRose</author>
+      <pubDate>Wed, 18 Nov 2026 09:28:56 -0600</pubDate>
+      <comments>https://lobste.rs/s/wj2svg/nginx2root</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wj2svg/nginx2root"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
     </item>
     <item>
       <title>Paint in the memory of other programs</title>
@@ -109,15 +108,15 @@
       <category>culture</category>
     </item>
     <item>
-      <title>The entirety of "Let Over Lambda" is now freely available online</title>
-      <link>https://letoverlambda.com/</link>
-      <guid>https://lobste.rs/s/ooshl8</guid>
-      <author>letoverlambda.com via nemin</author>
-      <pubDate>Thu, 12 Nov 2026 06:44:34 -0600</pubDate>
-      <comments>https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ooshl8/entirety_let_over_lambda_is_now_freely"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lisp</category>
-      <category>book</category>
+      <title>25 of my favourite modern NES games</title>
+      <link>https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</link>
+      <guid>https://lobste.rs/s/w9j7xs</guid>
+      <author>jordi.inversethought.com by JordiGH</author>
+      <pubDate>Sat, 14 Nov 2026 20:40:40 -0600</pubDate>
+      <comments>https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>games</category>
+      <category>retrocomputing</category>
     </item>
     <item>
       <title>Migrating from GitHub to Codeberg</title>
@@ -129,17 +128,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>vcs</category>
       <category>programming</category>
-    </item>
-    <item>
-      <title>25 of my favourite modern NES games</title>
-      <link>https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</link>
-      <guid>https://lobste.rs/s/w9j7xs</guid>
-      <author>jordi.inversethought.com by JordiGH</author>
-      <pubDate>Sat, 14 Nov 2026 20:40:40 -0600</pubDate>
-      <comments>https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/w9j7xs/25_my_favourite_modern_nes_games"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>games</category>
-      <category>retrocomputing</category>
     </item>
     <item>
       <title>Redict is deprecated</title>
@@ -182,14 +170,15 @@
       <category>go</category>
     </item>
     <item>
-      <title>nginx2root</title>
-      <link>https://xint.io/blog/nginx2root-remote-code-execution</link>
-      <guid>https://lobste.rs/s/wj2svg</guid>
-      <author>xint.io via MountainRose</author>
-      <pubDate>Wed, 18 Nov 2026 09:28:56 -0600</pubDate>
-      <comments>https://lobste.rs/s/wj2svg/nginx2root</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wj2svg/nginx2root"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Phrack 73</title>
+      <link>https://phrack.org/issues/73/introduction_md.html</link>
+      <guid>https://lobste.rs/s/xu4ajj</guid>
+      <author>phrack.org via lattera</author>
+      <pubDate>Tue, 17 Nov 2026 11:40:32 -0600</pubDate>
+      <comments>https://lobste.rs/s/xu4ajj/phrack_73</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xu4ajj/phrack_73"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
+      <category>release</category>
     </item>
     <item>
       <title>Improving the Wii U's Wii Mode</title>
@@ -202,17 +191,6 @@
       <category>hardware</category>
       <category>reversing</category>
       <category>graphics</category>
-    </item>
-    <item>
-      <title>Phrack 73</title>
-      <link>https://phrack.org/issues/73/introduction_md.html</link>
-      <guid>https://lobste.rs/s/xu4ajj</guid>
-      <author>phrack.org via lattera</author>
-      <pubDate>Tue, 17 Nov 2026 11:40:32 -0600</pubDate>
-      <comments>https://lobste.rs/s/xu4ajj/phrack_73</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xu4ajj/phrack_73"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>release</category>
     </item>
     <item>
       <title>Terminal borders that don't cost a cell</title>
@@ -277,6 +255,26 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>privacy</category>
       <category>databases</category>
+    </item>
+    <item>
+      <title>PostgreSQL 19 Released</title>
+      <link>https://www.postgresql.org/about/news/postgresql-19-released-3449/</link>
+      <guid>https://lobste.rs/s/pqyuhk</guid>
+      <author>postgresql.org via bio</author>
+      <pubDate>Thu, 19 Nov 2026 09:12:08 -0600</pubDate>
+      <comments>https://lobste.rs/s/pqyuhk/postgresql_19_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pqyuhk/postgresql_19_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>databases</category>
+    </item>
+    <item>
+      <title>Squircles</title>
+      <link>https://linebender.org/wiki/curves/squircle/</link>
+      <guid>https://lobste.rs/s/iihw5u</guid>
+      <author>linebender.org via pushcx</author>
+      <pubDate>Mon, 16 Nov 2026 07:56:54 -0600</pubDate>
+      <comments>https://lobste.rs/s/iihw5u/squircles</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iihw5u/squircles"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>graphics</category>
     </item>
   </channel>
 </rss>

@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Unauthenticated remote code execution in Nginx</title>
-      <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
-      <description>1212 points • 537 comments • by speedping&#xA;https://news.ycombinator.com/item?id=50547374</description>
-      <pubDate>Thu, 19 Nov 2026 04:22:09 +0000</pubDate>
-      <guid>50547374</guid>
+      <title>Anthropic’s Nasdaq debut</title>
+      <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
+      <description>895 points • 1768 comments • by wslh&#xA;https://news.ycombinator.com/item?id=50562754</description>
+      <pubDate>Fri, 20 Nov 2026 01:31:36 +0000</pubDate>
+      <guid>50562754</guid>
     </item>
     <item>
-      <title>AI is killing All About Berlin</title>
-      <link>https://nicolasbouliane.com/blog/death-by-ai</link>
-      <description>766 points • 687 comments • by grey-area&#xA;https://news.ycombinator.com/item?id=50542705</description>
-      <pubDate>Thu, 19 Nov 2026 04:21:09 +0000</pubDate>
-      <guid>50542705</guid>
+      <title>How the European Commission rolled out Matrix to more than 40k staff</title>
+      <link>https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</link>
+      <description>660 points • 317 comments • by liotier&#xA;https://news.ycombinator.com/item?id=50558533</description>
+      <pubDate>Fri, 20 Nov 2026 01:30:36 +0000</pubDate>
+      <guid>50558533</guid>
     </item>
     <item>
-      <title>Google&#39;s AI answers reducing search traffic by 40%</title>
-      <link>https://revscope.co/blog/search-seo-geo-2026/</link>
-      <description>692 points • 542 comments • by slashdev&#xA;https://news.ycombinator.com/item?id=50540178</description>
-      <pubDate>Thu, 19 Nov 2026 04:20:09 +0000</pubDate>
-      <guid>50540178</guid>
+      <title>Pancreatic cancer halted by virus injection in three patients</title>
+      <link>https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/</link>
+      <description>573 points • 86 comments • by cybermango&#xA;https://news.ycombinator.com/item?id=50563066</description>
+      <pubDate>Fri, 20 Nov 2026 01:29:36 +0000</pubDate>
+      <guid>50563066</guid>
     </item>
     <item>
-      <title>DNS resolvers are the wrong place to fight piracy</title>
-      <link>https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</link>
-      <description>628 points • 236 comments • by ritzaco&#xA;https://news.ycombinator.com/item?id=50545958</description>
-      <pubDate>Thu, 19 Nov 2026 04:19:09 +0000</pubDate>
-      <guid>50545958</guid>
+      <title>UK government forced to admit it issued Apple a secret encryption order</title>
+      <link>https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</link>
+      <description>494 points • 207 comments • by Terretta&#xA;https://news.ycombinator.com/item?id=50562113</description>
+      <pubDate>Fri, 20 Nov 2026 01:28:36 +0000</pubDate>
+      <guid>50562113</guid>
     </item>
     <item>
-      <title>Inside Deutsche Bank</title>
-      <link>https://www.inside-db.com/</link>
-      <description>586 points • 199 comments • by gyre007&#xA;https://news.ycombinator.com/item?id=50547620</description>
-      <pubDate>Thu, 19 Nov 2026 04:18:09 +0000</pubDate>
-      <guid>50547620</guid>
+      <title>Fuck Your AI Safeguards</title>
+      <link>https://ounapuu.ee/posts/2026/11/19/unsafeguards/</link>
+      <description>477 points • 192 comments • by speckx&#xA;https://news.ycombinator.com/item?id=50562262</description>
+      <pubDate>Fri, 20 Nov 2026 01:27:36 +0000</pubDate>
+      <guid>50562262</guid>
     </item>
     <item>
-      <title>Gemini 4 Neon</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
-      <description>574 points • 518 comments • by yigitdemirag&#xA;https://news.ycombinator.com/item?id=50552424</description>
-      <pubDate>Thu, 19 Nov 2026 04:17:09 +0000</pubDate>
-      <guid>50552424</guid>
+      <title>Ruby2ßhell: Pre-authentication RCE on stock Rails</title>
+      <link>https://verialabs.com/ruby2shell/</link>
+      <description>385 points • 162 comments • by jdns&#xA;https://news.ycombinator.com/item?id=50556287</description>
+      <pubDate>Fri, 20 Nov 2026 01:26:36 +0000</pubDate>
+      <guid>50556287</guid>
     </item>
     <item>
-      <title>ID.me terms required for IRS sign-in</title>
-      <link>https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</link>
-      <description>495 points • 259 comments • by DeepLogin&#xA;https://news.ycombinator.com/item?id=50540437</description>
-      <pubDate>Thu, 19 Nov 2026 04:16:09 +0000</pubDate>
-      <guid>50540437</guid>
+      <title>15M web servers on one VM – smoltcp, DPDK, AF_XDP</title>
+      <link>https://kapteko.com/15-million-webservers/</link>
+      <description>380 points • 41 comments • by fessguid&#xA;https://news.ycombinator.com/item?id=50556533</description>
+      <pubDate>Fri, 20 Nov 2026 01:25:36 +0000</pubDate>
+      <guid>50556533</guid>
     </item>
     <item>
-      <title>Interviewed at a YC startup, found out they used my LinkedIn without permission</title>
-      <link>https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</link>
-      <description>493 points • 127 comments • by throwawaysleep&#xA;https://news.ycombinator.com/item?id=50542135</description>
-      <pubDate>Thu, 19 Nov 2026 04:15:09 +0000</pubDate>
-      <guid>50542135</guid>
+      <title>Claude solves two open problems in the physics of black holes</title>
+      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
+      <description>375 points • 175 comments • by cybermango&#xA;https://news.ycombinator.com/item?id=50563148</description>
+      <pubDate>Fri, 20 Nov 2026 01:24:36 +0000</pubDate>
+      <guid>50563148</guid>
     </item>
     <item>
-      <title>Seven new models at scalable price-performance</title>
-      <link>https://microsoft.ai/news/microsoft-ignite-2026/</link>
-      <description>479 points • 328 comments • by gmays&#xA;https://news.ycombinator.com/item?id=50548021</description>
-      <pubDate>Thu, 19 Nov 2026 04:14:09 +0000</pubDate>
-      <guid>50548021</guid>
+      <title>Someone reported java4shell bug in September 2026</title>
+      <link>https://github.com/openjdk/jdk/pull/32781</link>
+      <description>365 points • 93 comments • by notmine1337&#xA;https://news.ycombinator.com/item?id=50558906</description>
+      <pubDate>Fri, 20 Nov 2026 01:23:36 +0000</pubDate>
+      <guid>50558906</guid>
     </item>
     <item>
-      <title>AI agents ask better questions than KPMG accountants in audit trial</title>
-      <link>https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</link>
-      <description>401 points • 173 comments • by Betelbuddy&#xA;https://news.ycombinator.com/item?id=50547777</description>
-      <pubDate>Thu, 19 Nov 2026 04:13:09 +0000</pubDate>
-      <guid>50547777</guid>
+      <title>Everything you need to survive and rebuild society</title>
+      <link>https://lastbook.org/</link>
+      <description>359 points • 190 comments • by tejohnso&#xA;https://news.ycombinator.com/item?id=50560822</description>
+      <pubDate>Fri, 20 Nov 2026 01:22:36 +0000</pubDate>
+      <guid>50560822</guid>
     </item>
   </channel>
 </rss>
