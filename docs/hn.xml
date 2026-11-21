@@ -5,74 +5,74 @@
     <link>https://news.ycombinator.com/</link>
     <description>Top Hacker News stories from yesterday (sorted by points)</description>
     <item>
-      <title>Anthropic’s Nasdaq debut</title>
-      <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
-      <description>994 points • 1944 comments • by wslh&#xA;https://news.ycombinator.com/item?id=50562754</description>
-      <pubDate>Fri, 20 Nov 2026 04:09:16 +0000</pubDate>
-      <guid>50562754</guid>
+      <title>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</title>
+      <link>https://alpo.ge/remark.pdf</link>
+      <description>2437 points • 1643 comments • by iamronaldo&#xA;https://news.ycombinator.com/item?id=50574968</description>
+      <pubDate>Sat, 21 Nov 2026 04:08:34 +0000</pubDate>
+      <guid>50574968</guid>
     </item>
     <item>
-      <title>How the European Commission rolled out Matrix to more than 40k staff</title>
-      <link>https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</link>
-      <description>676 points • 328 comments • by liotier&#xA;https://news.ycombinator.com/item?id=50558533</description>
-      <pubDate>Fri, 20 Nov 2026 04:08:16 +0000</pubDate>
-      <guid>50558533</guid>
+      <title>Hurried Announcement: Alessandro Masullo GRH</title>
+      <link>https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</link>
+      <description>1722 points • 766 comments • by jasondavies&#xA;https://news.ycombinator.com/item?id=50579568</description>
+      <pubDate>Sat, 21 Nov 2026 04:07:34 +0000</pubDate>
+      <guid>50579568</guid>
     </item>
     <item>
-      <title>Pancreatic cancer halted by virus injection in three patients</title>
-      <link>https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/</link>
-      <description>656 points • 103 comments • by cybermango&#xA;https://news.ycombinator.com/item?id=50563066</description>
-      <pubDate>Fri, 20 Nov 2026 04:07:16 +0000</pubDate>
-      <guid>50563066</guid>
+      <title>Inkling 2 Mini</title>
+      <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
+      <description>789 points • 133 comments • by jasondavies&#xA;https://news.ycombinator.com/item?id=50581260</description>
+      <pubDate>Sat, 21 Nov 2026 04:06:34 +0000</pubDate>
+      <guid>50581260</guid>
     </item>
     <item>
-      <title>UK government forced to admit it issued Apple a secret encryption order</title>
-      <link>https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</link>
-      <description>561 points • 251 comments • by Terretta&#xA;https://news.ycombinator.com/item?id=50562113</description>
-      <pubDate>Fri, 20 Nov 2026 04:06:16 +0000</pubDate>
-      <guid>50562113</guid>
+      <title>I&#39;ll never buy Framework hardware again</title>
+      <link>https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/</link>
+      <description>772 points • 558 comments • by unchar1&#xA;https://news.ycombinator.com/item?id=50576855</description>
+      <pubDate>Sat, 21 Nov 2026 04:05:34 +0000</pubDate>
+      <guid>50576855</guid>
     </item>
     <item>
-      <title>Fuck Your AI Safeguards</title>
-      <link>https://ounapuu.ee/posts/2026/11/19/unsafeguards/</link>
-      <description>495 points • 204 comments • by speckx&#xA;https://news.ycombinator.com/item?id=50562262</description>
-      <pubDate>Fri, 20 Nov 2026 04:05:16 +0000</pubDate>
-      <guid>50562262</guid>
+      <title>If you can&#39;t explain something in simple terms, you don&#39;t understand it (2017)</title>
+      <link>https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it</link>
+      <description>638 points • 300 comments • by sammatilda&#xA;https://news.ycombinator.com/item?id=50572355</description>
+      <pubDate>Sat, 21 Nov 2026 04:04:34 +0000</pubDate>
+      <guid>50572355</guid>
     </item>
     <item>
-      <title>Claude solves two open problems in the physics of black holes</title>
-      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
-      <description>429 points • 194 comments • by cybermango&#xA;https://news.ycombinator.com/item?id=50563148</description>
-      <pubDate>Fri, 20 Nov 2026 04:04:16 +0000</pubDate>
-      <guid>50563148</guid>
+      <title>Frostbite: A new CPU architecture discovered, designed and verified by AI</title>
+      <link>https://architectlabs.com/blog/frostbite</link>
+      <description>632 points • 330 comments • by shioyama&#xA;https://news.ycombinator.com/item?id=50572503</description>
+      <pubDate>Sat, 21 Nov 2026 04:03:34 +0000</pubDate>
+      <guid>50572503</guid>
     </item>
     <item>
-      <title>Someone reported java4shell bug in September 2026</title>
-      <link>https://github.com/openjdk/jdk/pull/32781</link>
-      <description>390 points • 105 comments • by notmine1337&#xA;https://news.ycombinator.com/item?id=50558906</description>
-      <pubDate>Fri, 20 Nov 2026 04:03:16 +0000</pubDate>
-      <guid>50558906</guid>
+      <title>Restricting AI agents in mobile operating systems platforms from capturing data</title>
+      <link>https://signal.org/blog/protecting-your-privacy/</link>
+      <description>527 points • 310 comments • by dotcoma&#xA;https://news.ycombinator.com/item?id=50572348</description>
+      <pubDate>Sat, 21 Nov 2026 04:02:34 +0000</pubDate>
+      <guid>50572348</guid>
     </item>
     <item>
-      <title>Ruby2ßhell: Pre-authentication RCE on stock Rails</title>
-      <link>https://verialabs.com/ruby2shell/</link>
-      <description>389 points • 166 comments • by jdns&#xA;https://news.ycombinator.com/item?id=50556287</description>
-      <pubDate>Fri, 20 Nov 2026 04:02:16 +0000</pubDate>
-      <guid>50556287</guid>
+      <title>Carnival Cruises emits ten times more sulphur oxide than all of Europe&#39;s cars (2019)</title>
+      <link>https://ecohustler.com/article/one-corporation-to-pollute-them-all/</link>
+      <description>510 points • 320 comments • by sammatilda&#xA;https://news.ycombinator.com/item?id=50572116</description>
+      <pubDate>Sat, 21 Nov 2026 04:01:34 +0000</pubDate>
+      <guid>50572116</guid>
     </item>
     <item>
-      <title>15M web servers on one VM – smoltcp, DPDK, AF_XDP</title>
-      <link>https://kapteko.com/15-million-webservers/</link>
-      <description>387 points • 41 comments • by fessguid&#xA;https://news.ycombinator.com/item?id=50556533</description>
-      <pubDate>Fri, 20 Nov 2026 04:01:16 +0000</pubDate>
-      <guid>50556533</guid>
+      <title>Google is pushing OEMs against GrapheneOS and bootloader unlocking</title>
+      <link>https://grapheneos.social/@GrapheneOS/117645038299496084</link>
+      <description>480 points • 189 comments • by mraniki&#xA;https://news.ycombinator.com/item?id=50570479</description>
+      <pubDate>Sat, 21 Nov 2026 04:00:34 +0000</pubDate>
+      <guid>50570479</guid>
     </item>
     <item>
-      <title>Everything you need to survive and rebuild society</title>
-      <link>https://lastbook.org/</link>
-      <description>374 points • 194 comments • by tejohnso&#xA;https://news.ycombinator.com/item?id=50560822</description>
-      <pubDate>Fri, 20 Nov 2026 04:00:16 +0000</pubDate>
-      <guid>50560822</guid>
+      <title>&#34;I can tell you wrote this yourself&#34;</title>
+      <link>https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/</link>
+      <description>409 points • 403 comments • by BrunoBernardino&#xA;https://news.ycombinator.com/item?id=50571189</description>
+      <pubDate>Sat, 21 Nov 2026 03:59:34 +0000</pubDate>
+      <guid>50571189</guid>
     </item>
   </channel>
 </rss>
