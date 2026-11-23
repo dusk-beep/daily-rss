@@ -52,6 +52,16 @@
       <category>rust</category>
     </item>
     <item>
+      <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
+      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+      <guid>https://lobste.rs/s/32rhzb</guid>
+      <author>arstechnica.com via itamarst</author>
+      <pubDate>Sat, 21 Nov 2026 20:03:46 -0600</pubDate>
+      <comments>https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>Levent Alpöge Claims Proof of Riemann Hypothesis</title>
       <link>https://alpo.ge/remark.pdf</link>
       <guid>https://lobste.rs/s/cmifpg</guid>
@@ -61,16 +71,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>pdf</category>
       <category>math</category>
-    </item>
-    <item>
-      <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
-      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
-      <guid>https://lobste.rs/s/32rhzb</guid>
-      <author>arstechnica.com via itamarst</author>
-      <pubDate>Sat, 21 Nov 2026 20:03:46 -0600</pubDate>
-      <comments>https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
     </item>
     <item>
       <title>Slopstrap: Make your site look hastily vibecoded</title>
@@ -114,17 +114,6 @@
       <comments>https://lobste.rs/s/wj2svg/nginx2root</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wj2svg/nginx2root"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-    </item>
-    <item>
-      <title>Paint in the memory of other programs</title>
-      <link>https://citrons.xyz/journal/2026-04-13</link>
-      <guid>https://lobste.rs/s/thiekk</guid>
-      <author>citrons.xyz via gavinmorrow</author>
-      <pubDate>Sun, 15 Nov 2026 21:37:36 -0600</pubDate>
-      <comments>https://lobste.rs/s/thiekk/paint_memory_other_programs</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/thiekk/paint_memory_other_programs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>visualization</category>
-      <category>programming</category>
     </item>
     <item>
       <title>you won't win at copyright</title>
@@ -259,6 +248,16 @@
       <category>java</category>
     </item>
     <item>
+      <title>port scanning for mojang</title>
+      <link>https://sipacid.com/blog/port-scanning-for-mojang/</link>
+      <guid>https://lobste.rs/s/et5q0q</guid>
+      <author>sipacid.com via lina_sh</author>
+      <pubDate>Sat, 21 Nov 2026 17:40:51 -0600</pubDate>
+      <comments>https://lobste.rs/s/et5q0q/port_scanning_for_mojang</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/et5q0q/port_scanning_for_mojang"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
+    </item>
+    <item>
       <title>Squircles</title>
       <link>https://linebender.org/wiki/curves/squircle/</link>
       <guid>https://lobste.rs/s/iihw5u</guid>
@@ -269,14 +268,16 @@
       <category>graphics</category>
     </item>
     <item>
-      <title>port scanning for mojang</title>
-      <link>https://sipacid.com/blog/port-scanning-for-mojang/</link>
-      <guid>https://lobste.rs/s/et5q0q</guid>
-      <author>sipacid.com via lina_sh</author>
-      <pubDate>Sat, 21 Nov 2026 17:40:51 -0600</pubDate>
-      <comments>https://lobste.rs/s/et5q0q/port_scanning_for_mojang</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/et5q0q/port_scanning_for_mojang"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
+      <title>Windows 11 collects data on which coding agents and dev tools you use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <guid>https://lobste.rs/s/cwxmdw</guid>
+      <author>xusheng.dev via viccuad</author>
+      <pubDate>Wed, 18 Nov 2026 05:57:46 -0600</pubDate>
+      <comments>https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>privacy</category>
+      <category>practices</category>
     </item>
   </channel>
 </rss>
