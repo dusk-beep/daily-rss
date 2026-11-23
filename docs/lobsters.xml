@@ -32,14 +32,14 @@
       <category>culture</category>
     </item>
     <item>
-      <title>A datetime library for Rust</title>
-      <link>https://burntsushi.net/jiff/</link>
-      <guid>https://lobste.rs/s/dxxvek</guid>
-      <author>burntsushi.net via refi64</author>
-      <pubDate>Sun, 15 Nov 2026 16:39:34 -0600</pubDate>
-      <comments>https://lobste.rs/s/dxxvek/datetime_library_for_rust</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dxxvek/datetime_library_for_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>My Monitor Was Cutting My Download Speed by 75%</title>
+      <link>https://blog.tymscar.com/posts/studiodisplayethernet/</link>
+      <guid>https://lobste.rs/s/qzerls</guid>
+      <author>blog.tymscar.com via ahobson</author>
+      <pubDate>Sat, 21 Nov 2026 09:03:28 -0600</pubDate>
+      <comments>https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
     </item>
     <item>
       <title>Actual curl rewrites in rust</title>
@@ -61,6 +61,38 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>pdf</category>
       <category>math</category>
+    </item>
+    <item>
+      <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
+      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+      <guid>https://lobste.rs/s/32rhzb</guid>
+      <author>arstechnica.com via itamarst</author>
+      <pubDate>Sat, 21 Nov 2026 20:03:46 -0600</pubDate>
+      <comments>https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
+      <title>Slopstrap: Make your site look hastily vibecoded</title>
+      <link>https://slopstrap.mikelacher.com/l</link>
+      <guid>https://lobste.rs/s/1n8fzn</guid>
+      <author>slopstrap.mikelacher.com via skycam</author>
+      <pubDate>Fri, 20 Nov 2026 18:46:40 -0600</pubDate>
+      <comments>https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>web</category>
+      <category>satire</category>
+      <category>css</category>
+    </item>
+    <item>
+      <title>Internet Archive Staffers Are Unionizing</title>
+      <link>https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america</link>
+      <guid>https://lobste.rs/s/o5coeq</guid>
+      <author>cwa-union.org via skalnik</author>
+      <pubDate>Fri, 20 Nov 2026 12:39:29 -0600</pubDate>
+      <comments>https://lobste.rs/s/o5coeq/internet_archive_staffers_are</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/o5coeq/internet_archive_staffers_are"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>culture</category>
     </item>
     <item>
       <title>PostgreSQL 19 Released</title>
@@ -95,16 +127,6 @@
       <category>programming</category>
     </item>
     <item>
-      <title>Internet Archive Staffers Are Unionizing</title>
-      <link>https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america</link>
-      <guid>https://lobste.rs/s/o5coeq</guid>
-      <author>cwa-union.org via skalnik</author>
-      <pubDate>Fri, 20 Nov 2026 12:39:29 -0600</pubDate>
-      <comments>https://lobste.rs/s/o5coeq/internet_archive_staffers_are</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/o5coeq/internet_archive_staffers_are"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
       <title>you won't win at copyright</title>
       <link>https://ingrids.space/posts/you-wont-win-at-copyright/</link>
       <guid>https://lobste.rs/s/emdfap</guid>
@@ -117,26 +139,15 @@
       <category>culture</category>
     </item>
     <item>
-      <title>My Monitor Was Cutting My Download Speed by 75%</title>
-      <link>https://blog.tymscar.com/posts/studiodisplayethernet/</link>
-      <guid>https://lobste.rs/s/qzerls</guid>
-      <author>blog.tymscar.com via ahobson</author>
-      <pubDate>Sat, 21 Nov 2026 09:03:28 -0600</pubDate>
-      <comments>https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>networking</category>
-    </item>
-    <item>
-      <title>Slopstrap: Make your site look hastily vibecoded</title>
-      <link>https://slopstrap.mikelacher.com/l</link>
-      <guid>https://lobste.rs/s/1n8fzn</guid>
-      <author>slopstrap.mikelacher.com via skycam</author>
-      <pubDate>Fri, 20 Nov 2026 18:46:40 -0600</pubDate>
-      <comments>https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>satire</category>
-      <category>css</category>
+      <title>Vim Classic 8.3.1 released</title>
+      <link>https://vim-classic.org/news/vim-8.3.1-released.html</link>
+      <guid>https://lobste.rs/s/kkglbw</guid>
+      <author>vim-classic.org via FedericoSchonborn</author>
+      <pubDate>Fri, 20 Nov 2026 04:02:03 -0600</pubDate>
+      <comments>https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>editors</category>
     </item>
     <item>
       <title>Migrating from GitHub to Codeberg</title>
@@ -160,16 +171,6 @@
       <category>databases</category>
     </item>
     <item>
-      <title>All AI-generated code should be Open Source</title>
-      <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
-      <guid>https://lobste.rs/s/ek4fkg</guid>
-      <author>jakub.jankiewicz.org via Yogthos</author>
-      <pubDate>Sun, 15 Nov 2026 10:04:01 -0600</pubDate>
-      <comments>https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>programming</category>
-    </item>
-    <item>
       <title>What is w2rt6byl5nf1opmc-a[.]com?</title>
       <link>https://jack.cab/blog/siterate.html</link>
       <guid>https://lobste.rs/s/dgvb5g</guid>
@@ -178,17 +179,6 @@
       <comments>https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>web</category>
-    </item>
-    <item>
-      <title>Vim Classic 8.3.1 released</title>
-      <link>https://vim-classic.org/news/vim-8.3.1-released.html</link>
-      <guid>https://lobste.rs/s/kkglbw</guid>
-      <author>vim-classic.org via FedericoSchonborn</author>
-      <pubDate>Fri, 20 Nov 2026 04:02:03 -0600</pubDate>
-      <comments>https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>editors</category>
     </item>
     <item>
       <title>Announcing jj-musubi: live sync for Jujutsu</title>
@@ -200,6 +190,18 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>vcs</category>
+    </item>
+    <item>
+      <title>Removing binder.c</title>
+      <link>https://lwn.net/Articles/1102982/</link>
+      <guid>https://lobste.rs/s/vo5jve</guid>
+      <author>lwn.net via fanf</author>
+      <pubDate>Fri, 20 Nov 2026 04:33:36 -0600</pubDate>
+      <comments>https://lobste.rs/s/vo5jve/removing_binder_c</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo5jve/removing_binder_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>android</category>
+      <category>rust</category>
     </item>
     <item>
       <title>Phrack 73</title>
@@ -225,18 +227,6 @@
       <category>graphics</category>
     </item>
     <item>
-      <title>Removing binder.c</title>
-      <link>https://lwn.net/Articles/1102982/</link>
-      <guid>https://lobste.rs/s/vo5jve</guid>
-      <author>lwn.net via fanf</author>
-      <pubDate>Fri, 20 Nov 2026 04:33:36 -0600</pubDate>
-      <comments>https://lobste.rs/s/vo5jve/removing_binder_c</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo5jve/removing_binder_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>android</category>
-      <category>rust</category>
-    </item>
-    <item>
       <title>15 million web servers on one VM - smoltcp, DPDK, AF_XDP</title>
       <link>https://kapteko.com/15-million-webservers/</link>
       <guid>https://lobste.rs/s/elmy67</guid>
@@ -248,14 +238,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Memory management in 40 major C projects, a survey</title>
-      <link>https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html</link>
-      <guid>https://lobste.rs/s/vdxevp</guid>
-      <author>theconsensus.dev by eatonphil</author>
-      <pubDate>Sun, 15 Nov 2026 06:50:03 -0600</pubDate>
-      <comments>https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>c</category>
+      <title>TODOs JJ Style</title>
+      <link>https://bwc9876.dev/blog/jj_todo/</link>
+      <guid>https://lobste.rs/s/qxzs4y</guid>
+      <author>bwc9876.dev via Raicuparta</author>
+      <pubDate>Sat, 21 Nov 2026 09:17:18 -0600</pubDate>
+      <comments>https://lobste.rs/s/qxzs4y/todos_jj_style</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qxzs4y/todos_jj_style"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
     </item>
     <item>
       <title>Java4Shell: Write once, RCE everywhere</title>
@@ -277,6 +267,16 @@
       <comments>https://lobste.rs/s/iihw5u/squircles</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iihw5u/squircles"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>graphics</category>
+    </item>
+    <item>
+      <title>port scanning for mojang</title>
+      <link>https://sipacid.com/blog/port-scanning-for-mojang/</link>
+      <guid>https://lobste.rs/s/et5q0q</guid>
+      <author>sipacid.com via lina_sh</author>
+      <pubDate>Sat, 21 Nov 2026 17:40:51 -0600</pubDate>
+      <comments>https://lobste.rs/s/et5q0q/port_scanning_for_mojang</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/et5q0q/port_scanning_for_mojang"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
     </item>
   </channel>
 </rss>
