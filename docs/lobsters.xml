@@ -32,6 +32,16 @@
       <category>culture</category>
     </item>
     <item>
+      <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
+      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+      <guid>https://lobste.rs/s/32rhzb</guid>
+      <author>arstechnica.com via itamarst</author>
+      <pubDate>Sat, 21 Nov 2026 20:03:46 -0600</pubDate>
+      <comments>https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+    </item>
+    <item>
       <title>My Monitor Was Cutting My Download Speed by 75%</title>
       <link>https://blog.tymscar.com/posts/studiodisplayethernet/</link>
       <guid>https://lobste.rs/s/qzerls</guid>
@@ -52,16 +62,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
-      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
-      <guid>https://lobste.rs/s/32rhzb</guid>
-      <author>arstechnica.com via itamarst</author>
-      <pubDate>Sat, 21 Nov 2026 20:03:46 -0600</pubDate>
-      <comments>https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>Levent Alpöge Claims Proof of Riemann Hypothesis</title>
       <link>https://alpo.ge/remark.pdf</link>
       <guid>https://lobste.rs/s/cmifpg</guid>
@@ -71,6 +71,17 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>pdf</category>
       <category>math</category>
+    </item>
+    <item>
+      <title>Signal is Serious About Protecting Your Privacy</title>
+      <link>https://signal.org/blog/protecting-your-privacy/</link>
+      <guid>https://lobste.rs/s/vldbcn</guid>
+      <author>signal.org via sjamaan</author>
+      <pubDate>Mon, 23 Nov 2026 01:44:09 -0600</pubDate>
+      <comments>https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>mobile</category>
+      <category>privacy</category>
     </item>
     <item>
       <title>Slopstrap: Make your site look hastily vibecoded</title>
@@ -106,6 +117,16 @@
       <category>databases</category>
     </item>
     <item>
+      <title>Ladybird is now in alpha</title>
+      <link>https://ladybird.org/posts/alpha/</link>
+      <guid>https://lobste.rs/s/h6webg</guid>
+      <author>ladybird.org via j11g</author>
+      <pubDate>Mon, 23 Nov 2026 10:13:03 -0600</pubDate>
+      <comments>https://lobste.rs/s/h6webg/ladybird_is_now_alpha</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h6webg/ladybird_is_now_alpha"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+    </item>
+    <item>
       <title>nginx2root</title>
       <link>https://xint.io/blog/nginx2root-remote-code-execution</link>
       <guid>https://lobste.rs/s/wj2svg</guid>
@@ -116,16 +137,14 @@
       <category>security</category>
     </item>
     <item>
-      <title>you won't win at copyright</title>
-      <link>https://ingrids.space/posts/you-wont-win-at-copyright/</link>
-      <guid>https://lobste.rs/s/emdfap</guid>
-      <author>ingrids.space via sjamaan</author>
-      <pubDate>Mon, 16 Nov 2026 02:30:13 -0600</pubDate>
-      <comments>https://lobste.rs/s/emdfap/you_won_t_win_at_copyright</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/emdfap/you_won_t_win_at_copyright"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>law</category>
-      <category>philosophy</category>
-      <category>culture</category>
+      <title>GitHub Actions accepts invalid YAML</title>
+      <link>https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/</link>
+      <guid>https://lobste.rs/s/leqwqu</guid>
+      <author>yossarian.net by yossarian</author>
+      <pubDate>Sun, 22 Nov 2026 15:49:18 -0600</pubDate>
+      <comments>https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>programming</category>
     </item>
     <item>
       <title>Vim Classic 8.3.1 released</title>
@@ -139,17 +158,6 @@
       <category>editors</category>
     </item>
     <item>
-      <title>Migrating from GitHub to Codeberg</title>
-      <link>https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/</link>
-      <guid>https://lobste.rs/s/rhoopo</guid>
-      <author>yorickpeterse.com by yorickpeterse</author>
-      <pubDate>Sun, 15 Nov 2026 23:10:34 -0600</pubDate>
-      <comments>https://lobste.rs/s/rhoopo/migrating_from_github_codeberg</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
-      <category>programming</category>
-    </item>
-    <item>
       <title>Redict is deprecated</title>
       <link>https://redict.io/posts/2026-11-17-redict-deprecated/</link>
       <guid>https://lobste.rs/s/z4rhlt</guid>
@@ -158,16 +166,6 @@
       <comments>https://lobste.rs/s/z4rhlt/redict_is_deprecated</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z4rhlt/redict_is_deprecated"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>databases</category>
-    </item>
-    <item>
-      <title>What is w2rt6byl5nf1opmc-a[.]com?</title>
-      <link>https://jack.cab/blog/siterate.html</link>
-      <guid>https://lobste.rs/s/dgvb5g</guid>
-      <author>jack.cab via robalex</author>
-      <pubDate>Mon, 16 Nov 2026 07:02:11 -0600</pubDate>
-      <comments>https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dgvb5g/what_is_w2rt6byl5nf1opmc_com"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
     </item>
     <item>
       <title>Announcing jj-musubi: live sync for Jujutsu</title>
@@ -179,6 +177,27 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>vcs</category>
+    </item>
+    <item>
+      <title>TODOs JJ Style</title>
+      <link>https://bwc9876.dev/blog/jj_todo/</link>
+      <guid>https://lobste.rs/s/qxzs4y</guid>
+      <author>bwc9876.dev via Raicuparta</author>
+      <pubDate>Sat, 21 Nov 2026 09:17:18 -0600</pubDate>
+      <comments>https://lobste.rs/s/qxzs4y/todos_jj_style</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qxzs4y/todos_jj_style"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>vcs</category>
+    </item>
+    <item>
+      <title>Phrack 73</title>
+      <link>https://phrack.org/issues/73/introduction_md.html</link>
+      <guid>https://lobste.rs/s/xu4ajj</guid>
+      <author>phrack.org via lattera</author>
+      <pubDate>Tue, 17 Nov 2026 11:40:32 -0600</pubDate>
+      <comments>https://lobste.rs/s/xu4ajj/phrack_73</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xu4ajj/phrack_73"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>release</category>
     </item>
     <item>
       <title>Removing binder.c</title>
@@ -193,27 +212,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Phrack 73</title>
-      <link>https://phrack.org/issues/73/introduction_md.html</link>
-      <guid>https://lobste.rs/s/xu4ajj</guid>
-      <author>phrack.org via lattera</author>
-      <pubDate>Tue, 17 Nov 2026 11:40:32 -0600</pubDate>
-      <comments>https://lobste.rs/s/xu4ajj/phrack_73</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xu4ajj/phrack_73"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>release</category>
-    </item>
-    <item>
-      <title>Improving the Wii U's Wii Mode</title>
-      <link>https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html</link>
-      <guid>https://lobste.rs/s/sz6o8w</guid>
-      <author>garyodernichts.blogspot.com via calvin</author>
-      <pubDate>Mon, 16 Nov 2026 16:39:54 -0600</pubDate>
-      <comments>https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sz6o8w/improving_wii_u_s_wii_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>hardware</category>
-      <category>reversing</category>
-      <category>graphics</category>
+      <title>port scanning for mojang</title>
+      <link>https://sipacid.com/blog/port-scanning-for-mojang/</link>
+      <guid>https://lobste.rs/s/et5q0q</guid>
+      <author>sipacid.com via lina_sh</author>
+      <pubDate>Sat, 21 Nov 2026 17:40:51 -0600</pubDate>
+      <comments>https://lobste.rs/s/et5q0q/port_scanning_for_mojang</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/et5q0q/port_scanning_for_mojang"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rant</category>
     </item>
     <item>
       <title>15 million web servers on one VM - smoltcp, DPDK, AF_XDP</title>
@@ -227,14 +233,15 @@
       <category>rust</category>
     </item>
     <item>
-      <title>TODOs JJ Style</title>
-      <link>https://bwc9876.dev/blog/jj_todo/</link>
-      <guid>https://lobste.rs/s/qxzs4y</guid>
-      <author>bwc9876.dev via Raicuparta</author>
-      <pubDate>Sat, 21 Nov 2026 09:17:18 -0600</pubDate>
-      <comments>https://lobste.rs/s/qxzs4y/todos_jj_style</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qxzs4y/todos_jj_style"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
+      <title>Gliver completes the Guix desktop</title>
+      <link>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</link>
+      <guid>https://lobste.rs/s/wc8fla</guid>
+      <author>dustycloud.org via eBPF</author>
+      <pubDate>Sun, 22 Nov 2026 14:10:15 -0600</pubDate>
+      <comments>https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lisp</category>
+      <category>linux</category>
     </item>
     <item>
       <title>Java4Shell: Write once, RCE everywhere</title>
@@ -248,24 +255,14 @@
       <category>java</category>
     </item>
     <item>
-      <title>port scanning for mojang</title>
-      <link>https://sipacid.com/blog/port-scanning-for-mojang/</link>
-      <guid>https://lobste.rs/s/et5q0q</guid>
-      <author>sipacid.com via lina_sh</author>
-      <pubDate>Sat, 21 Nov 2026 17:40:51 -0600</pubDate>
-      <comments>https://lobste.rs/s/et5q0q/port_scanning_for_mojang</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/et5q0q/port_scanning_for_mojang"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rant</category>
-    </item>
-    <item>
-      <title>Squircles</title>
-      <link>https://linebender.org/wiki/curves/squircle/</link>
-      <guid>https://lobste.rs/s/iihw5u</guid>
-      <author>linebender.org via pushcx</author>
-      <pubDate>Mon, 16 Nov 2026 07:56:54 -0600</pubDate>
-      <comments>https://lobste.rs/s/iihw5u/squircles</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iihw5u/squircles"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>graphics</category>
+      <title>Garage Door Spam</title>
+      <link>https://blog.harrison.page/garage-door-spam/</link>
+      <guid>https://lobste.rs/s/tr5ghf</guid>
+      <author>blog.harrison.page via zk</author>
+      <pubDate>Thu, 19 Nov 2026 20:41:39 -0600</pubDate>
+      <comments>https://lobste.rs/s/tr5ghf/garage_door_spam</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tr5ghf/garage_door_spam"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>hardware</category>
     </item>
     <item>
       <title>Windows 11 collects data on which coding agents and dev tools you use</title>
