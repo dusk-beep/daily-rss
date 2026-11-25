@@ -52,14 +52,25 @@
       <category>networking</category>
     </item>
     <item>
-      <title>Actual curl rewrites in rust</title>
-      <link>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</link>
-      <guid>https://lobste.rs/s/1dj9w1</guid>
-      <author>daniel.haxx.se via dasm</author>
-      <pubDate>Tue, 17 Nov 2026 07:37:05 -0600</pubDate>
-      <comments>https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
+      <title>Signal is Serious About Protecting Your Privacy</title>
+      <link>https://signal.org/blog/protecting-your-privacy/</link>
+      <guid>https://lobste.rs/s/vldbcn</guid>
+      <author>signal.org via sjamaan</author>
+      <pubDate>Mon, 23 Nov 2026 01:44:09 -0600</pubDate>
+      <comments>https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>mobile</category>
+      <category>privacy</category>
+    </item>
+    <item>
+      <title>Ladybird is now in alpha</title>
+      <link>https://ladybird.org/posts/alpha/</link>
+      <guid>https://lobste.rs/s/h6webg</guid>
+      <author>ladybird.org via j11g</author>
+      <pubDate>Mon, 23 Nov 2026 10:13:03 -0600</pubDate>
+      <comments>https://lobste.rs/s/h6webg/ladybird_is_now_alpha</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h6webg/ladybird_is_now_alpha"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
     </item>
     <item>
       <title>Levent Alpöge Claims Proof of Riemann Hypothesis</title>
@@ -73,17 +84,6 @@
       <category>math</category>
     </item>
     <item>
-      <title>Signal is Serious About Protecting Your Privacy</title>
-      <link>https://signal.org/blog/protecting-your-privacy/</link>
-      <guid>https://lobste.rs/s/vldbcn</guid>
-      <author>signal.org via sjamaan</author>
-      <pubDate>Mon, 23 Nov 2026 01:44:09 -0600</pubDate>
-      <comments>https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>mobile</category>
-      <category>privacy</category>
-    </item>
-    <item>
       <title>Slopstrap: Make your site look hastily vibecoded</title>
       <link>https://slopstrap.mikelacher.com/l</link>
       <guid>https://lobste.rs/s/1n8fzn</guid>
@@ -94,6 +94,17 @@
       <category>web</category>
       <category>satire</category>
       <category>css</category>
+    </item>
+    <item>
+      <title>2035 came early</title>
+      <link>https://fzakaria.com/2026/11/23/2035-came-early</link>
+      <guid>https://lobste.rs/s/rkk6o8</guid>
+      <author>fzakaria.com by fzakaria</author>
+      <pubDate>Tue, 24 Nov 2026 00:30:15 -0600</pubDate>
+      <comments>https://lobste.rs/s/rkk6o8/2035_came_early</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rkk6o8/2035_came_early"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>wasm</category>
+      <category>nix</category>
     </item>
     <item>
       <title>Internet Archive Staffers Are Unionizing</title>
@@ -115,16 +126,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pqyuhk/postgresql_19_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>databases</category>
-    </item>
-    <item>
-      <title>Ladybird is now in alpha</title>
-      <link>https://ladybird.org/posts/alpha/</link>
-      <guid>https://lobste.rs/s/h6webg</guid>
-      <author>ladybird.org via j11g</author>
-      <pubDate>Mon, 23 Nov 2026 10:13:03 -0600</pubDate>
-      <comments>https://lobste.rs/s/h6webg/ladybird_is_now_alpha</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h6webg/ladybird_is_now_alpha"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>browsers</category>
     </item>
     <item>
       <title>nginx2root</title>
@@ -158,16 +159,6 @@
       <category>editors</category>
     </item>
     <item>
-      <title>Redict is deprecated</title>
-      <link>https://redict.io/posts/2026-11-17-redict-deprecated/</link>
-      <guid>https://lobste.rs/s/z4rhlt</guid>
-      <author>redict.io via val</author>
-      <pubDate>Tue, 17 Nov 2026 02:20:30 -0600</pubDate>
-      <comments>https://lobste.rs/s/z4rhlt/redict_is_deprecated</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z4rhlt/redict_is_deprecated"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>databases</category>
-    </item>
-    <item>
       <title>Announcing jj-musubi: live sync for Jujutsu</title>
       <link>https://www.serpentine.com/posts/2026/announcing-jj-musubi/</link>
       <guid>https://lobste.rs/s/tj1j4b</guid>
@@ -189,17 +180,6 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>Phrack 73</title>
-      <link>https://phrack.org/issues/73/introduction_md.html</link>
-      <guid>https://lobste.rs/s/xu4ajj</guid>
-      <author>phrack.org via lattera</author>
-      <pubDate>Tue, 17 Nov 2026 11:40:32 -0600</pubDate>
-      <comments>https://lobste.rs/s/xu4ajj/phrack_73</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xu4ajj/phrack_73"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>release</category>
-    </item>
-    <item>
       <title>Removing binder.c</title>
       <link>https://lwn.net/Articles/1102982/</link>
       <guid>https://lobste.rs/s/vo5jve</guid>
@@ -210,6 +190,17 @@
       <category>linux</category>
       <category>android</category>
       <category>rust</category>
+    </item>
+    <item>
+      <title>Gliver completes the Guix desktop</title>
+      <link>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</link>
+      <guid>https://lobste.rs/s/wc8fla</guid>
+      <author>dustycloud.org via eBPF</author>
+      <pubDate>Sun, 22 Nov 2026 14:10:15 -0600</pubDate>
+      <comments>https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>lisp</category>
+      <category>linux</category>
     </item>
     <item>
       <title>port scanning for mojang</title>
@@ -233,26 +224,14 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Gliver completes the Guix desktop</title>
-      <link>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</link>
-      <guid>https://lobste.rs/s/wc8fla</guid>
-      <author>dustycloud.org via eBPF</author>
-      <pubDate>Sun, 22 Nov 2026 14:10:15 -0600</pubDate>
-      <comments>https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>lisp</category>
-      <category>linux</category>
-    </item>
-    <item>
-      <title>Java4Shell: Write once, RCE everywhere</title>
-      <link>https://calif.io/java4shell/</link>
-      <guid>https://lobste.rs/s/g0bf9i</guid>
-      <author>calif.io via unlobito</author>
-      <pubDate>Tue, 17 Nov 2026 15:16:11 -0600</pubDate>
-      <comments>https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>java</category>
+      <title>I checked Clojure's core with Lean and found 17 unreported bugs</title>
+      <link>https://s.conao3.com/blog/2026/e4f733</link>
+      <guid>https://lobste.rs/s/yyktrz</guid>
+      <author>s.conao3.com via nathell</author>
+      <pubDate>Tue, 24 Nov 2026 09:22:24 -0600</pubDate>
+      <comments>https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>clojure</category>
     </item>
     <item>
       <title>Garage Door Spam</title>
@@ -275,6 +254,31 @@
       <category>security</category>
       <category>privacy</category>
       <category>practices</category>
+    </item>
+    <item>
+      <title>Design for Understandability</title>
+      <link>https://jschuster.org/blog/2026/11/19/design-for-understandability/</link>
+      <guid>https://lobste.rs/s/qsrnot</guid>
+      <author>jschuster.org by jschuster</author>
+      <pubDate>Thu, 19 Nov 2026 07:07:34 -0600</pubDate>
+      <comments>https://lobste.rs/s/qsrnot/design_for_understandability</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qsrnot/design_for_understandability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>api</category>
+      <category>practices</category>
+      <category>slides</category>
+      <category>plt</category>
+    </item>
+    <item>
+      <title>Security incident on Hex.pm</title>
+      <link>https://hex.pm/blog/security-incident-on-hexpm</link>
+      <guid>https://lobste.rs/s/rfcgkx</guid>
+      <author>hex.pm via munksgaard</author>
+      <pubDate>Tue, 24 Nov 2026 08:52:19 -0600</pubDate>
+      <comments>https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>erlang</category>
+      <category>elixir</category>
+      <category>gleam</category>
     </item>
   </channel>
 </rss>

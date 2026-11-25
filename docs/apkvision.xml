@@ -12,7 +12,7 @@
 	<atom:link href="https://apkvision.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://apkvision.org/</link>
 	<description></description>
-	<lastBuildDate>Tue, 24 Nov 2026 03:59:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Nov 2026 15:25:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,64 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.12</generator>
 	<item>
+		<title>GoldenEye 007 (2010)</title>
+		<link>https://apkvision.org/games/action/goldeneye-007-2010-136040/</link>
+					<comments>https://apkvision.org/games/action/goldeneye-007-2010-136040/#comments</comments>
+		
+		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2026 14:47:24 +0000</pubDate>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Offline]]></category>
+		<guid isPermaLink="false">https://apkvision.org/?p=136040</guid>
+
+					<description><![CDATA[<p><img width="560" height="560" src="https://apkvision.org/wp-content/uploads/2026/11/goldeneye_007_2010-square.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Goldeneye 007 2010 Square" decoding="async" fetchpriority="high" loading="lazy" />GoldenEye 007 (2010) is a first-person action shooter and espionage game that reimagines the classic GoldenEye story with Daniel Craig taking on the role of James Bond. Players step into the shoes of the legendary British secret agent as he attempts to stop a rogue Russian general from unleashing the devastating GoldenEye weapon. The game</p>
+<p><a href="https://apkvision.org/games/action/goldeneye-007-2010-136040/">GoldenEye 007 (2010)</a></p>
+]]></description>
+		
+					<wfw:commentRss>https://apkvision.org/games/action/goldeneye-007-2010-136040/feed/</wfw:commentRss>
+			<slash:comments>239</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Everything is Crab</title>
+		<link>https://apkvision.org/games/action/everything-is-crab-136034/</link>
+					<comments>https://apkvision.org/games/action/everything-is-crab-136034/#comments</comments>
+		
+		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2026 13:19:49 +0000</pubDate>
+				<category><![CDATA[Action]]></category>
+		<guid isPermaLink="false">https://apkvision.org/?p=136034</guid>
+
+					<description><![CDATA[<p><img width="512" height="512" src="https://apkvision.org/wp-content/uploads/2026/11/everything-is-crab.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Everything Is Crab" decoding="async" loading="lazy" />Everything is Crab immerses players in a vibrant ecosystem, where they can create unique creatures through animal-inspired evolutionary choices. As players navigate this action roguelite, they must confront the challenge of convergent evolution while embracing their own evolutionary paths. With over 160 abilities, a variety of playstyles, and numerous survival strategies, players can craft visually</p>
+<p><a href="https://apkvision.org/games/action/everything-is-crab-136034/">Everything is Crab</a></p>
+]]></description>
+		
+					<wfw:commentRss>https://apkvision.org/games/action/everything-is-crab-136034/feed/</wfw:commentRss>
+			<slash:comments>69</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>007: From Russia With Love</title>
+		<link>https://apkvision.org/games/action/007-from-russia-with-love-136031/</link>
+					<comments>https://apkvision.org/games/action/007-from-russia-with-love-136031/#comments</comments>
+		
+		<dc:creator><![CDATA[ApkVision]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2026 11:38:05 +0000</pubDate>
+				<category><![CDATA[Action]]></category>
+		<guid isPermaLink="false">https://apkvision.org/?p=136031</guid>
+
+					<description><![CDATA[<p><img width="900" height="900" src="https://apkvision.org/wp-content/uploads/2026/11/007-from-russia-with-love.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="007 From Russia With Love" decoding="async" loading="lazy" />007: From Russia with Love is a third-person action shooter inspired by the classic James Bond movie. Step into the role of legendary secret agent 007, portrayed by Sean Connery, and embark on dangerous missions filled with espionage, intense gunfights, and thrilling chases. Travel through iconic locations, use advanced spy gadgets, drive the famous Aston</p>
+<p><a href="https://apkvision.org/games/action/007-from-russia-with-love-136031/">007: From Russia With Love</a></p>
+]]></description>
+		
+					<wfw:commentRss>https://apkvision.org/games/action/007-from-russia-with-love-136031/feed/</wfw:commentRss>
+			<slash:comments>129</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>BioShock</title>
 		<link>https://apkvision.org/games/action/bioshock-136029/</link>
 					<comments>https://apkvision.org/games/action/bioshock-136029/#comments</comments>
@@ -30,12 +88,12 @@
 		<category><![CDATA[Offline]]></category>
 		<guid isPermaLink="false">https://apkvision.org/?p=136029</guid>
 
-					<description><![CDATA[<p><img width="560" height="560" src="https://apkvision.org/wp-content/uploads/2026/11/bioshock-square.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bioshock Square" decoding="async" fetchpriority="high" loading="lazy" />BioShock is a first-person action shooter set in the mysterious underwater city of Rapture, a once-glorious metropolis now ruined by madness and genetic experiments. Explore its haunting Art Deco environment, battle dangerous enemies, and uncover the dark secrets hidden beneath the ocean. Use a wide arsenal of weapons, hack security systems, and genetically modify your body</p>
+					<description><![CDATA[<p><img width="560" height="560" src="https://apkvision.org/wp-content/uploads/2026/11/bioshock-square.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bioshock Square" decoding="async" loading="lazy" />BioShock is a first-person action shooter set in the mysterious underwater city of Rapture, a once-glorious metropolis now ruined by madness and genetic experiments. Explore its haunting Art Deco environment, battle dangerous enemies, and uncover the dark secrets hidden beneath the ocean. Use a wide arsenal of weapons, hack security systems, and genetically modify your body</p>
 <p><a href="https://apkvision.org/games/action/bioshock-136029/">BioShock</a></p>
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/bioshock-136029/feed/</wfw:commentRss>
-			<slash:comments>122</slash:comments>
+			<slash:comments>403</slash:comments>
 		
 		
 			</item>
@@ -55,7 +113,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/adventure/shrek-2-the-game-136022/feed/</wfw:commentRss>
-			<slash:comments>144</slash:comments>
+			<slash:comments>182</slash:comments>
 		
 		
 			</item>
@@ -74,7 +132,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/red-dead-revolver-136021/feed/</wfw:commentRss>
-			<slash:comments>318</slash:comments>
+			<slash:comments>162</slash:comments>
 		
 		
 			</item>
@@ -94,7 +152,26 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/simulation/pes-2018-136016/feed/</wfw:commentRss>
-			<slash:comments>227</slash:comments>
+			<slash:comments>303</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cars 3: Driven to Win</title>
+		<link>https://apkvision.org/games/racing/cars-3-driven-to-win-136039/</link>
+					<comments>https://apkvision.org/games/racing/cars-3-driven-to-win-136039/#comments</comments>
+		
+		<dc:creator><![CDATA[ApkVision]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 15:15:57 +0000</pubDate>
+				<category><![CDATA[Racing]]></category>
+		<guid isPermaLink="false">https://apkvision.org/?p=136039</guid>
+
+					<description><![CDATA[<p><img width="512" height="512" src="https://apkvision.org/wp-content/uploads/2026/11/cars-3-driven-to-win.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cars 3 Driven To Win" decoding="async" loading="lazy" />Cars 3: Driven to Win is an exciting arcade racing game inspired by the Disney Pixar animated movie. Join Lightning McQueen, Cruz Ramirez, Mater, and other familiar characters as you compete in thrilling races across colorful tracks. Perform spectacular stunts, master drifting, and use special abilities to outsmart your rivals. Unlock new vehicles, explore different</p>
+<p><a href="https://apkvision.org/games/racing/cars-3-driven-to-win-136039/">Cars 3: Driven to Win</a></p>
+]]></description>
+		
+					<wfw:commentRss>https://apkvision.org/games/racing/cars-3-driven-to-win-136039/feed/</wfw:commentRss>
+			<slash:comments>21</slash:comments>
 		
 		
 			</item>
@@ -113,7 +190,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/arcade/space-rock-breaker-134719/feed/</wfw:commentRss>
-			<slash:comments>87</slash:comments>
+			<slash:comments>78</slash:comments>
 		
 		
 			</item>
@@ -132,7 +209,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/adventure/the-coma-3-bloodlines-136008/feed/</wfw:commentRss>
-			<slash:comments>239</slash:comments>
+			<slash:comments>215</slash:comments>
 		
 		
 			</item>
@@ -152,7 +229,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/assassins-creed-4-black-flag-135996/feed/</wfw:commentRss>
-			<slash:comments>1489</slash:comments>
+			<slash:comments>1580</slash:comments>
 		
 		
 			</item>
@@ -173,7 +250,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/felvidek-135988/feed/</wfw:commentRss>
-			<slash:comments>129</slash:comments>
+			<slash:comments>128</slash:comments>
 		
 		
 			</item>
@@ -192,7 +269,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/the-elder-scrolls-iv-136003/feed/</wfw:commentRss>
-			<slash:comments>220</slash:comments>
+			<slash:comments>240</slash:comments>
 		
 		
 			</item>
@@ -211,7 +288,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/adventure/ninja-arashi-3-135984/feed/</wfw:commentRss>
-			<slash:comments>107</slash:comments>
+			<slash:comments>110</slash:comments>
 		
 		
 			</item>
@@ -230,7 +307,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/sports/fifa-07-135990/feed/</wfw:commentRss>
-			<slash:comments>111</slash:comments>
+			<slash:comments>116</slash:comments>
 		
 		
 			</item>
@@ -249,7 +326,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/left-4-dead-135976/feed/</wfw:commentRss>
-			<slash:comments>364</slash:comments>
+			<slash:comments>371</slash:comments>
 		
 		
 			</item>
@@ -269,7 +346,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/simulation/tony-hawks-pro-skater-4-135978/feed/</wfw:commentRss>
-			<slash:comments>66</slash:comments>
+			<slash:comments>67</slash:comments>
 		
 		
 			</item>
@@ -289,7 +366,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/sports/super-mario-strikers-135971/feed/</wfw:commentRss>
-			<slash:comments>168</slash:comments>
+			<slash:comments>169</slash:comments>
 		
 		
 			</item>
@@ -308,7 +385,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/hamburger-hill-135967/feed/</wfw:commentRss>
-			<slash:comments>96</slash:comments>
+			<slash:comments>101</slash:comments>
 		
 		
 			</item>
@@ -328,87 +405,7 @@
 ]]></description>
 		
 					<wfw:commentRss>https://apkvision.org/games/action/dragon-ball-sparking-zero-135962/feed/</wfw:commentRss>
-			<slash:comments>558</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Untitled Goose Game</title>
-		<link>https://apkvision.org/games/action/untitled-goose-game-135963/</link>
-					<comments>https://apkvision.org/games/action/untitled-goose-game-135963/#comments</comments>
-		
-		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 15:20:50 +0000</pubDate>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Offline]]></category>
-		<guid isPermaLink="false">https://apkvision.org/?p=135963</guid>
-
-					<description><![CDATA[<p><img width="2000" height="2000" src="https://apkvision.org/wp-content/uploads/2026/11/orig-1-1.webp" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Orig (1) (1)" decoding="async" loading="lazy" />Untitled Goose Game is a hilarious slapstick stealth sandbox game where you take control of a mischievous goose whose only goal is to make life miserable for the unsuspecting residents of a peaceful village. Explore charming locations, from quiet gardens and cozy streets to busy shops and public squares, while causing chaos and completing a</p>
-<p><a href="https://apkvision.org/games/action/untitled-goose-game-135963/">Untitled Goose Game</a></p>
-]]></description>
-		
-					<wfw:commentRss>https://apkvision.org/games/action/untitled-goose-game-135963/feed/</wfw:commentRss>
-			<slash:comments>99</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Dark Souls 2: Scholar of the First Sin</title>
-		<link>https://apkvision.org/games/action/dark-souls-2-scholar-of-the-first-sin-135960/</link>
-					<comments>https://apkvision.org/games/action/dark-souls-2-scholar-of-the-first-sin-135960/#comments</comments>
-		
-		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 14:54:19 +0000</pubDate>
-				<category><![CDATA[Action]]></category>
-		<category><![CDATA[Offline]]></category>
-		<guid isPermaLink="false">https://apkvision.org/?p=135960</guid>
-
-					<description><![CDATA[<p><img width="1080" height="1080" src="https://apkvision.org/wp-content/uploads/2026/11/orig-2.webp" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Orig (2)" decoding="async" loading="lazy" />DARK SOULS II: Scholar of the First Sin is a challenging action RPG set in a dark fantasy world filled with mystery, danger, and forgotten kingdoms. Embark on a perilous journey through the cursed land of Drangleic, where ancient secrets, powerful enemies, and deadly creatures await around every corner. Explore vast and interconnected environments, from</p>
-<p><a href="https://apkvision.org/games/action/dark-souls-2-scholar-of-the-first-sin-135960/">Dark Souls 2: Scholar of the First Sin</a></p>
-]]></description>
-		
-					<wfw:commentRss>https://apkvision.org/games/action/dark-souls-2-scholar-of-the-first-sin-135960/feed/</wfw:commentRss>
-			<slash:comments>336</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>OFF</title>
-		<link>https://apkvision.org/games/role-playing/off-135981/</link>
-					<comments>https://apkvision.org/games/role-playing/off-135981/#comments</comments>
-		
-		<dc:creator><![CDATA[ApkVision]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 11:44:45 +0000</pubDate>
-				<category><![CDATA[Role Playing]]></category>
-		<guid isPermaLink="false">https://apkvision.org/?p=135981</guid>
-
-					<description><![CDATA[<p><img width="1024" height="1024" src="https://apkvision.org/wp-content/uploads/2026/11/off.webp" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Off" decoding="async" loading="lazy" />OFF is a surreal turn-based RPG where players guide a mysterious character known as the Batter on a mission to purify a strange and unsettling world. Explore bizarre locations, solve unusual puzzles, and battle disturbing creatures while uncovering the secrets of each zone. Meet memorable characters, experience an atmospheric soundtrack, and discover a dark story</p>
-<p><a href="https://apkvision.org/games/role-playing/off-135981/">OFF</a></p>
-]]></description>
-		
-					<wfw:commentRss>https://apkvision.org/games/role-playing/off-135981/feed/</wfw:commentRss>
-			<slash:comments>51</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Sims 2</title>
-		<link>https://apkvision.org/games/the-sims-2-135873/</link>
-					<comments>https://apkvision.org/games/the-sims-2-135873/#comments</comments>
-		
-		<dc:creator><![CDATA[Our_Memories]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 05:51:59 +0000</pubDate>
-				<category><![CDATA[Games]]></category>
-		<category><![CDATA[Simulation]]></category>
-		<category><![CDATA[Offline]]></category>
-		<guid isPermaLink="false">https://apkvision.org/?p=135873</guid>
-
-					<description><![CDATA[<p><img width="560" height="560" src="https://apkvision.org/wp-content/uploads/2026/11/sims_2_the-square_2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sims 2 The Square 2" decoding="async" loading="lazy" />The Sims 2 Legacy Collection is a life simulation game that gives you complete freedom to shape the lives, relationships, and destinies of your Sims. Create unique characters, customize their appearance and personalities, build and decorate their homes, and guide them through every stage of life, from childhood to old age. Choose their life aspirations,</p>
-<p><a href="https://apkvision.org/games/the-sims-2-135873/">The Sims 2</a></p>
-]]></description>
-		
-					<wfw:commentRss>https://apkvision.org/games/the-sims-2-135873/feed/</wfw:commentRss>
-			<slash:comments>366</slash:comments>
+			<slash:comments>594</slash:comments>
 		
 		
 			</item>
