@@ -5,22 +5,8 @@
     <link>https://lobste.rs/</link>
     <atom:link href="https://lobste.rs/top/1w.rss" rel="self"/>
     <description>Top Stories of the Past Week</description>
-    <pubDate>Wed, 18 Nov 2026 02:51:09 -0600</pubDate>
+    <pubDate>Thu, 19 Nov 2026 07:28:49 -0600</pubDate>
     <ttl>120</ttl>
-    <item>
-      <title>Codeberg's domain suddenly disappeared from their account, site is unreachable</title>
-      <link>https://social.anoxinon.de/@Codeberg/117636454915265360</link>
-      <guid>https://lobste.rs/s/spmgsd</guid>
-      <author>social.anoxinon.de via mort</author>
-      <pubDate>Wed, 18 Nov 2026 02:51:09 -0600</pubDate>
-      <comments>https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared</comments>
-      <description>&lt;p&gt;&lt;del&gt;Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to &lt;code&gt;/etc/hosts&lt;/code&gt;:&lt;/del&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;217.197.84.140 codeberg.org
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Update: it's now up again, and the above workaround is not necessary.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>vcs</category>
-    </item>
     <item>
       <title>We Need Smart People Who Give a Shit</title>
       <link>https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</link>
@@ -52,15 +38,15 @@
       <category>networking</category>
     </item>
     <item>
-      <title>Signal is Serious About Protecting Your Privacy</title>
-      <link>https://signal.org/blog/protecting-your-privacy/</link>
-      <guid>https://lobste.rs/s/vldbcn</guid>
-      <author>signal.org via sjamaan</author>
-      <pubDate>Mon, 23 Nov 2026 01:44:09 -0600</pubDate>
-      <comments>https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>mobile</category>
-      <category>privacy</category>
+      <title>2035 came early</title>
+      <link>https://fzakaria.com/2026/11/23/2035-came-early</link>
+      <guid>https://lobste.rs/s/rkk6o8</guid>
+      <author>fzakaria.com by fzakaria</author>
+      <pubDate>Tue, 24 Nov 2026 00:30:15 -0600</pubDate>
+      <comments>https://lobste.rs/s/rkk6o8/2035_came_early</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rkk6o8/2035_came_early"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>wasm</category>
+      <category>nix</category>
     </item>
     <item>
       <title>Ladybird is now in alpha</title>
@@ -71,6 +57,17 @@
       <comments>https://lobste.rs/s/h6webg/ladybird_is_now_alpha</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h6webg/ladybird_is_now_alpha"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
+    </item>
+    <item>
+      <title>Signal is Serious About Protecting Your Privacy</title>
+      <link>https://signal.org/blog/protecting-your-privacy/</link>
+      <guid>https://lobste.rs/s/vldbcn</guid>
+      <author>signal.org via sjamaan</author>
+      <pubDate>Mon, 23 Nov 2026 01:44:09 -0600</pubDate>
+      <comments>https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vldbcn/signal_is_serious_about_protecting_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>mobile</category>
+      <category>privacy</category>
     </item>
     <item>
       <title>Levent Alpöge Claims Proof of Riemann Hypothesis</title>
@@ -96,15 +93,16 @@
       <category>css</category>
     </item>
     <item>
-      <title>2035 came early</title>
-      <link>https://fzakaria.com/2026/11/23/2035-came-early</link>
-      <guid>https://lobste.rs/s/rkk6o8</guid>
-      <author>fzakaria.com by fzakaria</author>
-      <pubDate>Tue, 24 Nov 2026 00:30:15 -0600</pubDate>
-      <comments>https://lobste.rs/s/rkk6o8/2035_came_early</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rkk6o8/2035_came_early"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>wasm</category>
-      <category>nix</category>
+      <title>Marginalia Search, Money, C++, Rust, AI, stuff</title>
+      <link>https://www.marginalia.nu/log/a_141_marginalia_update/</link>
+      <guid>https://lobste.rs/s/srb0dp</guid>
+      <author>marginalia.nu via brn</author>
+      <pubDate>Wed, 25 Nov 2026 00:20:29 -0600</pubDate>
+      <comments>https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/srb0dp/marginalia_search_money_c_rust_ai_stuff"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>java</category>
+      <category>c++</category>
+      <category>performance</category>
     </item>
     <item>
       <title>Internet Archive Staffers Are Unionizing</title>
@@ -128,16 +126,6 @@
       <category>databases</category>
     </item>
     <item>
-      <title>nginx2root</title>
-      <link>https://xint.io/blog/nginx2root-remote-code-execution</link>
-      <guid>https://lobste.rs/s/wj2svg</guid>
-      <author>xint.io via MountainRose</author>
-      <pubDate>Wed, 18 Nov 2026 09:28:56 -0600</pubDate>
-      <comments>https://lobste.rs/s/wj2svg/nginx2root</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wj2svg/nginx2root"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-    </item>
-    <item>
       <title>GitHub Actions accepts invalid YAML</title>
       <link>https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/</link>
       <guid>https://lobste.rs/s/leqwqu</guid>
@@ -157,6 +145,39 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>release</category>
       <category>editors</category>
+    </item>
+    <item>
+      <title>I checked Clojure's core with Lean and found 17 unreported bugs</title>
+      <link>https://s.conao3.com/blog/2026/e4f733</link>
+      <guid>https://lobste.rs/s/yyktrz</guid>
+      <author>s.conao3.com via nathell</author>
+      <pubDate>Tue, 24 Nov 2026 09:22:24 -0600</pubDate>
+      <comments>https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>clojure</category>
+    </item>
+    <item>
+      <title>Why there are still no non-WebKit browsers on iOS</title>
+      <link>https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/</link>
+      <guid>https://lobste.rs/s/sv2flr</guid>
+      <author>blog.mozilla.org via riQ</author>
+      <pubDate>Tue, 24 Nov 2026 16:28:27 -0600</pubDate>
+      <comments>https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>browsers</category>
+      <category>ios</category>
+    </item>
+    <item>
+      <title>Security incident on Hex.pm</title>
+      <link>https://hex.pm/blog/security-incident-on-hexpm</link>
+      <guid>https://lobste.rs/s/rfcgkx</guid>
+      <author>hex.pm via munksgaard</author>
+      <pubDate>Tue, 24 Nov 2026 08:52:19 -0600</pubDate>
+      <comments>https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>erlang</category>
+      <category>elixir</category>
+      <category>gleam</category>
     </item>
     <item>
       <title>Announcing jj-musubi: live sync for Jujutsu</title>
@@ -180,16 +201,15 @@
       <category>vcs</category>
     </item>
     <item>
-      <title>Removing binder.c</title>
-      <link>https://lwn.net/Articles/1102982/</link>
-      <guid>https://lobste.rs/s/vo5jve</guid>
-      <author>lwn.net via fanf</author>
-      <pubDate>Fri, 20 Nov 2026 04:33:36 -0600</pubDate>
-      <comments>https://lobste.rs/s/vo5jve/removing_binder_c</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo5jve/removing_binder_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>android</category>
-      <category>rust</category>
+      <title>Pokemon Childhood Version: A romhack where Mew is under the truck</title>
+      <link>https://wheybags.com/blog/pokemon_childhood_version.html</link>
+      <guid>https://lobste.rs/s/em9zdb</guid>
+      <author>wheybags.com by wheybags</author>
+      <pubDate>Tue, 24 Nov 2026 17:14:50 -0600</pubDate>
+      <comments>https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/em9zdb/pokemon_childhood_version_romhack_where"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>assembly</category>
+      <category>games</category>
     </item>
     <item>
       <title>Gliver completes the Guix desktop</title>
@@ -201,6 +221,18 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>lisp</category>
       <category>linux</category>
+    </item>
+    <item>
+      <title>Removing binder.c</title>
+      <link>https://lwn.net/Articles/1102982/</link>
+      <guid>https://lobste.rs/s/vo5jve</guid>
+      <author>lwn.net via fanf</author>
+      <pubDate>Fri, 20 Nov 2026 04:33:36 -0600</pubDate>
+      <comments>https://lobste.rs/s/vo5jve/removing_binder_c</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo5jve/removing_binder_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>linux</category>
+      <category>android</category>
+      <category>rust</category>
     </item>
     <item>
       <title>port scanning for mojang</title>
@@ -224,16 +256,6 @@
       <category>rust</category>
     </item>
     <item>
-      <title>I checked Clojure's core with Lean and found 17 unreported bugs</title>
-      <link>https://s.conao3.com/blog/2026/e4f733</link>
-      <guid>https://lobste.rs/s/yyktrz</guid>
-      <author>s.conao3.com via nathell</author>
-      <pubDate>Tue, 24 Nov 2026 09:22:24 -0600</pubDate>
-      <comments>https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>clojure</category>
-    </item>
-    <item>
       <title>Garage Door Spam</title>
       <link>https://blog.harrison.page/garage-door-spam/</link>
       <guid>https://lobste.rs/s/tr5ghf</guid>
@@ -244,41 +266,15 @@
       <category>hardware</category>
     </item>
     <item>
-      <title>Windows 11 collects data on which coding agents and dev tools you use</title>
-      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
-      <guid>https://lobste.rs/s/cwxmdw</guid>
-      <author>xusheng.dev via viccuad</author>
-      <pubDate>Wed, 18 Nov 2026 05:57:46 -0600</pubDate>
-      <comments>https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Slow Ubuntu security response times</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
+      <guid>https://lobste.rs/s/wzlzlh</guid>
+      <author>openwall.com by hanno</author>
+      <pubDate>Wed, 25 Nov 2026 14:10:24 -0600</pubDate>
+      <comments>https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>security</category>
-      <category>privacy</category>
-      <category>practices</category>
-    </item>
-    <item>
-      <title>Design for Understandability</title>
-      <link>https://jschuster.org/blog/2026/11/19/design-for-understandability/</link>
-      <guid>https://lobste.rs/s/qsrnot</guid>
-      <author>jschuster.org by jschuster</author>
-      <pubDate>Thu, 19 Nov 2026 07:07:34 -0600</pubDate>
-      <comments>https://lobste.rs/s/qsrnot/design_for_understandability</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qsrnot/design_for_understandability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>api</category>
-      <category>practices</category>
-      <category>slides</category>
-      <category>plt</category>
-    </item>
-    <item>
-      <title>Security incident on Hex.pm</title>
-      <link>https://hex.pm/blog/security-incident-on-hexpm</link>
-      <guid>https://lobste.rs/s/rfcgkx</guid>
-      <author>hex.pm via munksgaard</author>
-      <pubDate>Tue, 24 Nov 2026 08:52:19 -0600</pubDate>
-      <comments>https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfcgkx/security_incident_on_hex_pm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>erlang</category>
-      <category>elixir</category>
-      <category>gleam</category>
+      <category>linux</category>
     </item>
   </channel>
 </rss>
