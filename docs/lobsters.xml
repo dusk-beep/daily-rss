@@ -60,6 +60,17 @@
       <category>privacy</category>
     </item>
     <item>
+      <title>Slow Ubuntu security response times</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
+      <guid>https://lobste.rs/s/wzlzlh</guid>
+      <author>openwall.com by hanno</author>
+      <pubDate>Wed, 25 Nov 2026 14:10:24 -0600</pubDate>
+      <comments>https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>security</category>
+      <category>linux</category>
+    </item>
+    <item>
       <title>Marginalia Search, Money, C++, Rust, AI, stuff</title>
       <link>https://www.marginalia.nu/log/a_141_marginalia_update/</link>
       <guid>https://lobste.rs/s/srb0dp</guid>
@@ -72,50 +83,6 @@
       <category>performance</category>
     </item>
     <item>
-      <title>Levent Alpöge Claims Proof of Riemann Hypothesis</title>
-      <link>https://alpo.ge/remark.pdf</link>
-      <guid>https://lobste.rs/s/cmifpg</guid>
-      <author>alpo.ge via mitsuhiko</author>
-      <pubDate>Fri, 20 Nov 2026 08:46:49 -0600</pubDate>
-      <comments>https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cmifpg/levent_alpoge_claims_proof_riemann"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>pdf</category>
-      <category>math</category>
-    </item>
-    <item>
-      <title>Slow Ubuntu security response times</title>
-      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
-      <guid>https://lobste.rs/s/wzlzlh</guid>
-      <author>openwall.com by hanno</author>
-      <pubDate>Wed, 25 Nov 2026 14:10:24 -0600</pubDate>
-      <comments>https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>security</category>
-      <category>linux</category>
-    </item>
-    <item>
-      <title>Slopstrap: Make your site look hastily vibecoded</title>
-      <link>https://slopstrap.mikelacher.com/l</link>
-      <guid>https://lobste.rs/s/1n8fzn</guid>
-      <author>slopstrap.mikelacher.com via skycam</author>
-      <pubDate>Fri, 20 Nov 2026 18:46:40 -0600</pubDate>
-      <comments>https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1n8fzn/slopstrap_make_your_site_look_hastily"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>web</category>
-      <category>satire</category>
-      <category>css</category>
-    </item>
-    <item>
-      <title>Internet Archive Staffers Are Unionizing</title>
-      <link>https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america</link>
-      <guid>https://lobste.rs/s/o5coeq</guid>
-      <author>cwa-union.org via skalnik</author>
-      <pubDate>Fri, 20 Nov 2026 12:39:29 -0600</pubDate>
-      <comments>https://lobste.rs/s/o5coeq/internet_archive_staffers_are</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/o5coeq/internet_archive_staffers_are"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>culture</category>
-    </item>
-    <item>
       <title>Why there are still no non-WebKit browsers on iOS</title>
       <link>https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/</link>
       <guid>https://lobste.rs/s/sv2flr</guid>
@@ -125,6 +92,16 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sv2flr/why_there_are_still_no_non_webkit_browsers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>browsers</category>
       <category>ios</category>
+    </item>
+    <item>
+      <title>Taking Email Back</title>
+      <link>http://www.linux-magazine.com/Online/Features/Taking-Email-Back</link>
+      <guid>https://lobste.rs/s/afxeri</guid>
+      <author>linux-magazine.com via lim</author>
+      <pubDate>Thu, 26 Nov 2026 13:51:21 -0600</pubDate>
+      <comments>https://lobste.rs/s/afxeri/taking_email_back</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/afxeri/taking_email_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>email</category>
     </item>
     <item>
       <title>GitHub Actions accepts invalid YAML</title>
@@ -145,17 +122,6 @@
       <comments>https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yyktrz/i_checked_clojure_s_core_with_lean_found_17"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>clojure</category>
-    </item>
-    <item>
-      <title>Vim Classic 8.3.1 released</title>
-      <link>https://vim-classic.org/news/vim-8.3.1-released.html</link>
-      <guid>https://lobste.rs/s/kkglbw</guid>
-      <author>vim-classic.org via FedericoSchonborn</author>
-      <pubDate>Fri, 20 Nov 2026 04:02:03 -0600</pubDate>
-      <comments>https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>editors</category>
     </item>
     <item>
       <title>Pokemon Childhood Version: A romhack where Mew is under the truck</title>
@@ -181,17 +147,6 @@
       <category>gleam</category>
     </item>
     <item>
-      <title>Announcing jj-musubi: live sync for Jujutsu</title>
-      <link>https://www.serpentine.com/posts/2026/announcing-jj-musubi/</link>
-      <guid>https://lobste.rs/s/tj1j4b</guid>
-      <author>serpentine.com via Picnoir</author>
-      <pubDate>Fri, 20 Nov 2026 03:39:11 -0600</pubDate>
-      <comments>https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>release</category>
-      <category>vcs</category>
-    </item>
-    <item>
       <title>TODOs JJ Style</title>
       <link>https://bwc9876.dev/blog/jj_todo/</link>
       <guid>https://lobste.rs/s/qxzs4y</guid>
@@ -213,18 +168,6 @@
       <category>linux</category>
     </item>
     <item>
-      <title>Removing binder.c</title>
-      <link>https://lwn.net/Articles/1102982/</link>
-      <guid>https://lobste.rs/s/vo5jve</guid>
-      <author>lwn.net via fanf</author>
-      <pubDate>Fri, 20 Nov 2026 04:33:36 -0600</pubDate>
-      <comments>https://lobste.rs/s/vo5jve/removing_binder_c</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo5jve/removing_binder_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>linux</category>
-      <category>android</category>
-      <category>rust</category>
-    </item>
-    <item>
       <title>port scanning for mojang</title>
       <link>https://sipacid.com/blog/port-scanning-for-mojang/</link>
       <guid>https://lobste.rs/s/et5q0q</guid>
@@ -233,6 +176,18 @@
       <comments>https://lobste.rs/s/et5q0q/port_scanning_for_mojang</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/et5q0q/port_scanning_for_mojang"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rant</category>
+    </item>
+    <item>
+      <title>Optimizing Rustc's next trait solver</title>
+      <link>https://donsz.nl/blog/optimizing-rustcs-next-trait-solver</link>
+      <guid>https://lobste.rs/s/lyyksp</guid>
+      <author>donsz.nl by jana</author>
+      <pubDate>Wed, 25 Nov 2026 07:09:22 -0600</pubDate>
+      <comments>https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>rust</category>
+      <category>compilers</category>
+      <category>performance</category>
     </item>
     <item>
       <title>October in Servo: video captions and inert content</title>
@@ -248,16 +203,16 @@
       <category>rust</category>
     </item>
     <item>
-      <title>Optimizing Rustc's next trait solver</title>
-      <link>https://donsz.nl/blog/optimizing-rustcs-next-trait-solver</link>
-      <guid>https://lobste.rs/s/lyyksp</guid>
-      <author>donsz.nl by jana</author>
-      <pubDate>Wed, 25 Nov 2026 07:09:22 -0600</pubDate>
-      <comments>https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver</comments>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lyyksp/optimizing_rustc_s_next_trait_solver"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>rust</category>
-      <category>compilers</category>
-      <category>performance</category>
+      <title>Garage v2.6.0 released with web admin, v1.x EoL &amp; other news</title>
+      <link>https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/</link>
+      <guid>https://lobste.rs/s/2gfpu3</guid>
+      <author>garagehq.deuxfleurs.fr via armael</author>
+      <pubDate>Thu, 26 Nov 2026 06:40:23 -0600</pubDate>
+      <comments>https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>release</category>
+      <category>web</category>
+      <category>distributed</category>
     </item>
     <item>
       <title>Scott Aaronson on recent complexity theory AI achievements</title>
@@ -271,6 +226,19 @@
       <category>math</category>
     </item>
     <item>
+      <title>Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)</title>
+      <link>https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366</link>
+      <guid>https://lobste.rs/s/tlwot6</guid>
+      <author>leanprover.zulipchat.com via mikedanese</author>
+      <pubDate>Wed, 25 Nov 2026 16:26:56 -0600</pubDate>
+      <comments>https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof</comments>
+      <description>&lt;p&gt;This is a shortened version of Alpöge's Lean proof of RH and GRH for Dirichlet L-functions (&lt;a href="https://alpo.ge/remark.pdf" rel="ugc"&gt;https://alpo.ge/remark.pdf&lt;/a&gt;), which was about 17 million lines.&lt;/p&gt;
+&lt;p&gt;There are two editions proving the same five theorems: a readable one at about 300,000 lines (start at grh/GUIDE.md) and a compact one at about 76,000.&lt;/p&gt;
+&lt;p&gt;Github repo: &lt;a href="https://github.com/lsernau/grh-lean" rel="ugc"&gt;https://github.com/lsernau/grh-lean&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/tlwot6/generalized_riemann_hypothesis_proof"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>math</category>
+    </item>
+    <item>
       <title>Abolish Lock Poisoning</title>
       <link>https://lucumr.pocoo.org/2026/11/25/poisoning/</link>
       <guid>https://lobste.rs/s/sj2pkv</guid>
@@ -279,6 +247,38 @@
       <comments>https://lobste.rs/s/sj2pkv/abolish_lock_poisoning</comments>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sj2pkv/abolish_lock_poisoning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>rust</category>
+    </item>
+    <item>
+      <title>UI style guides</title>
+      <link>https://aresluna.org/ui-style-guides/</link>
+      <guid>https://lobste.rs/s/pbfhis</guid>
+      <author>aresluna.org via lorddimwit</author>
+      <pubDate>Wed, 25 Nov 2026 18:54:10 -0600</pubDate>
+      <comments>https://lobste.rs/s/pbfhis/ui_style_guides</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pbfhis/ui_style_guides"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>graphics</category>
+      <category>historical</category>
+    </item>
+    <item>
+      <title>Falsehoods Programmers Believe About ATProto</title>
+      <link>https://reiver.link/atproto/falsehoods-programmers-believe/</link>
+      <guid>https://lobste.rs/s/bjoete</guid>
+      <author>reiver.link via jacky</author>
+      <pubDate>Sun, 22 Nov 2026 10:37:12 -0600</pubDate>
+      <comments>https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>api</category>
+    </item>
+    <item>
+      <title>Sneakernet</title>
+      <link>https://sneakernet.eu/</link>
+      <guid>https://lobste.rs/s/pdecff</guid>
+      <author>sneakernet.eu via FedericoSchonborn</author>
+      <pubDate>Mon, 23 Nov 2026 10:20:21 -0600</pubDate>
+      <comments>https://lobste.rs/s/pdecff/sneakernet</comments>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdecff/sneakernet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <category>networking</category>
+      <category>distributed</category>
     </item>
   </channel>
 </rss>
